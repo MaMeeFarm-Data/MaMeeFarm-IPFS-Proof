@@ -1,21 +1,24 @@
 name: Generate SHA256 manifest
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:   # รันแบบกดปุ่มเอง
 
 jobs:
   sha256:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # ให้สิทธิ์ push กลับเข้า repo
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate SHA256 manifest for metadata files
+      - name: Generate SHA256 manifest for proof and cid
         run: |
           mkdir -p sha256
-          # คำนวณ hash ของไฟล์ใน proof, cid, proof-json (ยกเว้นไฟล์ใน sha256 เอง)
-          find proof cid proof-json -type f -print0 | sort -z | xargs -0 sha256sum > sha256/all-files.sha256
+          # สร้างไฟล์รวม hash ใหม่ทุกครั้ง
+          find proof cid -type f -print0 | sort -z | xargs -0 sha256sum > sha256/all-files.sha256
 
       - name: Commit updated SHA256 manifest
         run: |

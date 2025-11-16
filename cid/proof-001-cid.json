@@ -1,0 +1,33 @@
+{
+  "proof_id": "001",
+  "date": "2025-11-16",
+  "time": "06:32",
+  "location": {
+    "farm": "MaMeeFarm™",
+    "district": "Muang Pan",
+    "province": "Lampang",
+    "country": "Thailand"
+  },
+  "environment": {
+    "temperature_celsius": 22,
+    "weather": "Clear morning sky",
+    "light": "Early sunrise"
+  },
+  "ipfs": {
+    "root_cid": "bafybeifzugznkensf7iq4ebtt54cpqixb7tnhf4iqwnd7udfehnzst3j4i",
+    "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifzugznkensf7iq4ebtt54cpqixb7tnhf4iqwnd7udfehnzst3j4i",
+    "files": [
+      {
+        "filename": "Proof_001_Morningsky_20251116_MaMeeFarm.jpeg",
+        "type": "image/jpeg",
+        "description": "Morning sky over rice fields and mountain silhouette at MaMeeFarm™.",
+        "source_device": "Mobile Camera",
+        "taken_at": "2025-11-16T06:32:00+07:00"
+      }
+    ]
+  },
+  "notes": {
+    "th": "ภาพบันทึกบรรยากาศตอนเช้าที่ MaMeeFarm™ เวลา 06:32 อุณหภูมิ 22°C ท้องฟ้าสีทองก่อนพระอาทิตย์ขึ้น",
+    "en": "Morning atmosphere at MaMeeFarm™ captured at 06:32, temperature 22°C, showing early golden light and cloud formations."
+  }
+}

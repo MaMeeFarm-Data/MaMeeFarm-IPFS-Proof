@@ -1,0 +1,14 @@
+# SHA-256 Integrity Manifest — Proof-001
+# MaMeeFarm™ Real-Work Data Protocol (MMFARM-POL-2025)
+# File-level cryptographic hash for immutable verification
+
+# Proof ID: 001
+# Date: 2025-11-16
+# Time: 06:32
+# Location: MaMeeFarm™, Muang Pan, Lampang, Thailand
+
+# NOTE:
+# Replace <SHA256_HASH> with the actual SHA-256 value of the original file
+# Proof_001_Morningsky_20251116_MaMeeFarm.jpeg once calculated.
+
+<REPLACE_WITH_SHA256>  Proof_001_Morningsky_20251116_MaMeeFarm.jpeg

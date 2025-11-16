@@ -1,0 +1,41 @@
+{
+  "proof_id": "001",
+  "date": "2025-11-16",
+  "time": "06:32",
+  "location": {
+    "farm": "MaMeeFarm™",
+    "district": "Muang Pan",
+    "province": "Lampang",
+    "country": "Thailand"
+  },
+  "environment": {
+    "temperature_celsius": 22,
+    "weather": "Clear morning sky",
+    "light": "Early sunrise"
+  },
+  "ipfs": {
+    "root_cid": "bafybeifzugznkensf7iq4ebtt54cpqixb7tnhf4iqwnd7udfehnzst3j4i",
+    "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifzugznkensf7iq4ebtt54cpqixb7tnhf4iqwnd7udfehnzst3j4i",
+    "files": [
+      {
+        "filename": "Proof_001_Morningsky_20251116_MaMeeFarm.jpeg",
+        "type": "image/jpeg",
+        "description": "Morning sky over rice fields and mountain silhouette at MaMeeFarm™.",
+        "taken_at": "2025-11-16T06:32:00+07:00"
+      }
+    ]
+  },
+  "integrity": {
+    "sha256_manifest": "sha256/proof-001-manifest.txt",
+    "sha256_status": "pending_replace_with_real_hash"
+  },
+  "references": {
+    "human_readable_proof": "proof/proof-001.md",
+    "cid_metadata": "cid/proof-001-cid.json",
+    "file_tree_manifest": "manifests/file-tree-proof-001.json"
+  },
+  "notes": {
+    "th": "สรุปข้อมูล Proof-001 ของ MaMeeFarm™ รวมเวลา สภาพอากาศ CID และโครงสร้างไฟล์ เพื่อให้ระบบภายนอกตรวจสอบได้ง่าย",
+    "en": "Machine-readable summary of MaMeeFarm™ Proof-001, combining time, environment, CID, and structural references for external verification."
+  }
+}

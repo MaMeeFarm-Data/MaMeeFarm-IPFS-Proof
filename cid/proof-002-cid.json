@@ -1,0 +1,33 @@
+{
+  "proof_id": "002",
+  "date": "2025-11-16",
+  "time": "08:30",
+  "event": "MaMee holding NamChai in the morning",
+  "location": {
+    "farm": "MaMeeFarm™",
+    "district": "Muang Pan",
+    "province": "Lampang",
+    "country": "Thailand"
+  },
+  "environment": {
+    "temperature_celsius": 23,
+    "weather": "Morning clear sky",
+    "light": "Soft daylight"
+  },
+  "ipfs": {
+    "root_cid": "bafybeibe2la4loy7mqzegh4qalw2dcbm4a4yc5xflwzojigraqrphka5ey",
+    "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibe2la4loy7mqzegh4qalw2dcbm4a4yc5xflwzojigraqrphka5ey",
+    "files": [
+      {
+        "filename":"Proof_002_MaMee_NamChai_Morning_20251116_0830.jpeg"
+
+        "type": "image/jpeg",
+        "description": "MaMee holding NamChai in the early morning at MaMeeFarm™."
+      }
+    ]
+  },
+  "notes": {
+    "th": "มามี้อุ้มน้องนำชัยตอนเช้าที่ MaMeeFarm™ เวลา 08:30 อากาศเย็นสบาย ฟาร์มเงียบสงบ",
+    "en": "Morning moment at MaMeeFarm™ with MaMee holding NamChai at 08:30, in a calm and fresh farm atmosphere."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "proof_id": "001",
+  "date": "2025-11-16",
+  "structure": {
+    "proof": [
+      "proof-001.md"
+    ],
+    "cid": [
+      "proof-001-cid.json"
+    ],
+    "sha256": [
+      "proof-001-manifest.txt"
+    ]
+  },
+  "ipfs": {
+    "root_cid": "bafybeifzugznkensf7iq4ebtt54cpqixb7tnhf4iqwnd7udfehnzst3j4i",
+    "files": [
+      "Proof_001_Morningsky_20251116_MaMeeFarm.jpeg"
+    ]
+  },
+  "notes": "File-tree manifest for Proof-001 in the MaMeeFarm™ IPFS Proof repository."
+}

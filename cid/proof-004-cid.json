@@ -1,0 +1,35 @@
+{
+  "proof_id": "004",
+  "title": "Proof-004 — MaMeeFarm™ Garden Environment Evidence",
+  "description": {
+    "en": "Afternoon garden observation at MaMeeFarm™. Cool air, cloudy sky, and natural farm conditions recorded as part of the continuous Real-Work Data Proof series."
+  },
+  "date": "2025-11-17",
+  "time_local": "14:49",
+  "location": {
+    "farm": "MaMeeFarm™",
+    "district": "Muang Pan District",
+    "province": "Lampang",
+    "country": "Thailand"
+  },
+  "environment": {
+    "temperature_c": 27,
+    "weather": "Cloudy with cool breeze",
+    "light": "Soft afternoon daylight"
+  },
+  "ipfs": {
+    "garden_photo": {
+      "cid": "bafybeibkstdzgeoqyznymjq3wy6hriy6wskyhgtihflu2a4r3tpjkaefsi",
+      "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibkstdzgeoqyznymjq3wy6hriy6wskyhgtihflu2a4r3tpjkaefsi",
+      "filename": "Proof_004_GardenView_20251117_1449.jpeg"
+    }
+  },
+  "recorded_by": "P'Toh",
+  "protocol": "MMFARM-POL-2025",
+  "license": "MMFARM-POL-2025 + CC BY-NC 4.0",
+  "registry_source": "MaMeeFarm™ Daily Proof Input Form",
+  "notes": [
+    "Automatically logged into the Proof Registry via the new MaMeeFarm™ Data System.",
+    "This proof marks the beginning of structured environment tracking for the farm."
+  ]
+}

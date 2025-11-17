@@ -1,0 +1,32 @@
+{
+  "proof_id": "003",
+  "date": "2025-11-17",
+  "time": "08:46",
+  "event": "Two recovering ducks walking and laying one egg after a dog attack",
+  "location": {
+    "farm": "MaMeeFarm™",
+    "district": "Muang Pan",
+    "province": "Lampang",
+    "country": "Thailand"
+  },
+  "environment": {
+    "temperature_celsius": 24,
+    "weather": "Clear morning sky",
+    "light": "Morning light"
+  },
+  "ipfs": {
+    "root_cid": "bafybeif5ohkeze2aik4cn3divz3mwx5jiwjkkqqgixgp3qrdbi37ecemka",
+    "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif5ohkeze2aik4cn3divz3mwx5jiwjkkqqgixgp3qrdbi37ecemka",
+    "files": [
+      {
+        "filename": "Proof_003_Ducks_MaMeeFarm_20251117_0846.jpeg",
+        "type": "image/jpeg",
+        "description": "Two recovering ducks at MaMeeFarm™ walking in the pen and giving one egg in the morning."
+      }
+    ]
+  },
+  "notes": {
+    "th": "แม่เป็ดรอดชีวิต 2 ตัวที่ MaMeeFarm™ หลังโดนหมากัด เริ่มเดินได้มากขึ้นในเล้าเป็ด และเช้านี้ออกไข่ 1 ฟอง เป็นสัญญาณว่าพวกเขายังสู้ต่อไป",
+    "en": "Two surviving ducks at MaMeeFarm™ are slowly recovering after a dog attack. This morning they were able to walk and gave one egg, a small proof of life and resilience."
+  }
+}

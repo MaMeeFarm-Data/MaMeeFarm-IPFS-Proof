@@ -1,0 +1,30 @@
+{
+  "proof_id": "009",
+  "date": "2025-11-19",
+  "time_local": "06:49",
+  "timezone": "Asia/Bangkok",
+  "location": {
+    "site": "MaMeeFarm\u2122",
+    "district": "Muang Pan",
+    "province": "Lampang",
+    "country": "Thailand"
+  },
+  "weather": {
+    "temperature_c": 20,
+    "condition": "Rain",
+    "light": "Low daylight / rainy morning",
+    "ground": "Wet soil"
+  },
+  "activity": "Morning papaya field check",
+  "notes": "A rainy morning at MaMeeFarm. The papaya field is wet with low visibility and cool air at 20\u00b0C while checking the field.",
+  "ipfs": {
+    "cid": "bafybeialxzkp5thz5qpx7hrpgmue7jjqyao27iko4fvnjr2xg4umyjojuq",
+    "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeialxzkp5thz5qpx7hrpgmue7jjqyao27iko4fvnjr2xg4umyjojuq",
+    "filename": "Proof_009_RainyPapayaField_20251119_0649.jpg"
+  },
+  "license": {
+    "primary": "MMFARM-POL-2025",
+    "overlay": "CC BY-NC 4.0"
+  },
+  "recorded_by": "P'Toh"
+}

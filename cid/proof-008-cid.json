@@ -1,0 +1,14 @@
+{
+  "proof_id": "008",
+  "date": "2025-11-18",
+  "time": "19:55",
+  "temperature_c": 22,
+  "weather": "Cloudy night",
+  "light_condition": "Low light",
+  "ground_condition": "Wet ground",
+  "event": "Night duck check",
+  "file_name": "Proof008_NightDuckCheck_1955_MaMeeFarm.jpg",
+  "cid": "bafybeie3dweccjaqckzby6cqo7wl2pxidft535y7z5ncnpjupw5wniyrwy",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeie3dweccjaqckzby6cqo7wl2pxidft535y7z5ncnpjupw5wniyrwy",
+  "license": "MMFARM-POL-2025"
+}

@@ -1,0 +1,29 @@
+{
+  "proof_id": "010",
+  "protocol": "DGCP — Duck Governance & Continuous Proof",
+  "license": "MMFARM-POL-2025 + CC BY-NC 4.0",
+  "date": "2025-11-19",
+  "time": "07:27",
+  "timestamp_local": "2025-11-19T07:27:00+07:00",
+  "location": "MaMeeFarm\u2122, Muang Pan District, Lampang, Thailand",
+  "temperature_c": 21,
+  "weather": "Rain",
+  "light_condition": "Rainy morning light",
+  "event": "Third surviving duck returns to the shelter",
+  "category": "Duck Shelter / Survival Event",
+  "cid": "bafybeic726iihwcbmbyyznrpqmggd6durq3xzvctwen5w37aaxtdcn2wrm",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic726iihwcbmbyyznrpqmggd6durq3xzvctwen5w37aaxtdcn2wrm",
+  "filename": "Proof_010_Duck3_Return_20251119_0727.jpg",
+  "notes_en": "Third duck returned to the shelter this rainy morning, confirming 3 surviving ducks at MaMeeFarm\u2122.",
+  "recorded_by": "P'Toh",
+  "protocol_version": "2025-11-19",
+  "tags": [
+    "MaMeeFarm",
+    "DGCP",
+    "Real-Work Data",
+    "Duck Shelter",
+    "Survival Event",
+    "Rainy Morning",
+    "Proof-of-Life"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "proof_id": "011",
+  "date": "2025-11-19",
+  "time": "07:31",
+  "timestamp_local": "2025-11-19T07:31:00+07:00",
+  "location": "MaMeeFarm™, Lampang, Thailand",
+  "cid": "bafybeih2kuixva55xcpqdeqdxotez6grl7epef3oy4r6xislvkl4d5fwyy",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeih2kuixva55xcpqdeqdxotez6grl7epef3oy4r6xislvkl4d5fwyy",
+  "activity_type": "Morning cleaning duty",
+  "description_en": "Mee cleaned the duck shelter as part of the daily animal-care cycle, after the third surviving duck returned earlier this morning.",
+  "environment": {
+    "temperature_c": 21,
+    "weather": "Rain",
+    "light_condition": "Morning rainy daylight"
+  },
+  "notes_en": "Mee was happy while cleaning the shelter and observing the ducks’ condition. This proof is part of the DGCP™ append-only real-work dataset for MaMeeFarm™.",
+  "license": "MMFARM-POL-2025 + CC BY-NC 4.0"
+}

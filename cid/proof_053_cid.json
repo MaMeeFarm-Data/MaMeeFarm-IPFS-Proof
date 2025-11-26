@@ -1,0 +1,12 @@
+{
+  "proof_id": "053",
+  "filename": "Proof_053_DuckCoop_TempCheck_20251126_1638.jpg",
+  "date": "2025-11-26",
+  "time": "16:38",
+  "temperature_c": 24.4,
+  "humidity_percent": 59,
+  "weather": "Partly cloudy",
+  "light_condition": "Late afternoon natural light",
+  "location": "MaMeeFarm, Muang Pan District, Lampang, Thailand",
+  "notes": "Afternoon duck coop temperature measured via OUT sensor at 24.4°C."
+}

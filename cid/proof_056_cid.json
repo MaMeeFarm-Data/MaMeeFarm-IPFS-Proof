@@ -1,0 +1,13 @@
+{
+  "proof_id": "056",
+  "filename": "Proof_056_CoopTemp_Morning_20251127_0704.jpg",
+  "cid": "bafybeie5z3l3y5sqmviyen4iew2svhfco7x7xer67zgni4awc5tksd6fcq",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeie5z3l3y5sqmviyen4iew2svhfco7x7xer67zgni4awc5tksd6fcq",
+  "date": "2025-11-27",
+  "time": "07:04",
+  "temperature_c": 12.4,
+  "weather": "Cold morning inside duck coop",
+  "light_condition": "Natural low morning light",
+  "location": "MaMeeFarm, Muang Pan District, Lampang, Thailand",
+  "notes": "Morning temperature record inside duck coop. Sensor values: 12.5°C (IN), 12.3°C (OUT). Averaged to 12.4°C following DGCP protocol."
+}

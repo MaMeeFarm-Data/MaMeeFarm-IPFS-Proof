@@ -1,0 +1,18 @@
+{
+  "proof_id": "073",
+  "cid": "bafybeicocpgjc2emvezfrasy32w4nkibzcgiuj7diotqisdv3wjjualjvm",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicocpgjc2emvezfrasy32w4nkibzcgiuj7diotqisdv3wjjualjvm",
+  "filename": "Proof_073_ThreeDucks_20251128_1723.jpg",
+  "date": "2025-11-28",
+  "time": "17:23",
+  "temperature": {
+    "indoor_c": 21.7,
+    "outdoor_c": 19.8,
+    "humidity_rh": 56
+  },
+  "weather": "Cool evening",
+  "light_condition": "Outdoor-daylight",
+  "notes": "Three remaining ducks of MaMeeFarm recorded at 17:23 as part of daily DGCP real-world documentation.",
+  "location": "MaMeeFarm, Muang Pan, Lampang, Thailand",
+  "license": "MMFARM-POL-2025 – MaMeeFarm™ Real-Work Data. All rights reserved under MaMeeFarm™ data governance policy."
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": "072",
+  "filename": "Proof_072_DuckHouse_Temp_20251128_1723.jpg",
+  "cid": "bafybeibyrcs6kcqfe3fnvdu2272ouvedkcz3xtxbqdmelodgy26otqtydu",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibyrcs6kcqfe3fnvdu2272ouvedkcz3xtxbqdmelodgy26otqtydu",
+  "date": "2025-11-28",
+  "time": "17:23",
+  "temperature_in": "21.7",
+  "temperature_out": "19.8",
+  "humidity": "56",
+  "location": "MaMeeFarm, Lampang",
+  "description": "Evening indoor-outdoor temperature and humidity measurement at the duck house, recorded under DGCP as part of the MaMeeFarm Real-Work Data system.",
+  "license": "MMFARM-POL-2025"
+}

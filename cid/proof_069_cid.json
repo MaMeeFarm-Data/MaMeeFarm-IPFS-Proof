@@ -1,0 +1,14 @@
+{
+  "proof_id": "069",
+  "filename": "Proof_069_EggWeight_20251128_0719.jpg",
+  "cid": "bafybeidlz2wkfmfzdmfrxil3m6hy6734iqz5czpl622a57qhuyq672bhxy",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidlz2wkfmfzdmfrxil3m6hy6734iqz5czpl622a57qhuyq672bhxy",
+  "date": "2025-11-28",
+  "time": "07:19",
+  "temperature_c": 11.3,
+  "humidity_rh": 69,
+  "weather": "Cold morning",
+  "light_condition": "indoor-daylight",
+  "location": "MaMeeFarm, Muang Pan District, Lampang, Thailand",
+  "notes": "Duck egg weight measured at 57.5 g as part of MaMeeFarm’s real-world egg output dataset under DGCP protocol."
+}

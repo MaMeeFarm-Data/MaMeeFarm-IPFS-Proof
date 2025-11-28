@@ -1,0 +1,13 @@
+{
+  "proof_id": "066",
+  "filename": "Proof_066_MorningTemp_20251128_0652.jpg",
+  "cid": "bafybeigavamzqnwehxu4xl2wzziqjyottxkpiuvwamxr3bshqy6t4tjap4",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigavamzqnwehxu4xl2wzziqjyottxkpiuvwamxr3bshqy6t4tjap4",
+  "date": "2025-11-28",
+  "time": "06:52",
+  "temperature_c": 11.9,
+  "humidity_percent": 68,
+  "light_condition": "Morning daylight",
+  "location": "MaMeeFarm, Muang Pan District, Lampang, Thailand",
+  "notes": "Morning temperature and humidity measurement for DGCP Real-Work Data tracking."
+}

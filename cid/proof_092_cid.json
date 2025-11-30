@@ -1,0 +1,14 @@
+{
+  "proof_id": "092",
+  "cid": "bafybeigfbcjvz6hqqkick6bd5anoiwol6gmxqblklscucqctzsvou3p7xa",
+  "filename": "Proof_092_HouseWallTemp_20251130_1325.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigfbcjvz6hqqkick6bd5anoiwol6gmxqblklscucqctzsvou3p7xa",
+  "date": "2025-11-30",
+  "time": "13:25",
+  "temperature": "23.4°C",
+  "humidity": "45%",
+  "weather": "Sunny",
+  "light_condition": "Strong daylight",
+  "notes": "Afternoon wall-side temperature reading for micro-climate analysis at MaMeeFarm.",
+  "license": "MMFARM-POL-2025"
+}

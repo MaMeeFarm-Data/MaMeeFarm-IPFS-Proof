@@ -1,0 +1,14 @@
+{
+  "proof_id": "086",
+  "cid": "bafybeia6nmfhat7mgk7t5x4mlz27mysm2kbyrzvulf4qlikbkejnap65ey",
+  "filename": "Proof_086_HouseWallTemp_20251130_0953.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia6nmfhat7mgk7t5x4mlz27mysm2kbyrzvulf4qlikbkejnap65ey",
+  "date": "2025-11-30",
+  "time": "09:53",
+  "temperature": "15.0°C",
+  "humidity": "61%",
+  "weather": "Cold morning with warming trend",
+  "light_condition": "Bright morning sunlight",
+  "notes": "House wall temperature reading at 09:53. Used to compare micro-climate trends between early morning and mid-morning under cold-season patterns.",
+  "license": "MMFARM-POL-2025"
+}

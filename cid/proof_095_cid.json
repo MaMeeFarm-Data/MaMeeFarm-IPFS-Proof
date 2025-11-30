@@ -1,0 +1,15 @@
+{
+  "proof_id": "095",
+  "cid": "bafybeidi3nkjj7tokjlv53ylzer4tkr7slxmbyq2hymjdxvh2ohr2kik3i",
+  "filename": "Proof_095_DuckPen_EveningTemp_20251130_1745.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidi3nkjj7tokjlv53ylzer4tkr7slxmbyq2hymjdxvh2ohr2kik3i",
+  "date": "2025-11-30",
+  "time": "17:45",
+  "temperature_inside": "20.7°C",
+  "temperature_outside": "18.9°C",
+  "humidity": "66%",
+  "weather": "Cool evening, partly cloudy",
+  "light_condition": "Low evening natural light",
+  "notes": "Evening temperature/humidity manual verification inside MaMeeFarm duck pen. Classified as Environmental RWD.",
+  "license": "MMFARM-POL-2025"
+}

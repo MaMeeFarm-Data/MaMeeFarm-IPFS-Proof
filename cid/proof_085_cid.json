@@ -1,0 +1,15 @@
+{
+  "proof_id": "085",
+  "cid": "bafybeie73qbrhzwtwps5nywvwk43vqnjhdxhdh22xjrjl746ulqznb67ma",
+  "filename": "Proof_085_DuckBarnTemp_20251130_0736.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeie73qbrhzwtwps5nywvwk43vqnjhdxhdh22xjrjl746ulqznb67ma",
+  "date": "2025-11-30",
+  "time": "07:36",
+  "temperature_inside": "11.9°C",
+  "temperature_outside": "10.5°C",
+  "humidity": "85%",
+  "weather": "Cold morning",
+  "light_condition": "Morning natural light in barn",
+  "notes": "Environmental RWD capturing inside/outside temperature difference in duck barn at 07:36. Used to analyze winter cold-stress impact on duck health and egg productivity.",
+  "license": "MMFARM-POL-2025"
+}

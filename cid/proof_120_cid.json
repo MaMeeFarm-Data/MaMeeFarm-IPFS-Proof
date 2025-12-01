@@ -1,0 +1,16 @@
+{
+  "proof_id": "120",
+  "cid": "bafybeidaibyajw2z2qkjjpj6ikbmzpbcp3if7x7a2kvozpxyki2fnfp7ku",
+  "filename": "Proof_120_TempHumid_20251201_1740.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidaibyajw2z2qkjjpj6ikbmzpbcp3if7x7a2kvozpxyki2fnfp7ku",
+  "date": "2025-12-01",
+  "time": "17:40",
+  "temperature_in": "22.6°C",
+  "temperature_out": "21.1°C",
+  "humidity": "69%",
+  "weather": "Cool evening",
+  "light_condition": "Low end-of-day light",
+  "activity": "End-of-day Temp & Humidity",
+  "notes": "Closing climate context for DGCP Environmental Condition Layer.",
+  "license": "MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": "115",
+  "cid": "bafybeif2urat5iw2jowabngvlo3pl5hgydmlpjowko76v4idj7pufnsvyq",
+  "filename": "Proof_115_TempHumid_20251201_0856.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif2urat5iw2jowabngvlo3pl5hgydmlpjowko76v4idj7pufnsvyq",
+  "date": "2025-12-01",
+  "time": "08:56",
+  "temperature": "14.8°C",
+  "humidity": "71%",
+  "weather": "Cool morning",
+  "activity": "Environmental Measurement (Post-Activity)",
+  "notes": "Recorded after morning farm tasks to capture post-activity climate shift. Part of DGCP Environmental Condition Layer tracking climate effects on duck behavior and egg consistency.",
+  "license": "MMFARM-POL-2025"
+}

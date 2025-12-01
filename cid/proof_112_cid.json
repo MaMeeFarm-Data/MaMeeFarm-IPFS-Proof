@@ -1,0 +1,14 @@
+{
+  "proof_id": "112",
+  "cid": "bafybeib6n3phfjoq7cdlotqd6zsuppppgdkcwlhd5ctgr4el4b53ac55te",
+  "filename": "Proof_112_TempHumid_20251201_0846.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeib6n3phfjoq7cdlotqd6zsuppppgdkcwlhd5ctgr4el4b53ac55te",
+  "date": "2025-12-01",
+  "time": "08:46",
+  "temperature": "14.5°C",
+  "humidity": "70%",
+  "weather": "Cool morning, stable humidity",
+  "light_condition": "Morning outdoor light",
+  "notes": "Environmental measurement taken after egg-weight sequence (Proof 109–111). Supports DGCP Environmental Condition Layer.",
+  "license": "MMFARM-POL-2025"
+}

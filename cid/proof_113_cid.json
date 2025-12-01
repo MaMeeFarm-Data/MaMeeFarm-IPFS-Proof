@@ -1,0 +1,14 @@
+{
+  "proof_id": "113",
+  "cid": "bafybeibg2yuverf5alx4gedvawnru2mg63b3vckw2csdughhmx4fsmu27a",
+  "filename": "Proof_113_RefillWater_20251201_0848.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibg2yuverf5alx4gedvawnru2mg63b3vckw2csdughhmx4fsmu27a",
+  "date": "2025-12-01",
+  "time": "08:48",
+  "temperature": "14.5°C",
+  "humidity": "70%",
+  "weather": "Cool morning, same microclimate as Proof 112",
+  "activity": "RefillWater",
+  "notes": "Water refill for duck pen. Environmental values referenced from Proof 112 (2-minute gap). Supports DGCP Water Management Layer.",
+  "license": "MMFARM-POL-2025"
+}

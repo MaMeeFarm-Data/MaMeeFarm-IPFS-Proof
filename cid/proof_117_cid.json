@@ -1,0 +1,15 @@
+{
+  "proof_id": "117",
+  "cid": "bafybeiagkekdxtl2mgsl7c4c4frpkp7v3rnf3t7ivg6qgbixdqebfeg7oq",
+  "filename": "Proof_117_TempHumid_20251201_1458.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiagkekdxtl2mgsl7c4c4frpkp7v3rnf3t7ivg6qgbixdqebfeg7oq",
+  "date": "2025-12-01",
+  "time": "14:58",
+  "temperature": "25.8°C",
+  "humidity": "49%",
+  "weather": "Hot afternoon",
+  "light_condition": "Outdoor daylight",
+  "activity": "Temperature & Humidity",
+  "notes": "Afternoon environmental condition capturing climate shift from morning to afternoon under the DGCP Environmental Condition Layer.",
+  "license": "MMFARM-POL-2025"
+}

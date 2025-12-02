@@ -1,0 +1,13 @@
+{
+  "proof_id": "Proof_137_v2",
+  "original_proof_id": "Proof_137",
+  "filename": "Proof_137_TempReading_20251202_1552.jpg",
+  "event_time": "2025-12-02T15:52:00+07:00",
+  "location": "MaMeeFarm, wall-mounted HTC-1 thermometer",
+  "temperature_c": 27.0,
+  "humidity_percent": 49,
+  "layer": "DGCP Environmental Stability Layer",
+  "description": "Corrected temperature and humidity reading for Proof_137. Verified HTC-1 device shows 27.0°C with 49% RH at 15:52 on 2025-12-02. Image/CID unchanged; this v2 record fixes the descriptive and structured data according to DGCP truth-preserving rules.",
+  "cid": "TODO_UPDATE_AFTER_PINATA",
+  "license": "MMFARM-POL-2025"
+}

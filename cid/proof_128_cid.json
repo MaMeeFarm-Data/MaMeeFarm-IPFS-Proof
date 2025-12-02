@@ -1,0 +1,14 @@
+{
+  "proof_id": "128",
+  "cid": "bafybeiac3qtwxvkvpuk4elmvbk5aier2kbqsksgm2mu6mtxc773gsu4huu",
+  "filename": "Proof_128_TempHumid_20251202_0849.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiac3qtwxvkvpuk4elmvbk5aier2kbqsksgm2mu6mtxc773gsu4huu",
+  "date": "2025-12-02",
+  "time": "08:49",
+  "temperature": "15.4°C",
+  "humidity": "71%",
+  "weather": "Stable morning indoor microclimate",
+  "light_condition": "Indoor natural light",
+  "notes": "Environmental reading aligned with the egg weight measurement in Proof 127, supporting DGCP Environmental Condition Layer correlation.",
+  "license": "MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": "130",
+  "cid": "bafybeid3bd6hcowdsfb24rfxd4utw5mo7wv7rfmsdcc5s7ogglxkhcitoy",
+  "filename": "Proof_130_TempHumid_20251202_1027.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeid3bd6hcowdsfb24rfxd4utw5mo7wv7rfmsdcc5s7ogglxkhcitoy",
+  "date": "2025-12-02",
+  "time": "10:27",
+  "temperature": "19.4°C",
+  "humidity": "65%",
+  "weather": "Mild late-morning conditions",
+  "light_condition": "Outdoor sunlight",
+  "notes": "Aligned with Proof 129 as mid-morning reading, part of DGCP Environmental Condition Layer.",
+  "license": "MMFARM-POL-2025"
+}

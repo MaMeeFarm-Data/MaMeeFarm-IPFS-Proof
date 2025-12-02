@@ -1,0 +1,14 @@
+{
+  "proof_id": "124",
+  "cid": "bafybeih6v6pb5ic7vx7krm4a2h6qmmersufcawfnueveco6hccwndz3zuq",
+  "filename": "Proof_124_TempHumid_20251202_0845.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeih6v6pb5ic7vx7krm4a2h6qmmersufcawfnueveco6hccwndz3zuq",
+  "date": "2025-12-02",
+  "time": "08:45",
+  "temperature": "18.0°C (IN), 17.3°C (OUT)",
+  "humidity": "81%",
+  "weather": "Cool morning, stable outdoor microclimate",
+  "light_condition": "Natural morning light",
+  "notes": "Morning baseline temperature and humidity reading for DGCP Environmental Condition Layer.",
+  "license": "MMFARM-POL-2025"
+}

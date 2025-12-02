@@ -1,0 +1,14 @@
+{
+  "proof_id": "137",
+  "cid": "bafybeifpi3fvjxq65x4mp7zrwl5zhtg2aptr7vjtmfh56jdwjoolu6qygi",
+  "filename": "Proof_137_TempReading_20251202_1552.jpg",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifpi3fvjxq65x4mp7zrwl5zhtg2aptr7vjtmfh56jdwjoolu6qygi",
+  "date": "2025-12-02",
+  "time": "15:52",
+  "temperature": "24.1°C",
+  "humidity": "62%",
+  "weather": "Mild evening temperature",
+  "light_condition": "Evening outdoor light",
+  "notes": "Late-afternoon temperature and humidity reading supporting DGCP Environmental Stability Layer.",
+  "license": "MMFARM-POL-2025"
+}

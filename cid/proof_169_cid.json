@@ -1,0 +1,14 @@
+{
+  "proof_id": "169",
+  "filename": "Proof_169_TempFinal_20251203_1723.jpg",
+  "date": "2025-12-03",
+  "time": "17:23",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidpuontxrxt4zodu53namfwm3bfyye2lwb7e2bcghohhvu3xhmfdq",
+  "cid": "bafybeidpuontxrxt4zodu53namfwm3bfyye2lwb7e2bcghohhvu3xhmfdq",
+  "temperature_c": "25.5",
+  "humidity_percent": "63",
+  "weather": "Stable, evening cooling",
+  "light_condition": "Soft low light, pre-sunset",
+  "notes": "Final environmental reading for end-of-day baseline.",
+  "license": "MMFARM-POL-2025"
+}

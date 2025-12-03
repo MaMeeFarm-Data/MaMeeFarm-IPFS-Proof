@@ -1,0 +1,15 @@
+{
+  "proof_id": "167",
+  "filename": "Proof_167_DuckCoopTemp_20251203_1720.jpg",
+  "date": "2025-12-03",
+  "time": "17:20",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidlagzoglewevsal2hx2daslmypdcyrbiqr4xb2hocsxmzigqys3u",
+  "cid": "bafybeidlagzoglewevsal2hx2daslmypdcyrbiqr4xb2hocsxmzigqys3u",
+  "temperature_in_c": 27.3,
+  "temperature_out_c": 25.6,
+  "humidity_percent": 68,
+  "weather": "Clear evening",
+  "light_condition": "Soft evening light",
+  "notes": "Temperature and humidity stability inside coop.",
+  "license": "MMFARM-POL-2025"
+}

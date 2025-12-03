@@ -1,0 +1,14 @@
+{
+  "proof_id": "162",
+  "filename": "Proof_162_Temperature_20251203_1656.jpg",
+  "date": "2025-12-03",
+  "time": "16:56",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigs63mczpjqaxk7f3wrqaxrdjtehulwlscoqxd6xnq77j5o66zsu4",
+  "cid": "bafybeigs63mczpjqaxk7f3wrqaxrdjtehulwlscoqxd6xnq77j5o66zsu4",
+  "temperature_c": "26.5",
+  "humidity_percent": "61",
+  "weather": "Evening, stable",
+  "light_condition": "Soft evening light",
+  "notes": "Temperature and humidity recorded during evening check.",
+  "license": "MMFARM-POL-2025"
+}

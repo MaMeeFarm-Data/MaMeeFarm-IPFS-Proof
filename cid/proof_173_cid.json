@@ -1,0 +1,14 @@
+{
+  "proof_id": "173",
+  "filename": "Proof_173_MorningTemp_20251204_0650.jpg",
+  "date": "2025-12-04",
+  "time": "06:50",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiagbwhvrmbjwnnbarvyp2ftm6owhbe47ldesme4nkkn7lpzg3j34m",
+  "cid": "bafybeiagbwhvrmbjwnnbarvyp2ftm6owhbe47ldesme4nkkn7lpzg3j34m",
+  "temperature_c": "15.2",
+  "humidity_percent": "73",
+  "weather": "Cold early-morning, December climate",
+  "light_condition": "Low natural morning light",
+  "notes": "Morning temperature and humidity reading for DGCP™ environmental verification.",
+  "license": "MMFARM-POL-2025"
+}

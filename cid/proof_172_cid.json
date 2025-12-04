@@ -1,0 +1,12 @@
+{
+  "proof_id": "172",
+  "filename": "Proof_172_OTS_20251203_L3.pdf",
+  "date": "2025-12-03",
+  "time": "n/a",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafkreiat4xb6xsd7ms57lzqxi24c45tn4dunc6k2hqgen3lclhxyzq27gy",
+  "cid": "bafkreiat4xb6xsd7ms57lzqxi24c45tn4dunc6k2hqgen3lclhxyzq27gy",
+  "layer": "OpenTimestamp Layer 3 (IPFS-bound)",
+  "verification_type": "Final OTS day-level anchor",
+  "notes": "Third and final OpenTimestamp layer for 2025-12-03 completing the DGCP™ daily cryptographic anchoring.",
+  "license": "MMFARM-POL-2025"
+}

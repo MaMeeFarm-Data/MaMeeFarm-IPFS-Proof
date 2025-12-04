@@ -1,0 +1,16 @@
+{
+  "proof_id": "188",
+  "filename": "Proof_188_TempReading_Home_20251204_1308.jpg",
+  "date": "2025-12-04",
+  "time": "13:08",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigprniyvk673zinkok5naog32codedp6gborgrywec5nbn4jpoxii",
+  "cid": "bafybeigprniyvk673zinkok5naog32codedp6gborgrywec5nbn4jpoxii",
+  "temperature_c": "25.1",
+  "humidity": "52%",
+  "weather": "Warm midday temperature",
+  "light_condition": "Natural daylight indoors",
+  "event": "Temperature & humidity reading",
+  "layer": "DGCP Environmental Layer",
+  "notes": "Temperature and humidity captured at home sensor for environmental tracking.",
+  "license": "MMFARM-POL-2025"
+}

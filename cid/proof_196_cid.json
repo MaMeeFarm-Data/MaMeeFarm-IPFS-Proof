@@ -1,0 +1,17 @@
+{
+  "proof_id": "196",
+  "filename": "Proof_196_DuckCoopTemp1757.jpg",
+  "date": "2025-12-04",
+  "time": "17:57",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiewwxn6gfmlff6mwzu4e4553bhspxncgtpqklugqmu5gntwyfqbo4",
+  "cid": "bafybeiewwxn6gfmlff6mwzu4e4553bhspxncgtpqklugqmu5gntwyfqbo4",
+  "temperature_c_indoor": "23.2",
+  "temperature_c_outdoor": "21.9",
+  "humidity_percent": "71",
+  "weather": "Evening cool-down",
+  "light_condition": "Low-light (evening, artificial light)",
+  "event": "Evening duck coop temperature reading",
+  "layer": "Environment Monitoring + Animal Welfare",
+  "notes": "Temperature and humidity captured for duck welfare and microclimate monitoring.",
+  "license": "MMFARM-POL-2025"
+}

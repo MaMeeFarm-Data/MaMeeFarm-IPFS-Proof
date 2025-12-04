@@ -1,0 +1,12 @@
+{
+  "proof_id": "171",
+  "filename": "Proof_171_OTS_20251203_L2.pdf",
+  "date": "2025-12-03",
+  "time": "n/a",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafkreiekhdg3wznayonrizn4qvd7pr24yu4inkc7mp4e3lqqefbxfzzfuq",
+  "cid": "bafkreiekhdg3wznayonrizn4qvd7pr24yu4inkc7mp4e3lqqefbxfzzfuq",
+  "layer": "OpenTimestamp Layer 2",
+  "verification_type": "Redundant OTS cryptographic anchoring",
+  "notes": "Second OpenTimestamp snapshot adding redundancy to DGCP™ daily proof chain.",
+  "license": "MMFARM-POL-2025"
+}

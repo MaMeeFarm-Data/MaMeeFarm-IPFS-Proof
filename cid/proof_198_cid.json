@@ -1,0 +1,16 @@
+{
+  "proof_id": "198",
+  "filename": "Proof_198_EveningTemp1816.jpg",
+  "date": "2025-12-04",
+  "time": "18:16",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiexaxegaccb43dobklnzonwsk5vnn6pnullgxtnbq5agx5ndte74m",
+  "cid": "bafybeiexaxegaccb43dobklnzonwsk5vnn6pnullgxtnbq5agx5ndte74m",
+  "temperature_c": 23.9,
+  "humidity_percent": 64,
+  "weather": "Cool evening",
+  "light_condition": "Low light / nightfall",
+  "event": "Evening temperature reading",
+  "layer": "Environment Monitoring",
+  "notes": "Final environmental reading marking end-of-day lifecycle.",
+  "license": "MMFARM-POL-2025"
+}

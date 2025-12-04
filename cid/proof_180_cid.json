@@ -1,0 +1,14 @@
+{
+  "proof_id": "180",
+  "filename": "Proof_180_TempOutdoor_20251204_0657.jpg",
+  "date": "2025-12-04",
+  "time": "06:57",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihht3mdeao3xrsgksszym2mschushyscg5temhraryfcqbx5opttq",
+  "cid": "bafybeihht3mdeao3xrsgksszym2mschushyscg5temhraryfcqbx5opttq",
+  "temperature_c": "16.2",
+  "humidity_percent": "73",
+  "weather": "Cool outdoor conditions",
+  "light_condition": "Natural morning light",
+  "notes": "Micro-climate outdoor reading for DGCP Environmental Observation Layer.",
+  "license": "MMFARM-POL-2025"
+}

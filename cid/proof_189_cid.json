@@ -1,0 +1,16 @@
+{
+  "proof_id": "189",
+  "filename": "Proof_189_TempReading_Home_20251204_1517.jpg",
+  "date": "2025-12-04",
+  "time": "15:17",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigweswgqzv242uqrdim7vt57c5bbsgngkd2q27yr556opsx3b4ljy",
+  "cid": "bafybeigweswgqzv242uqrdim7vt57c5bbsgngkd2q27yr556opsx3b4ljy",
+  "temperature_c": "27.6",
+  "humidity": "48%",
+  "weather": "Warm afternoon condition",
+  "light_condition": "Natural daylight",
+  "event": "Temperature & humidity reading",
+  "layer": "DGCP Environmental Layer",
+  "notes": "Afternoon reading for environmental RWD and climate correlation.",
+  "license": "MMFARM-POL-2025"
+}

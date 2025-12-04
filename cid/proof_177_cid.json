@@ -1,0 +1,15 @@
+{
+  "proof_id": "177",
+  "filename": "Proof_177_DuckHouseTemp_20251204_0654.jpg",
+  "date": "2025-12-04",
+  "time": "06:54",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeig3rvy2keecwwavzy7ab6zpbqw42ohsll5rgyc3ahme3megihoc5q",
+  "cid": "bafybeig3rvy2keecwwavzy7ab6zpbqw42ohsll5rgyc3ahme3megihoc5q",
+  "inside_temp_c": "15.6",
+  "outside_temp_c": "15.1",
+  "humidity_percent": "89",
+  "weather": "Cool morning climate",
+  "light_condition": "Low morning daylight",
+  "notes": "Environmental reading inside duck house supporting DGCP™ climate verification.",
+  "license": "MMFARM-POL-2025"
+}

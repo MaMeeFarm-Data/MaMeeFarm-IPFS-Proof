@@ -1,0 +1,16 @@
+{
+  "proof_id": "182",
+  "filename": "Proof_182_Temperature_20251204_0911.jpg",
+  "date": "2025-12-04",
+  "time": "09:11",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif3dbmoqfs4p4w65lptj2sw7ki2skggkwxkengbmq7kezsxwfa4ve",
+  "cid": "bafybeif3dbmoqfs4p4w65lptj2sw7ki2skggkwxkengbmq7kezsxwfa4ve",
+  "temperature_c": "19.0",
+  "humidity_percent": "74",
+  "weather": "Morning ambient environment",
+  "light_condition": "Natural daylight",
+  "event": "Morning ambient temperature reading",
+  "layer": "DGCP Environmental Condition Layer",
+  "notes": "Temperature 19.0°C with 74% humidity before second duck inspection.",
+  "license": "MMFARM-POL-2025"
+}

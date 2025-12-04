@@ -1,0 +1,13 @@
+{
+  "proof_id": "170",
+  "filename": "Proof_170_OTS_20251203_L1.pdf",
+  "date": "2025-12-03",
+  "time": "n/a",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafkreidmlkxbyhgd3p23m5zqjrxaxxy4tzohrb6h6v6ofnqk7famxrdvtm",
+  "cid": "bafkreidmlkxbyhgd3p23m5zqjrxaxxy4tzohrb6h6v6ofnqk7famxrdvtm",
+  "layer": "OpenTimestamp Layer 1",
+  "source": "Daily MaMeeFarm™ proof bundle hash",
+  "verification_type": "Bitcoin-backed OpenTimestamp attestation",
+  "notes": "First OpenTimestamp evidence for MaMeeFarm™ anchoring daily data to a time-based cryptographic record.",
+  "license": "MMFARM-POL-2025"
+}

@@ -1,0 +1,15 @@
+{
+  "proof_id": "199",
+  "filename": "Proof_199_OTS_Record_20251204.pdf",
+  "date": "2025-12-04",
+  "time": "n/a",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafkreieattvcphrjsrhnvrj7lootk3ldecjfqfnkqcret7fc6ujlqzd6zi",
+  "cid": "bafkreieattvcphrjsrhnvrj7lootk3ldecjfqfnkqcret7fc6ujlqzd6zi",
+  "temperature": "n/a",
+  "weather": "n/a",
+  "light_condition": "n/a",
+  "event": "Open Timestamp daily anchor record",
+  "layer": "Time Anchor Evidence + Integrity Verification Metadata",
+  "notes": "OTS verification for 2025-12-04 anchoring DGCP data.",
+  "license": "MMFARM-POL-2025"
+}

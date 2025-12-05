@@ -1,0 +1,19 @@
+{
+  "proof_id": "205",
+  "filename": "Proof_205_DuckCoopTemp0805.jpg",
+  "date": "2025-12-05",
+  "time": "08:05",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifn5agqchc6ysfgrrantj5rk53xox7kdlsh5svqgzzn3cjfucfsda",
+  "cid": "bafybeifn5agqchc6ysfgrrantj5rk53xox7kdlsh5svqgzzn3cjfucfsda",
+  "temperature": {
+    "in": "20.1°C",
+    "out": "19.5°C"
+  },
+  "humidity": "85%",
+  "weather": "Morning mild",
+  "light_condition": "Natural indoor light (coop)",
+  "event": "Temperature and humidity check inside duck coop",
+  "layer": "Environmental Condition Evidence for Livestock Health Monitoring",
+  "notes": "Temp IN: 20.1°C, Temp OUT: 19.5°C, Humidity: 85%.",
+  "license": "MMFARM-POL-2025"
+}

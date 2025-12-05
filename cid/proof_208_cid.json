@@ -1,0 +1,16 @@
+{
+  "proof_id": "208",
+  "filename": "Proof_208_HouseTemp0808.jpg",
+  "date": "2025-12-05",
+  "time": "08:08",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihdeprffet5mansre5yxw3zckdzaimd63gfm2evouv5gnyfli7qeu",
+  "cid": "bafybeihdeprffet5mansre5yxw3zckdzaimd63gfm2evouv5gnyfli7qeu",
+  "temperature": "19.4°C",
+  "humidity": "79%",
+  "weather": "Morning cool",
+  "light_condition": "Natural light",
+  "event": "Indoor/porch temperature reading",
+  "layer": "Environmental Evidence + Living Condition Data",
+  "notes": "Temperature 19.4°C and 79% humidity recorded at 08:08.",
+  "license": "MMFARM-POL-2025"
+}

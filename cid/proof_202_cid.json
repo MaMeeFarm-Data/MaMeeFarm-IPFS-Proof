@@ -1,0 +1,15 @@
+{
+  "proof_id": "202",
+  "filename": "Proof_202_MorningTemp0801.jpg",
+  "date": "2025-12-05",
+  "time": "08:01",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihsucviuf5hvrgts4uiqshdwa4p3dc42ziauvwnbev73nx5yaghyu",
+  "cid": "bafybeihsucviuf5hvrgts4uiqshdwa4p3dc42ziauvwnbev73nx5yaghyu",
+  "temperature": "19.1°C",
+  "weather": "Morning cool",
+  "light_condition": "Natural outdoor light",
+  "event": "Morning temperature and humidity reading",
+  "layer": "Environmental Condition Evidence + Human Resilience Data",
+  "notes": "Temperature 19.1°C and humidity 79% recorded at 08:01.",
+  "license": "MMFARM-POL-2025"
+}

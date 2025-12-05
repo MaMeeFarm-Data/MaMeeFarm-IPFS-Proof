@@ -1,0 +1,15 @@
+{
+  "proof_id": "212",
+  "filename": "Proof_212_HouseTemp1453.jpg",
+  "date": "2025-12-05",
+  "time": "14:53",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicx2hwq5rk4ikwadfufh3btoq25c5stuffafarx4jysfzhfa25wui",
+  "cid": "bafybeicx2hwq5rk4ikwadfufh3btoq25c5stuffafarx4jysfzhfa25wui",
+  "temperature": "28.4°C / 73% humidity",
+  "weather": "Hot afternoon, low wind",
+  "light_condition": "Indoor shade",
+  "event": "Afternoon temperature reading inside house area",
+  "layer": "Environmental Baseline Data",
+  "notes": "Baseline heat and humidity reference for correlating human workload and living condition.",
+  "license": "MMFARM-POL-2025"
+}

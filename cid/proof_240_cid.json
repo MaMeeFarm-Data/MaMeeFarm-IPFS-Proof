@@ -1,0 +1,14 @@
+{
+  "proof_id": "Proof_240",
+  "filename": "Proof_240_NightTemp1756.jpg",
+  "description": "Evening temperature at 17:56 — 24.5°C with 76% humidity. Logged as End-of-Day Environmental Data under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-06T17:56+07:00",
+  "temperature_celsius": 24.5,
+  "humidity_percent": 76,
+  "category": "EnvironmentalCondition",
+  "subcategory": "EndOfDay",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera + HTC-2 Thermo-Hygrometer",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeihiwsiisbdr4hgzj2tqu3yqrdvrzokwfwt65gmf3iqakzsd6wmbny"
+}

@@ -1,0 +1,13 @@
+{
+  "proof_id": "Proof_238",
+  "filename": "Proof_238_Dinner1725.jpg",
+  "description": "Dinner at 17:25 — rice with fried chicken frames and chili sauce. Logged as Daily Living Condition Data under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-06T17:25+07:00",
+  "meal": "Dinner",
+  "food_items": ["Rice", "Fried chicken frames", "Chili sauce"],
+  "category": "DailyLiving",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeicsp2yia4mj6rrzuwnkjdu3h537mug25t4arl57xjiinvc2tt476e"
+}

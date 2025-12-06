@@ -1,0 +1,12 @@
+{
+  "proof_id": "Proof_233",
+  "filename": "Proof_233_DucksWaiting1332.jpg",
+  "description": "Ducks waiting for food at 13:32 as feed ran out. Logged as Animal Behavior & Daily Care Evidence under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-06T13:32+07:00",
+  "behavior": "Waiting for feed",
+  "condition": "Feed bowl empty; water available",
+  "category": "AnimalBehavior/DailyCare",
+  "farm_unit": "MaMeeFarm",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeicoi5lm3t2iiq7cc3blomh2pfcrvzc2ezkeux2b6ae2goornbyrrm"
+}

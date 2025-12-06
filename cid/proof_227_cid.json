@@ -1,0 +1,12 @@
+{
+  "proof_id": "Proof_227",
+  "filename": "Proof_227_HealthyDucks0746.jpg",
+  "description": "Three ducks active and healthy at 07:46. Logged as Real-World Animal Condition Data under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-06T07:46+07:00",
+  "animal_count": 3,
+  "condition": "Active & Healthy",
+  "category": "AnimalCondition/Welfare",
+  "farm_unit": "MaMeeFarm",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeidke7ietivpnwaze3lo25zdgl6om53thtgyuqzpq5s66psw5nt4em"
+}

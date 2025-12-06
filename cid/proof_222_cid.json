@@ -1,0 +1,10 @@
+{
+  "proof_id": "Proof_222",
+  "filename": "Proof_222_OTS_Record_20251205.jpg",
+  "description": "Open Time Stamp record for December 5, 2025, created to preserve continuity of DGCP daily proof chain during a Google Sheet failure. Captured as Real-World Data + Human-Work Evidence under MMFARM-POL-2025.",
+  "timestamp": "2025-12-05",
+  "category": "OTS/ChainContinuity",
+  "farm_unit": "MaMeeFarm",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeifzypsskmj5bxzzza5u6ih3dy3qjtm3qzliz75lotjyzvdkyu4mw4"
+}

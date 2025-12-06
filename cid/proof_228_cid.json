@@ -1,0 +1,14 @@
+{
+  "proof_id": "Proof_228",
+  "filename": "Proof_228_DuckCoopTemp0746.jpg",
+  "description": "Duck coop temperature at 07:46 — 18.7°C with 89% humidity. Logged as Environmental Condition Data under DGCP.",
+  "timestamp": "2025-12-06T07:46+07:00",
+  "temperature_c": 18.7,
+  "humidity_percent": 89,
+  "category": "Environment/Temperature",
+  "sensor": "HTC-2",
+  "location": "Duck Coop",
+  "farm_unit": "MaMeeFarm",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeidjso44n6jktdgacgslgz5suzytzx2gzafin2on4q65hrazhdbcdu"
+}

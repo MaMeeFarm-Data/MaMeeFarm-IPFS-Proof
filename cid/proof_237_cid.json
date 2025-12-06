@@ -1,0 +1,13 @@
+{
+  "proof_id": "Proof_237",
+  "filename": "Proof_237_EveningTemp1715.jpg",
+  "description": "Evening temperature at 17:15 — 27.6°C with 62% humidity. Logged as Environmental Condition Data under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-06T17:15+07:00",
+  "temperature_c": 27.6,
+  "humidity_percent": 62,
+  "category": "EnvironmentalCondition",
+  "farm_unit": "MaMeeFarm",
+  "device": "HTC-1 Thermo/Humidity Meter",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeigbkbrz2dmvx2bkkr6fyg5g5goxfek47jlgx4llnamqeil62vn3aa"
+}

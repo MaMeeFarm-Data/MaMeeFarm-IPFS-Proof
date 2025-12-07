@@ -1,0 +1,15 @@
+{
+  "proof_id": "Proof_245",
+  "filename": "Proof_245_MorningEgg0805.jpg",
+  "description": "Duck egg collected at 08:05 and weighed at 08:19 (53.7 g). Logged as Daily Production Data under DGCP for MaMeeFarm.",
+  "timestamp_collection": "2025-12-07T08:05+07:00",
+  "timestamp_weighing": "2025-12-07T08:19+07:00",
+  "egg_weight_grams": 53.7,
+  "quantity": 1,
+  "category": "ProductionData",
+  "subcategory": "EggCollection",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera + Digital Scale",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeigj44fqlktqt67z7g5v73zom2lbbxq7u7shti7k3x7rwo77uxpp7e"
+}

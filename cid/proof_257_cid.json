@@ -1,0 +1,14 @@
+{
+  "proof_id": "Proof_257",
+  "filename": "Proof_257_BackyardSun1531.jpg",
+  "description": "Bright afternoon sunlight over the MaMeeFarm backyard area at 15:31. Logged as Real-World Environmental Observation under DGCP.",
+  "timestamp": "2025-12-07T15:31+07:00",
+  "observation": "Backyard sunlight and natural condition",
+  "lighting": "Bright afternoon sunlight",
+  "category": "EnvironmentalObservation",
+  "subcategory": "BackyardCondition",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeifu4tsnrzhklcvhoeeytmvjumzoknzcc7ruiim53xgozkaps3avbm"
+}

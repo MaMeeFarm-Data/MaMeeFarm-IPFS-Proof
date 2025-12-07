@@ -1,0 +1,15 @@
+{
+  "proof_id": "Proof_253",
+  "filename": "Proof_253_PorchTemp1149_258C.jpg",
+  "description": "Porch temperature at 11:49 — 25.8°C. Logged as Daily Environmental Condition Data under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-07T11:49+07:00",
+  "temperature_c": 25.8,
+  "humidity_percent": null,
+  "location": "Porch area",
+  "category": "EnvironmentalCondition",
+  "subcategory": "Temperature",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeifmzpr72htzzecck55hrafarjkgg7y5j472677qm26od4zpi26q5u"
+}

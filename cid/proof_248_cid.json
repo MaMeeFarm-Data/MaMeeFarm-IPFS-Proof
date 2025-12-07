@@ -1,0 +1,13 @@
+{
+  "proof_id": "Proof_248",
+  "filename": "Proof_248_WaterFlow0811.jpg",
+  "description": "Water flowing into the canal at 08:11. Logged as Daily Environmental Observation under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-07T08:11+07:00",
+  "observation": "Water flow entering canal",
+  "category": "EnvironmentalObservation",
+  "subcategory": "WaterFlow",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeicf33flublauw276lc7s7tmefrrfe5vhsiegupcllnjkhwoe6nuaa"
+}

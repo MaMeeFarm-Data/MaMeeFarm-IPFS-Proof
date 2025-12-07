@@ -1,0 +1,12 @@
+{
+  "proof_id": "Proof_261",
+  "filename": "Proof_261_DuckCoopTemp1746.jpg",
+  "description": "Evening temperature and humidity reading at the duck coop (17:46). IN: 24.8°C, OUT: 25.8°C, Humidity: 78%. Recorded as a verifiable environmental data point under DGCP continuous proof for MaMeeFarm’s Real-World Dataset.",
+  "timestamp": "2025-12-07T17:46+07:00",
+  "category": "Environmental",
+  "subcategory": "TemperatureHumidity",
+  "location": "Duck Coop",
+  "farm_unit": "MaMeeFarm",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeihd3nb7kkjvhv6gqdmwa4xmsuz2pditvwv6f7wwwel32vxcwkw4au"
+}

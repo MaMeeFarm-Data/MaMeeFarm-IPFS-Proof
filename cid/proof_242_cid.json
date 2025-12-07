@@ -1,0 +1,12 @@
+{
+  "proof_id": "Proof_242",
+  "filename": "Proof_242_OTS_Record_20251206.pdf.ots",
+  "description": "Supplementary OTS record for 2025-12-06, ensuring uninterrupted Real-World Data lineage under DGCP during daily proof consolidation.",
+  "timestamp": "2025-12-06",
+  "category": "TimestampIntegrity",
+  "subcategory": "OTS_Record_Supplementary",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera → PDF.OTS Conversion",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafkreig4m2dqbm5cmbuxkwqaw5djeo4s5mo3bwrzyjz3i5omenvbwtfvke"
+}

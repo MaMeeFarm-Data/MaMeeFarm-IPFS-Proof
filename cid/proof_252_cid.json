@@ -1,0 +1,14 @@
+{
+  "proof_id": "Proof_252",
+  "filename": "Proof_252_FeedingDogs0826.jpg",
+  "description": "Feeding homegrown bananas to Khaohom and Khaopan at 08:26. Logged as Daily Animal Care Activity under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-07T08:26+07:00",
+  "activity": "Feeding homegrown bananas",
+  "animals": ["Khaohom", "Khaopan"],
+  "category": "AnimalCare",
+  "subcategory": "Feeding",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeifm6fvt45up52m5tkraohgmor2vsquqaag7u3kog236m3pqrp4ysq"
+}

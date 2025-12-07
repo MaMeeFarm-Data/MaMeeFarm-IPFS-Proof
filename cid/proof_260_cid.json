@@ -1,0 +1,12 @@
+{
+  "proof_id": "Proof_260",
+  "filename": "Proof_260_EveningDuckCheck1745.jpg",
+  "description": "Evening inspection of the duck shelter at 17:45. Ducks observed healthy and active. Logged as Real-World Farm Activity under DGCP for continuous proof, traceable farm operations, and environmental context.",
+  "timestamp": "2025-12-07T17:45+07:00",
+  "category": "FarmActivity",
+  "subcategory": "DuckInspection",
+  "status": "Healthy & Active",
+  "farm_unit": "MaMeeFarm",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeih2b2dgkzr7j62m3dld35c75kwnvn7jozow7il2w7r3c3yqfngmyq"
+}

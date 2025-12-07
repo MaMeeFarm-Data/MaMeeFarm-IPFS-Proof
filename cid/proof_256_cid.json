@@ -1,0 +1,14 @@
+{
+  "proof_id": "Proof_256",
+  "filename": "Proof_256_SolarCooking1530.jpg",
+  "description": "Cooking rice at 15:30 using stable solar-powered electricity. Logged as Real-World Energy Usage & Daily Living Data under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-07T15:30+07:00",
+  "activity": "Cooking rice",
+  "energy_source": "Solar-powered electricity",
+  "location": "Outdoor kitchen area",
+  "category": "EnergyUsage/DailyLiving",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeiesb7hejx5xen5x2lp6mm3bdlx2wfod5wewflipsjw3nswgdmxwnm"
+}

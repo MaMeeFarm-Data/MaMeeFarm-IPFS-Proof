@@ -1,0 +1,13 @@
+{
+  "proof_id": "Proof_249",
+  "filename": "Proof_249_BackyardGrass0814.jpg",
+  "description": "Backyard grass growing tall at 08:14, documenting farm vegetation and maintenance conditions under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-07T08:14+07:00",
+  "observation": "Overgrown backyard grass requiring maintenance",
+  "category": "FarmMaintenance",
+  "subcategory": "VegetationGrowth",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeieibwbauryiep6ojuz77he2g4zcpy5fupo4mfmxjlpksrq22cv46e"
+}

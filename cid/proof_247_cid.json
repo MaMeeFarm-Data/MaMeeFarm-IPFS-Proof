@@ -1,0 +1,14 @@
+{
+  "proof_id": "Proof_247",
+  "filename": "Proof_247_DuckCoopTemp0806.jpg",
+  "description": "Duck coop temperature recorded at 08:06 — 20.1°C. Logged as Daily Environmental Condition Data under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-07T08:06+07:00",
+  "temperature_celsius": 20.1,
+  "humidity_percent": null,
+  "category": "EnvironmentalCondition",
+  "subcategory": "CoopTemperature",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera + HTC-2 Thermo-Hygrometer",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeiascvlo4xgqhxcy63krc2yy3ojvz7d7krisqqwhvjpbww3pkdj77y"
+}

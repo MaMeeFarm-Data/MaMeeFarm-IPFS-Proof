@@ -1,0 +1,14 @@
+{
+  "proof_id": "Proof_258",
+  "filename": "Proof_258_Temp29C_1531.jpg",
+  "description": "Temperature reading of 29.5°C at 15:31 on MaMeeFarm. Logged as Real-World Environmental Monitoring Data under DGCP.",
+  "timestamp": "2025-12-07T15:31+07:00",
+  "temperature_celsius": 29.5,
+  "humidity_percent": 53,
+  "category": "EnvironmentalMonitoring",
+  "subcategory": "TemperatureHumidity",
+  "farm_unit": "MaMeeFarm",
+  "device": "Digital Thermo-Hygrometer",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeihennqgc2jnwpqtsrxtbnzaypbeb2pvzjvqeufywhjqxh3pixdkna"
+}

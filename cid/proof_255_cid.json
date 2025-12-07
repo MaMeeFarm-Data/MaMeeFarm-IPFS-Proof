@@ -1,0 +1,14 @@
+{
+  "proof_id": "Proof_255",
+  "filename": "Proof_255_AfternoonTemp1319_279C.jpg",
+  "description": "Afternoon temperature at 13:19 — 27.9°C with 46% humidity. Logged as Daily Environmental Condition Data under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-07T13:19+07:00",
+  "temperature_c": 27.9,
+  "humidity_percent": 46,
+  "location": "Porch area",
+  "category": "EnvironmentalCondition",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeif3h3pfanfczv67xvvkehzwo4vwgma77txow3kmoxo2pemejxdxam"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": "Proof_251",
+  "filename": "Proof_251_MorningTemp0820_196C.jpg",
+  "description": "Morning temperature at 08:20 — 19.6°C with 78% humidity. Logged as Daily Environmental Condition Data under DGCP for MaMeeFarm.",
+  "timestamp": "2025-12-07T08:20+07:00",
+  "temperature_celsius": 19.6,
+  "humidity_percent": 78,
+  "category": "EnvironmentalCondition",
+  "subcategory": "MorningReading",
+  "farm_unit": "MaMeeFarm",
+  "device": "Mobile Camera + HTC-1 Thermo-Hygrometer",
+  "license": "MMFARM-POL-2025",
+  "ipfs_cid": "bafybeig47rni5nbjxxu6n7brg42rm6a4pu6yhrddazpo6567o2k527d73m"
+}

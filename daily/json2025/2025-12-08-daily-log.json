@@ -1,0 +1,95 @@
+{
+  "date": "2025-12-08",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "license": "MMFARM-POL-2025",
+  "proof_range": "263-277",
+  "entries": [
+    {
+      "id": 263,
+      "unit": "Egg Output Unit",
+      "time": "06:52",
+      "egg_weight_g": 54.9,
+      "cid": "bafybeialfxzo7mpfrjtzy7s3xeth6h2jpv3mycy6ymewi45vpawci5bygy"
+    },
+    {
+      "id": 264,
+      "unit": "Coop Temperature Unit",
+      "time": "06:56",
+      "temperature_c": 18.2,
+      "humidity_percent": 90,
+      "cid": "bafybeib7z7ltpccllqtw52qf3flvtx7imt3mv4ekvx2npzfis3ddeflj6e"
+    },
+    {
+      "id": 265,
+      "unit": "Human-Care Behavior Unit",
+      "time": "08:32",
+      "action": "food_purchase",
+      "cid": "bafybeicxjs6crl22uxj5optueerlttllakbyu2edj7cuer53i34pywngcm"
+    },
+    {
+      "id": 266,
+      "unit": "Wall Temperature Unit",
+      "time": "08:33",
+      "temperature_c": 19.7,
+      "humidity_percent": 80,
+      "cid": "bafybeic7at7izzvm3yoscew6c2n3tiejst3lvlqqzyj6v757d2ysgthrbm"
+    },
+    {
+      "id": 267,
+      "unit": "Livestock-Care Action Unit",
+      "time": "12:55",
+      "action": "refill_duck_water",
+      "cid": "bafybeidzbto4bfzthn3msigliadyjjci53rg3xolzqcy3rvubkyjkoyuj4"
+    },
+    {
+      "id": 268,
+      "unit": "Crop-Growth Observation Unit",
+      "time": "12:56",
+      "crop": "onion",
+      "cid": "bafybeia2cwazb37kqdz42s5lr2qg763643gimc4vaqtiub6cqzx6qe7l74"
+    },
+    {
+      "id": 269,
+      "unit": "Human-Support Meal Unit",
+      "time": "13:50",
+      "cid": "bafybeiaxqrbkdjyfnienzmmwzc4ngvwg4dwzl3gpnfzt4orpinbwedfqym"
+    },
+    {
+      "id": 270,
+      "unit": "Crop-Readiness Unit",
+      "time": "14:26",
+      "crop": "shallot",
+      "cid": "bafybeif2uai47kyxon66n76cwe66cchxqpa2g5biyuawkfpbefyp6iy3wa"
+    },
+    {
+      "id": 271,
+      "unit": "Environmental Monitoring Unit",
+      "time": "14:27",
+      "temperature_c_corrected": 26.4,
+      "humidity_percent": 60,
+      "cid": "bafybeibygj5iiwm7q6mepi3eth3at6atm72tbvkhshzre2qhnpfmlv7gcu"
+    },
+    {
+      "id": 272,
+      "unit": "Crop Harvest Unit",
+      "time": "17:03",
+      "crop": "banana",
+      "cid": "bafybeifrcywzzp2hjnl62jzh7wzqpolaavvbv7uppvwyqxrffcsrsmxfey"
+    },
+    {
+      "id": 273,
+      "unit": "Animal Welfare Monitoring Unit",
+      "time": "17:29",
+      "cid": "bafybeian4gcjtcthdilvnrxvsc3huqyz5qxo276ixr5anh3vjoskuhjmr4"
+    },
+    {
+      "id": 274,
+      "unit": "Coop Temperature Unit (Evening)",
+      "time": "17:29",
+      "temperature_in_c": 24.7,
+      "temperature_out_c": 23.9,
+      "humidity_percent": 74,
+      "cid": "bafybeidmax7oj3caamgeg3a4mkn6shzrenaiqmdc53lycrfwkvtueb6eo4"
+    }
+  ]
+}

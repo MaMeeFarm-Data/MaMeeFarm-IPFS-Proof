@@ -1,0 +1,19 @@
+{
+  "proof_id": "Proof_272",
+  "date": "2025-12-08",
+  "time_local": "13:50",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_272_MaMeeCookedMealForPToh_1350.jpg",
+    "cid": "bafybeiaxqrbkdjyfnienzmmwzc4ngvwg4dwzl3gpnfzt4orpinbwedfqym",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiaxqrbkdjyfnienzmmwzc4ngvwg4dwzl3gpnfzt4orpinbwedfqym"
+  },
+  "category": "human-support-care",
+  "observations": {
+    "care_action": "MaMee prepared a protein-rich meal",
+    "meal": "cooked chicken soup with rice",
+    "nutrition_context": "P'Toh had limited intake for several days",
+    "system_relevance": "nutrition improves human labor capacity and cognitive stability"
+  },
+  "license": "MMFARM-POL-2025"
+}

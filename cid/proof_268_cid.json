@@ -1,0 +1,18 @@
+{
+  "proof_id": "Proof_268",
+  "date": "2025-12-08",
+  "time_local": "08:32",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_268_MaMeeBoughtFoodForPToh_0832.jpg",
+    "cid": "bafybeicxjs6crl22uxj5optueerlttllakbyu2edj7cuer53i34pywngcm",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicxjs6crl22uxj5optueerlttllakbyu2edj7cuer53i34pywngcm"
+  },
+  "category": "human-care-behavior",
+  "observations": {
+    "care_action": "MaMee bought food for P’Toh",
+    "wellbeing_signal": "P’Toh had not eaten properly for several days",
+    "system_relevance": "Human health affects operational and cognitive performance within MaMeeFarm"
+  },
+  "license": "MMFARM-POL-2025"
+}

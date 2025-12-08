@@ -1,0 +1,20 @@
+{
+  "proof_id": "Proof_276",
+  "date": "2025-12-08",
+  "time_local": "17:29",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_276_FinalDuckCheck_1729.jpg",
+    "cid": "bafybeian4gcjtcthdilvnrxvsc3huqyz5qxo276ixr5anh3vjoskuhjmr4",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeian4gcjtcthdilvnrxvsc3huqyz5qxo276ixr5anh3vjoskuhjmr4"
+  },
+  "category": "animal-welfare",
+  "observations": {
+    "flock_size": 3,
+    "condition": "active and healthy",
+    "unit_type": "Animal Welfare Monitoring Unit",
+    "location_detail": "west-side fence",
+    "system_relevance": "validates end-of-day flock stability and real-world welfare signals"
+  },
+  "license": "MMFARM-POL-2025"
+}

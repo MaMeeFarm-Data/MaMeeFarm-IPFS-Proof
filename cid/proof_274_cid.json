@@ -1,0 +1,19 @@
+{
+  "proof_id": "Proof_274",
+  "date": "2025-12-08",
+  "time_local": "14:27",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_274_WallTempReading_1427.jpg",
+    "cid": "bafybeibygj5iiwm7q6mepi3eth3at6atm72tbvkhshzre2qhnpfmlv7gcu",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibygj5iiwm7q6mepi3eth3at6atm72tbvkhshzre2qhnpfmlv7gcu"
+  },
+  "category": "environmental-monitoring",
+  "observations": {
+    "temperature_c": 26.4,
+    "humidity_percent": 60,
+    "location_detail": "exterior brick wall",
+    "system_relevance": "micro-climate validation for crop, animal, and environmental fluctuation analysis"
+  },
+  "license": "MMFARM-POL-2025"
+}

@@ -1,0 +1,8 @@
+{
+  "proof_id": 264,
+  "date": "2025-12-08",
+  "sha256_md": "748fd15acc14171abdc655b68170fc3eb9d444219363afc95b0b9b4a92dc135f",
+  "sha256_json": "f42b26917853b0d070ef8bfb1b44f59857ee31c0cd1cb497fb0ff0210d7101a8",
+  "notes": "DGCP Daily real-work data — two-file model (MD + JSON).",
+  "license": "MMFARM-POL-2025"
+}

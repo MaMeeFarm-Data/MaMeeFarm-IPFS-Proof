@@ -1,0 +1,18 @@
+{
+  "proof_id": "Proof_267",
+  "date": "2025-12-08",
+  "time_local": "06:56",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_267_DuckCoopTemp_185C_0656.jpg",
+    "cid": "bafybeib7z7ltpccllqtw52qf3flvtx7imt3mv4ekvx2npzfis3ddeflj6e",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeib7z7ltpccllqtw52qf3flvtx7imt3mv4ekvx2npzfis3ddeflj6e"
+  },
+  "measurements": {
+    "temperature_c": 18.2,
+    "humidity_pct": 90,
+    "environment_context": "Cold and moisture-dense air affecting flock biological performance."
+  },
+  "correlation": "Environmental metrics align with reduced egg output recorded earlier.",
+  "license": "MMFARM-POL-2025"
+}

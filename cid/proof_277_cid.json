@@ -1,0 +1,20 @@
+{
+  "proof_id": "Proof_277",
+  "date": "2025-12-08",
+  "time_local": "17:29",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_277_DuckCoopTemp_1729.jpg",
+    "cid": "bafybeidmax7oj3caamgeg3a4mkn6shzrenaiqmdc53lycrfwkvtueb6eo4",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidmax7oj3caamgeg3a4mkn6shzrenaiqmdc53lycrfwkvtueb6eo4"
+  },
+  "category": "environmental-stability",
+  "observations": {
+    "inside_temp_c": 24.7,
+    "outside_temp_c": 23.9,
+    "humidity_percent": 74,
+    "unit_type": "Daily Environmental Stability Unit",
+    "system_relevance": "Validates microclimate conditions impacting duck health and nighttime safety."
+  },
+  "license": "MMFARM-POL-2025"
+}

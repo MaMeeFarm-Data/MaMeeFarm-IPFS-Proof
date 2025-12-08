@@ -1,0 +1,18 @@
+{
+  "proof_id": "Proof_266",
+  "date": "2025-12-08",
+  "time_local": "06:52",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_266_EggWeight_549g_0652.jpg",
+    "cid": "bafybeialfxzo7mpfrjtzy7s3xeth6h2jpv3mycy6ymewi45vpawci5bygy",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeialfxzo7mpfrjtzy7s3xeth6h2jpv3mycy6ymewi45vpawci5bygy"
+  },
+  "measurements": {
+    "egg_weight_g": 54.9,
+    "egg_count": 1,
+    "context": "Weight aligns with cold, humid morning conditions recorded earlier."
+  },
+  "notes": "Biological metrics dataset confirming stable output from 3-duck flock.",
+  "license": "MMFARM-POL-2025"
+}

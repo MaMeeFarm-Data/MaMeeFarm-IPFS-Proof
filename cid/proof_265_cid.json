@@ -1,0 +1,17 @@
+{
+  "proof_id": "Proof_265",
+  "date": "2025-12-08",
+  "time_local": "06:46",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_265_ThreeDucksMorning_0646.jpg",
+    "cid": "bafybeifq7h5nz5zpvr75gcnubopile5pst3p6q4qjcoibobboh343wdz2i",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifq7h5nz5zpvr75gcnubopile5pst3p6q4qjcoibobboh343wdz2i"
+  },
+  "observations": {
+    "ducks_observed": 3,
+    "condition": "Active and healthy despite cold, humid environment.",
+    "correlation": "Behavior consistent with biological output of 1 egg (Proof_264)."
+  },
+  "license": "MMFARM-POL-2025"
+}

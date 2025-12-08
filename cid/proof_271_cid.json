@@ -1,0 +1,20 @@
+{
+  "proof_id": "Proof_271",
+  "date": "2025-12-08",
+  "time_local": "12:56",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_271_OnionSproutingGarden_1256.jpg",
+    "cid": "bafybeia2cwazb37kqdz42s5lr2qg763643gimc4vaqtiub6cqzx6qe7l74",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia2cwazb37kqdz42s5lr2qg763643gimc4vaqtiub6cqzx6qe7l74"
+  },
+  "category": "crop-growth-observation",
+  "observations": {
+    "plant": "onion",
+    "growth_stage": "active sprouting",
+    "soil_condition": "moist, organic-rich topsoil",
+    "ecosystem": "mixed vegetation and natural mulch",
+    "system_relevance": "validates regenerative cycles and soil response"
+  },
+  "license": "MMFARM-POL-2025"
+}

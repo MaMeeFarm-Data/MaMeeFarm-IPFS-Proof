@@ -1,0 +1,17 @@
+{
+  "proof_id": "Proof_264",
+  "date": "2025-12-08",
+  "time_local": "06:44",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_264_DuckEggFound_0644.jpg",
+    "cid": "bafybeid5eufdwh26u4fhw7f6mqdbi2t5vnfmgb4op36eg3xvnz3oww7zm4",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeid5eufdwh26u4fhw7f6mqdbi2t5vnfmgb4op36eg3xvnz3oww7zm4"
+  },
+  "measurements": {
+    "egg_count": 1,
+    "environment_notes": "Moist ground, cold air, high humidity consistent with early-morning weather."
+  },
+  "notes": "Biological proof of egg output aligned with environmental dataset.",
+  "license": "MMFARM-POL-2025"
+}

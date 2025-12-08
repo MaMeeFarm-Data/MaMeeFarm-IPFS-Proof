@@ -1,0 +1,20 @@
+{
+  "proof_id": "Proof_275",
+  "date": "2025-12-08",
+  "time_local": "17:03",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_275_MaMee_HarvestBanana_1703.jpg",
+    "cid": "bafybeifrcywzzp2hjnl62jzh7wzqpolaavvbv7uppvwyqxrffcsrsmxfey",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifrcywzzp2hjnl62jzh7wzqpolaavvbv7uppvwyqxrffcsrsmxfey"
+  },
+  "category": "crop-harvest",
+  "observations": {
+    "crop_type": "banana",
+    "harvest_unit": "RWD Crop Harvest Unit",
+    "harvest_output": "full banana bunch",
+    "tree_status": "mature, ready for cluster removal",
+    "system_relevance": "validates real-world crop yield, seasonal timing, and labor evidence under DGCP"
+  },
+  "license": "MMFARM-POL-2025"
+}

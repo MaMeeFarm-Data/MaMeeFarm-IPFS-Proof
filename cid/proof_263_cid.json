@@ -1,0 +1,17 @@
+{
+  "proof_id": "Proof_263",
+  "date": "2025-12-08",
+  "time_local": "06:43",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "media": {
+    "file": "Proof_263_MorningOutsideTemp0643.jpg",
+    "cid": "bafybeif66fzp4z5irk6wgurweuezcel73ptsivgxaq2mkwbphs7rbazfda",
+    "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif66fzp4z5irk6wgurweuezcel73ptsivgxaq2mkwbphs7rbazfda"
+  },
+  "measurements": {
+    "temperature_c": 19.1,
+    "humidity_pct": 75
+  },
+  "notes": "Cold morning with high humidity suggesting possible rainfall.",
+  "license": "MMFARM-POL-2025"
+}

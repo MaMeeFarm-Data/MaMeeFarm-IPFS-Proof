@@ -1,0 +1,14 @@
+{
+  "filename": "cid/proof__290.cid.json",
+  "proof_id": "290",
+  "title": "Evening Duck Check (17:38)",
+  "timestamp": "2025-12-09 17:38:00",
+  "unit": "DGCP Real-World Labor Unit",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "ipfs": {
+    "cid": "bafybeifhwupkrlzzqyyhzoqprlsrdh7kbemkrgernicmtwzsxo2sbowyii",
+    "raw_media": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifhwupkrlzzqyyhzoqprlsrdh7kbemkrgernicmtwzsxo2sbowyii"
+  },
+  "license": "MMFARM-POL-2025",
+  "notes": "Evening husbandry check confirming duck activity and feed availability. SHA-256 + OTS to be appended later following DGCP append-only protocol."
+}

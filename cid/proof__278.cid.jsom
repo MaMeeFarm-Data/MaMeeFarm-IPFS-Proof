@@ -1,0 +1,14 @@
+{
+  "filename": "cid/proof__278.cid.jsom",
+  "proof_id": "278",
+  "title": "Morning Wall Temperature @ 07:14",
+  "timestamp": "2025-12-09 07:14:00",
+  "unit": "Daily Environmental Baseline Unit",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "ipfs": {
+    "cid": "bafybeihjqmlp7qqvfvh4lxiiqrigsxpsa3qt7zudjuqpnx3gegiymdc5wi",
+    "raw_media": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihjqmlp7qqvfvh4lxiiqrigsxpsa3qt7zudjuqpnx3gegiymdc5wi"
+  },
+  "license": "MMFARM-POL-2025",
+  "notes": "SHA-256 and OpenTimestamps evidence will be recorded in a separate file after this commit."
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "cid/proof__285.cid.json",
+  "proof_id": "285",
+  "title": "Midday Wall Temperature @ 12:28",
+  "timestamp": "2025-12-09 12:28:00",
+  "unit": "Environmental Unit",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "ipfs": {
+    "cid": "bafybeic56yjdpx5ipfef2zyqkruefxg3hj3uwpwrhkukcxql3ku2tmsgym",
+    "raw_media": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic56yjdpx5ipfef2zyqkruefxg3hj3uwpwrhkukcxql3ku2tmsgym"
+  },
+  "license": "MMFARM-POL-2025",
+  "notes": "SHA-256 and OpenTimestamps evidence will be recorded in a separate file after this commit."
+}

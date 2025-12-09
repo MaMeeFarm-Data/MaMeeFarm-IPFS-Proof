@@ -1,0 +1,14 @@
+{
+  "filename": "cid/proof__289.cid.json",
+  "proof_id": "289",
+  "title": "Evening Temperature (No Sun) 16:38",
+  "timestamp": "2025-12-09 16:38:00",
+  "unit": "DGCP Environmental Unit",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "ipfs": {
+    "cid": "bafybeifmn7abbyaxcyb4e3y6rck7ahjcb3ti3jto24zoochnao7aoqirve",
+    "raw_media": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifmn7abbyaxcyb4e3y6rck7ahjcb3ti3jto24zoochnao7aoqirve"
+  },
+  "license": "MMFARM-POL-2025",
+  "notes": "Evening environmental reading. SHA-256 + OTS will be appended in a later commit."
+}

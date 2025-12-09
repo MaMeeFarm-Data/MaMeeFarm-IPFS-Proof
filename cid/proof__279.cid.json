@@ -1,0 +1,14 @@
+{
+  "filename": "cid/proof__279.cid.json",
+  "proof_id": "279",
+  "title": "Heavy Morning Fog @ 07:15",
+  "timestamp": "2025-12-09 07:15:00",
+  "unit": "Environmental Observation Unit",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "ipfs": {
+    "cid": "bafybeibsfvdkst46h2to3lxjjjw4fg246oimve5xonbhvr3hr3zmu46zp4",
+    "raw_media": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibsfvdkst46h2to3lxjjjw4fg246oimve5xonbhvr3hr3zmu46zp4"
+  },
+  "license": "MMFARM-POL-2025",
+  "notes": "SHA-256 and OpenTimestamps evidence will be recorded in a separate file after this commit."
+}

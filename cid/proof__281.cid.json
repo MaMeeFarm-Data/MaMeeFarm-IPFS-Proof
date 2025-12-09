@@ -1,0 +1,14 @@
+{
+  "filename": "cid/proof__281.cid.json",
+  "proof_id": "281",
+  "title": "Ducks Healthy Morning @ 08:09",
+  "timestamp": "2025-12-09 08:09:00",
+  "unit": "Animal Health & Behavior Unit",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "ipfs": {
+    "cid": "bafybeid3ozvmikusex3f5durr2cwrypriz5wamka3wb257bdqvxx3rrzxy",
+    "raw_media": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeid3ozvmikusex3f5durr2cwrypriz5wamka3wb257bdqvxx3rrzxy"
+  },
+  "license": "MMFARM-POL-2025",
+  "notes": "SHA-256 and OpenTimestamps evidence will be recorded in a separate file after this commit."
+}

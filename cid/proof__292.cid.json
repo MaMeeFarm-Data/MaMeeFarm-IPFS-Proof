@@ -1,0 +1,14 @@
+{
+  "filename": "cid/proof__292.cid.json",
+  "proof_id": "292",
+  "title": "Banana Tree Collapse (17:39)",
+  "timestamp": "2025-12-09 17:39:00",
+  "unit": "DGCP Environmental & Crop Condition Unit",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "ipfs": {
+    "cid": "bafybeihdm3xzfywuuvsjtvymke7f3g2r3chyzccpjk6mx7amn7xkuctgue",
+    "raw_media": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihdm3xzfywuuvsjtvymke7f3g2r3chyzccpjk6mx7amn7xkuctgue"
+  },
+  "license": "MMFARM-POL-2025",
+  "notes": "Banana tree collapse due to lack of support pole; recorded for crop condition and environmental vulnerability tracking. SHA-256 and OTS will be appended in a future append-only commit."
+}

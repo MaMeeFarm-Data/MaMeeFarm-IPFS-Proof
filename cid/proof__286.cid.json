@@ -1,0 +1,14 @@
+{
+  "filename": "cid/proof__286.cid.json",
+  "proof_id": "286",
+  "title": "Primary Farm Water Pump (12:29 PM)",
+  "timestamp": "2025-12-09 12:29:00",
+  "unit": "Physical Infrastructure Unit",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "ipfs": {
+    "cid": "bafybeicwfw2dio6af3aib6dr5ynwwdagfcnv7czxxjdyzlrdwve64qnhbm",
+    "raw_media": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicwfw2dio6af3aib6dr5ynwwdagfcnv7czxxjdyzlrdwve64qnhbm"
+  },
+  "license": "MMFARM-POL-2025",
+  "notes": "SHA-256 hash and OpenTimestamps export will be attached in a follow-up commit according to DGCP v2025 standards."
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2025-12-09",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "license": "MMFARM-POL-2025",
+  "summary": {
+    "proof_range": "278-294",
+    "egg_weight_grams": 55.4,
+    "puppies_born": 6
+  },
+
+  "environmental_readings": [
+    { "time": "08:10", "proof": 278, "description": "Morning temperature and humidity." },
+    { "time": "12:28", "proof": 285, "temperature_c": 25.0, "humidity_percent": 56 },
+    { "time": "16:38", "proof": 289, "temperature_c": 25.5, "humidity_percent": 61 },
+    { "time": "17:38", "proof": 291, "coop_in_c": 22.8, "coop_out_c": 21.9, "humidity_percent": 72 },
+    { "time": "18:56", "proof": 294, "temperature_c": 25.3, "humidity_percent": 67 }
+  ],
+
+  "biological_output": [
+    {
+      "time": "08:19",
+      "proof": 284,
+      "egg_weight_grams": 55.4,
+      "notes": "Healthy Khaki Campbell range."
+    }
+  ],
+
+  "farm_operations": [
+    { "time": "08:10", "proof": 283, "task": "Duck coop cleaning by MaMee." },
+    { "time": "12:29", "proof": 286, "task": "Water pump system check." },
+    { "time": "12:37", "proof": 287, "task": "Well-water level observation." },
+    { "time": "17:38", "proof": 290, "task": "Evening duck check." }
+  ],
+
+  "life_unit_events": [
+    { "time": "15:51", "proof": 288, "description": "Khaoniew giving birth (initial stage)." },
+    { "time": "18:55", "proof": 293, "description": "Total 6 puppies born; mother stable." }
+  ],
+
+  "crop_conditions": [
+    {
+      "time": "17:39",
+      "proof": 292,
+      "description": "Banana tree collapsed due to no support pole."
+    }
+  ]
+}

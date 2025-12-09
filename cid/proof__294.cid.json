@@ -1,0 +1,14 @@
+{
+  "filename": "cid/proof__294.cid.json",
+  "proof_id": "294",
+  "title": "End-of-Day Temperature (18:56)",
+  "timestamp": "2025-12-09 18:56:00",
+  "unit": "DGCP Environmental Monitoring Unit",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "ipfs": {
+    "cid": "bafybeiajf5g7s4pl3p2kcfowygtfc35j4sasdc7uxpv34cpw7zmk3ulise",
+    "raw_media": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiajf5g7s4pl3p2kcfowygtfc35j4sasdc7uxpv34cpw7zmk3ulise"
+  },
+  "notes": "Final environmental reading for the day, closing the continuous DGCP dataset.",
+  "license": "MMFARM-POL-2025"
+}

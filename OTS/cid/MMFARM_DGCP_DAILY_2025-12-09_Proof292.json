@@ -1,0 +1,8 @@
+{
+  "proof_id": 292,
+  "date": "2025-12-09",
+  "sha256_json": "e15afe2340d161f320fc423c0eab4a0ff2c4567706b9a393c59b75f16b010aa",
+  "sha256_md": "ceb6636296e120ccfa9a59a583a49ce5029c1efe28fb7a24d691f3bcdf5d5bf6",
+  "notes": "Proof 292 follows the DGCP 2-file standard (MD + JSON). Includes OTS-backed SHA256 hashes and preserves immutable lineage.",
+  "license": "MMFARM-POL-2025"
+}

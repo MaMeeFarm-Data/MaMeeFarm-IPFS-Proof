@@ -1,0 +1,8 @@
+{
+  "proof_id": 290,
+  "date": "2025-12-09",
+  "sha256_md": "4420d809ad41752566dc1c574533763b147c7d53059873e26de2624a0d54789bd",
+  "sha256_json": "8875db3c2d2829e8a005243bcd4315283b8621e732fb43b8127ec7b61be5227bd",
+  "notes": "DGCP 2-file model (MD + JSON). SHA256 hashes captured post-OTS. Part of continuous MaMeeFarm data lineage.",
+  "license": "MMFARM-POL-2025"
+}

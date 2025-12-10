@@ -1,0 +1,8 @@
+{
+  "proof_id": 293,
+  "date": "2025-12-09",
+  "sha256_json": "b626c85b4a7292113ce66471c318734b6d27071c1ebec222819592bddc242b57",
+  "sha256_md": "912073907db9737e2d46a4e8c51e308f84b3eebc6fc12f246b54d77be44f6e6f",
+  "notes": "Proof 293 created using the DGCP 2-file pattern (MD + JSON). Includes OTS-backed SHA256 hashes to maintain verifiable and immutable chain.",
+  "license": "MMFARM-POL-2025"
+}

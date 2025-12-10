@@ -1,0 +1,8 @@
+{
+  "proof_id": 301,
+  "date": "2025-12-10",
+  "sha256_json": "95d15f1db8e79cbc509de9e676b925810eb15671b61d10fc12942264bf74b294",
+  "sha256_md": "6fc2171f056e743f613c07d88efa20882ddcaf7506f4918d56a34f56e518c8c8",
+  "notes": "DGCP daily proof using dual SHA256 structure and OTS verification. Fully aligned with Proof_060 standard.",
+  "license": "MMFARM-POL-2025"
+}

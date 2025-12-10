@@ -1,0 +1,8 @@
+{
+  "proof_id": 300,
+  "date": "2025-12-10",
+  "sha256_json": "3daea03885eab955f3b3a2d999ff8799205a95fdfd47e4664bf384950039591",
+  "sha256_md": "a726d05a518f5d7c3503bb31f628d749c5bd35eb96c1e031fd6716ac27c5707",
+  "notes": "Proof 300 — DGCP milestone proof. Includes dual SHA256 hashes (JSON+MD) verified via OTS.",
+  "license": "MMFARM-POL-2025"
+}

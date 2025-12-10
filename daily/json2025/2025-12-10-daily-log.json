@@ -1,0 +1,59 @@
+{
+  "date": "2025-12-10",
+  "egg_production": {
+    "count": 1,
+    "weight_grams": 53,
+    "proof_id": 295
+  },
+  "environmental_data": [
+    {
+      "time": "17:06",
+      "temperature_c": 24.9,
+      "humidity_percent": 54,
+      "proof_id": 308
+    },
+    {
+      "time": "17:38",
+      "temperature_indoor_c": 23.4,
+      "temperature_outdoor_c": 22.1,
+      "humidity_percent": 63,
+      "proof_id": 311
+    },
+    {
+      "time": "19:51",
+      "temperature_c": 20.8,
+      "humidity_percent": 65,
+      "proof_id": 313
+    }
+  ],
+  "duck_welfare": {
+    "evening_check": {
+      "time": "17:38",
+      "duck_count": 3,
+      "feed_available": true,
+      "water_refreshed": true,
+      "shelter_condition": "dry",
+      "proof_id": 310
+    }
+  },
+  "puppy_birth_events": [
+    {
+      "time": "17:37",
+      "new_puppies": 2,
+      "total_registered": 3,
+      "mother": "Khao-Nueng",
+      "proof_id": 309
+    },
+    {
+      "time": "19:51",
+      "new_puppies": 4,
+      "with_khao_niew": 1,
+      "total_registered": 5,
+      "mother": "Khao-Nueng",
+      "proof_id": 312
+    }
+  ],
+  "proof_range": "295-313",
+  "dgcp_spec": "DGCP Master Pattern 2025-12-08",
+  "license": "MMFARM-POL-2025"
+}

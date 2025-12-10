@@ -1,0 +1,8 @@
+{
+  "proof_id": 296,
+  "date": "2025-12-10",
+  "sha256_json": "c3fec1c1a4d23582a058eeaf332cd7304abbb15bacbcadd3a3e2202271137d75",
+  "sha256_md": "87c1bbf008bcad77391f8d7f18c1dd3dee70f9aec9372e18c06e84c39fc3a764",
+  "notes": "Proof 296 created under DGCP Real-World Proof standard (MD + JSON). SHA256 hashes recorded post-OpenTimestamps verification.",
+  "license": "MMFARM-POL-2025"
+}

@@ -1,0 +1,12 @@
+{
+  "proof_id": 304,
+  "date": "2025-12-10",
+  "time": "12:14",
+  "category": "environment_water_level",
+  "description": "Well water level visibly reduced, exposing lower concrete rings. Logged as DGCP Environmental Resource Monitoring (PoDATA → Water Systems) for irrigation and operation forecasting.",
+  "filename": "Proof_304_WellWaterLevel_1214_MaMeeFarm.jpg",
+  "cid": "bafybeig4w3q2ojxmmgtf6rs3yz7acvudc3lplzjj4s5ymngnyuhjtjp5vy",
+  "location": "MaMeeFarm",
+  "dgcp_spec": "DGCP Master Pattern 2025-12-08",
+  "license": "MMFARM-POL-2025"
+}

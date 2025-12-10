@@ -1,0 +1,12 @@
+{
+  "proof_id": 308,
+  "date": "2025-12-10",
+  "time": "17:06",
+  "category": "temperature_climate_surface",
+  "description": "Evening ambient temperature reading at 17:06 with 24.9°C and 54% RH for DGCP Climate Surface tracking, used to correlate duck behavior, feed intake, newborn puppy comfort, and micro-climate transition.",
+  "filename": "Proof_308_Temperature_1706_MaMeeFarm.jpg",
+  "cid": "bafybeihhe4mjwtyalftaq5qmduwot7u4w6edqphlajtct3axkdbzm64a2y",
+  "location": "MaMeeFarm",
+  "dgcp_spec": "DGCP Master Pattern 2025-12-08",
+  "license": "MMFARM-POL-2025"
+}

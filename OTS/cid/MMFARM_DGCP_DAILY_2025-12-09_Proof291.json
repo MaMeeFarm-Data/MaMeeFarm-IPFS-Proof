@@ -1,0 +1,8 @@
+{
+  "proof_id": 291,
+  "date": "2025-12-09",
+  "sha256_md": "335ed20e5bcb8a9d186c430480fb4095bae9db6e93592a2f931a1b9fddad4bc6",
+  "sha256_json": "d5866a88ac513eae7249ee5927d2a4904b27c40554c12c4958c68aa505c8cea",
+  "notes": "DGCP 2-file model (MD + JSON). SHA256 hashes captured post-OTS. Structured for immutable DGCP lineage.",
+  "license": "MMFARM-POL-2025"
+}

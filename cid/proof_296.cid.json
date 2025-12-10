@@ -1,0 +1,17 @@
+{
+  "proof_id": 296,
+  "date": "2025-12-10",
+  "time": "06:56",
+  "category": "environmental_reading",
+  "description": "Morning temperature reading recorded at 06:56 inside and outside the duck coop.",
+  "readings": {
+    "temp_in": "16.9°C",
+    "temp_out": "16.3°C",
+    "humidity": "88%"
+  },
+  "filename": "Proof_296_DuckCoopTemp_0656_169C.jpg",
+  "cid": "bafybeicy2hgzqn6ea6zd7xq3jm6lsepxv7ldgnxmqopmlgzvzvcdopdgti",
+  "location": "MaMeeFarm",
+  "dgcp_spec": "DGCP Master Pattern 2025-12-08",
+  "license": "MMFARM-POL-2025"
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "date": "2025-12-11",
+  "farm": "MaMeeFarm",
+  "dgcp_version": "2025",
+  "proof_range": {
+    "start": 314,
+    "end": 318
+  },
+  "environmental_readings": [
+    {
+      "proof_index": 314,
+      "time": "07:00",
+      "location_surface": "Outdoor Wall",
+      "temperature_c": 15.8,
+      "humidity_rh": 74
+    },
+    {
+      "proof_index": 318,
+      "time": "16:44",
+      "location_surface": "Duck Shelter",
+      "indoor_temp_c": 25.6,
+      "outdoor_temp_c": 25.3,
+      "humidity_rh": 68
+    }
+  ],
+  "animal_output": [
+    {
+      "proof_index": 315,
+      "time": "07:02",
+      "duck_count_active": 3,
+      "egg_output_count": 1,
+      "location_surface": "Duck Enclosure Ground"
+    }
+  ],
+  "egg_quality": [
+    {
+      "proof_index": 316,
+      "time": "07:11",
+      "weight_grams": 53.2,
+      "source_proof_index": 315,
+      "device_type": "Digital Scale"
+    }
+  ],
+  "welfare_checks": [
+    {
+      "proof_index": 317,
+      "time": "16:44",
+      "duck_count": 3,
+      "feed_status": "Feed Present",
+      "water_status": "Water Available",
+      "enclosure_state": "Dry Ground Surface"
+    }
+  ],
+  "chain_notes": {
+    "storage_pipeline": "Pinata → IPFS → DGCP → Polygon",
+    "temporary_pinata_use": true,
+    "comment": "Image and NFT metadata are temporarily stored via Pinata/IPFS to maintain continuity of the DGCP proof chain while storage is being adjusted."
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

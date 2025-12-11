@@ -1,0 +1,28 @@
+{
+  "image": "ipfs://bafybeige5c65vmkkwovxgql6d7a7ponpg46vbsgiiixu6m7lhgyttdq7sm",
+  "name": "Proof_314 — Morning Temperature Reading (2025-12-11, 07:00)",
+  "description": "At 07:00 on 2025-12-11, a morning environmental reading was recorded at the MaMeeFarm outdoor wall surface.\nMeasured values:\n\nTemperature: 15.8°C\n\nHumidity: 74% RH\n\nThis dataset was captured under DGCP™ Environmental Surface protocol to document early-morning microclimate conditions, thermal drop patterns, and humidity levels affecting daily animal-welfare operations.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Index",
+      "value": "314"
+    },
+    {
+      "trait_type": "Source Chain",
+      "value": "Pinata → IPFS → DGCP"
+    },
+    {
+      "trait_type": "Capture Type",
+      "value": "Environmental Reading"
+    },
+    {
+      "trait_type": "Time Window",
+      "value": "Morning (07:00)"
+    },
+    {
+      "trait_type": "Location Surface",
+      "value": "Outdoor Wall Surface"
+    }
+  ]
+}

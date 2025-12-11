@@ -1,0 +1,8 @@
+{
+  "proof_id": 304,
+  "date": "2025-12-10",
+  "sha256_json": "d0ee24f733f21b5cea48721105ca8daae6b70a920f351f36b4fc7da8d9922de",
+  "sha256_md": "60cb72fcc8cccf2649ed5595df60982879f2ecb95345d5c8cda7c1405a732e0d9",
+  "notes": "DGCP dual-proof structure. Fully validated via OpenTimestamps. Matches Proof_060 master formatting.",
+  "license": "MMFARM-POL-2025"
+}

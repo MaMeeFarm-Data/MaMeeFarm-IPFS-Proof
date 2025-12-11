@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeiffx3qpr5u7qdxpe3tyrgxngszolxx2ct6wyiraug3bal47vsyxre",
+  "name": "Proof_317 — Evening Duck Welfare Check (2025-12-11, 16:44)",
+  "description": "At 16:44 on 2025-12-11, an evening welfare check was conducted on the remaining three ducks at MaMeeFarm.  \nThe inspection verified feed availability, water presence, enclosure conditions, and general behavior stability within the flock.\n\nThis record serves as verifiable evidence of routine animal welfare monitoring under the DGCP™ continuous proof system.\n\nLicense: DGCP | MMFARM-POL-2025\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Index",
+      "value": "317"
+    },
+    {
+      "trait_type": "Source Chain",
+      "value": "Pinata → IPFS → DGCP"
+    },
+    {
+      "trait_type": "Capture Type",
+      "value": "Animal Welfare Observation"
+    },
+    {
+      "trait_type": "Time Window",
+      "value": "Evening (16:44)"
+    },
+    {
+      "trait_type": "Duck Count",
+      "value": "3"
+    },
+    {
+      "trait_type": "Feed Status",
+      "value": "Feed Present"
+    },
+    {
+      "trait_type": "Water Status",
+      "value": "Water Available"
+    },
+    {
+      "trait_type": "Enclosure State",
+      "value": "Dry Ground Surface"
+    }
+  ]
+}

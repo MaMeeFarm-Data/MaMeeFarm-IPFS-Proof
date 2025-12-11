@@ -1,0 +1,12 @@
+{
+  "proof_id": 313,
+  "date": "2025-12-10",
+  "time": "19:51",
+  "category": "daily_climate_closing",
+  "description": "Final nightly temperature and humidity reading at MaMeeFarm interior wall: 20.8°C and 65% RH. Logged under DGCP Daily Climate Surface for correlating nighttime ambient conditions with newborn puppy and duck behavior.",
+  "filename": "Proof_313_FinalTemp_2025-12-10_1951_MMF.jpg",
+  "cid": "bafybeieo3rwldrwfwviw7d4ebxvfps3k3qxhtnyc6mnzyhuay3453krlhy",
+  "location": "MaMeeFarm",
+  "dgcp_spec": "DGCP Master Pattern 2025-12-08",
+  "license": "MMFARM-POL-2025"
+}

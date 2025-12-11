@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeigqgqwzbc666cruqs3cnmq2nbbmqjp54rzuxnhghltzknfexi4oqa",
+  "name": "Proof_318 — Evening Temperature Reading (2025-12-11, 16:44)",
+  "description": "At 16:44 on 2025-12-11, an evening environmental reading was taken in the duck shelter at MaMeeFarm.  \nMeasured values were 25.6°C indoors, 25.3°C outdoors, with relative humidity at 68%.\n\nThis dataset provides verifiable microclimate indicators under the DGCP™ continuous proof system, documenting late-day thermal and humidity conditions relevant to animal welfare.\n\nLicense: DGCP | MMFARM-POL-2025\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Index",
+      "value": "318"
+    },
+    {
+      "trait_type": "Source Chain",
+      "value": "Pinata → IPFS → DGCP"
+    },
+    {
+      "trait_type": "Capture Type",
+      "value": "Environmental Reading"
+    },
+    {
+      "trait_type": "Time Window",
+      "value": "Evening (16:44)"
+    },
+    {
+      "trait_type": "Indoor Temp",
+      "value": "25.6°C"
+    },
+    {
+      "trait_type": "Outdoor Temp",
+      "value": "25.3°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "68% RH"
+    },
+    {
+      "trait_type": "Location Surface",
+      "value": "Duck Shelter"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "proof_index": "320",
+  "date": "2025-12-12",
+  "time": "07:06",
+  "title": "Early Morning Shelter Temperature",
+  "nft_name": "Proof_320 — Early Morning Shelter Temperature (2025-12-12, 07:06)",
+  "image_cid": "bafybeicbdnnrpfttidp7kciwqmwhyrkbwputmr7zx2kijd3ngb4o6udvb4",
+  "source_chain": "Pinata → IPFS → DGCP",
+  "data_type": "Environmental Reading",
+  "measurements": {
+    "indoor_temperature_celsius": 19.9,
+    "outdoor_temperature_celsius": 19.4,
+    "humidity_percent": 89
+  },
+  "location": "Duck Shelter",
+  "device": "Digital Thermo-Hygrometer",
+  "license": "DGCP | MMFARM-POL-2025"
+}

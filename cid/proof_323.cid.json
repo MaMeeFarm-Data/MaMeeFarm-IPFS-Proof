@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeifqicaje7tu5skjjgv7qtstutfqel6hhzv34s5erxss4so4pu3cly",
+  "name": "Proof_323 — Egg Weight Measurement (2025-12-12, 16:25)",
+  "description": "After the egg was found during the late-afternoon routine care, it was weighed to record its actual size and condition.\n\nThe egg weighed 53.1 grams, which falls within the normal range for healthy laying ducks at MaMeeFarm.\n\nThis measurement helps track daily egg quality and physical consistency, serving as a simple but important data point in understanding long-term production patterns — without forcing or altering natural farm routines.\n\nLicense: DGCP | MMFARM-POL-2025",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Index",
+      "value": "323"
+    },
+    {
+      "trait_type": "Observation Type",
+      "value": "Egg Weight Measurement"
+    },
+    {
+      "trait_type": "Time Window",
+      "value": "Evening (16:25)"
+    },
+    {
+      "trait_type": "Egg Weight",
+      "value": "53.1 g"
+    },
+    {
+      "trait_type": "Egg Source",
+      "value": "Proof_322"
+    },
+    {
+      "trait_type": "Measurement Method",
+      "value": "Digital Scale"
+    },
+    {
+      "trait_type": "Duck Count",
+      "value": "3"
+    },
+    {
+      "trait_type": "Welfare Status",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Observation Tone",
+      "value": "Routine / Informational"
+    }
+  ]
+}

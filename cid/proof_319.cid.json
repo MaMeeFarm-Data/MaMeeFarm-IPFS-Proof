@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeibxssa4wup7px2zmgauxpdn2wa24fhsyaqgwhye5zpm3halk2byyi",
+  "name": "Proof_319 — Morning Welfare Check (No Egg Output) (2025-12-12, 07:07)",
+  "description": "At 07:07 on 2025-12-12, a morning welfare check was conducted on the three remaining ducks at MaMeeFarm.  \nNo eggs were produced during this cycle. The ducks appeared healthy, active, and stable within the enclosure.\n\nThis record documents a verified zero-output event under the DGCP™ continuous proof system, ensuring that absence of production is transparently recorded alongside positive animal welfare conditions.\n\nLicense: DGCP | MMFARM-POL-2025\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Index",
+      "value": "319"
+    },
+    {
+      "trait_type": "Source Chain",
+      "value": "Pinata → IPFS → DGCP"
+    },
+    {
+      "trait_type": "Capture Type",
+      "value": "Animal Welfare Observation"
+    },
+    {
+      "trait_type": "Time Window",
+      "value": "Morning (07:07)"
+    },
+    {
+      "trait_type": "Duck Count",
+      "value": "3"
+    },
+    {
+      "trait_type": "Egg Output",
+      "value": "0"
+    },
+    {
+      "trait_type": "Welfare Status",
+      "value": "Healthy / Stable"
+    },
+    {
+      "trait_type": "Observation Type",
+      "value": "Verified Zero-Output Event"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeigqrif4h37b7oydm3nmiis5x2k4frtkm4ernqcfivbrh2ijrwae5u",
+  "name": "Proof_322 — Evening Egg Found During Routine Care (2025-12-12, 16:22)",
+  "description": "In the late afternoon, during a routine visit to feed the ducks and refresh their water, one egg was unexpectedly found near the enclosure.\n\nEarlier in the morning, no eggs were recorded.\nThe discovery confirms that egg-laying can occur outside the usual morning window and reflects natural, unstressed behavior of the ducks.\n\nThis moment was observed during normal farm care activities, without intervention or forced conditions — simply daily life at MaMeeFarm.\n\nLicense: DGCP | MMFARM-POL-2025",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Index",
+      "value": "322"
+    },
+    {
+      "trait_type": "Observation Type",
+      "value": "Egg Discovery"
+    },
+    {
+      "trait_type": "Time Window",
+      "value": "Evening (16:22)"
+    },
+    {
+      "trait_type": "Egg Output",
+      "value": "1 Egg"
+    },
+    {
+      "trait_type": "Discovery Context",
+      "value": "Routine Feeding & Water Change"
+    },
+    {
+      "trait_type": "Duck Count",
+      "value": "3"
+    },
+    {
+      "trait_type": "Laying Pattern",
+      "value": "Outside Morning Cycle"
+    },
+    {
+      "trait_type": "Welfare Status",
+      "value": "Normal / Unstressed"
+    },
+    {
+      "trait_type": "Observation Tone",
+      "value": "Natural / Unexpected"
+    }
+  ]
+}

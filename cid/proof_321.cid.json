@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeig3qnkz3trjkkmps63dz4jqthglo366h4um4zuzfls2emusquobce",
+  "name": "Proof_321 — Farm Well Water Level Observation (Dry Season Signal)",
+  "description": "Today, the water level in the farm well was observed to be significantly lower than usual.\nThis decline raises concern about water availability during the upcoming dry season, particularly between March and May.\n\nWhile there is currently still usable water, the trend suggests that well maintenance and dredging will be required around March to sustain farm operations.\n\nThis record documents an early warning signal rather than an emergency, allowing forward planning for water management and farm resilience.\n\nLicense: DGCP | MMFARM-POL-2025",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Index",
+      "value": "321"
+    },
+    {
+      "trait_type": "Observation Type",
+      "value": "Resource Monitoring"
+    },
+    {
+      "trait_type": "Resource",
+      "value": "Groundwater (Farm Well)"
+    },
+    {
+      "trait_type": "Current Status",
+      "value": "Water Level Decreasing"
+    },
+    {
+      "trait_type": "Seasonal Signal",
+      "value": "Approaching Dry Season"
+    },
+    {
+      "trait_type": "Risk Window",
+      "value": "March–May"
+    },
+    {
+      "trait_type": "Planned Action",
+      "value": "Well Dredging (March)"
+    },
+    {
+      "trait_type": "Impact Area",
+      "value": "Farm Water Supply"
+    },
+    {
+      "trait_type": "Observation Tone",
+      "value": "Early Warning / Preventive"
+    }
+  ]
+}

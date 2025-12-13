@@ -1,0 +1,34 @@
+{
+  "image": "ipfs://bafybeihaymzmavtonsnpeaop7fmin5ldrzmnr3rx36m2jfchiwlbagafja",
+  "name": "Proof_325 — Morning Check: No Eggs Found Under Overcast Weather (2025-12-13 07:08)",
+  "description": "Morning observation at MaMeeFarm showed no eggs collected during the routine check.\nThe weather was overcast, creating low-light conditions.\nThe ducks appeared healthy and active, with no visible signs of stress or illness.\nThis record documents a zero-output event under normal farm conditions.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm – Mueang Pan, Lampang"
+    },
+    {
+      "trait_type": "Weather Condition",
+      "value": "Overcast"
+    },
+    {
+      "trait_type": "Egg Output",
+      "value": "0"
+    },
+    {
+      "trait_type": "Duck Health Status",
+      "value": "Healthy"
+    },
+    {
+      "trait_type": "Observation Tone",
+      "value": "Daily Farm Check"
+    },
+    {
+      "trait_type": "System",
+      "value": "DGCP Real-World Data"
+    }
+  ],
+  "opensea_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/13",
+  "license": "DGCP | MMFARM-POL-2025 License"
+}

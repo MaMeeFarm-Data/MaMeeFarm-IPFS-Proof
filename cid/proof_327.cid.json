@@ -1,0 +1,38 @@
+{
+  "image": "ipfs://bafybeihdsbxdqyskwobevlavftzh2kwmupfkhtknwtdogb3pyweq2gfp7i",
+  "name": "Proof_327 — Duck Coop Temperature & Humidity Measurement (2025-12-13 11:05)",
+  "description": "A temperature and humidity measurement was recorded inside the duck coop at MaMeeFarm.\nThe reading was taken during a late-morning check to monitor environmental conditions within the housing area.\nThis record documents on-site conditions as observed, supporting routine environmental tracking under normal farm operations.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Duck Coop, MaMeeFarm"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Late Morning"
+    },
+    {
+      "trait_type": "Indoor Temperature (°C)",
+      "value": "24.7"
+    },
+    {
+      "trait_type": "Outdoor Temperature (°C)",
+      "value": "26.3"
+    },
+    {
+      "trait_type": "Humidity (%RH)",
+      "value": "73"
+    },
+    {
+      "trait_type": "Observation Type",
+      "value": "Environmental Measurement"
+    },
+    {
+      "trait_type": "System",
+      "value": "DGCP Real-World Data"
+    }
+  ],
+  "opensea_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/15",
+  "license": "DGCP | MMFARM-POL-2025 License"
+}

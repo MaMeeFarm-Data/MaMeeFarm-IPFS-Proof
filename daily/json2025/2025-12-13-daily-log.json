@@ -1,0 +1,58 @@
+{
+  "date": "2025-12-13",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "system": "DGCP Real-World Data",
+  "weather_summary": "Overcast",
+  "egg_output": {
+    "total_eggs": 1,
+    "egg_weight_grams": 50
+  },
+  "duck_health_status": "Healthy",
+  "proofs": [
+    {
+      "proof_id": 324,
+      "time": "07:04",
+      "type": "Environmental Measurement",
+      "details": {
+        "temperature_c": 19.2,
+        "humidity_percent": 82
+      }
+    },
+    {
+      "proof_id": 325,
+      "time": "07:08",
+      "type": "Morning Farm Check",
+      "details": {
+        "egg_output": 0,
+        "condition": "Overcast"
+      }
+    },
+    {
+      "proof_id": 326,
+      "time": "11:02",
+      "type": "Egg Discovery",
+      "details": {
+        "egg_output": 1
+      }
+    },
+    {
+      "proof_id": 327,
+      "time": "11:05",
+      "type": "Duck Coop Environment",
+      "details": {
+        "indoor_temperature_c": 24.7,
+        "outdoor_temperature_c": 26.3,
+        "humidity_percent": 73
+      }
+    },
+    {
+      "proof_id": 328,
+      "time": "11:09",
+      "type": "Egg Weight Measurement",
+      "details": {
+        "egg_weight_grams": 50
+      }
+    }
+  ],
+  "license": "DGCP | MMFARM-POL-2025 License"
+}

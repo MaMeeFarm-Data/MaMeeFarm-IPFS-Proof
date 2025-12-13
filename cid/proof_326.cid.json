@@ -1,0 +1,34 @@
+{
+  "image": "ipfs://bafybeihe3a6kzxmzw3i5jd5gl3y366edhhnfarcmwwivupmg6h5mixpn3a",
+  "name": "Proof_326 — Midday Check: One Duck Egg Found After Previous Evening Laying (2025-12-13 11:02)",
+  "description": "A midday inspection at MaMeeFarm resulted in the discovery of one duck egg.\nThis follow-up check was conducted due to a previous egg found the day before during an afternoon observation (Proof 322 at 16:22).\nThe egg was located during the 11:02 inspection, confirming continued laying activity under normal farm conditions.\nThis record documents a verified single-egg output observed during a routine midday round.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Late Morning"
+    },
+    {
+      "trait_type": "Egg Output",
+      "value": "1"
+    },
+    {
+      "trait_type": "Reference Context",
+      "value": "Follow-up from Previous Day Observation"
+    },
+    {
+      "trait_type": "Observation Type",
+      "value": "Routine Farm Check"
+    },
+    {
+      "trait_type": "System",
+      "value": "DGCP Real-World Data"
+    }
+  ],
+  "opensea_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/14",
+  "license": "DGCP | MMFARM-POL-2025 License"
+}

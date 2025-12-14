@@ -1,0 +1,10 @@
+{
+  "proof_index": "331",
+  "source": "OpenSea",
+  "network": "Polygon",
+  "opensea_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/19",
+  "image_ipfs": "ipfs://bafybeick4nypvtzz7tgab6vuowoek42sqahlx3gt5rodj244qncziqizqq",
+  "record_type": "Preventive Farm Risk Observation",
+  "license": "DGCP | MMFARM-POL-2025",
+  "note": "Metadata source-of-truth is OpenSea. This CID file records linkage only."
+}

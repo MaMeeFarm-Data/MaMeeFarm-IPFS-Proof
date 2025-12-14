@@ -1,0 +1,17 @@
+{
+  "proof_index": 329,
+  "date": "2025-12-14",
+  "time": "08:04",
+  "title": "Morning Weather Condition",
+  "source_platform": "OpenSea (Polygon)",
+  "ipfs_metadata": "ipfs://bafybeianpau2jqkm4ybyj23wjrornl5zls26g4wjmyryr5njzw7n4mruoq",
+  "related_proof_md": "proof/proof_329.md",
+  "temperature_celsius": "19.8",
+  "humidity_percent": "81",
+  "observation_type": "Weather Observation",
+  "time_window": "Morning",
+  "seasonal_context": "Cool Season Morning",
+  "environment_tone": "Calm / Stable",
+  "dgcp_system": "DGCP™ Continuous Proof System",
+  "license": "DGCP | MMFARM-POL-2025"
+}

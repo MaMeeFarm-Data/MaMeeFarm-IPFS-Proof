@@ -1,0 +1,19 @@
+{
+  "file": "cid/proof_332_cid.json",
+  "proof_index": 332,
+  "source": {
+    "type": "opensea",
+    "opensea_item_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/20"
+  },
+  "ipfs": {
+    "image_uri": "ipfs://bafybeigwzvuzswgcrcj2m6ehirqqjy5gujgoqxdeno4qolxces4djcoiyi",
+    "image_cid": "bafybeigwzvuzswgcrcj2m6ehirqqjy5gujgoqxdeno4qolxces4djcoiyi",
+    "image_gateway": "https://ipfs.io/ipfs/bafybeigwzvuzswgcrcj2m6ehirqqjy5gujgoqxdeno4qolxces4djcoiyi"
+  },
+  "integrity": {
+    "sha256_proof_md": null,
+    "sha256_image": null,
+    "ots": null
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

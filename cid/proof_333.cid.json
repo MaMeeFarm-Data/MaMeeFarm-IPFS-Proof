@@ -1,0 +1,15 @@
+{
+  "proof_index": "333",
+  "proof_file": "proof/proof_333.md",
+  "date_time_local": "2025-12-14 14:33",
+  "source_metadata": "OpenSea (Polygon)",
+  "opensea_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/21",
+  "external_url": "https://www.mameefarm.com",
+  "chain": "OpenSea → IPFS → DGCP",
+  "evidence": {
+    "image_ipfs_uri": "ipfs://bafybeiblhkv4vqkzu3dqachz7rtth6lhnx2n7xtymt2ae24xzfaq7vce2u",
+    "image_gateway": "https://ipfs.io/ipfs/bafybeiblhkv4vqkzu3dqachz7rtth6lhnx2n7xtymt2ae24xzfaq7vce2u"
+  },
+ 
+  },
+  "license": "DGCP | MMFARM-POL-2025"

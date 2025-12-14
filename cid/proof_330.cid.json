@@ -1,0 +1,33 @@
+{
+  "proof_index": "330",
+  "source": {
+    "platform": "opensea",
+    "network": "polygon",
+    "contract": "0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1",
+    "token_id": "18",
+    "item_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/18"
+  },
+  "opensea_metadata": {
+    "image": "ipfs://bafybeicbnnhs7wo7gvj4k4o3wkcsamflycblt3b7m6m32moqnd74oflppy",
+    "name": "Proof_330 — No Egg Day During Molting Period",
+    "description": "Today, no eggs were found at MaMeeFarm.\n\nThe ducks appear healthy, active, and calm, with no signs of illness or stress.\nHowever, a noticeable increase in feather shedding was observed, indicating that the ducks are currently in a molting phase.\n\nMolting is a natural biological process during which egg production may temporarily stop as the ducks redirect energy toward feather renewal.\nThis event is considered normal and does not reflect a welfare or environmental issue.\n\nThis record documents a zero-egg day caused by natural molting, reinforcing transparency by recording both productivity and non-productivity periods as part of real farm life.\n\nLicense: DGCP | MMFARM-POL-2025",
+    "external_url": "https://www.mameefarm.com",
+    "attributes": [
+      { "trait_type": "Proof Index", "value": "330" },
+      { "trait_type": "Observation Type", "value": "Zero Egg Output" },
+      { "trait_type": "Duck Health Status", "value": "Healthy / Normal" },
+      { "trait_type": "Egg Output", "value": "0 Eggs" },
+      { "trait_type": "Primary Cause", "value": "Active Molting (Feather Shedding)" },
+      { "trait_type": "Behavior Condition", "value": "Calm / Normal" },
+      { "trait_type": "Farm Impact", "value": "Temporary Egg Pause" },
+      { "trait_type": "Observation Tone", "value": "Natural Biological Cycle" },
+      { "trait_type": "Documentation Purpose", "value": "Transparency in Non-Productive Events" }
+    ]
+  },
+  "ipfs": {
+    "cid": "bafybeicbnnhs7wo7gvj4k4o3wkcsamflycblt3b7m6m32moqnd74oflppy",
+    "uri": "ipfs://bafybeicbnnhs7wo7gvj4k4o3wkcsamflycblt3b7m6m32moqnd74oflppy",
+    "gateway": "https://ipfs.io/ipfs/bafybeicbnnhs7wo7gvj4k4o3wkcsamflycblt3b7m6m32moqnd74oflppy"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

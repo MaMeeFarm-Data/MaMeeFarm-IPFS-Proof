@@ -1,0 +1,10 @@
+{
+  "proof_id": 331,
+  "date": "2025-12-14",
+  "sha256_md": "2272b4041f710c909f7fba8b531fb697592c816854496fcb90234f42e9fdd93d",
+  "sha256_json": "7e34d31201ef1134a76b7b188728d4a01714e1ab39e2aa88a3a198faf8dde058",
+  "model": "DGCP Daily Proof (2-file standard)",
+  "verification": "OpenTimestamps",
+  "notes": "Hashes recorded after OpenTimestamps verification. Structure aligned with Proof 323 baseline and subsequent daily proofs.",
+  "license": "MMFARM-POL-2025"
+}

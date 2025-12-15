@@ -1,0 +1,43 @@
+{
+  "date": "2025-12-15",
+  "farm": "MaMeeFarm",
+  "location": "Thailand",
+  "proof_range": [334, 335, 336, 337, 338],
+  "environment": {
+    "season": "Cool season",
+    "morning_observation": "Recorded",
+    "abnormal_weather": false
+  },
+  "livestock": {
+    "duck_count": 1,
+    "duck_status": "Healthy",
+    "assumptions_made": false
+  },
+  "egg_production": {
+    "eggs_found": 1,
+    "egg_weight_grams": 54.4,
+    "measurement_method": "Digital scale"
+  },
+  "infrastructure": {
+    "solar_panels": "Old / reduced efficiency",
+    "public_electricity": false,
+    "public_water": false
+  },
+  "digital_work": {
+    "opensea_activity": {
+      "collection_7_ducks_of_hope": {
+        "nfts_minted": 2
+      },
+      "collection_seed_of_hope": {
+        "nfts_minted": 3
+      }
+    }
+  },
+  "documentation_principles": [
+    "Observation-based",
+    "No speculation",
+    "No rewriting of past data",
+    "Independent proofs"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

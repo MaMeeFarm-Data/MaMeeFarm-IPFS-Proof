@@ -1,0 +1,10 @@
+{
+  "proof_id": 336,
+  "date": "2025-12-15",
+  "sha256_md": "0a7112f6985b3dbb41bcd2467051aab99bc8a534106c70c4c32e4c75f48047",
+  "sha256_json": "6ee6ffb1e6475f0f24489bef417ea22697b2dea7d898dbbfbfdc3d1c015b09ef",
+  "model": "DGCP Daily Proof (2-file standard)",
+  "verification": "OpenTimestamps",
+  "continuity": "Continues from Proof 335",
+  "license": "MMFARM-POL-2025"
+}

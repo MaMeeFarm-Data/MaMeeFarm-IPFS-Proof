@@ -1,0 +1,26 @@
+
+{
+  "proof_index": 335,
+  "chain": "OpenSea → IPFS → DGCP",
+  "opensea_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/23",
+  "external_url": "https://www.mameefarm.com",
+  "event": {
+    "title": "One Egg Found in Duck Shelter (Morning)",
+    "egg_count": 1,
+    "location": "Duck shelter",
+    "duck_condition": "Healthy / Calm",
+    "observation_type": "Daily farm check",
+    "significance": "Small but real output"
+  },
+  "ipfs": {
+    "image_ipfs_uri": "ipfs://bafybeihsjxyndtj2i3vnvjkeecmx7e77mq3tfaxuaunpnwnz3ejbueca7m",
+    "image_cid": "bafybeihsjxyndtj2i3vnvjkeecmx7e77mq3tfaxuaunpnwnz3ejbueca7m",
+    "proof_md_ipfs_uri": "",
+    "proof_md_cid": ""
+  },
+  "files": {
+    "proof_markdown_path": "proof/proof_335.md",
+    "cid_json_path": "cid/proof_335_cid.json"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

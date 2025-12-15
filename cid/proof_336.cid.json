@@ -1,0 +1,10 @@
+{
+  "proof_index": "336",
+  "nft_platform": "OpenSea (Polygon)",
+  "nft_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/24",
+  "image_cid": "ipfs://bafybeiakyga6j4mlcqgd6a5kzootoqfvg6srojnr6mpewrpnzkiacpq2dq",
+  "metadata_source": "OpenSea",
+  "chain_flow": "OpenSea → IPFS → DGCP",
+  "md_file": "proof/proof_336.md",
+  "license": "DGCP | MMFARM-POL-2025"
+}

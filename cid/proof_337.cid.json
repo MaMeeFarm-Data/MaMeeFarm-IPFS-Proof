@@ -1,0 +1,13 @@
+{
+  "proof_index": "337",
+  "opensea_url": "https://opensea.io/item/polygon/0xe8e8b59f0206317f5f8dc323db2e3faa9f4a2fd1/25",
+  "external_url": "https://www.mameefarm.com",
+  "image_ipfs_uri": "ipfs://bafybeiamgr6krewbytahmjclx7s2opz277gr5oeqi7cnxptibdfvdft2ii",
+  "image_cid": "bafybeiamgr6krewbytahmjclx7s2opz277gr5oeqi7cnxptibdfvdft2ii",
+  "chain": "OpenSea → IPFS → DGCP",
+  "files": {
+    "proof_markdown": "proof/proof_337.md",
+    "cid_record": "cid/proof_337.cid.json"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

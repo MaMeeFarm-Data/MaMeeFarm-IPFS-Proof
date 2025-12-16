@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeidwfzcx2bomuqt3nczv2un7zglpksiggn3oi7apgssgtmvu533wra",
+  "name": "Proof_342 — Midday Rest During Heat Exposure MaMeeFarm | DGCP™",
+  "description": "This proof documents a midday rest period at MaMeeFarm, recorded on 16 December 2025 at 12:58 PM (GMT+7).\n\nThe image shows MaMee resting inside a simple bamboo shelter surrounded by farm tools, water containers, and vegetation. This pause in activity occurs during a period of increased daytime heat, following morning farm labor including water pumping and animal care.\n\nThe structure provides basic shade without mechanical cooling or climate control. This rest period represents a necessary physiological response to environmental conditions rather than inactivity or idleness.\n\nWithin real-world farming operations, rest is an essential component of labor sustainability, particularly under heat stress. This record captures the human dimension of farm operations as part of the DGCP real-work data system.\n\nThe image is recorded as-is, with a visible timestamp embedded, ensuring temporal traceability and continuity within MaMeeFarm’s daily operational archive.\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-16"
+    },
+    {
+      "trait_type": "Time",
+      "value": "12:58 PM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Human Rest Period (MaMee)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Temporary Rest"
+    },
+    {
+      "trait_type": "Environmental Condition",
+      "value": "Hot / Midday Heat"
+    },
+    {
+      "trait_type": "Shelter Type",
+      "value": "Bamboo Structure"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Human Labor Condition / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

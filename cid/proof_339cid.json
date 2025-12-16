@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeiazrm4ffva4ubiqoomgtwhudrmr5vbw5tkenn5zg4mmkuypjt5w2e",
+  "name": "Proof_339 — Morning Environmental Temperature & Humidity Log MaMeeFarm | DGCP™",
+  "description": "This proof documents the morning environmental conditions at MaMeeFarm, recorded on 16 December 2025 at 06:54 AM (GMT+7).\n\nThe image shows a digital thermometer–hygrometer device placed against a brick wall inside the farm area. The device displays a temperature of 18.0°C and relative humidity of 76%, indicating a cool and humid early-morning atmosphere.\n\nSuch environmental data is critical for understanding real-world operating conditions of small-scale farms, especially those without access to controlled infrastructure such as grid electricity or climate regulation systems. These measurements directly influence animal health, feed efficiency, water usage, and daily labor planning.\n\nThis record is captured as-is, without interpretation or adjustment, following DGCP principles of ground-truth data, traceability, and temporal integrity.\nThe timestamp embedded in the image serves as verifiable temporal evidence and forms part of MaMeeFarm’s continuous real-work data archive.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-16"
+    },
+    {
+      "trait_type": "Time",
+      "value": "06:54 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "18.0°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "76%"
+    },
+    {
+      "trait_type": "Device Type",
+      "value": "Digital Thermometer / Hygrometer"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Early Morning / Natural Conditions"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Environmental Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

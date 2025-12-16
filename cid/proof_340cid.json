@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeif253arjgppicewndetpw6ciajs5caaq2ok3pcf34nqbmwhn5vonq",
+  "name": "Proof_340 — Morning Observation of the Last Remaining Duck MaMeeFarm | DGCP™",
+  "description": "This proof documents the morning observation of the single remaining duck at MaMeeFarm, recorded on 16 December 2025 at 06:56 AM (GMT+7).\n\nThe image shows one adult duck walking alone within the farm enclosure. Food remnants are visible on the ground, indicating normal feeding conditions. Despite regular care, no egg was produced this morning.\n\nThis record reflects a real-time condition of livestock status, captured without assumption or projection. The absence of egg production is documented as factual observation, not interpreted as decline or recovery.\n\nSuch data is essential in real-work farming environments, where biological outcomes fluctuate due to age, stress, environmental change, or prior events. Recording both presence and absence of expected outputs is fundamental to DGCP principles, ensuring completeness and honesty of data.\n\nThis image is preserved as ground-truth evidence, with embedded timestamp serving as verifiable temporal reference within MaMeeFarm’s continuous proof system.\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-16"
+    },
+    {
+      "trait_type": "Time",
+      "value": "06:56 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Single Remaining Duck"
+    },
+    {
+      "trait_type": "Egg Production",
+      "value": "None Observed"
+    },
+    {
+      "trait_type": "Feeding Status",
+      "value": "Food Present"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor Farm Enclosure"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Livestock Observation / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

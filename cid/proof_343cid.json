@@ -1,0 +1,48 @@
+{
+  "image": "ipfs://bafybeichnyj6qurocneoqbsbddi3l6qtgv4ul7tkszivvluwxvkbrjzqpe",
+  "name": "Proof_343 — Manual Weeding Around Chili Plants MaMeeFarm | DGCP™",
+  "description": "This proof documents a manual weeding activity performed at MaMeeFarm, recorded on 16 December 2025 at 02:52 PM (GMT+7).\n\nThe image shows MaMee actively clearing grass and weeds around chili plants using a hand tool. The work is conducted under natural daylight conditions, with banana trees and mixed vegetation surrounding the growing area.\n\nThis activity represents continued farm labor following earlier irrigation and rest periods. Weed removal is a routine but essential task that reduces competition for water and nutrients, supports plant health, and maintains usable growing space in small-scale farming environments.\n\nThe task is performed manually, without mechanized equipment or chemical herbicides, reflecting real-world constraints and direct human labor input.\n\nThis record is captured as-is, without staging or enhancement, in accordance with DGCP principles of ground-truth documentation, transparency, and temporal accuracy.\nThe timestamp embedded in the image provides verifiable temporal evidence and maintains continuity within MaMeeFarm’s daily operational proof archive.\n\nThis proof is part of the official DGCP MaMeeFarm DATA collection on OpenSea.\n\nicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-16"
+    },
+    {
+      "trait_type": "Time",
+      "value": "02:52 PM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Manual Farm Labor (MaMee)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Weeding Around Chili Plants"
+    },
+    {
+      "trait_type": "Tools Used",
+      "value": "Hand Tool"
+    },
+    {
+      "trait_type": "Farming Method",
+      "value": "Manual / Non-Chemical"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor Farm Area"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Farm Labor Activity / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

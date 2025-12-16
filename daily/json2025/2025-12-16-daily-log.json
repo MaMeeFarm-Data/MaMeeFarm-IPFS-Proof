@@ -1,0 +1,87 @@
+{
+  "dgcp_version": "2025",
+  "farm": "MaMeeFarm",
+  "log_type": "daily-log",
+  "date": "2025-12-16",
+  "timezone": "GMT+7",
+  "summary": "Continuous real-world farm operations recorded as ground-truth data, including environmental conditions, livestock observation, water management, human labor, rest period, and manual crop maintenance.",
+  "proofs": [
+    {
+      "proof_id": "Proof_339",
+      "time": "06:54",
+      "category": "environment",
+      "title": "Morning Environmental Temperature & Humidity Log",
+      "data": {
+        "temperature_celsius": 18.0,
+        "humidity_percent": 76,
+        "condition": "cool and humid"
+      }
+    },
+    {
+      "proof_id": "Proof_340",
+      "time": "06:56",
+      "category": "livestock",
+      "title": "Morning Observation of the Last Remaining Duck",
+      "data": {
+        "remaining_ducks": 1,
+        "egg_production": 0,
+        "behavior": "normal"
+      }
+    },
+    {
+      "proof_id": "Proof_341",
+      "time": "10:02",
+      "category": "water-management",
+      "title": "Groundwater Pumping for Plant Irrigation",
+      "data": {
+        "water_source": "ground well",
+        "method": "portable pump",
+        "reason": "drying seasonal conditions"
+      }
+    },
+    {
+      "proof_id": "Proof_342",
+      "time": "12:58",
+      "category": "human-labor",
+      "title": "Midday Rest During Heat Exposure",
+      "data": {
+        "activity_status": "rest",
+        "reason": "high temperature / heat stress prevention"
+      }
+    },
+    {
+      "proof_id": "Proof_343",
+      "time": "14:52",
+      "category": "crop-maintenance",
+      "title": "Manual Weeding Around Chili Plants",
+      "data": {
+        "method": "manual",
+        "tools": "hand tool",
+        "chemical_use": false
+      }
+    }
+  ],
+  "nft_activity": {
+    "platform": "OpenSea",
+    "collections": [
+      {
+        "name": "7 Ducks of Hope",
+        "items_minted": 3
+      },
+      {
+        "name": "Seed of Hope",
+        "items_minted": 2
+      }
+    ]
+  },
+  "integrity_notes": [
+    "All records are captured as-is without modification.",
+    "Absence of production is recorded as valid data.",
+    "Human labor and rest are treated as first-class data.",
+    "All proofs are time-anchored and sequential."
+  ],
+  "license": {
+    "name": "DGCP | MMFARM-POL-2025",
+    "description": "This work is licensed under the DGCP (Data Governance & Continuous Proof) framework. All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive. Redistribution, citation, or derivative use must preserve attribution and license reference."
+  }
+}

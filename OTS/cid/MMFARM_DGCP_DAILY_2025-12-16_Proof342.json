@@ -1,0 +1,11 @@
+{
+  "proof_id": 342,
+  "date": "2025-12-16",
+  "file_type": "json",
+  "sha256": "08f2af0d5bbe5a3de47948a04eebd9523e2e08712ad55a784227a914158202f2",
+  "file_size": "2.3 kB",
+  "verification": "OpenTimestamps",
+  "chain_position": "after Proof 341",
+  "project": "MaMeeFarm DGCP Daily",
+  "license": "MMFARM-POL-2025"
+}

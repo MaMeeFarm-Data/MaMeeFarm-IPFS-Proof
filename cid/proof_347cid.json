@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeie3ceuqlwauxczhxyemjq3nzlokcbjhgs6moyvps4d7ldbmkcvyc4",
+  "name": "Proof_347 — Midday Firewood Preparation for Household Cooking MaMeeFarm | DGCP™",
+  "description": "This proof documents a midday firewood preparation activity at MaMeeFarm, recorded on 17 December 2025 at 12:06 PM (GMT+7).\n\nThe image shows MaMee cutting and preparing firewood during a period of strong midday sunlight. The firewood is intended for cooking meals for all household members, using a traditional wood-fired stove system.\n\nThis activity takes place during peak heat hours, reflecting the necessity of continuing essential household labor regardless of weather conditions. The preparation of firewood ensures food security and daily sustenance in an environment without reliance on electric cooking infrastructure.\n\nThe task is performed manually, using basic tools and locally available materials, demonstrating direct human labor and resource dependency in real-world rural living conditions.\n\nThis record is captured as-is, without staging or enhancement, in accordance with DGCP principles of ground-truth documentation, transparency, and temporal accuracy.\nThe timestamp embedded in the image provides verifiable temporal evidence and continuity within MaMeeFarm’s daily proof archive.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-17"
+    },
+    {
+      "trait_type": "Time",
+      "value": "12:06 PM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Manual Household Labor (MaMee)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Firewood Cutting & Preparation"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Cooking for Household"
+    },
+    {
+      "trait_type": "Tools Used",
+      "value": "Manual Cutting Tool"
+    },
+    {
+      "trait_type": "Energy Source",
+      "value": "Biomass / Firewood"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor / Strong Sunlight"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Household Labor / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

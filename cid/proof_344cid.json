@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeif2o2tnruk66lxydup4wzxhrknyebfyyedrjpommzja3yf6vumjku",
+  "name": "Proof_344 — Duck Coop Temperature & Humidity Monitoring MaMeeFarm | DGCP™",
+  "description": "This proof documents the initial environmental monitoring inside the duck coop at MaMeeFarm, recorded on 17 December 2025 at 07:48 AM (GMT+7).\n\nThe image shows a digital thermometer–hygrometer placed inside the duck shelter, positioned near bedding material. The device displays an indoor temperature of 18.0°C, an external reference temperature of 18.5°C, and relative humidity of 90%.\n\nThis record marks the beginning of systematic temperature and humidity tracking within the duck coop environment. Such data is essential for understanding animal comfort, respiratory conditions, bedding moisture, and overall livestock well-being in small-scale farming systems.\n\nThe measurement is captured under natural conditions, without climate control or artificial adjustment.\nThis proof is recorded as-is, following DGCP principles of ground-truth data, transparency, and temporal accuracy.\nThe timestamp embedded in the image provides verifiable temporal evidence and continuity within MaMeeFarm’s daily proof archive.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-17"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:48 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Area",
+      "value": "Duck Coop"
+    },
+    {
+      "trait_type": "Indoor Temperature (°C)",
+      "value": "18.0"
+    },
+    {
+      "trait_type": "Reference Temperature",
+      "value": "18.5°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "90%"
+    },
+    {
+      "trait_type": "Device Type",
+      "value": "Digital Thermometer / Hygrometer"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Livestock Shelter / Natural Conditions"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Environmental Monitoring / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

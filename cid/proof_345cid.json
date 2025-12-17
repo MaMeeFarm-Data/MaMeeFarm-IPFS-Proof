@@ -1,0 +1,48 @@
+{
+  "image": "ipfs://bafybeiekskawftgokg4hll6ruwrnoptf6jghw5io4fispnbx2jcunnyhsy",
+  "name": "Proof_345 — Morning Interaction With the Last Remaining Duck MaMeeFarm | DGCP™",
+  "description": "This proof documents a morning human–animal interaction at MaMeeFarm, recorded on 17 December 2025 at 07:50 AM (GMT+7).\n\nThe image shows MaMee sitting inside the duck coop, interacting calmly with the single remaining duck. Feeding containers are visible, and the duck appears physically active and alert. On this morning, no egg was produced, despite the duck showing no visible signs of illness or distress.\n\nThis record captures both presence and absence: the presence of life, care, and interaction, alongside the absence of expected production output. Such dual documentation is essential for maintaining integrity in real-world livestock data.\n\nThe observation is recorded as-is, without interpretation or projection, in accordance with DGCP principles of ground-truth documentation, transparency, and temporal accuracy.\nThe embedded timestamp in the image provides verifiable temporal evidence and continuity within MaMeeFarm’s daily proof archive.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-17"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:50 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Human–Animal Interaction"
+    },
+    {
+      "trait_type": "Animal Count",
+      "value": "1 Duck"
+    },
+    {
+      "trait_type": "Egg Production",
+      "value": "None Observed"
+    },
+    {
+      "trait_type": "Duck Health Status",
+      "value": "Active / Healthy"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Duck Coop / Natural Conditions"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Livestock Observation / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

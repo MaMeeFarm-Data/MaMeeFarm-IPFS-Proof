@@ -1,0 +1,48 @@
+{
+  "image": "ipfs://bafybeiapbrzu4vohnb7mlimd6luplrgjw2k2lc5b2mds25stnhwimbzqgm",
+  "name": "Proof_348 — Midday Water Pumping Under High Heat Conditions MaMeeFarm | DGCP™",
+  "description": "This proof documents a midday water pumping activity at MaMeeFarm, recorded on 17 December 2025 at 01:48 PM (GMT+7).\n\nThe image shows water being actively pumped into large storage barrels under strong sunlight. The water is collected for essential farm and household use, including animal care, irrigation, and daily living needs.\n\nThis activity takes place during extreme daytime heat, highlighting the necessity of securing water reserves despite physically demanding conditions. The pumping system operates without automated infrastructure, relying on direct human labor and basic mechanical equipment.\n\nThis record is captured as-is, without staging or optimization, in accordance with DGCP principles of ground-truth documentation, transparency, and temporal accuracy.\nThe timestamp embedded in the image provides verifiable temporal evidence and continuity within MaMeeFarm’s daily proof archive.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-17"
+    },
+    {
+      "trait_type": "Time",
+      "value": "01:48 PM (GMT+7)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Water Pumping"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Water Storage"
+    },
+    {
+      "trait_type": "Equipment",
+      "value": "Water Pump System"
+    },
+    {
+      "trait_type": "Water Container",
+      "value": "Large Storage Barrels"
+    },
+    {
+      "trait_type": "Environmental Condition",
+      "value": "Extreme Heat / Strong Sunlight"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Water Management / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

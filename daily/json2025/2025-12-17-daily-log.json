@@ -1,0 +1,92 @@
+{
+  "dgcp_version": "2025",
+  "farm": "MaMeeFarm",
+  "log_type": "daily-log",
+  "date": "2025-12-17",
+  "timezone": "GMT+7",
+  "summary": "Continuous real-world operations including livestock environment monitoring, human–animal interaction, crop maintenance, household energy preparation, and water management under extreme heat conditions.",
+  "proofs": [
+    {
+      "proof_id": "Proof_344",
+      "time": "07:48",
+      "category": "environment",
+      "title": "Duck Coop Temperature & Humidity Monitoring",
+      "data": {
+        "indoor_temperature_celsius": 18.0,
+        "reference_temperature_celsius": 18.5,
+        "humidity_percent": 90,
+        "location": "duck coop"
+      }
+    },
+    {
+      "proof_id": "Proof_345",
+      "time": "07:50",
+      "category": "livestock",
+      "title": "Morning Interaction With the Last Remaining Duck",
+      "data": {
+        "duck_count": 1,
+        "egg_production": 0,
+        "health_status": "active and healthy"
+      }
+    },
+    {
+      "proof_id": "Proof_346",
+      "time": "07:52",
+      "category": "crop-maintenance",
+      "title": "Morning Banana Tree Pruning Activity",
+      "data": {
+        "plant_type": "banana",
+        "method": "manual",
+        "chemical_use": false
+      }
+    },
+    {
+      "proof_id": "Proof_347",
+      "time": "12:06",
+      "category": "household-labor",
+      "title": "Midday Firewood Preparation for Household Cooking",
+      "data": {
+        "energy_source": "firewood",
+        "method": "manual",
+        "purpose": "household cooking"
+      }
+    },
+    {
+      "proof_id": "Proof_348",
+      "time": "13:48",
+      "category": "water-management",
+      "title": "Midday Water Pumping Under High Heat Conditions",
+      "data": {
+        "activity": "water pumping",
+        "storage": "large barrels",
+        "environment": "extreme heat"
+      }
+    }
+  ],
+  "nft_activity": {
+    "platform": "OpenSea",
+    "collections": [
+      {
+        "name": "7 Ducks of Hope",
+        "day": 112,
+        "units_minted": 4
+      },
+      {
+        "name": "Seed of Hope",
+        "day": 144,
+        "units_minted": 5
+      }
+    ],
+    "distribution": "IPFS (ipfs.io)"
+  },
+  "integrity_notes": [
+    "All proofs are recorded sequentially and time-anchored.",
+    "Absence of production is recorded as valid data.",
+    "Human labor and household activities are treated as first-class data entities.",
+    "No data has been edited or optimized after capture."
+  ],
+  "license": {
+    "name": "DGCP | MMFARM-POL-2025",
+    "text": "This work is licensed under the DGCP (Data Governance & Continuous Proof) framework. All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive. Redistribution, citation, or derivative use must preserve attribution and license reference."
+  }
+}

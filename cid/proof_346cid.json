@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeih6lqfg4f3dqijedwtnxdtbcba2zj4csmyxgkohcxk5lzkhwyqq2y",
+  "name": "Proof_346 — Morning Banana Tree Pruning Activity MaMeeFarm | DGCP™",
+  "description": "This proof documents a morning banana tree pruning activity at MaMeeFarm, recorded on 17 December 2025 at 07:52 AM (GMT+7).\n\nThe image shows MaMee actively trimming banana leaves using a long manual cutting tool. The activity is performed under natural daylight in an open farm area, with surrounding fields, vegetation, and distant hills visible in the background.\n\nBanana leaf pruning is a routine but necessary task to remove damaged or excess leaves, reduce wind resistance, improve airflow, and maintain overall plant health. This work supports long-term productivity and reduces disease risk without the use of chemical inputs or mechanized equipment.\n\nThe activity reflects a consistent daily work rhythm, with labor beginning early in the morning as part of MaMeeFarm’s real-world farming operations.\n\nThis record is captured as-is, without staging or enhancement, in accordance with DGCP principles of ground-truth documentation, transparency, and temporal accuracy.\nThe timestamp embedded in the image provides verifiable temporal evidence and continuity within MaMeeFarm’s daily proof archive.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-17"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:52 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Manual Farm Labor (MaMee)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Banana Tree Pruning"
+    },
+    {
+      "trait_type": "Plant Type",
+      "value": "Banana Tree"
+    },
+    {
+      "trait_type": "Tools Used",
+      "value": "Long Manual Cutting Tool"
+    },
+    {
+      "trait_type": "Farming Method",
+      "value": "Manual / Non-Chemical"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor Farm Area"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Crop Maintenance / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

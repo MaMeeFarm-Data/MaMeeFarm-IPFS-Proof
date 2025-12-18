@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeigcnitfdmiqvfpo7msouky5m7s7nrlky7b4mxradlp5mv5okfpuoe",
+  "name": "Proof_349 — Morning Temperature & Humidity Before Work MaMeeFarm | DGCP™",
+  "description": "This proof documents the early morning temperature and humidity conditions at MaMeeFarm, recorded on\n18 December 2025 at 07:00 AM (GMT+7), prior to the start of daily farm activities.\n\nThe image shows a digital temperature and humidity meter mounted against a brick wall, displaying an ambient temperature of 18.5°C and relative humidity of 78%.\n\nThis reading represents baseline environmental conditions before physical labor begins, providing contextual data for interpreting animal behavior, human work capacity, and daily farm operations.\n\nThe measurement is recorded under natural conditions, without artificial climate control, reflecting real-world environmental exposure at the farm site.\n\nThis record is captured as-is, without adjustment or enhancement, in accordance with DGCP principles of ground-truth data, temporal accuracy, and transparency.\nThe embedded timestamp in the image provides verifiable temporal evidence and continuity within MaMeeFarm’s daily proof archive.\n\nThis proof is part of the official DGCP MaMeeFarm DATA collection on OpenSea and is distributed via IPFS (ipfs.io) for immutable reference.\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-18"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:00 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "18.5°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "78%"
+    },
+    {
+      "trait_type": "Weather Condition",
+      "value": "Cool Morning / High Humidity"
+    },
+    {
+      "trait_type": "Measurement Type",
+      "value": "Ambient Environment"
+    },
+    {
+      "trait_type": "Device",
+      "value": "Digital Thermometer & Hygrometer"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Environmental Baseline / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA (OpenSea)"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeiev4whqkx3yvdc2mlgpebs2euk7af5qwy6xtfnuuypgfhtqt7xfgq",
+  "name": "Proof_352 — Morning Banana Garden Clearing at the Back of the Farm MaMeeFarm | DGCP™",
+  "description": "This proof documents morning farm labor focused on clearing and cutting vegetation in the banana garden area at MaMeeFarm, recorded on\n18 December 2025 at 08:00 AM (GMT+7).\n\nThe image shows MaMee standing in the back area of the farm near banana plants, holding a long hand tool used for cutting and clearing. The surrounding ground vegetation and trimmed banana leaves indicate active maintenance work in progress.\n\nThis activity supports basic farm operations by reducing overgrowth, improving access and visibility, and maintaining usable space around productive plants. It reflects routine, manual farm maintenance performed under natural daylight conditions without mechanized equipment.\n\nThis record is captured as-is, without staging or enhancement, in accordance with DGCP principles of ground-truth documentation, transparency, and temporal accuracy.\nThe embedded timestamp in the image provides verifiable temporal evidence and continuity within MaMeeFarm’s daily proof archive.\nThis proof is part of the official DGCP MaMeeFarm DATA collection on OpenSea and is distributed via IPFS (ipfs.io) for immutable reference.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-18"
+    },
+    {
+      "trait_type": "Time",
+      "value": "08:00 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "MaMee"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Banana Garden Clearing / Cutting Vegetation"
+    },
+    {
+      "trait_type": "Tools Used",
+      "value": "Manual Long Hand Tool"
+    },
+    {
+      "trait_type": "Farming Method",
+      "value": "Manual / Non-Chemical"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor Farm Area (Back of Farm)"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Farm Labor Activity / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA (OpenSea)"
+    }
+  ]
+}

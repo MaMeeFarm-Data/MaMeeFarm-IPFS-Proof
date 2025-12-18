@@ -1,0 +1,8 @@
+{
+  "proof_id": 352,
+  "date": "2025-12-18",
+  "sha256_md": "0f2a23c892f85413f58733fc2b3a1e29f760b41304f0e1ad1c4add67654ac84a",
+  "sha256_json": "30fd2041be30660692e9c7317c407e20eb099a9a082b8e5b00644943ed14eccd",
+  "notes": "DGCP standardized daily evidence using the 2-file model (MD + JSON). Each file independently timestamped via OpenTimestamps.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,48 @@
+{
+  "image": "ipfs://bafybeigflftxcad2gvdqnwucogtmtwzd5uwd2fd2sfm3pkaqbvononbyba",
+  "name": "Proof_353 — Cooking Rice for Every Life at MaMeeFarm",
+  "description": "This proof documents a midday cooking activity at MaMeeFarm, recorded on 18 December 2025 at 11:30 AM (GMT+7).\n\nThe image shows MaMee cooking rice over a traditional wood-fired stove to provide food for all lives on the farm, including humans and animals. Firewood prepared earlier is used as fuel, reflecting a self-reliant and resource-conscious way of living.\n\nThis activity represents essential daily labor that sustains life within the farm ecosystem. Cooking is treated as real work, directly connected to survival, care, and continuity of farm life.\n\nThe record is captured as-is, with an embedded timestamp, in accordance with DGCP principles of ground-truth documentation, transparency, and temporal accuracy.\n\nThis proof is part of the DGCP MaMeeFarm DATA collection and serves as verifiable real-world evidence of daily life and labor at MaMeeFarm in Thailand.\n\nDGCP | MMFARM-POL-2025\nThis content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-18"
+    },
+    {
+      "trait_type": "Time",
+      "value": "11:30 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "MaMee"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Cooking Rice for Farm Members"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Daily Sustenance / Care Work"
+    },
+    {
+      "trait_type": "Tools Used",
+      "value": "Wood-fired Stove, Firewood"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor Home Area"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Daily Life Activity / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

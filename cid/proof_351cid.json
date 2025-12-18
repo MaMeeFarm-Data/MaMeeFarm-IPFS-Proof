@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeifhelnxxv3atikw5cyfaqznoueicrykxm7xqpiulrjwesizli545m",
+  "name": "Proof_351 — Morning Check on the Last Remaining Duck MaMeeFarm | DGCP™",
+  "description": "This proof documents a morning health and condition check of the last remaining duck at MaMeeFarm, recorded on\n18 December 2025 at 07:54 AM (GMT+7).\n\nThe image shows MaMee observing and interacting with the single remaining duck inside the coop. The duck is active and mobile within the enclosure. No egg production was observed during this morning check.\n\nThis record captures a routine yet significant moment in small-scale livestock care, where absence of output (no eggs) is documented as valid data rather than treated as failure or omission.\n\nThe activity reflects continued responsibility and attention to animal welfare despite reduced livestock numbers. It highlights the human–animal relationship and the reality of farming cycles, including periods of low or zero production.\n\nThis record is captured as-is, without staging or enhancement, in accordance with DGCP principles of ground-truth documentation, transparency, and temporal accuracy.\nThe embedded timestamp in the image provides verifiable temporal evidence and continuity within MaMeeFarm’s daily proof archive.\n\nThis proof is part of the official DGCP MaMeeFarm DATA collection on OpenSea and is distributed via IPFS (ipfs.io) for immutable reference.\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-18"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:54 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Duck (Single Remaining)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Morning Health & Condition Check"
+    },
+    {
+      "trait_type": "Egg Production",
+      "value": "None Observed"
+    },
+    {
+      "trait_type": "Animal Status",
+      "value": "Active / Healthy"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Duck Coop"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Livestock Monitoring / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA (OpenSea)"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "proof_id": 349,
+  "date": "2025-12-18",
+  "project": "MaMeeFarm",
+  "system": "DGCP",
+  "model": "2-file (MD + JSON)",
+  "sha256_md": "ba508b388881e015a08df96219b77e23c4e427c1d8752a51b56b6b035e2a6c5b",
+  "sha256_json": "a48f1e560f2885176436b7e9041d4a5e233a3f4f9124e037d5caabb55e39eab5",
+  "timestamp": "OpenTimestamps",
+  "notes": "DGCP Daily Proof recorded under simplified 2-file model. SHA256 hashes generated after OTS verification. No modification after timestamp.",
+  "license": "MMFARM-POL-2025"
+}

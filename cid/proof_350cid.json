@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeiehc7kssa5mzufqz7srm5n6lllkiuqfe7c27lktvft7vpxxofjcs4",
+  "name": "Proof_350 — Morning Feeding Time for Farm Dogs MaMeeFarm | DGCP™",
+  "description": "This proof documents the morning feeding routine for farm dogs at MaMeeFarm, recorded on\n18 December 2025 at 07:37 AM (GMT+7).\n\nThe image shows several farm dogs calmly gathered near the feeding area while MaMee prepares and distributes food. Two dogs are seated in the foreground, observing the routine, while others stand closer to the feeding point, demonstrating familiarity, patience, and learned behavior.\n\nThese dogs play an essential role in daily farm operations by helping monitor the area, alerting to unusual activity, and contributing to farm security and continuity. Their behavior reflects a stable routine and long-term coexistence with human caregivers.\n\nThe feeding activity represents consistent animal care performed every morning, reinforcing mutual dependence between humans and animals within a small-scale, real-world farming system.\n\nThis record is captured as-is, without staging or enhancement, in accordance with DGCP principles of ground-truth documentation, transparency, and temporal accuracy.\nThe embedded timestamp in the image provides verifiable temporal evidence and continuity within MaMeeFarm’s daily proof archive.\n\nThis proof is part of the official DGCP MaMeeFarm DATA collection on OpenSea and is distributed via IPFS (ipfs.io) for immutable reference.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-18"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:37 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Farm Dogs"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Morning Feeding"
+    },
+    {
+      "trait_type": "Animal Role",
+      "value": "Farm Monitoring / Security / Companionship"
+    },
+    {
+      "trait_type": "Behavior Observed",
+      "value": "Calm / Waiting / Cooperative"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor Farm Area"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Animal Care / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA (OpenSea)"
+    }
+  ]
+}

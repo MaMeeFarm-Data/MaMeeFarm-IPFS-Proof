@@ -1,0 +1,11 @@
+{
+  "proof_id": 351,
+  "date": "2025-12-18",
+  "project": "MaMeeFarm™",
+  "system": "DGCP",
+  "type": "Daily Proof",
+  "file": "MMFARM_DGCP_DAILY_2025-12-18_Proof351.json",
+  "sha256": "2794d1c390e60dc746fa0e22043dfe93969789bc0fd4863f15d18d5a338094d2",
+  "timestamp_service": "OpenTimestamps",
+  "license": "MMFARM-POL-2025"
+}

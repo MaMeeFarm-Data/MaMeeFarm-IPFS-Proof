@@ -1,0 +1,56 @@
+{
+  "image": "ipfs://bafybeifx3y5e6ascuavurzch2evk6tdxribfvris3fi5ytnkzevaa2iplm",
+  "name": "Proof_357 — Aging Hybrid Solar Inverter with Non-Functional Display MaMeeFarm | DGCP™",
+  "description": "This proof documents the condition of a hybrid solar inverter used at MaMeeFarm, recorded on\n19 December 2025 at 11:13 AM (GMT+7).\n\nThe image shows a solar inverter unit connected to photovoltaic panels, installed approximately 7 years ago. The device is still in use; however, the display panel no longer functions, and operational data is no longer visible on the screen.\n\nDespite the degraded interface, the inverter remains part of the farm’s energy infrastructure. Due to financial constraints, replacement or upgrade has not yet been possible. This situation reflects real-world limitations faced by small-scale farms relying on aging equipment beyond its intended lifecycle.\n\nWithin the DGCP framework, equipment degradation, maintenance delay, and infrastructure constraints are treated as valid ground-truth data. This proof captures not only the physical condition of the device but also the economic reality influencing operational decisions.\n\nThe image is recorded as-is, without repair, enhancement, or staging.\nThe embedded timestamp provides verifiable temporal anchoring and ensures continuity within MaMeeFarm’s real-work data archive.\n\nThis proof is part of the DGCP MaMeeFarm DATA collection and is distributed via IPFS (ipfs.io) to ensure long-term auditability and immutable reference.\n\nDGCP | MMFARM-POL-2025\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-19"
+    },
+    {
+      "trait_type": "Time",
+      "value": "11:13 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Hybrid Solar Inverter"
+    },
+    {
+      "trait_type": "System",
+      "value": "Solar Power Infrastructure"
+    },
+    {
+      "trait_type": "Condition",
+      "value": "Display Not Functioning"
+    },
+    {
+      "trait_type": "Age of Equipment",
+      "value": "~7 Years"
+    },
+    {
+      "trait_type": "Operational Status",
+      "value": "In Use (Limited Visibility)"
+    },
+    {
+      "trait_type": "Energy Source",
+      "value": "Solar"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Infrastructure / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA"
+    }
+  ]
+}

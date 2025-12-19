@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeifmsfnqudvmhz4euvyumm7olhnxlo53zxgjxddxhvi3l2mdbsaoca",
+  "name": "Proof_355 — Empty Duck Coop After Final Duck Disappearance MaMeeFarm | DGCP™",
+  "description": "This proof documents a critical turning-point event at MaMeeFarm, recorded on\n19 December 2025 at 07:58 AM (GMT+7).\n\nThe image shows an empty duck coop, marking the moment when the last remaining duck has disappeared from the farm. As of this record, MaMeeFarm has no ducks remaining.\n\nThis proof captures absence as verified ground-truth data. The empty space, feeding area, and coop structure serve as direct evidence of a real-world state change rather than a narrative claim.\n\nRecording this event is essential for data integrity, as DGCP explicitly recognizes that non-existence, loss, or interruption are valid and necessary components of continuous proof systems.\n\nThe image is captured as-is, without staging, modification, or reconstruction. The embedded timestamp provides verifiable temporal evidence and anchors this event within MaMeeFarm’s continuous operational history.\n\nThis proof is part of the DGCP MaMeeFarm DATA collection and is distributed via IPFS (ipfs.io) to ensure immutable reference, auditability, and long-term preservation.\n\nDGCP | MMFARM-POL-2025\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-19"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:58 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Farm Infrastructure"
+    },
+    {
+      "trait_type": "Event Type",
+      "value": "Absence / Loss Event"
+    },
+    {
+      "trait_type": "Condition",
+      "value": "Empty Duck Coop"
+    },
+    {
+      "trait_type": "Animal Status",
+      "value": "No Ducks Present"
+    },
+    {
+      "trait_type": "Significance",
+      "value": "Critical State Change"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Ground Truth / Non-Output Evidence"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA"
+    }
+  ]
+}

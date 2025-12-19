@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeia6zfnbp5xawgynthy6kp6jhto4zwuf2tliz6kj7mvzgiknat7iwq",
+  "name": "Proof_354 — Morning Temperature Before Daily Work MaMeeFarm | DGCP™",
+  "description": "This proof documents the morning environmental condition at MaMeeFarm, recorded on\n19 December 2025 at 07:31 AM (GMT+7).\n\nThe image shows a digital thermometer and humidity meter displaying ambient temperature and humidity levels before the start of daily farm work. This measurement is taken as part of MaMeeFarm’s routine environmental monitoring to establish baseline conditions for the day.\n\nRecording temperature and humidity prior to labor activities provides critical ground-truth context for farm operations, animal care, and human working conditions.\n\nThis record is captured as-is, without staging, adjustment, or enhancement, in accordance with DGCP principles of transparency, continuity, and real-world evidence.\nThe embedded timestamp in the image ensures verifiable temporal traceability.\n\nThis proof is part of the DGCP MaMeeFarm DATA collection and is distributed via IPFS (ipfs.io) for long-term auditability and integrity.\n\nDGCP | MMFARM-POL-2025\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-19"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:31 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Environment"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Morning Temperature & Humidity Recording"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "As displayed in image"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "As displayed in image"
+    },
+    {
+      "trait_type": "Tools Used",
+      "value": "Digital Thermometer / Hygrometer (HTC-1)"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Environmental Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA"
+    }
+  ]
+}

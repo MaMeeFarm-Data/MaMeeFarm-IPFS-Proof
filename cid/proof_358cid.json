@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeicl7iypipq7xz5m5bcpauwfu3j7jmcggbnnvmxxwkswpbiuuknjua",
+  "name": "Proof_358 — Papaya from Home Garden Shared Among Humans and Dogs MaMeeFarm | DGCP™",
+  "description": "This proof documents a moment of shared food consumption within MaMeeFarm, recorded on\n19 December 2025 at 11:13 AM (GMT+7).\nThe image shows fresh papaya harvested directly from the home garden, being prepared and shared among humans and dogs living together in the household. The papaya is cut and divided on simple household plates, reflecting everyday food practices rooted in self-grown produce.\nThis moment represents more than food preparation. It records resource sharing, subsistence living, and interspecies coexistence within the farm environment. The food is not produced for sale or display, but for immediate consumption by those who live and work together on the land.\nWithin the DGCP framework, daily nourishment, food sourcing, and sharing behavior are considered valid ground-truth data. This proof captures real-life subsistence activity without staging, enhancement, or narrative construction.\nThe image is recorded as-is, with an embedded timestamp providing verifiable temporal anchoring and continuity within MaMeeFarm’s real-world data archive.\nThis proof is part of the DGCP MaMeeFarm DATA collection and is distributed via IPFS (ipfs.io) to ensure long-term traceability and auditability.\nDGCP | MMFARM-POL-2025\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-19"
+    },
+    {
+      "trait_type": "Time",
+      "value": "11:13 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Papaya (Home-Grown Produce)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Food Preparation and Sharing"
+    },
+    {
+      "trait_type": "Participants",
+      "value": "Humans and Dogs"
+    },
+    {
+      "trait_type": "Food Source",
+      "value": "Home Garden"
+    },
+    {
+      "trait_type": "Farm Context",
+      "value": "Subsistence / Household Use"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Daily Life / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA"
+    }
+  ]
+}

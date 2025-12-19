@@ -1,0 +1,63 @@
+{
+  "date": "2025-12-19",
+  "timezone": "GMT+7",
+  "location": "MaMeeFarm, Thailand",
+  "dgcp_version": "DGCP 2025",
+  "proof_range": {
+    "start": 354,
+    "end": 358
+  },
+  "proofs": [
+    {
+      "proof_id": 354,
+      "title": "Morning Temperature Before Daily Work",
+      "category": "Environment",
+      "time": "07:31",
+      "notes": "Baseline temperature and humidity before starting daily activities."
+    },
+    {
+      "proof_id": 355,
+      "title": "Empty Duck Shelter",
+      "category": "Farm Status",
+      "time": "07:58",
+      "notes": "No ducks present at MaMeeFarm."
+    },
+    {
+      "proof_id": 356,
+      "title": "Walking to Village Shop for Food",
+      "category": "Subsistence Logistics",
+      "time": "09:26",
+      "notes": "Nearly 3 km walk to purchase food."
+    },
+    {
+      "proof_id": 357,
+      "title": "Aging Solar Inverter with Non-Functional Display",
+      "category": "Infrastructure",
+      "time": "11:13",
+      "notes": "Solar inverter in use for over 7 years, display not functioning."
+    },
+    {
+      "proof_id": 358,
+      "title": "Papaya Shared Among Humans and Dogs",
+      "category": "Food & Coexistence",
+      "time": "11:13",
+      "notes": "Home-grown papaya shared within the household."
+    }
+  ],
+  "nft_activity": {
+    "seven_ducks_of_hope": {
+      "day": 114,
+      "quantity": 5
+    },
+    "seed_of_hope": {
+      "day": 146,
+      "quantity": 4
+    }
+  },
+  "integrity": {
+    "timestamps_embedded": true,
+    "staged": false,
+    "modifications": "none"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,56 @@
+{
+  "image": "ipfs://bafybeibszwek3crqp5g7uiew4dhqenxfbnotawbeedeh2z4uwvyr7nhtde",
+  "name": "Proof_356 — Village Food Purchase After 3 km Walk MaMeeFarm | DGCP™",
+  "description": "This proof documents a daily subsistence activity at MaMeeFarm, recorded on\n19 December 2025 at 09:26 AM (GMT+7).\n\nThe image shows MaMee returning from a local village shop carrying food supplies, including fresh fish and household provisions. The round trip distance is approximately 3 kilometers, completed on foot.\n\nThis activity reflects real-world labor conditions where food access requires physical movement rather than digital ordering or motorized transport. Such routines form a critical part of daily survival logistics in small-scale rural life.\n\nWithin the DGCP framework, daily movement, energy expenditure, and food acquisition are treated as valid ground-truth data points. This proof records not only the items obtained, but the human effort required to sustain the household and farm ecosystem.\n\nThe image is captured as-is, without staging or reenactment. The embedded timestamp provides verifiable temporal anchoring and continuity within MaMeeFarm’s real-work data archive.\n\nThis proof is part of the DGCP MaMeeFarm DATA collection and is distributed via IPFS (ipfs.io) to ensure immutable reference, auditability, and long-term preservation.\n\nDGCP | MMFARM-POL-2025\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Village near MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-19"
+    },
+    {
+      "trait_type": "Time",
+      "value": "09:26 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "MaMee"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Food Purchase / Walking"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "~3 km (on foot)"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Fresh Fish, Household Food"
+    },
+    {
+      "trait_type": "Labor Type",
+      "value": "Daily Subsistence Labor"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Rural Village"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Ground Truth / Human Activity"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA"
+    }
+  ]
+}

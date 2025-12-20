@@ -1,0 +1,48 @@
+{
+  "image": "ipfs://bafybeiheoi5gvisnhlrb7fvj2ekpzd6h35v4ff7bkeic5zsyi3cwlylmou",
+  "name": "Proof 360 — Morning Temperature, Clear Sky Before Work",
+  "description": "This proof records the morning environmental condition at MaMeeFarm on 20 December 2025 at 07:27 (GMT+7).\n\nThe image shows a digital thermometer placed inside the former duck shelter, recording an indoor temperature of 15.6°C, outdoor temperature of 15.1°C, and relative humidity of 88%.\n\nThe sky condition in the early morning is clear, indicating stable weather before the start of daily farm activities.\nAlthough the farm currently has no ducks, environmental monitoring continues as part of the DGCP continuous proof system.\n\nThis record reflects consistency in daily observation practices, independent of livestock presence, and preserves real-world environmental data without alteration.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-20"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:27 (GMT+7)"
+    },
+    {
+      "trait_type": "Indoor Temperature",
+      "value": "15.6°C"
+    },
+    {
+      "trait_type": "Outdoor Temperature",
+      "value": "15.1°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "88%"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Clear sky"
+    },
+    {
+      "trait_type": "Context",
+      "value": "Morning pre-work environmental check"
+    },
+    {
+      "trait_type": "Status",
+      "value": "No livestock present"
+    },
+    {
+      "trait_type": "System",
+      "value": "DGCP™"
+    }
+  ]
+}

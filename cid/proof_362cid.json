@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeid4epj2o4i7kzohmpdttsqlg5fid6gd2qhsookxiwq3vstcbqz5i4",
+  "name": "Proof 362 — Sharing Northern Sausage and Sticky Rice",
+  "description": "This proof records a daily life moment at MaMeeFarm on 20 December 2025 at 08:24 (GMT+7).\n\nThe image shows a simple northern Thai meal consisting of sai ua (northern sausage) and sticky rice, purchased from the village and brought back to the farm. The food is shared between two people, reflecting everyday subsistence, food culture, and communal living within MaMeeFarm.\n\nThis record documents food consumption as part of real-world daily operations, connecting physical movement (walking to the village), local economy, and household nutrition. The scene is captured as-is, without staging, with a visible timestamp to ensure temporal traceability.\n\nThis proof contributes to the DGCP continuous record by preserving ordinary but essential human activities eating, sharing, and sustaining daily life.\n\n\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-20"
+    },
+    {
+      "trait_type": "Time",
+      "value": "08:24 (GMT+7)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Sharing a meal"
+    },
+    {
+      "trait_type": "Food Type",
+      "value": "Northern Thai food (Sai Ua, Sticky Rice)"
+    },
+    {
+      "trait_type": "Participants",
+      "value": "2 people"
+    },
+    {
+      "trait_type": "Context",
+      "value": "Daily living / household nutrition"
+    },
+    {
+      "trait_type": "Data Category",
+      "value": "Real-life consumption record"
+    }
+  ]
+}

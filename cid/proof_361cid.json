@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeibbgptywgd4ddcxpq776vzdcnnva2owe5cafes66nwdkthnja2r3u",
+  "name": "Proof 361 — Morning Walk to the Village (Approx. 3 km Round Trip)",
+  "description": "This proof records a morning activity at MaMeeFarm on 20 December 2025 at 07:29 (GMT+7).\n\nThe image shows MaMee walking toward the village to purchase daily groceries. The estimated walking distance for this trip is approximately 3 kilometers round trip.\n\nThis activity represents routine, non-mechanized mobility within a rural environment and reflects daily self-sufficiency practices at MaMeeFarm. The walk occurs under clear morning conditions, prior to other farm tasks, and is recorded as-is with a visible timestamp to ensure temporal traceability.\n\nThis record contributes to the DGCP continuous proof system by documenting real-world human movement and daily logistics without automation or external intervention.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-20"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:29 (GMT+7)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Walking to village for groceries"
+    },
+    {
+      "trait_type": "Estimated Distance",
+      "value": "~3 km (round trip)"
+    },
+    {
+      "trait_type": "Transportation",
+      "value": "On foot"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Clear morning sky"
+    },
+    {
+      "trait_type": "Context",
+      "value": "Daily living logistics"
+    }
+  ]
+}

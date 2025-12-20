@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeibhqhmgbtg7a5bklkij3jcz2fdj237vyleavu35c6mctoyt6cin7y",
+  "name": "Proof_359 — Morning Inspection of an Empty Duck Shelter MaMeeFarm | DGCP™",
+  "description": "This proof documents the morning routine at MaMeeFarm, recorded on\n20 December 2025 at 07:27 AM (GMT+7).\n\nThe image shows MaMee walking into the duck shelter during the early morning, despite the absence of ducks. Following the disappearance of the last remaining duck, the shelter remains empty.\n\nThis moment records continuity of human behavior and responsibility. Even without animals present, the routine inspection continues as part of daily farm life.\n\nThe shelter structure, feeding containers, and ground conditions remain intact, reflecting a transition phase rather than abandonment. The act of inspection itself is preserved as real-world evidence of persistence and habit formed through long-term care.\n\nThis record is captured as-is, without staging or narrative alteration.\nThe embedded timestamp ensures temporal traceability under DGCP principles of ground-truth, continuity, and human presence.\n\nThis proof belongs to the DGCP MaMeeFarm DATA collection.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-20"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:27 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "MaMee"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Morning Shelter Inspection"
+    },
+    {
+      "trait_type": "Animal Status",
+      "value": "No Ducks Present"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Duck Shelter / Farm Structure"
+    },
+    {
+      "trait_type": "Context",
+      "value": "Post-Animal Absence Continuity"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Daily Reality / Human Routine"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DGCP MaMeeFarm DATA"
+    }
+  ]
+}

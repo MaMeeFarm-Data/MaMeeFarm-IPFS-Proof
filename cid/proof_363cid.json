@@ -1,0 +1,48 @@
+{
+  "image": "ipfs://bafybeig3mr5dh45r6rbbflxnl27lzr6itjhjyrywkqnbyhmuinzwvw7yl4",
+  "name": "Proof 363 — Replanting Tomatoes from Excess Household Consumption",
+  "description": "This proof documents a gardening activity at MaMeeFarm on 20 December 2025 at 10:50 (GMT+7).\n\nThe image shows MaMee manually planting tomato seedlings in the garden. These tomatoes originate from household consumption where the harvest exceeded immediate needs, and viable seeds or seedlings were returned to the soil instead of being discarded.\n\nThis activity reflects a closed-loop, small-scale farming practice where food, seeds, and labor remain connected within the same land system. The task is performed manually using simple tools, under natural daylight conditions, without mechanization or chemical input.\n\nThe record is captured as-is, with a visible timestamp embedded in the image, ensuring temporal traceability and continuity within the DGCP MaMeeFarm DATA collection.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-20"
+    },
+    {
+      "trait_type": "Time",
+      "value": "10:50 (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "MaMee"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Planting tomato seedlings"
+    },
+    {
+      "trait_type": "Crop Type",
+      "value": "Tomato"
+    },
+    {
+      "trait_type": "Farming Method",
+      "value": "Manual / Reuse of household seeds"
+    },
+    {
+      "trait_type": "Tools Used",
+      "value": "Hand tool"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor garden area"
+    },
+    {
+      "trait_type": "Context",
+      "value": "Food cycle continuation / subsistence farming"
+    }
+  ]
+}

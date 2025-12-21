@@ -1,0 +1,56 @@
+{
+  "image": "ipfs://bafybeifvfm3ag3z234fzgywkpeh4dm2ap5nw4erfxjnlneva7db5wm36mq",
+  "name": "Proof_364 — Morning Temperature Observation Before Work MaMeeFarm | DGCP™",
+  "description": "This proof documents an early-morning environmental condition observation at MaMeeFarm, recorded on\n21 December 2025 at 07:03 AM (GMT+7).\n\nThe image shows a digital temperature and humidity meter mounted against a brick wall, displaying the ambient conditions before farm work begins. The recorded temperature is approximately 16.3°C, with relative humidity around 78%.\n\nThe sky condition at the time of recording is cloudy and overcast, indicating reduced sunlight and cooler morning air. Such conditions directly influence daily farm planning, human labor pacing, animal welfare considerations, and crop environment awareness.\n\nThis record represents a routine but critical ground-truth observation, captured prior to physical labor activities, reflecting real environmental constraints faced in small-scale farming systems.\n\nThe image is recorded as-is, with an embedded timestamp visible in the frame, ensuring temporal traceability, authenticity, and continuity within the MaMeeFarm DGCP daily proof sequence.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-21"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:03 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "16.3°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "78% RH"
+    },
+    {
+      "trait_type": "Weather Condition",
+      "value": "Cloudy / Overcast"
+    },
+    {
+      "trait_type": "Observation Type",
+      "value": "Morning Environmental Measurement"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Digital Thermometer / Hygrometer (HTC Series)"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Environmental Ground Truth"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Pre-Work Farm Conditions"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Reference Collection",
+      "value": "DGCP MaMeeFarm DATA (OpenSea)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2025-12-21",
+  "timezone": "GMT+7",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "proofs": [364, 365, 366, 367, 368],
+  "nft_activity": {
+    "7_ducks_of_hope": {
+      "day": 116,
+      "minted": 5
+    },
+    "seed_of_hope": {
+      "day": 148,
+      "minted": 4
+    }
+  },
+  "open_timestamp": {
+    "status": "completed",
+    "coverage": "all proofs and all NFTs"
+  },
+  "integrity": {
+    "ground_truth_only": true,
+    "automation_used": false,
+    "missing_records": false
+  },
+  "day_status": "closed",
+  "license": "DGCP | MMFARM-POL-2025"
+}

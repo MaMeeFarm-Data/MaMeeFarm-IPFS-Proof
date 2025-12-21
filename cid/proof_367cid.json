@@ -1,0 +1,60 @@
+{
+  "image": "ipfs://bafybeiary5n73z25ofjpf3kvifhsjd6kljbofukybhvfd72m3lymt7afbm",
+  "name": "Proof_367 — Walking to the Village for Daily Protein MaMeeFarm | DGCP™",
+  "description": "This proof documents a routine yet essential survival activity at MaMeeFarm, recorded on\n21 December 2025 at 09:14 AM (GMT+7).\n\nThe image shows raw pork purchased from a small village shop after MaMee walked approximately 3 kilometers from the farm. The total cost was 30 THB, intended to serve as the primary protein source for the entire day.\n\nThis moment reflects the economic reality of small-scale rural living, where physical distance, human effort, and minimal cash flow are inseparable from daily sustenance. There is no delivery system, no subsidy, and no optimization—only direct human labor exchanged for basic nutrition.\n\nWithin the DGCP framework, this proof captures real-world consumption logistics:\nmovement → purchase → sustenance → continuity of labor.\n\nThe act is small in monetary value but significant in context, demonstrating how human survival data is generated quietly, repeatedly, and without institutional recognition, yet remains verifiable and traceable.\n\nThe image is recorded as-is, with an embedded timestamp visible, ensuring temporal integrity and continuity within the MaMeeFarm DGCP archive.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Village near MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-21"
+    },
+    {
+      "trait_type": "Time",
+      "value": "09:14 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Food Purchase (Protein Source)"
+    },
+    {
+      "trait_type": "Distance Walked",
+      "value": "~3 km"
+    },
+    {
+      "trait_type": "Cost",
+      "value": "30 THB"
+    },
+    {
+      "trait_type": "Food Type",
+      "value": "Pork (Raw)"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Daily Nutrition"
+    },
+    {
+      "trait_type": "Economic Context",
+      "value": "Cash-Constrained Living"
+    },
+    {
+      "trait_type": "Human Labor",
+      "value": "Walking & Carrying"
+    },
+    {
+      "trait_type": "Data Category",
+      "value": "Daily Survival Logistics"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Reference Collection",
+      "value": "DGCP MaMeeFarm DATA (OpenSea)"
+    }
+  ]
+}

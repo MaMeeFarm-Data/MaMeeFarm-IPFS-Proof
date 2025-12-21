@@ -1,0 +1,56 @@
+{
+  "image": "ipfs://bafybeifjmi6xbtedd3cuggcqohekmdz7maxcv7xdjvx4sjwt6fddetdl2y",
+  "name": "Proof_366 — Empty Duck Shelter, Morning Verification MaMeeFarm | DGCP™",
+  "description": "This proof documents the morning inspection of an empty duck shelter at MaMeeFarm, recorded on\n21 December 2025 at 07:49 AM (GMT+7).\n\nThe image shows the duck shelter standing intact yet completely empty, with no living animals remaining inside. Despite the absence of life, MaMee continues the routine of walking into the shelter every morning, maintaining consistency in observation and verification.\n\nThis moment reflects a critical transition point:\nwhen biological presence has disappeared, but real-world data generation continues.\n\nWhat remains is not livestock, not production, and not yield \nbut ground-truth data, recorded faithfully without optimization, incentive, or institutional support.\n\nThis proof highlights a structural reality:\nreal labor, real loss, and real continuity of documentation often have no place in conventional economic or agricultural systems, yet they remain valid, verifiable, and irreversible within the DGCP framework.\n\nThe image is captured as-is, with an embedded timestamp visible, ensuring temporal accuracy, authenticity, and continuity in the MaMeeFarm DGCP archive.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-21"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:49 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Empty Duck Shelter"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Morning Verification / Observation"
+    },
+    {
+      "trait_type": "Animal Presence",
+      "value": "None"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Farm Shelter"
+    },
+    {
+      "trait_type": "Condition",
+      "value": "Post-Livestock State"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Morning Light"
+    },
+    {
+      "trait_type": "Data Theme",
+      "value": "Absence as Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Reference Collection",
+      "value": "DGCP MaMeeFarm DATA (OpenSea)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "image": "ipfs://bafybeihyer26oyczdw2naxheix75cknoee7juv7bgp5swebp4yqh5hufd4",
+  "name": "Proof_368 — Cooking Pork for Two Meals (Midday & Evening) MaMeeFarm | DGCP™",
+  "description": "This proof documents a daily food preparation activity at MaMeeFarm, recorded on\n21 December 2025 at 12:23 PM (GMT+7).\n\nThe image shows pork being cooked in a simple outdoor kitchen setting. The meat is intentionally divided and prepared to serve two meals—lunch and dinner—maximizing limited resources through careful planning and labor.\n\nThis moment reflects a core reality of small-scale rural life:\none purchase → multiple meals → sustained energy for work.\n\nThere is no surplus, no waste, and no automation. Cooking is performed manually using basic tools and locally available ingredients. The process represents not only food preparation but also resource optimization under constrained conditions.\n\nWithin the DGCP framework, this proof captures human decision-making around consumption, labor continuity, and survival efficiency. The act of cooking is inseparable from the ability to continue farm work and daily responsibilities.\n\nThe image is recorded as-is, with a visible embedded timestamp, ensuring temporal accuracy and traceability within the MaMeeFarm DGCP archive.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-21"
+    },
+    {
+      "trait_type": "Time",
+      "value": "12:23 PM (GMT+7)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Cooking / Food Preparation"
+    },
+    {
+      "trait_type": "Food Type",
+      "value": "Pork"
+    },
+    {
+      "trait_type": "Meal Plan",
+      "value": "Two Meals (Lunch & Dinner)"
+    },
+    {
+      "trait_type": "Cooking Method",
+      "value": "Manual / Open Pan"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Daily Nutrition & Energy for Labor"
+    },
+    {
+      "trait_type": "Resource Strategy",
+      "value": "Portioning & Efficiency"
+    },
+    {
+      "trait_type": "Human Labor",
+      "value": "Cooking & Planning"
+    },
+    {
+      "trait_type": "Data Category",
+      "value": "Daily Survival & Consumption"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Reference Collection",
+      "value": "DGCP MaMeeFarm DATA (OpenSea)"
+    }
+  ]
+}

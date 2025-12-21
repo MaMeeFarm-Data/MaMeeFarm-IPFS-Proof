@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeias7ys3t4hkge3ijmc7irrh37tqougomnmxij3f4piprde7b3ydsa",
+  "name": "Proof_365 — Morning Dog Feeding Routine MaMeeFarm | DGCP™",
+  "description": "This proof documents the first task of the day at MaMeeFarm, which is feeding the dogs in the morning, recorded on\n21 December 2025 at 07:17 AM (GMT+7).\n\nThe image captures MaMee performing the routine task of feeding the dogs within the farm area. Several dogs are present, gathering around during the feeding process. This activity takes place outdoors under natural morning light, shortly after the initial environmental temperature observation.\n\nMorning feeding represents a daily responsibility and care obligation, forming part of the living system of MaMeeFarm. It reflects not only animal welfare practices but also the continuity of routine labor that structures each farming day.\n\nThis task is performed manually, without automation, emphasizing direct human–animal interaction and real-world farm dependency on consistent care.\n\nThe image is recorded as-is, with an embedded timestamp visible, ensuring temporal accuracy, authenticity, and traceability within the DGCP proof sequence.\n\nThis proof is prepared for minting as part of the DGCP MaMeeFarm DATA collection on OpenSea.\nLicense\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-21"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:17 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Dog Feeding Routine"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Daily Animal Care"
+    },
+    {
+      "trait_type": "Animals Involved",
+      "value": "Farm Dogs"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor Farm Area"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Natural Morning Light"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Daily Life / Animal Welfare Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    },
+    {
+      "trait_type": "Reference Collection",
+      "value": "DGCP MaMeeFarm DATA (OpenSea)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeigsrjgnvbz326npiy26bl4cfurdkypnutyn7bqptcjmu6xbr7pxbm",
+  "name": "Proof_370 — Preparing Onion Bulbs for Planting MaMeeFarm | DGCP™",
+  "description": "This proof documents a morning farm preparation activity at MaMeeFarm on\n22 December 2025 at 07:19 AM (GMT+7).\n\nThe image shows onion bulbs prepared and placed on a freshly worked vegetable bed, following land preparation completed the previous day. This step represents the transition from soil preparation to active planting, marking continuity in small-scale crop production.\n\nThe onions are arranged manually on dry, loosened soil, reflecting traditional, low-input farming practices without mechanized equipment. The activity demonstrates real-world constraints, human labor, and incremental progress typical of subsistence and smallholder agriculture.\n\nThis record is captured as-is, without staging or enhancement, in alignment with DGCP principles of ground-truth evidence, temporal continuity, and transparency.\nThe timestamp embedded in the image provides verifiable temporal context and preserves the integrity of MaMeeFarm’s daily operational archive.\n\nThis proof is part of the DGCP MaMeeFarm DATA collection on OpenSea.\n\n📜 License\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Day",
+      "value": "2025-12-22"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:19 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Crop Preparation"
+    },
+    {
+      "trait_type": "Crop Type",
+      "value": "Onion"
+    },
+    {
+      "trait_type": "Method",
+      "value": "Manual / Non-Mechanized"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor Vegetable Bed"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Farm Labor / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

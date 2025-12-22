@@ -1,0 +1,63 @@
+{
+  "date": "2025-12-22",
+  "timezone": "GMT+7",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "daily_log_type": "real-world activity & proof index",
+  "proof_range": {
+    "from": 369,
+    "to": 373
+  },
+  "proofs": [
+    {
+      "proof_id": 369,
+      "category": "environment",
+      "description": "Morning weather and temperature recording before starting work",
+      "time_anchor": "OpenTimestamp"
+    },
+    {
+      "proof_id": 370,
+      "category": "agriculture",
+      "description": "Preparation of onion bulbs for planting following soil preparation",
+      "time_anchor": "OpenTimestamp"
+    },
+    {
+      "proof_id": 371,
+      "category": "infrastructure",
+      "description": "Daily inspection of empty duck shelter as ground-truth absence record",
+      "time_anchor": "OpenTimestamp"
+    },
+    {
+      "proof_id": 372,
+      "category": "agriculture",
+      "description": "Completion of vegetable planting and watering under strong sunlight",
+      "time_anchor": "OpenTimestamp"
+    },
+    {
+      "proof_id": 373,
+      "category": "food",
+      "description": "Starting a wood-fired stove for rice cooking after field work",
+      "time_anchor": "OpenTimestamp"
+    }
+  ],
+  "nft_collections": [
+    {
+      "collection": "7 Ducks of Hope",
+      "day": 117,
+      "total_files": 5,
+      "time_anchor": "OpenTimestamp"
+    },
+    {
+      "collection": "Seed of the Day",
+      "day": 149,
+      "total_files": 5,
+      "time_anchor": "OpenTimestamp"
+    }
+  ],
+  "integrity": {
+    "cid_storage": "separate json files",
+    "proof_markdown_contains_cid": false,
+    "all_time_anchored": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

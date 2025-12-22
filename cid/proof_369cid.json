@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeihmyf3vpzzehxei4jza6jcrw3dip5cbeiz7shyjzkgsmor7wuuo4i",
+  "name": "Proof_369 — Morning Temperature & Humidity Record MaMeeFarm | DGCP™",
+  "description": "This proof documents the start of farm activities on 22 December 2025 at MaMeeFarm, marked by a morning environmental condition record.\n\nThe image captures a digital thermometer and humidity meter installed on a brick wall, showing real-time readings at 06:50 AM (GMT+7).\nThe recorded values indicate a cool early-morning temperature and high relative humidity, reflecting typical seasonal conditions in rural northern Thailand.\n\nThis activity represents the first operational action of the day—establishing environmental context before any physical labor begins.\nSuch records provide baseline atmospheric data essential for understanding farm conditions, animal behavior (when present), crop health, and human workload.\n\nThe data is recorded as-is, without manipulation or enhancement, in alignment with DGCP principles of ground-truth evidence, temporal integrity, and continuity of daily records.\n\nThis proof is part of the official DGCP MaMeeFarm DATA collection on OpenSea.\n\n📜 License\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-22"
+    },
+    {
+      "trait_type": "Time",
+      "value": "06:50 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Morning Weather Documentation"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "~15.5°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "~74% RH"
+    },
+    {
+      "trait_type": "Device",
+      "value": "Digital Thermometer / Hygrometer"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Early Morning / Overcast Conditions"
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Environmental Ground Truth"
+    }
+  ]
+}

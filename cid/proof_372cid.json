@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeif62ak5odgr5j7szco6hbltvwwawp5tlepna2c7fielnxfp3gtluy",
+  "name": "Proof_372 — Morning Vegetable Planting Under Strong Sun MaMeeFarm | DGCP™",
+  "description": "This proof documents real agricultural labor at MaMeeFarm on\n22 December 2025 at 10:57 AM (GMT+7).\n\nThe image captures the completion of a morning vegetable planting task, including soil preparation, planting, and watering. The work is performed under strong sunlight, reflecting the physical reality of small-scale farming without mechanization or external support.\n\nBanana leaves placed nearby indicate reused organic material for ground cover and moisture retention. The action shown is not staged or symbolic — it is the continuation of daily subsistence farming, carried out regardless of weather intensity or system recognition.\n\nThis proof reinforces the DGCP principle that labor itself is data.\nThe heat, time, posture, and physical effort are inseparable from the record.\nNo abstraction, no optimization — only ground-truth work.\n\nThis record is part of the DGCP MaMeeFarm DATA collection on OpenSea.\n📜 License\n\nDGCP | MMFARM-POL-2025\n\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Thailand"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-22"
+    },
+    {
+      "trait_type": "Time",
+      "value": "10:57 AM (GMT+7)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Vegetable Planting"
+    },
+    {
+      "trait_type": "Task Status",
+      "value": "Completed & Watered"
+    },
+    {
+      "trait_type": "Weather Condition",
+      "value": "Strong Sun / High Heat"
+    },
+    {
+      "trait_type": "Farming Method",
+      "value": "Manual / Small-scale"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Real Labor / Ground Truth"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP™"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeiadkaptg5ofy7w7sm5hvl4lm5o5rgukhc3n37bgieewao6pdimwse",
+  "name": "Proof 378 — One Meal for the Entire Day",
+  "description": "On December 23, 2025 at 11:21 ICT, this image records the only meal consumed by P’Toh for the entire day at MaMeeFarm.\n\nNo break schedule.\nNo guaranteed meals.\nNo external support.\n\nThis is not a story of sacrifice for sympathy \nit is a factual record of how work continues even when basic needs are reduced to the minimum.\n\nThis proof documents nutritional reality under constrained conditions,\ncaptured as-is, without staging, in alignment with DGCP ground-truth principles.\n\nDGCP Classification\n\nProof-of-Life\n\nProof-of-Survival\n\nProof-of-Continuity\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Actor",
+      "value": "P’Toh"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Daily Meal Consumption"
+    },
+    {
+      "trait_type": "Meal Count",
+      "value": "One Meal (Entire Day)"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "11:21 ICT"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm"
+    },
+    {
+      "trait_type": "Condition",
+      "value": "Resource-Constrained"
+    },
+    {
+      "trait_type": "Reality Type",
+      "value": "Human Survival / Labor Continuity"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeibfpwtpadnn42bqrcafgj2zal46545is6xjndkpjvfl4ggk3v2rne",
+  "name": "Proof 376 — Sharing Bananas, Shared Survival",
+  "description": "On the morning of December 23, 2025, MaMee shares bananas with every dog at MaMeeFarm.\nNo hierarchy. No favoritism. Every life eats together.\n\nThis moment is not charity, not sentiment, and not performance.\nIt is a daily act of survival, care, and coexistence — recorded exactly as it happened.\n\nIn systems where support never arrives,\nsharing becomes the only infrastructure that exists.\n\nCaptured as verifiable Ground Truth under the DGCP framework.\n\nDGCP Classification\n\nProof-of-Life\n\nProof-of-Care\n\nProof-of-Continuity\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Actor",
+      "value": "MaMee"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Food Sharing"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Dogs (Multiple)"
+    },
+    {
+      "trait_type": "Food Type",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Rural Farm Kitchen"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Morning"
+    },
+    {
+      "trait_type": "Reality Type",
+      "value": "Non-Staged Daily Life"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP"
+    }
+  ]
+}

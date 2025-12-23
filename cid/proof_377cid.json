@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeid3a5rtyhzx5xry5jymq3hltpunix4qvjyxkzc6babspehosdy2mi",
+  "name": "Proof 377 — Fueling the Water Pump at 11:08",
+  "description": "On December 23, 2025 at 11:08 ICT, MaMee refuels the water pump used in MaMeeFarm.\nNo automation. No backup system. No external support.\n\nWater in this farm does not come from infrastructure \nit comes from fuel, effort, and constant attention.\n\nThis act is not maintenance for convenience,\nbut a requirement for survival in a system where continuity depends entirely on human action.\n\nRecorded as Ground Truth under the DGCP framework.\n\nDGCP Classification\n\nProof-of-Work\n\nProof-of-Infrastructure\n\nProof-of-Continuity\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Actor",
+      "value": "MaMee"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Refueling Water Pump"
+    },
+    {
+      "trait_type": "Equipment",
+      "value": "Gasoline Water Pump"
+    },
+    {
+      "trait_type": "Resource Type",
+      "value": "Water Infrastructure"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "11:08 ICT"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Small-Scale Farm"
+    },
+    {
+      "trait_type": "Reality Type",
+      "value": "Manual Dependency"
+    },
+    {
+      "trait_type": "Proof System",
+      "value": "DGCP"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2025-12-23",
+  "location": "MaMeeFarm, Thailand",
+  "timezone": "ICT",
+  "proof_range": {
+    "start": 374,
+    "end": 378
+  },
+  "proofs": [
+    {
+      "id": 374,
+      "title": "Morning temperature and humidity before work",
+      "time": "06:59",
+      "ots": true
+    },
+    {
+      "id": 375,
+      "title": "Visiting empty duck coop",
+      "time": "07:09",
+      "ots": true
+    },
+    {
+      "id": 376,
+      "title": "Sharing bananas with all dogs",
+      "time": "07:31",
+      "ots": true
+    },
+    {
+      "id": 377,
+      "title": "Refueling water pump",
+      "time": "11:08",
+      "ots": true
+    },
+    {
+      "id": 378,
+      "title": "Single meal for full working day",
+      "time": "11:21",
+      "ots": true
+    }
+  ],
+  "nft_activity": {
+    "7_ducks_of_hope": {
+      "day": 118,
+      "total_files": 4,
+      "ots": true
+    },
+    "seed_of_hope": {
+      "day": 150,
+      "total_files": 5,
+      "ots": true
+    }
+  },
+  "open_timestamp_status": "completed_for_all_proofs_and_nfts",
+  "license": "DGCP | MMFARM-POL-2025"
+}

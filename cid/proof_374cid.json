@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeifetucfdkxj43o3oml6pliigwujqbwfyaixy5sefdjqkb6hpq4qj4",
+  "name": "Proof 374 — Cold Morning Temperature Record | MaMeeFarm™",
+  "description": "This proof records the early morning environmental condition at MaMeeFarm™\non 23 December 2025, 06:59 AM (ICT).\n\nThe temperature dropped to 17.5°C with 74% humidity, reflecting a cold rural morning before any physical labor began.\n\nThis record represents ground-truth environmental data, captured directly on-site,\nwithout simulation, automation, or external system intervention.\n\nEven in a farm with no ducks left,\nthe reality continues — and it is recorded.\n\nThis proof is part of the DGCP™ (Data Governance & Continuous Proof) framework,\nwhere everyday life, labor, and environment are preserved as verifiable real-world data.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Date",
+      "value": "2025-12-23"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "17.5°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "74%"
+    },
+    {
+      "trait_type": "Weather Condition",
+      "value": "Cold Morning"
+    },
+    {
+      "trait_type": "Location Context",
+      "value": "Rural Farm (MaMeeFarm™)"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Environmental / Pre-Work Record"
+    },
+    {
+      "trait_type": "System",
+      "value": "DGCP™"
+    }
+  ]
+}

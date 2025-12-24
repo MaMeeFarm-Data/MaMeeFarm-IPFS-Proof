@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeicio4tugsimk3h6mxpvxlyv3phtlgtoqjka54qr5aal4jhdkqkrui",
+  "name": "DGCP | MaMeeFarm™ — Proof 379 Morning Temperature & Humidity Check",
+  "description": "This record captures the starting environmental condition of a working day at MaMeeFarm™.\n\nAt 07:10 (24 December 2025), ambient temperature and humidity were measured and visually recorded as part of the DGCP (Data Governance & Continuous Proof) routine.\nThis data reflects the real physical state of the farm at the moment work begins before any activity alters the environment.\n\nSuch daily measurements form a continuous chain of ground-truth environmental data, anchoring agricultural reality to time, place, and observable conditions.\n\nThis NFT represents uninterrupted proof-of-reality, not a simulation, not a report\nbut a verifiable moment in time.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Environmental Measurement"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "17.8°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "74%"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:10 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "379"
+    }
+  ]
+}

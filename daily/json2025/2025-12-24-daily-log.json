@@ -1,0 +1,75 @@
+{
+  "date": "2025-12-24",
+  "location": {
+    "site": "MaMeeFarm™",
+    "province": "Lampang",
+    "country": "Thailand"
+  },
+  "framework": "DGCP (Data Governance & Continuous Proof)",
+  "mode": [
+    "mint-first",
+    "proof-linked",
+    "open-timestamped"
+  ],
+  "daily_summary": "Primary DGCP reference record for all activities, proofs, and NFT operations conducted on 24 December 2025. This log aggregates real-world operational data, proof generation, NFT minting, and cryptographic timestamp anchoring without narrative interpretation.",
+  "proofs": [
+    {
+      "proof_index": 379,
+      "description": "Morning temperature and humidity measurement",
+      "time": "07:10",
+      "open_timestamped": true
+    },
+    {
+      "proof_index": 380,
+      "description": "Inspection of empty duck shelter",
+      "time": "07:14",
+      "open_timestamped": true
+    },
+    {
+      "proof_index": 381,
+      "description": "Morning soil preparation work",
+      "time": "07:17",
+      "open_timestamped": true
+    },
+    {
+      "proof_index": 382,
+      "description": "Outdoor cooking for animal feeding",
+      "time": "12:09",
+      "open_timestamped": true
+    },
+    {
+      "proof_index": 383,
+      "description": "Papaya harvest for on-site midday consumption",
+      "time": "12:25",
+      "open_timestamped": true
+    }
+  ],
+  "nft_summary": {
+    "total_files": 10,
+    "collections": [
+      {
+        "name": "7 Ducks of Hope",
+        "day": 119,
+        "total_files": 5,
+        "sha256_recorded": 4,
+        "sha256_unavailable": 1,
+        "notes": "One file SHA-256 unavailable due to documented human operational error. No recalculation or replacement performed. All files OpenTimestamped with .ots present."
+      },
+      {
+        "name": "Seed of Hope",
+        "day": 151,
+        "total_files": 5,
+        "sha256_recorded": 5,
+        "notes": "All SHA-256 values copied directly from OpenTimestamp (.ots) outputs. No modification or recalculation performed."
+      }
+    ]
+  },
+  "cryptographic_integrity": {
+    "sha256_source": "OpenTimestamp verification output",
+    "recalculation_performed": false,
+    "all_files_open_timestamped": true,
+    "ots_files_present": true
+  },
+  "system_role": "Authoritative DGCP daily reference log linking proofs, NFTs, and cryptographic timestamps for 2025-12-24.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

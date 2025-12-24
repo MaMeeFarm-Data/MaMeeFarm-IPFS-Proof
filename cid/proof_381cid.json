@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeieny4rfrajfxmn2flitb5jfgwxhtsdjgev5qlmscdaf5r53ezjpba",
+  "name": "DGCP | MaMeeFarm™ — Proof 381 Morning Soil Preparation Activity",
+  "description": "This record documents a morning soil preparation activity at MaMeeFarm™.\n\nAt 07:17 (24 December 2025), manual ground work was performed to prepare a planting area.\nThe activity occurred under overcast conditions, with no direct sunlight, and stable ambient temperature.\n\nThis record captures:\n\na physical human action,\n\ninteraction with soil substrate,\n\nand environmental conditions suitable for field work.\n\nThe data is recorded as part of the DGCP (Data Governance & Continuous Proof) framework,\nrepresenting actual labor activity and land-state transition without interpretation or emotional context.\n\nThis NFT serves as ground-truth documentation of agricultural work in progress.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Manual Field Work"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Soil Digging / Bed Preparation"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:17 AM"
+    },
+    {
+      "trait_type": "Weather Condition",
+      "value": "Overcast"
+    },
+    {
+      "trait_type": "Work Mode",
+      "value": "Manual Labor"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "381"
+    }
+  ]
+}

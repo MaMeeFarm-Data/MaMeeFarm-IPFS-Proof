@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeic463pvy5wumxoy3ifxav7fygle47xmqyuv43nh4bwpuyxgkjn6pi",
+  "name": "DGCP | MaMeeFarm™ — Proof 382 Outdoor Cooking Activity for Animal Feeding",
+  "description": "This record documents an outdoor cooking activity conducted to prepare food for animals at MaMeeFarm™.\n\nAt 12:09 (24 December 2025), a fire was manually started using solid fuel materials to cook rice.\nThe activity took place under direct sunlight with high solar exposure, indicating strong daytime conditions.\n\nThis record captures:\n\na heat-generation process,\n\nmanual fuel management,\n\nand food preparation for animal care.\n\nThe data is recorded under the DGCP (Data Governance & Continuous Proof) framework as verifiable evidence of daily operational activity, without narrative interpretation or emotional framing.\n\nThis NFT represents ground-truth documentation of subsistence-level farm operations.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Operational Activity"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Cooking for Animal Feeding"
+    },
+    {
+      "trait_type": "Fuel Type",
+      "value": "Solid Biomass"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "12:09 PM"
+    },
+    {
+      "trait_type": "Sunlight Condition",
+      "value": "Strong Direct Sunlight"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "Proof Index"
+    }
+  ]
+}

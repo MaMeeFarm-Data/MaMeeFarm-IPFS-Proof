@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeidev6fnm2rztbhkq2gjx3h4w3v6iyt7gdsjgwzde2ez4qifatjbse",
+  "name": "DGCP | MaMeeFarm™ — Proof 383 Papaya Harvest for Midday Meal",
+  "description": "This record documents the harvest of a ripe papaya from the backyard garden at MaMeeFarm™.\n\nAt 12:25 (24 December 2025), a mature papaya fruit was manually harvested for on-site food consumption.\nThe activity reflects a direct linkage between garden yield and daily sustenance, recorded at the time of collection.\n\nThis data captures:\n\ncrop maturity and harvest action,\n\nimmediate utilization for food,\n\nand the physical state of produce at harvest time.\n\nRecorded under the DGCP (Data Governance & Continuous Proof) framework as ground-truth agricultural and subsistence activity, without narrative interpretation or emotional framing.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Crop Harvest"
+    },
+    {
+      "trait_type": "Crop",
+      "value": "Papaya"
+    },
+    {
+      "trait_type": "Harvest Method",
+      "value": "Manual"
+    },
+    {
+      "trait_type": "Use Case",
+      "value": "On-site Consumption"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "12:25 PM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "383"
+    }
+  ]
+}

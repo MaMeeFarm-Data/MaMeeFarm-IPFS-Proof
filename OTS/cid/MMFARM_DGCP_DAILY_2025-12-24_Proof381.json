@@ -1,0 +1,18 @@
+{
+  "proof_id": 381,
+  "date": "2025-12-24",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "model": "Daily Proof",
+  "files": {
+    "json": "MMFARM_DGCP_DAILY_2025-12-24_Proof381.json",
+    "md": "MMFARM_DGCP_DAILY_2025-12-24_Proof381.md"
+  },
+  "sha256": {
+    "json": "dd502893742cae62307484e6d0daea67f652c4b9f3d0562c95e95e4eb33df368",
+    "md": "9cf37ba71bfa625025e80c869ce448de190a71d90bcb7fcb5a250b7f8b643596"
+  },
+  "timestamp": "OpenTimestamps",
+  "notes": "DGCP standardized daily proof. SHA256 values recorded directly from OpenTimestamps verification without any modification.",
+  "license": "MMFARM-POL-2025"
+}

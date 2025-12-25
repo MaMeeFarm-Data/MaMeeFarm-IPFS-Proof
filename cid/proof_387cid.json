@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeibxhrfsq7yj4rnd6d6q7sarycfk44rt4msrxrfetgptdtioc5xlm4",
+  "name": "DGCP | MaMeeFarm™ — Proof 387 Vegetation Overgrowth and Equipment Status",
+  "description": "This record documents vegetation conditions and equipment status along a farm pathway at MaMeeFarm™.\n\nAt 06:55 (25 December 2025), the area was observed to have overgrown grass and plants.\nThe mechanical grass-cutting equipment was non-operational at the time of observation.\nManual cutting using hand tools was identified as the available maintenance method.\n\nThis data is recorded under the DGCP (Data Governance & Continuous Proof) framework as ground-truth documentation of site condition and tool availability, without interpretation or emotional framing.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "387"
+    },
+    {
+      "trait_type": "Area",
+      "value": "Farm Pathway"
+    },
+    {
+      "trait_type": "Vegetation State",
+      "value": "Overgrown"
+    },
+    {
+      "trait_type": "Equipment Status",
+      "value": "Non-operational (Grass Cutter)"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "06:55 AM"
+    }
+  ]
+}

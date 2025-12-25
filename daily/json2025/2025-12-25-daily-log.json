@@ -1,0 +1,42 @@
+{
+  "date": "2025-12-25",
+  "location": {
+    "site": "MaMeeFarm™",
+    "province": "Lampang",
+    "country": "Thailand"
+  },
+  "framework": "DGCP (Data Governance & Continuous Proof)",
+  "mode": [
+    "mint-first",
+    "proof-linked",
+    "partial-open-timestamp"
+  ],
+  "proofs": {
+    "range": "384-388",
+    "open_timestamped_md": [384, 385, 386, 387, 388],
+    "open_timestamped_json": [384, 385, 386, 387],
+    "missing_json_timestamp": [388],
+    "notes": "Proof 388 JSON not OpenTimestamped due to IPFS metadata retrieval issue."
+  },
+  "nft_activity": {
+    "7_ducks_of_hope": {
+      "day": 120,
+      "total_files": 5,
+      "open_timestamped": true
+    },
+    "seed_of_hope": {
+      "day": 152,
+      "total_files": 2,
+      "open_timestamped": false,
+      "reason": "NFT metadata not committed; IPFS metadata unavailable"
+    }
+  },
+  "system_constraints": {
+    "ipfs_gateway_issue": true,
+    "power_outage": true,
+    "power_type": "solar",
+    "time_recorded": "23:10"
+  },
+  "reference_note": "DGCP Note — IPFS Gateway Timeout",
+  "license": "DGCP | MMFARM-POL-2025"
+}

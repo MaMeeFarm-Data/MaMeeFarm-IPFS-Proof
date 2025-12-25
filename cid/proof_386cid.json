@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeicqnmbaf3ecl5xumhvxrahh53ssjj2cm35ioq75vjiybrdtxdo5im",
+  "name": "DGCP | MaMeeFarm™ — Proof 386 Empty Duck Shelter Observation",
+  "description": "This record documents a routine observation of the duck shelter interior at MaMeeFarm™.\n\nAt 06:51 (25 December 2025), the shelter area was visually inspected and recorded.\nThe space was observed to be vacant, with no livestock present and no active operations underway at the time of observation.\n\nThe data is captured under the DGCP (Data Governance & Continuous Proof) framework as ground-truth documentation of facility state, without narrative interpretation or emotional framing.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Site Observation"
+    },
+    {
+      "trait_type": "Facility",
+      "value": "Duck Shelter"
+    },
+    {
+      "trait_type": "Occupancy Status",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "06:51 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "386"
+    }
+  ]
+}

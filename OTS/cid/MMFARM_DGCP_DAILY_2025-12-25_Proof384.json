@@ -1,0 +1,25 @@
+{
+  "proof_id": 384,
+  "date": "2025-12-25",
+  "project": "MaMeeFarm™",
+  "system": "DGCP (Data Governance & Continuous Proof)",
+  "file_type": "json",
+  "description": "DGCP daily proof recorded as structured machine-readable evidence. This JSON file represents Proof 384 and is cryptographically anchored via OpenTimestamps.",
+  "sha256_json": "33556b7c9bb27f527192402560f68e4d7820c31499f6d87a3c25c3525c2f181",
+  "integrity": {
+    "timestamping": "OpenTimestamps",
+    "hash_algorithm": "SHA-256",
+    "post_timestamp_modification": false
+  },
+  "chain_continuity": {
+    "previous_proof": 383,
+    "current_proof": 384,
+    "status": "continuous"
+  },
+  "notes": [
+    "JSON file committed after MD according to DGCP protocol",
+    "No analytics or interpretation applied",
+    "Exists solely as verifiable real-world evidence"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

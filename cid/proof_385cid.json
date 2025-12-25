@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeih4yt2fdh7i3s55yv4zaks3rznfiotbluk6pb7nxpvyxqilpcu6yu",
+  "name": "DGCP | MaMeeFarm™ — Proof 385 Vegetable Bed Formation Near Duck Shelter (4 Beds)",
+  "description": "This record documents the formation of vegetable planting beds adjacent to the duck shelter area at MaMeeFarm™.\n\nAt 06:50 (25 December 2025), soil was shaped into four distinct planting beds in preparation for crop cultivation.\nThe activity reflects a land-organization step following prior soil preparation, recorded as an observable change in ground structure.\n\nThis data is captured under the DGCP (Data Governance & Continuous Proof) framework as ground-truth documentation of land-use preparation, without interpretation or emotional framing.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Field Preparation"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Vegetable Bed Formation"
+    },
+    {
+      "trait_type": "Number of Beds",
+      "value": "4"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "06:50 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "385"
+    }
+  ]
+}

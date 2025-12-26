@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeid46huqm34lmft3rso54gixfsghoxmpcsu7no7drhrw7sz23r3mme",
+  "name": "DGCP | MaMeeFarm™ — Proof 390 Morning Coffee and Dog Feeding Routine",
+  "description": "This record documents a morning routine activity at MaMeeFarm™.\n\nAt 07:04 (26 December 2025), coffee consumption occurred concurrently with feeding dogs on-site.\nThe activity represents a recurring daily operation combining human sustenance and animal care, recorded as an observable routine at the start of the day.\n\nThis data is captured under the DGCP (Data Governance & Continuous Proof) framework as ground-truth documentation of daily routine activity, without interpretation or emotional framing.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Daily Routine Record"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Coffee Consumption & Dog Feeding"
+    },
+    {
+      "trait_type": "Animals Involved",
+      "value": "Dogs"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:04 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "390"
+    }
+  ]
+}

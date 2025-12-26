@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeidy3ierrlvxidaemhliwjytidwoleqzhynwxdd3jvpyj65etgcmuq",
+  "name": "DGCP | MaMeeFarm™ — Proof 391 Sun-Drying Dog Bedding as Daily Routine",
+  "description": "This record documents a routine maintenance activity at MaMeeFarm™.\n\nAt 07:38 (26 December 2025), dog bedding (bedsheets used by dogs) was placed outdoors for sun-drying.\nThis activity is part of regular hygiene and care procedures for animals on-site and represents a repeated daily or periodic task within farm operations.\n\nThe record is captured under the DGCP (Data Governance & Continuous Proof) framework as ground-truth documentation of daily maintenance work, without narrative or emotional interpretation.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Daily Routine Record"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Sun-Drying Dog Bedding"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Hygiene & Maintenance"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:38 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "391"
+    }
+  ]
+}

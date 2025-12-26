@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeidcolpvjfw7rdl2m6dwxezyb7m2tes22j53bkse3g5liiexloei6y",
+  "name": "DGCP | MaMeeFarm™ — Proof 389 Morning Temperature & Humidity Check (16.8°C)",
+  "description": "This record documents the start-of-day environmental check at MaMeeFarm™.\n\nAt 06:41 (26 December 2025), ambient conditions were visually recorded using a digital thermometer–hygrometer.\nThe measured air temperature was 16.8°C, with relative humidity at 73%, representing cool and stable early-morning conditions prior to daily operations.\n\nThis data is recorded under the DGCP (Data Governance & Continuous Proof) framework as ground-truth environmental observation, without interpretation or narrative framing.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Environmental Measurement"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "16.8°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "73%"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "06:41 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "389"
+    }
+  ]
+}

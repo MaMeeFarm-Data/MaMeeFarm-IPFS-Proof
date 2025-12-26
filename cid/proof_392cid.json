@@ -1,0 +1,28 @@
+{
+  "image": "ipfs://bafybeihoeyj7mi5m3qmz5sqlkr4l4nnmbp47yip7mnqd5cczo3hlmazxmu",
+  "name": "DGCP | MaMeeFarm™ — Proof 392 Observation of an Empty Duck Shelter",
+  "description": "This record documents an observational moment at MaMeeFarm™.\n\nAt 07:45 (26 December 2025), MaMee stood at the entrance of the duck shelter and observed the interior space where no living animals were present.\nThe structure, fencing, and surrounding vegetation remain intact, but the shelter itself was unoccupied at the time of recording.\n\nThis proof captures a state of absence as part of continuous farm reality documentation under the DGCP (Data Governance & Continuous Proof) framework.\nNo interpretation, narrative, or emotional context is applied.\nThe record exists solely to document the factual condition of the farm environment at that moment.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Environmental Observation"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Empty Duck Shelter"
+    },
+    {
+      "trait_type": "Living Presence",
+      "value": "None"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "392"
+    }
+  ]
+}

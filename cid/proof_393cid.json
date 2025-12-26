@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeiczdtfi5jqfr6kiwfpkzit7eympx2ykaod2jaowwqm3kh35bc6baq",
+  "name": "DGCP | MaMeeFarm™ — Proof 393 Completion of Vegetable Planting Under Strong Sunlight",
+  "description": "This record documents an agricultural planting activity at MaMeeFarm™.\n\nAt 11:11 (26 December 2025), MaMee was seated on the ground planting spring onion bulbs and completing the remaining vegetable beds.\nOn this date, planting activities for spring onions, kale, and cauliflower were completed across all prepared plots.\n\nThe work was carried out under strong sunlight and high daytime temperature, reflecting typical field conditions during dry-season farming.\n\nThis proof is recorded under the DGCP (Data Governance & Continuous Proof) framework as factual documentation of farm labor and crop establishment, without interpretation or emotional narrative.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Agricultural Activity Record"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Vegetable Planting"
+    },
+    {
+      "trait_type": "Crops",
+      "value": "Spring Onion, Kale, Cauliflower"
+    },
+    {
+      "trait_type": "Work Status",
+      "value": "All Plots Completed"
+    },
+    {
+      "trait_type": "Environmental Condition",
+      "value": "Strong Sunlight"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "393"
+    }
+  ]
+}

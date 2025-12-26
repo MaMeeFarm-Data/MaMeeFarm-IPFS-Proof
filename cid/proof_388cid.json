@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeihcdewlz7fh6gpgq7lbp7gbbsdbr6k4fs77wvry7ltne7e3anizde",
+  "name": "DGCP | MaMeeFarm™ — Proof 388 Daily Meal Record (Instant Noodles x2)",
+  "description": "This record documents a daily meal intake at MaMeeFarm™.\n\nAt 10:14 (25 December 2025), food consumption was recorded consisting of two packs of instant noodles, prepared and consumed on-site.\nThe record reflects a subsistence-level food intake associated with ongoing farm operations.\n\nThis data is captured under the DGCP (Data Governance & Continuous Proof) framework as ground-truth documentation of daily sustenance, without interpretation or emotional framing.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Daily Sustenance Record"
+    },
+    {
+      "trait_type": "Food Item",
+      "value": "Instant Noodles"
+    },
+    {
+      "trait_type": "Quantity",
+      "value": "2 Packs"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "10:14 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "388"
+    }
+  ]
+}

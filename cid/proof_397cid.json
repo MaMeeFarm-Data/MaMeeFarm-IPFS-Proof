@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeifuyw3b6a3ba5b2b75nprbwyxjqqwcbtsaco6gpcygglfcdaui4eu",
+  "name": "DGCP | MaMeeFarm™ — Proof 397 Sorting Shallot Bulbs for Planting (Quality Selection)",
+  "description": "This proof documents a pre-planting quality selection process at MaMeeFarm™.\n\nAt 11:18 on 27 December 2025, MaMee carefully sorted shallot bulbs in preparation for planting a new plot.\nBulbs showing signs of rot, dehydration, or weakness were identified and discarded, while healthy bulbs were retained for cultivation.\n\nThis activity records an essential agricultural decision-making step—quality control before planting—ensuring soil, labor, and resources are used efficiently.\nThe process is captured under the DGCP (Data Governance & Continuous Proof) framework as verifiable real-world work.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Agricultural Preparation"
+    },
+    {
+      "trait_type": "Crop",
+      "value": "Shallot (Allium cepa var. aggregatum)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Sorting & Quality Selection"
+    },
+    {
+      "trait_type": "Discard Action",
+      "value": "Rotten / Weak Bulbs Removed"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "11:18 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "397"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeihu5iz5fj67s2hfwdkjynpmafyv7mfb33tbqgiowy7ywkomaikdh4",
+  "name": "DGCP | MaMeeFarm™ — Proof 394 Morning Temperature Check (Start of Workday)",
+  "description": "This record documents the initial environmental check at the start of the workday at MaMeeFarm™.\n\nAt 06:44 on 27 December 2025, ambient conditions were measured using a wall-mounted digital thermometer.\nThe recorded values were:\n\nTemperature: 16.8°C\n\nHumidity: 72%\n\nThis measurement serves as the first operational reference of the day, establishing a baseline for environmental conditions prior to any farm activities.\n\nThe record is captured under the DGCP (Data Governance & Continuous Proof) framework as factual environmental data, without narrative or interpretation.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Environmental Measurement"
+    },
+    {
+      "trait_type": "Measurement Order",
+      "value": "First of the Day"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "16.8°C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "72%"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "394"
+    }
+  ]
+}

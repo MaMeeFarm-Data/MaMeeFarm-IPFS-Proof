@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeifu4t6kbg77khgqwqved52yksafmdoel7zgec6bjljawz6xsp7cqa",
+  "name": "DGCP | MaMeeFarm™ — Proof 396 Inspection and Cleaning of an Empty Duck Shelter",
+  "description": "This proof documents a routine inspection and cleaning activity at MaMeeFarm™.\n\nAt 07:33 on 27 December 2025, MaMee entered the duck shelter area, which was completely empty and without living animals, to conduct a physical inspection and perform cleaning tasks.\n\nThe activity records the condition of the infrastructure and land readiness, even in the absence of livestock, under the DGCP (Data Governance & Continuous Proof) framework.\nThis proof confirms that maintenance and verification continue regardless of production status.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Infrastructure & Maintenance Record"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Duck Shelter (Empty)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Inspection and Cleaning"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:33 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "396"
+    }
+  ]
+}

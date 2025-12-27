@@ -1,0 +1,19 @@
+{
+  "proof_id": 395,
+  "project": "MaMeeFarm™",
+  "system": "DGCP",
+  "type": "daily-proof",
+  "date": "2025-12-27",
+  "time_local": "14:57",
+  "timezone": "Asia/Bangkok",
+  "file_name": "MMFARM_DGCP_DAILY_2025-12-27_Proof395.json",
+  "hash_algorithm": "SHA-256",
+  "sha256": "360337171fc2ec549bffbef9a444352319d983c57dbd19b85425aa436dc3127a",
+  "timestamping": "OpenTimestamps",
+  "description": "DGCP daily JSON evidence file. No interpretation applied.",
+  "chain": {
+    "previous_proof": 394,
+    "current_proof": 395
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeietcdlpdgedgghj5ospbc6cus6le6aquwkvr2k443i4uojrsfil5e",
+  "name": "DGCP | MaMeeFarm™ — Proof 398 Collecting Dried Roselle Seeds for Propagation",
+  "description": "This proof documents a seed-saving and propagation activity at MaMeeFarm™.\n\nAt 11:23 on 27 December 2025, MaMee collected dried roselle (Hibiscus sabdariffa) seeds from mature plants to preserve and expand future cultivation.\nThe activity reflects intentional selection of local, self-produced seeds for reuse, supporting resilience, continuity, and independence in small-scale agriculture.\n\nThis record captures the moment where today’s harvest becomes tomorrow’s planting, preserved under the DGCP (Data Governance & Continuous Proof) framework as verifiable real-world agricultural work.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Seed Preservation & Propagation"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "Roselle (Hibiscus sabdariffa)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Collecting Dried Seeds"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Replanting & Expansion"
+    },
+    {
+      "trait_type": "Time",
+      "value": "11:23 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "398"
+    }
+  ]
+}

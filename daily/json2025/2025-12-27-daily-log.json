@@ -1,0 +1,64 @@
+{
+  "dgcp_version": "DGCP-DAILY-LOG-1.0",
+  "date": "2025-12-27",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm, Thailand",
+  "summary": {
+    "proof_range": "394-398",
+    "proof_count": 5,
+    "nft_total_files": 8,
+    "ots_status": "complete_for_all_nft_files"
+  },
+  "proofs": [
+    {
+      "proof_id": 394,
+      "title": "Start of Workday Temperature Check",
+      "captured_at_local": "2025-12-27 06:44",
+      "category": "environmental_monitoring"
+    },
+    {
+      "proof_id": 395,
+      "title": "Drying Dog Bedding in Sunlight",
+      "captured_at_local": "2025-12-27 07:31",
+      "category": "daily_farm_maintenance"
+    },
+    {
+      "proof_id": 396,
+      "title": "Inspection and Cleaning of Empty Duck House",
+      "captured_at_local": "2025-12-27 07:33",
+      "category": "infrastructure_maintenance"
+    },
+    {
+      "proof_id": 397,
+      "title": "Sorting Shallot Bulbs for Planting",
+      "captured_at_local": "2025-12-27 11:18",
+      "category": "crop_preparation"
+    },
+    {
+      "proof_id": 398,
+      "title": "Collecting Dried Roselle Seeds for Propagation",
+      "captured_at_local": "2025-12-27 11:23",
+      "category": "seed_preservation"
+    }
+  ],
+  "nft_activity": {
+    "total_files": 8,
+    "collections": [
+      {
+        "collection_name": "7 Ducks Of Hope",
+        "day": 122,
+        "parts": ["Part 1", "Part 2", "Part 3", "Part 4"]
+      },
+      {
+        "collection_name": "Seed of Hope",
+        "day": 154,
+        "parts": ["Part 1", "Part 2", "Part 3", "Part 4"]
+      }
+    ]
+  },
+  "open_timestamps": {
+    "nft_files_ots_complete": true,
+    "note": "All NFT files listed in this daily log were OpenTimestamped successfully."
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

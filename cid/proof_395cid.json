@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeiecqspvijtewfgnlrkyutcuxwj5fi7t34kvjd5rqezror52q5rebq",
+  "name": "DGCP | MaMeeFarm™ — Proof 395 Sun-Drying Dog Bedding Before Duck Shelter Check",
+  "description": "This record documents a routine hygiene and preparation activity at MaMeeFarm™.\n\nAt 07:31 on 27 December 2025, dog bedding was taken outdoors and placed under sunlight for sun-drying.\nThe activity was performed early in the day, prior to proceeding to inspect the duck shelter.\n\nThis proof records factual farm maintenance under the DGCP (Data Governance & Continuous Proof) framework, focusing on daily care routines without interpretation or emotional narrative.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Daily Routine Record"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Sun-Drying Dog Bedding"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": "Before Duck Shelter Inspection"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:31 AM"
+    },
+    {
+      "trait_type": "Proof Index",
+      "value": "395"
+    }
+  ]
+}

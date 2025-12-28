@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeifeijjyhqlf4hex66yfh634qdjl6uoxj5jmtrdy3cugb5vovkvovu",
+  "name": "DGCP | MaMeeFarm™ — Proof 403 Firewood Preparation for Farm Dogs",
+  "description": "This proof documents the act of cutting and preparing firewood at MaMeeFarm™ on\n28 December 2025, 11:37 (local time).\n\nThe wood was prepared specifically to be used as fuel for cooking food for the farm dogs, using reclaimed bamboo and materials available on-site.\nThis activity represents unpaid labor dedicated to animal care, energy sourcing, and daily survival operations within the farm ecosystem.\n\nNo commercial system, subsidy, or external support was involved.\nOnly time, physical effort, and necessity.\n\nUnder DGCP principles, this proof anchors:\n\nlabor for non-human dependents,\n\nenergy preparation,\n\nsubsistence-level resource management,\ncaptured directly from real-world activity without reconstruction.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Reality / Daily Labor"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Firewood Cutting"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Bamboo / Reclaimed Wood"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Cooking for Farm Dogs"
+    },
+    {
+      "trait_type": "Energy Source",
+      "value": "Manual / Biomass"
+    },
+    {
+      "trait_type": "Timestamp",
+      "value": "2025-12-28 11:37 (Local)"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    }
+  ]
+}

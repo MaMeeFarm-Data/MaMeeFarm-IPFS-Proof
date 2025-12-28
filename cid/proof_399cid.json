@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeiasbqzkghsgyieaw7ytzsjhgeerruwtqome3arx5yrpnh6wjdzaiq",
+  "name": "DGCP | MaMeeFarm™ — Proof 399 Morning Temperature Check Before Work",
+  "description": "This proof documents the first operational action of the day at MaMeeFarm™ on 28 December 2025:\nan on-site environmental measurement recorded before any physical work began.\n\nThe image shows a temperature and humidity display mounted against a brick wall, capturing real-time field data directly from the farm environment.\nWeather conditions at the time of recording were clear sky and strong sunlight, indicating stable daytime conditions.\n\nThis record serves as a baseline environmental reference for the day’s activities, following the DGCP principle of capturing reality before intervention.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Environmental Observation"
+    },
+    {
+      "trait_type": "Activity Phase",
+      "value": "Pre-Work Baseline"
+    },
+    {
+      "trait_type": "Measured Temperature",
+      "value": "16.5 °C"
+    },
+    {
+      "trait_type": "Measured Humidity",
+      "value": "74 %"
+    },
+    {
+      "trait_type": "Weather Condition",
+      "value": "Clear Sky / Bright Sun"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Data Nature",
+      "value": "On-site Physical Measurement"
+    }
+  ]
+}

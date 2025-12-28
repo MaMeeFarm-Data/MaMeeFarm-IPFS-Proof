@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "proof_type": "DGCP_DAILY",
+  "date": "2025-12-28",
+  "proof_id": 399,
+  "file_name": "MMFARM_DGCP_DAILY_2025-12-28_Proof399.json",
+  "description": "DGCP daily proof JSON record for Proof 399.",
+  "verification": {
+    "hash_algorithm": "SHA-256",
+    "hash_value": "71bf618c8c7f3d32fc4ab11f0ca46d9724ec43537ed88c920debfb0a09f2c8d",
+    "timestamp_method": "OpenTimestamps"
+  },
+  "activity_classification": {
+    "category": "Daily Proof",
+    "data_type": "JSON",
+    "origin": "Human-generated record"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

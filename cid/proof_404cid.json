@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeibje57wezrabvi4vb2qnqdwhhrgk3xajfujmcza4r5iks6qxhu7fi",
+  "name": "DGCP | MaMeeFarm™ — Proof 404 | Morning Temperature Check",
+  "description": "This NFT documents the start of farm work at MaMeeFarm™ on\n29 December 2025 at 06:26 (Asia/Bangkok).\n\nThe activity records an on-site environmental check using a physical temperature and humidity device, captured directly at the farm location before daily work begins.\n\nMeasured conditions:\n\nTemperature: 16.7°C\n\nHumidity: 72%\n\nThis record reflects real-world data captured without modification and serves as a verifiable proof under the DGCP (Data Governance & Continuous Proof) framework.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof ID",
+      "value": "404"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Environmental Check"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "16.7 °C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "72 %"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "06:26"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-29"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Real-world capture (on-site)"
+    }
+  ]
+}

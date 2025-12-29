@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeiawlz5ugx5mldbrru4nohsnroialnzg3i4zjzkikesu4qxxf6im4u",
+  "name": "DGCP | MaMeeFarm™ — Proof 407 | Empty Duck Coop, Truth Without Assets",
+  "description": "This NFT documents a real condition at MaMeeFarm™ on\n29 December 2025 at 08:28 (Asia/Bangkok).\n\nThe image records an empty duck coop with no livestock present.\nNo production, no assets, no support systems — only the remaining structure and daily reality.\n\nDespite the absence of output, the act of documentation continues.\nThis proof exists to record reality as it is, not as it is expected to be.\n\nCaptured and preserved under the DGCP (Data Governance & Continuous Proof) framework.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof ID",
+      "value": "407"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Empty Duck Coop"
+    },
+    {
+      "trait_type": "Status",
+      "value": "No Livestock"
+    },
+    {
+      "trait_type": "Condition",
+      "value": "Recorded As-Is"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Reality Documentation"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-29"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "08:28"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "On-site real-world capture"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_proof",
+  "proof_id": 404,
+  "date_local": "2025-12-29",
+  "timezone": "Asia/Bangkok",
+  "file_name": "MMFARM_DGCP_DAILY_2025-12-29_Proof404.json",
+  "file_sha256": "c88e117c07a5f6ed6248a2d7bb3acd1678d6b660230ac3bfd8b547a96e99487c",
+  "description": "DGCP daily proof JSON record for 2025-12-29. This file preserves structured proof metadata for independent verification.",
+  "activity_classification": [
+    "dgcp.daily_proof",
+    "recordkeeping",
+    "integrity_timestamping"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

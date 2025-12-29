@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeid2xsbculbs4t2vmriw4mz2g4orwhnkdbhoouoqret4mv3u2eweoq",
+  "name": "DGCP | MaMeeFarm™ — Proof 405 | Preparing Fuel for Water Pump",
+  "description": "This NFT documents a real-world preparation activity at MaMeeFarm™ on\n29 December 2025 at 07:47 (Asia/Bangkok).\n\nThe activity records the preparation of fuel and equipment required for operating the water pump used in daily farm operations.\nThis step is necessary to ensure water availability for the farm system.\n\nAll elements were captured directly on-site, reflecting real labor and physical resource management under the DGCP framework.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof ID",
+      "value": "405"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Farm Infrastructure Preparation"
+    },
+    {
+      "trait_type": "Equipment",
+      "value": "Water Pump"
+    },
+    {
+      "trait_type": "Resource",
+      "value": "Fuel Preparation"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-29"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:47"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Real-world capture (on-site)"
+    }
+  ]
+}

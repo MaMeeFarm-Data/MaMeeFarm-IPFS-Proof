@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeicl7pgwro6i7hu6hmio67iregwmgrpysaf2tnchkd5gmkpihse2xu",
+  "name": "DGCP | MaMeeFarm™ — Proof 408 | Daily Firewood Preparation for Farm Life",
+  "description": "This NFT documents a routine but essential activity at MaMeeFarm™ on\n29 December 2025 at 09:41 (Asia/Bangkok).\n\nThe image records the act of cutting firewood as part of daily preparation to sustain life within the farm.\nFirewood is required for cooking and caring for multiple lives — both humans and animals — especially in a context with limited resources.\n\nThis proof represents continuity of responsibility, not productivity.\nIt records preparation, readiness, and care carried out every day, regardless of conditions.\n\nCaptured and preserved under the DGCP (Data Governance & Continuous Proof) framework.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof ID",
+      "value": "408"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Firewood Preparation"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Daily Sustenance"
+    },
+    {
+      "trait_type": "Responsibility Scope",
+      "value": "Multiple Lives in Farm"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Manual Labor / Daily Routine"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-29"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "09:41"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "On-site real-world capture"
+    }
+  ]
+}

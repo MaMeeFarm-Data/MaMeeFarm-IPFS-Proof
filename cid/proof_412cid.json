@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeiggmibhq6d22aiptxvjoblpp7o5ifozug55eoautaxinnjbbouewa",
+  "name": "DGCP | MaMeeFarm™ — Proof 412 | Banana Growth Observation",
+  "description": "This record documents the growth stage of a banana bunch at MaMeeFarm™.\n\nThe image captures the current condition of the bananas still on the tree, indicating that the fruit has not yet reached harvest readiness.\nBased on on-site observation at the time of recording, the estimated harvest window is approximately two weeks from the capture date.\n\nA preliminary plan has been noted to harvest around 15 January 2026, subject to actual growth conditions.\n\nRecorded Context:\n\nLocation: Banana Tree, MaMeeFarm™\n\nCrop Status: Growing, not yet harvested\n\nPlanned Harvest Date (Estimate): 2026-01-15\n\nDate Displayed: 2025-12-30\n\nTime Displayed: 07:22\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "DGCP (Data Governance & Continuous Proof)"
+    },
+    {
+      "trait_type": "Proof Number",
+      "value": "412"
+    },
+    {
+      "trait_type": "Record Type",
+      "value": "Crop Growth Observation"
+    },
+    {
+      "trait_type": "Crop",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Growth Stage",
+      "value": "Pre-Harvest"
+    },
+    {
+      "trait_type": "Harvest Plan",
+      "value": "15 Jan 2026 (Estimated)"
+    },
+    {
+      "trait_type": "Time Source",
+      "value": "Camera Timestamp"
+    }
+  ]
+}

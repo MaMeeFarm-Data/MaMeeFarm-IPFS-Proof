@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeih72ritqsxgm3ldal6nbl6btyygku5tkw2ptlofgc2fhom57unvua",
+  "name": "DGCP | MaMeeFarm™ — Proof 410 | Daily Temperature Record",
+  "description": "This record documents a daily temperature and humidity measurement conducted at MaMeeFarm™.\n\nThe data was captured directly from a physical thermometer device installed on-site.\nThe values shown represent real environmental conditions at the exact moment of capture.\n\nNo interpretation, adjustment, or estimation has been applied.\nThis record exists solely as verifiable evidence of real-world environmental data under the DGCP™ framework.\n\nRecorded Data:\n\nTemperature: 15.1°C\n\nHumidity: 72%\n\nTime Displayed: 07:00\n\nDate Displayed: 2025-12-30\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "DGCP (Data Governance & Continuous Proof)"
+    },
+    {
+      "trait_type": "Proof Number",
+      "value": "410"
+    },
+    {
+      "trait_type": "Record Type",
+      "value": "Temperature & Humidity"
+    },
+    {
+      "trait_type": "Temperature (°C)",
+      "value": "15.1"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "72%"
+    },
+    {
+      "trait_type": "Device",
+      "value": "HTC-1 Digital Thermometer"
+    },
+    {
+      "trait_type": "Time Source",
+      "value": "Device Display"
+    }
+  ]
+}

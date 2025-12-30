@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeickf4tg6xq5nuaybaecxudsuybau33y5l7k6mhfkh5w54dkhlf2ue",
+  "name": "DGCP | MaMeeFarm™ — Proof 411 | Empty Duck Coop Record",
+  "description": "This record documents the condition of an empty duck coop at MaMeeFarm™.\n\nThe image was captured on-site to reflect the actual state of the farm at the recorded time.\nNo animals were present in the coop at the moment of capture.\n\nThis record serves as factual evidence of absence and inactivity within the farm space, preserved under the DGCP™ framework without interpretation or narrative embellishment.\n\nRecorded Context:\n\nLocation: Duck Coop, MaMeeFarm™\n\nCondition: No animals present\n\nDate Displayed: 2025-12-30\n\nTime Displayed: 07:18\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "DGCP (Data Governance & Continuous Proof)"
+    },
+    {
+      "trait_type": "Proof Number",
+      "value": "411"
+    },
+    {
+      "trait_type": "Record Type",
+      "value": "Empty Farm Infrastructure"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Duck Coop"
+    },
+    {
+      "trait_type": "Animals Present",
+      "value": "None"
+    },
+    {
+      "trait_type": "Time Source",
+      "value": "Camera Timestamp"
+    }
+  ]
+}

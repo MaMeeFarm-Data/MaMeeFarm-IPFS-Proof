@@ -1,0 +1,30 @@
+{
+  "specification": {
+    "name": "DGCP-CID",
+    "version": "1.0"
+  },
+  "identity": {
+    "project": "MaMeeFarm",
+    "framework": "DGCP",
+    "proof_id": "Proof410",
+    "date": "2025-12-30"
+  },
+  "cryptographic_proof": {
+    "hash_algorithm": "SHA-256",
+    "hash_value": "9ae1d6a4f46427851678325ec6c3a15d99e51b93295bb349f4d6dc11ca657f54"
+  },
+  "timestamp_proof": {
+    "method": "OpenTimestamp",
+    "status": "verified",
+    "ots_file": "stored_off_repository"
+  },
+  "evidence_policy": {
+    "evidence_type": "hash-only",
+    "external_media": "not_referenced",
+    "immutability": true
+  },
+  "license": {
+    "name": "DGCP | MMFARM-POL-2025",
+    "requirement": "attribution_required"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeidki2lvfqie7c4s5ud7jivi347xshmlnl5md2zqeoabskwasri5qi",
+  "name": "DGCP | MaMeeFarm™ — Proof 413 | Maternal Care Observation",
+  "description": "This record documents a moment of maternal care among dogs at MaMeeFarm™.\n\nThe image captures young puppies nursing from their mother while being observed on-site.\nThis activity reflects a routine life-care situation within the farm environment, where animal well-being and natural dependency are continuously present.\n\nRecorded Context:\n\nActivity: Puppies nursing from mother\n\nSpecies: Dog\n\nCare Type: Maternal care\n\nLocation: MaMeeFarm™\n\nDate Displayed: 2025-12-30\n\nTime Displayed: 11:43\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "DGCP (Data Governance & Continuous Proof)"
+    },
+    {
+      "trait_type": "Proof Number",
+      "value": "413"
+    },
+    {
+      "trait_type": "Record Type",
+      "value": "Life Care Observation"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Dog"
+    },
+    {
+      "trait_type": "Care Activity",
+      "value": "Nursing"
+    },
+    {
+      "trait_type": "Observer Role",
+      "value": "On-site documentation"
+    },
+    {
+      "trait_type": "Time Source",
+      "value": "Camera Timestamp"
+    }
+  ]
+}

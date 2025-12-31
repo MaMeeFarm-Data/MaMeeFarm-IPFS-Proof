@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeigve7vgdpqluc3db5nu3apylcpjr2cxyzndb7qidpgmp5tisj7wei",
+  "name": "DGCP | MaMeeFarm™ — Proof 416 Soil Sweeping and Fertilizer Reuse",
+  "description": "This NFT represents Proof 416 from MaMeeFarm™, recorded on 2025-12-31\nunder the DGCP (Data Governance & Continuous Proof) framework.\n\nThe record documents the activity of sweeping residual duck manure from\nthe ground of an empty duck coop and reusing it as fertilizer for vegetable\nplots. Although the coop is currently without ducks, the physical traces\nof past life remain and are reintegrated into the farm’s nutrient cycle.\n\nThis activity reflects circular resource use, continuity of labor, and\nevidence-based documentation of real agricultural work, even in the\nabsence of active livestock.\n\nObserved details:\n- Activity: Sweeping duck manure residue for fertilizer use\n- Location: Empty duck coop area\n- Time recorded: 07:28 AM\n- Date: 2025-12-31\n- Purpose: Soil enrichment for vegetables\n\nThis proof preserves ground-truth agricultural labor as it occurs,\nforming part of a non-retroactive, verifiable DGCP evidence chain.\n\nLocation: MaMeeFarm™, Thailand\nSystem: DGCP (Data Governance & Continuous Proof)\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof)\nframework. All content is part of the MaMeeFarm™ Real-Work Data &\nPhilosophy archive. Redistribution, citation, or derivative use must\npreserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof ID",
+      "value": "416"
+    },
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "DGCP"
+    },
+    {
+      "trait_type": "Record Type",
+      "value": "Soil & Fertilizer Management"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Manure Reuse"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Empty Duck Coop"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-31"
+    }
+  ]
+}

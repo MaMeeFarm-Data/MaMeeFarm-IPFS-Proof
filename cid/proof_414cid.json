@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeibth3mjuzisbgjhxikxd2tbdj6eb2stivn43o6uguk7iylhluqciq",
+  "name": "DGCP | MaMeeFarm™ — Proof 414 Year-End Temperature Check Before Work",
+  "description": "This NFT represents Proof 414 from MaMeeFarm™, recorded on the final day of 2025\nas part of the DGCP (Data Governance & Continuous Proof) system.\n\nThe record documents a real-world temperature and humidity check conducted\nbefore beginning farm work on New Year's Eve. Despite being the last day\nof the year, work continues as part of the uninterrupted daily discipline\nof MaMeeFarm™.\n\nEnvironmental data was captured directly from the field without alteration.\n\nObserved conditions:\n- Temperature: 15.7°C\n- Humidity: 73%\n- Time recorded: 06:36 AM\n- Date: 2025-12-31\n\nThis proof is part of a continuous, day-by-day evidence chain designed to be\nindependently verifiable through cryptographic hashing and decentralized\ntime anchoring under the DGCP framework.\n\nLocation: MaMeeFarm™, Thailand\nSystem: DGCP (Data Governance & Continuous Proof)\n\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof)\nframework. All content is part of the MaMeeFarm™ Real-Work Data &\nPhilosophy archive. Redistribution, citation, or derivative use must\npreserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof ID",
+      "value": "414"
+    },
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "DGCP"
+    },
+    {
+      "trait_type": "Record Type",
+      "value": "Environmental Measurement"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Morning Temperature Check"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-31"
+    }
+  ]
+}

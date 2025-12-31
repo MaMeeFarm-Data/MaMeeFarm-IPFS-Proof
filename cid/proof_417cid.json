@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeihuf2hheeob34icw62ykqnmstx5dllqzd5lsajnzmttw2y4lg5hq4",
+  "name": "DGCP | MaMeeFarm™ — Proof 417 Solar Inverter Startup Under Energy Constraints",
+  "description": "This NFT represents Proof 417 from MaMeeFarm™, recorded on 2025-12-31\nunder the DGCP (Data Governance & Continuous Proof) framework.\n\nThe record documents the moment of powering on a hybrid solar inverter\nconnected to photovoltaic panels for household electricity use.\nThe inverter had been intentionally shut down at 23:00 the previous night\ndue to insufficient battery storage capacity to sustain power throughout\nthe night.\n\nThis proof captures real-world operational constraints faced by small-scale,\noff-grid and semi-off-grid systems, where energy availability is governed\nby physical limits rather than abstraction.\n\nObserved details:\n- Activity: Solar inverter power-on\n- System: Hybrid solar inverter connected to solar panels\n- Reason for prior shutdown: Limited battery capacity\n- Time recorded: 07:45 AM\n- Date: 2025-12-31\n- Context: Household electricity use under energy constraints\n\nThis record preserves an authentic operational decision made under\nresource limitations, contributing to a verifiable chain of\nenergy-use evidence within the DGCP framework.\n\nLocation: MaMeeFarm™, Thailand  \nSystem: DGCP (Data Governance & Continuous Proof)\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof)\nframework. All content is part of the MaMeeFarm™ Real-Work Data &\nPhilosophy archive. Redistribution, citation, or derivative use must\npreserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof ID",
+      "value": "417"
+    },
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "DGCP"
+    },
+    {
+      "trait_type": "Record Type",
+      "value": "Energy System Operation"
+    },
+    {
+      "trait_type": "Energy Source",
+      "value": "Solar (Hybrid Inverter)"
+    },
+    {
+      "trait_type": "Battery Status",
+      "value": "Limited Capacity"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-31"
+    }
+  ]
+}

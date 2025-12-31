@@ -1,0 +1,28 @@
+{
+  "date": "2025-12-31",
+  "location": "MaMeeFarm, Lampang, Thailand",
+  "proof_range": [414, 418],
+  "proof_count": 5,
+  "nft_summary": {
+    "total_nfts": 10,
+    "collections": [
+      {
+        "name": "7 Ducks Of Hope",
+        "day": 126,
+        "parts": 5
+      },
+      {
+        "name": "Seed of Hope",
+        "day": 158,
+        "parts": 5
+      }
+    ]
+  },
+  "verification": {
+    "hash_algorithm": "SHA-256",
+    "open_timestamps": true,
+    "traceable": true
+  },
+  "notes": "Year-end operations continued without interruption. All proofs and NFTs were independently verified and time-anchored.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

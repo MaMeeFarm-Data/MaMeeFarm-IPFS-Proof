@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeickndmnoqgvygsi5rgzeofbesxpqyglyrrbd2oxdpiw4huvoehypm",
+  "name": "DGCP | MaMeeFarm™ — Proof 415 Morning Wood-Fired Cooking",
+  "description": "This NFT represents Proof 415 from MaMeeFarm™, recorded on the final day of 2025\nunder the DGCP (Data Governance & Continuous Proof) framework.\n\nThe record documents the act of starting a wood-fired stove in the early morning\nto cook rice for daily living at the farm. This activity reflects subsistence\nlabor, energy self-reliance, and continuity of life without external support\nsystems.\n\nThe fire was built using collected firewood, and the cooking process began\nbefore sunrise, emphasizing routine, discipline, and real-world dependency\nbetween human labor, fuel, and food.\n\nObserved details:\n- Activity: Wood-fired stove preparation and rice cooking\n- Time recorded: 06:43 AM\n- Date: 2025-12-31\n- Energy source: Firewood (manual ignition)\n\nThis proof forms part of a continuous, non-retroactive evidence chain that\ncaptures real-life work exactly as it occurs, verifiable through cryptographic\nprocesses defined by DGCP.\n\nLocation: MaMeeFarm™, Thailand\nSystem: DGCP (Data Governance & Continuous Proof)\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof)\nframework. All content is part of the MaMeeFarm™ Real-Work Data &\nPhilosophy archive. Redistribution, citation, or derivative use must\npreserve attribution and license reference.\n\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof ID",
+      "value": "415"
+    },
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "DGCP"
+    },
+    {
+      "trait_type": "Record Type",
+      "value": "Daily Living & Energy Use"
+    },
+    {
+      "trait_type": "Energy Source",
+      "value": "Firewood"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Cooking Rice"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-31"
+    }
+  ]
+}

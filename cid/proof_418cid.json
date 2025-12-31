@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeiev5dt4fm7inclnubajjiwhnpilvz66hyui47gmvf3l6bf7waikra",
+  "name": "DGCP | MaMeeFarm™ — Proof 418 Water Pump Failure and Replacement Decision",
+  "description": "This NFT represents Proof 418 from MaMeeFarm™, recorded on 2025-12-31\nunder the DGCP (Data Governance & Continuous Proof) framework.\n\nThe record documents an attempt to repair a water pump used for daily\nfarm operations. After inspection and repair efforts, the pump was\nconfirmed to be non-functional and beyond practical repair.\n\nThis proof captures a real operational failure and the resulting\ndecision to replace essential equipment, introducing additional\nunplanned costs to farm operations.\n\nObserved details:\n- Activity: Water pump repair attempt\n- Outcome: Pump irreparably damaged\n- Action required: Replacement with a new unit\n- Impact: Increased operational cost\n- Time recorded: 10:45 AM\n- Date: 2025-12-31\n- Context: Essential water infrastructure for farm use\n\nThis record preserves an unedited account of equipment failure and\neconomic pressure faced in small-scale farming, forming part of the\nverifiable real-world data chain under the DGCP framework.\n\nLocation: MaMeeFarm™, Thailand  \nSystem: DGCP (Data Governance & Continuous Proof)\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof)\nframework. All content is part of the MaMeeFarm™ Real-Work Data &\nPhilosophy archive. Redistribution, citation, or derivative use must\npreserve attribution and license reference.\n\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof ID",
+      "value": "418"
+    },
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "DGCP"
+    },
+    {
+      "trait_type": "Record Type",
+      "value": "Infrastructure Failure"
+    },
+    {
+      "trait_type": "Equipment",
+      "value": "Water Pump"
+    },
+    {
+      "trait_type": "Repair Status",
+      "value": "Irreparable"
+    },
+    {
+      "trait_type": "Operational Impact",
+      "value": "Increased Cost"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-12-31"
+    }
+  ]
+}

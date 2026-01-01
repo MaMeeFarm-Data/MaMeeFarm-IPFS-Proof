@@ -1,0 +1,53 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_log",
+  "date_local": "2026-01-01",
+  "timezone": "Asia/Bangkok",
+  "summary": "First day of 2026 recorded as a full working day with continuous proof generation despite operational constraints.",
+  "proofs": [
+    {
+      "proof_id": 419,
+      "title": "Morning temperature and humidity check before work"
+    },
+    {
+      "proof_id": 420,
+      "title": "Observation of puppies’ health and development"
+    },
+    {
+      "proof_id": 421,
+      "title": "Empty duck coop recorded on New Year day"
+    },
+    {
+      "proof_id": 422,
+      "title": "Inverter activation for limited household work hours"
+    },
+    {
+      "proof_id": 423,
+      "title": "Fuel preparation for grass-cutting maintenance"
+    }
+  ],
+  "nfts": {
+    "7_ducks_of_hope": {
+      "day": 127,
+      "parts": [1, 2, 3, 4, 5],
+      "count": 5
+    },
+    "seed_of_hope": {
+      "day": 159,
+      "parts": [1, 2, 3, 4, 5],
+      "count": 5
+    }
+  },
+  "totals": {
+    "proof_count": 5,
+    "nft_count": 10
+  },
+  "verification": {
+    "hash_algorithm": "SHA-256",
+    "open_timestamp": true,
+    "independent_verification": true
+  },
+  "notes": "No anomalies recorded. All proofs and NFTs were timestamped and committed following DGCP standards.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,56 @@
+{
+  "image": "ipfs://bafybeia7sbst5fxp4kaqzpo5j4ffo7os43azhmpp3ztwcbvzjla7yorb6i",
+  "name": "DGCP | MaMeeFarm™ — Proof 423 — Fuel Preparation for Farm Maintenance",
+  "description": "On January 1, 2026 at 11:09, MaMeeFarm™ prepared fuel for grass-cutting operations within the farm.\n\nThis action represents a routine but essential maintenance step — ensuring that vegetation is managed so daily farm work can continue safely and effectively.\n\nDGCP records not only visible outcomes, but also preparatory actions that make real work possible.\n\nEvery task, even before it begins, leaves verifiable evidence.\n\nLicense \n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "System",
+      "value": "DGCP"
+    },
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Preparation / Maintenance"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Fuel Refilling"
+    },
+    {
+      "trait_type": "Equipment",
+      "value": "Grass Cutter / Small Engine"
+    },
+    {
+      "trait_type": "Resource",
+      "value": "Fuel"
+    },
+    {
+      "trait_type": "Work Status",
+      "value": "Pre-Operation"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Farm Maintenance"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2026-01-01"
+    },
+    {
+      "trait_type": "Time",
+      "value": "11:09"
+    },
+    {
+      "trait_type": "Operational Status",
+      "value": "Ready"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Time-Stamped Image Evidence"
+    }
+  ]
+}

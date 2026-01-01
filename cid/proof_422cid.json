@@ -1,0 +1,56 @@
+{
+  "image": "ipfs://bafybeiftavpmet6dqqzmpem6qqyocspuys6x6pmghkd3i3jgqz6qc36qda",
+  "name": "DGCP | MaMeeFarm™ — Proof 422 — Limited Energy Window for Work Continuity",
+  "description": "On January 1, 2026 at 08:04, MaMeeFarm™ activated the household hybrid solar inverter to supply electricity for daily work activities.\n\nDue to energy storage limitations, the available working window is constrained to approximately 08:00–23:00 each day.\nWhen stored power is depleted, all work must stop.\n\nThis record documents a real operational constraint — not a failure, but a boundary condition under which work continues.\n\nDGCP captures not only actions, but the limits that shape those actions.\n\nLicense \n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "System",
+      "value": "DGCP"
+    },
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Infrastructure / Energy Constraint"
+    },
+    {
+      "trait_type": "Equipment",
+      "value": "Hybrid Solar Inverter"
+    },
+    {
+      "trait_type": "Energy Source",
+      "value": "Solar (Limited Storage)"
+    },
+    {
+      "trait_type": "Operational Window",
+      "value": "~08:00–23:00"
+    },
+    {
+      "trait_type": "Dependency",
+      "value": "Power Availability"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Enable Human Work"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2026-01-01"
+    },
+    {
+      "trait_type": "Time",
+      "value": "08:04"
+    },
+    {
+      "trait_type": "Constraint Status",
+      "value": "Active"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Time-Stamped Image Evidence"
+    }
+  ]
+}

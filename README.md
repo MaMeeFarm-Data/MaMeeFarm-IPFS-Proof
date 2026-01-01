@@ -140,4 +140,13 @@ and will be enforced under international law, DMCA, and digital provenance stand
 
 For legal details, see **LEGAL-SPEC.md**.
 
+---
+## Dataset Boundary Notice
+
+All proofs in this repository up to **Proof ID 418**
+belong to the **MaMeeFarm™ DGCP — Year 2025 Dataset**.
+
+For the official 2025 System State Lock and authoritative declarations, see:
+- **MaMeeFarm-DGCP** — README
+- **MaMeeFarm-data** — README
 

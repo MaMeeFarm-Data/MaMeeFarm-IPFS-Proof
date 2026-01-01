@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeih637lg6u5wwfakcwgngea4xqc7tgpllqu2djbdsu6s5fmgueable",
+  "name": "DGCP | MaMeeFarm™ — Proof 421 — Empty Coop on New Year’s Day",
+  "description": "On January 1, 2026 at 07:47, MaMeeFarm™ recorded the condition of an empty duck coop at the start of the new year.\n\nNo animals were present at the time of observation.\nDespite the absence of life, the act of documentation continues without interruption.\n\nThis record represents a core principle of the DGCP framework:\ntruth is recorded continuously — regardless of productivity, presence, or outcome.\n\nAn empty state is still a valid state of reality.\n\nLicense \n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "System",
+      "value": "DGCP"
+    },
+    {
+      "trait_type": "Farm",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "Proof Type",
+      "value": "Environmental / Absence Record"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Duck Coop"
+    },
+    {
+      "trait_type": "Life Presence",
+      "value": "None"
+    },
+    {
+      "trait_type": "Condition",
+      "value": "Empty / Inactive"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2026-01-01"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:47"
+    },
+    {
+      "trait_type": "Context",
+      "value": "New Year Start"
+    },
+    {
+      "trait_type": "Continuity Status",
+      "value": "Unbroken Daily Record"
+    },
+    {
+      "trait_type": "Verification",
+      "value": "Time-Stamped Image Evidence"
+    }
+  ]
+}

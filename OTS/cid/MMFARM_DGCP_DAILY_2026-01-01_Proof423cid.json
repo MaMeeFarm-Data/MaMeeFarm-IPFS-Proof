@@ -1,0 +1,12 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_proof_cid_record",
+  "proof_id": 423,
+  "date_local": "2026-01-01",
+  "timezone": "Asia/Bangkok",
+  "source_file_name": "MMFARM_DGCP_DAILY_2026-01-01_Proof423.json",
+  "source_file_sha256": "ca8b29494ac28097870a897bfe432ea0c8c291cf130bdc348a77cb183b0c9297",
+  "notes": "OTS completed for the source JSON. This CID record intentionally does not include external CID linkage.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

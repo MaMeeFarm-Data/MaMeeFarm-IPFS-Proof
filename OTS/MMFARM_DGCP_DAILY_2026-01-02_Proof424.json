@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "dataset_type": "daily_proof",
+  "proof_id": 424,
+  "date_local": "2026-01-02",
+  "timezone": "Asia/Bangkok",
+  "role": "dataset_pointer",
+  "evidence_file": {
+    "file_name": "MMFARM_DGCP_DAILY_2026-01-02_Proof424.json",
+    "sha256": "55aa306b65158f6644ea43fbaa8121d07ef8ebf47b8abdd8fdeca618440d8acc"
+  },
+  "timestamping": {
+    "method": "OpenTimestamps",
+    "status": "completed"
+  },
+  "description": "DGCP dataset metadata pointer for daily proof evidence file (OpenTimestamps completed).",
+  "license": "DGCP | MMFARM-POL-2025",
+  "license_notice": "DGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference."
+}

@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeifmtehomn6r3eoa5da2nxcncspgjjkycnt52hg2xmfpkowhhdmxwm",
+  "name": "DGCP Proof 426 | Duck Coop Structural Inspection — Jan 2, 2026",
+  "description": "This proof documents a structural inspection of the duck coop at MaMeeFarm™.\n\nAlthough no ducks are currently present, the physical structure of the coop,\nincluding roof support and framework stability, was inspected to ensure it\nremains intact and safe for future use.\n\nThis activity reflects ongoing responsibility, maintenance awareness,\nand continuity of real-world work, independent of livestock presence.\n\nRecorded as part of the DGCP (Data Governance & Continuous Proof) framework.\nNo reconstruction. No backfill. No symbolic staging.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Infrastructure Inspection"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Duck Coop, MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Date (Content)",
+      "value": "2026-01-02"
+    },
+    {
+      "trait_type": "Time Observed",
+      "value": "07:16 (Local)"
+    },
+    {
+      "trait_type": "Livestock Present",
+      "value": "None"
+    },
+    {
+      "trait_type": "Structure Inspected",
+      "value": "Roof & bamboo framework"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Safety & readiness verification"
+    },
+    {
+      "trait_type": "Action Type",
+      "value": "Visual inspection only"
+    },
+    {
+      "trait_type": "DGCP Compliance",
+      "value": "Full (Direct observation, no interpretation)"
+    }
+  ]
+}

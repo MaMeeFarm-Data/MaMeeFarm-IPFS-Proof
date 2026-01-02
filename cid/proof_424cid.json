@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeicegl6tx6by63hcqpghjm7t2eem37iglq6ekmqy65bn4ewnijhczi",
+  "name": "DGCP Proof 424 | Morning Temperature Check — Jan 2, 2026",
+  "description": "This proof documents the morning temperature and humidity check at MaMeeFarm™\nat the start of daily work.\n\nThe measurement was recorded directly from a physical clock/humidity device,\ncaptured on-site without staging or modification.\n\nThis record represents real-world environmental conditions as part of\nthe DGCP (Data Governance & Continuous Proof) framework.\n\nNo data was edited, reconstructed, or backfilled.\nOnly direct observation and timestamped capture.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Daily Environment Check"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Date (Content)",
+      "value": "2026-01-02"
+    },
+    {
+      "trait_type": "Time Observed",
+      "value": "06:08 (Local)"
+    },
+    {
+      "trait_type": "Temperature (°C)",
+      "value": "16.2"
+    },
+    {
+      "trait_type": "Humidity (%)",
+      "value": "72"
+    },
+    {
+      "trait_type": "Device",
+      "value": "HTC-1 Thermo-Hygrometer"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Start of Workday"
+    },
+    {
+      "trait_type": "DGCP Compliance",
+      "value": "Full (No Edit / No Backfill)"
+    }
+  ]
+}

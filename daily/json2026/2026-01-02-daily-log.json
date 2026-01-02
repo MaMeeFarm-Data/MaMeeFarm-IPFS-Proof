@@ -1,0 +1,36 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_log",
+  "date_local": "2026-01-02",
+  "timezone": "Asia/Bangkok",
+  "proof_range": {
+    "start": 424,
+    "end": 428
+  },
+  "proofs": [
+    "proof_424",
+    "proof_425",
+    "proof_426",
+    "proof_427",
+    "proof_428"
+  ],
+  "nft_records": {
+    "7_ducks_of_hope": [
+      "day_128_part_1",
+      "day_128_part_2"
+    ],
+    "seed_of_hope": [
+      "day_160_part_1",
+      "day_160_part_2"
+    ]
+  },
+  "total_nft_files": 4,
+  "verification": {
+    "open_timestamp": true,
+    "sha256_committed": true,
+    "verifiable": true
+  },
+  "notes": "Daily work continued under limited energy and resource constraints. All records reflect real-world activities without modification.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

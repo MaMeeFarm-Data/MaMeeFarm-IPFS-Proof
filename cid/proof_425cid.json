@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeih26wtxryynwstdnfo6prlp2rjz2x5rcew232kfgmjxc3kniif7de",
+  "name": "DGCP Proof 425 | Morning Animal Health Check — Jan 2, 2026",
+  "description": "This proof documents the first task of the day at MaMeeFarm™:\na health check of animals living on the farm.\n\nThe observation includes multiple dogs and puppies.\nOne small puppy was observed with weak hind legs and abnormal walking behavior,\ncompared to other puppies of similar age.\n\nThis record reflects direct, real-world observation without diagnosis,\nintervention, or interpretation beyond visible physical condition.\n\nCaptured as part of the DGCP (Data Governance & Continuous Proof) framework.\nNo staging. No reconstruction. No backfilled data.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Animal Health Observation"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Date (Content)",
+      "value": "2026-01-02"
+    },
+    {
+      "trait_type": "Time Observed",
+      "value": "07:04 (Local)"
+    },
+    {
+      "trait_type": "Animals Observed",
+      "value": "Dogs (Adult & Puppies)"
+    },
+    {
+      "trait_type": "Health Note",
+      "value": "One puppy with weak legs / abnormal walking"
+    },
+    {
+      "trait_type": "Action Taken",
+      "value": "Observation only"
+    },
+    {
+      "trait_type": "Diagnosis",
+      "value": "None (Visual observation)"
+    },
+    {
+      "trait_type": "DGCP Compliance",
+      "value": "Full (No Edit / No Interpretation / No Backfill)"
+    }
+  ]
+}

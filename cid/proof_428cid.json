@@ -1,0 +1,52 @@
+{
+  "image": "ipfs://bafybeih4tfdyqhjlj62bngc3wkyufqqjqfyefyre5wovjqy525vazygg4q",
+  "name": "DGCP | MaMeeFarm™ — Proof 428  Firewood Preparation for Daily Work",
+  "description": "This record documents a real work activity at MaMeeFarm™ on January 2, 2026, at 11:25 (local time).\n\nThe activity shows the collection and preparation of firewood to be used later in the evening. Firewood is a necessary energy source for daily living and farm operations under limited infrastructure conditions.\n\nThis proof represents physical labor, time allocation, and resource preparation carried out manually as part of everyday farm work.\nNo staging, no reconstruction, and no external enhancement were involved.\n\nCaptured and recorded as part of the DGCP (Data Governance & Continuous Proof) system, preserving real-world work as verifiable evidence.\n\n🔹 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "428"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Firewood Collection"
+    },
+    {
+      "trait_type": "Work Category",
+      "value": "Energy Preparation"
+    },
+    {
+      "trait_type": "Energy Source",
+      "value": "Firewood"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Farm (Outdoor)"
+    },
+    {
+      "trait_type": "Labor Type",
+      "value": "Manual"
+    },
+    {
+      "trait_type": "Date (Local)",
+      "value": "2026-01-02"
+    },
+    {
+      "trait_type": "Time (Local)",
+      "value": "11:25"
+    },
+    {
+      "trait_type": "Verification System",
+      "value": "DGCP"
+    },
+    {
+      "trait_type": "Continuity Status",
+      "value": "Ongoing Daily Work"
+    }
+  ]
+}

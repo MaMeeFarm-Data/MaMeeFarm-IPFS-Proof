@@ -1,0 +1,44 @@
+{
+  "image": "ipfs://bafybeidbdqjk3t3j2ysdwf4fhqmta4kgqnznehzjseaefdzpldd5azuhj4",
+  "name": "DGCP Proof 427 | Off-Grid Inverter Activation Under Energy Constraints — Jan 2, 2026",
+  "description": "This proof records the activation of the off-grid inverter system at MaMeeFarm™.\n\nElectricity is a limited resource within the farm’s DGCP operation.\nThe inverter is powered only during constrained working hours due to\ninsufficient battery storage to sustain continuous overnight use.\n\nThis proof documents real operational pressure:\nworking with limited energy, limited time, and no infrastructure redundancy,\nwhile maintaining uninterrupted data integrity under the DGCP framework.\n\nNo simulation. No abstraction. Only real constraints and real work.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Energy System Operation"
+    },
+    {
+      "trait_type": "System",
+      "value": "Hybrid Solar Inverter (Off-Grid)"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Date (Content)",
+      "value": "2026-01-02"
+    },
+    {
+      "trait_type": "Time Observed",
+      "value": "08:13 (Local)"
+    },
+    {
+      "trait_type": "Energy Availability",
+      "value": "Limited"
+    },
+    {
+      "trait_type": "Operating Mode",
+      "value": "Off-Grid"
+    },
+    {
+      "trait_type": "Constraint Type",
+      "value": "Power & Time"
+    },
+    {
+      "trait_type": "DGCP Principle",
+      "value": "Work under real-world limitations"
+    }
+  ]
+}

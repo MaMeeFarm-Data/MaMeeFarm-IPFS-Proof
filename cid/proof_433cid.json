@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeiefbevr7uo4wpwxcciizrnreqii6k45uv3zzfnhrdm4mbxgmzpbta",
+  "name": "DGCP | MaMeeFarm™ — Proof 433  Return From Backyard Garden  Time-Linked Reference to Proof 430",
+  "description": "Return From Backyard Garden — Time-Linked Reference to Proof 430 (Morning Activity)\n\nThis proof documents the moment of returning from the backyard garden area at MaMeeFarm™, recorded on\n2026-01-03 at 09:55 (Asia/Bangkok).\n\nThe recorded time is explicitly linked to the earlier morning activity documented in Proof 430, which marks the start of daily work on the same day.\n\nThis proof serves as a temporal continuation, confirming the physical movement back from the garden area after completing tasks initiated earlier in the morning.\nThe record reflects real-world presence, movement, and continuity of daily labor without staging or reenactment.\n\nSignificance (DGCP Context)\n\nThis proof reinforces time-sequenced continuity within the DGCP system by explicitly linking a later activity to a prior proof on the same day.\nIt demonstrates how DGCP captures not isolated events, but connected real-life actions over time, strengthening traceability and auditability.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "433"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Daily Movement & Presence"
+    },
+    {
+      "trait_type": "Location Context",
+      "value": "Backyard Garden Area"
+    },
+    {
+      "trait_type": "Time Reference Link",
+      "value": "Proof 430 (Morning Activity)"
+    },
+    {
+      "trait_type": "Record Time",
+      "value": "09:55 (Asia/Bangkok)"
+    },
+    {
+      "trait_type": "Verification Mode",
+      "value": "Visual Timestamp Evidence"
+    }
+  ]
+}

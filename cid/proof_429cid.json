@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeibqgyqta7u4xffusvnmoxq7npomjqu2pinqftekdwftizysmptaw4",
+  "name": "DGCP | MaMeeFarm™ — Proof 429  Morning Temperature Check Before Work",
+  "description": "This proof records the environmental temperature and humidity measurement at MaMeeFarm™ before starting daily work.\n\nThe data was captured on 2026-01-03 at 07:00 (Asia/Bangkok) using an on-site digital thermometer/hygrometer (HTC-1).\n\nThis record reflects real-world conditions at the farm and is documented as part of the DGCP (Data Governance & Continuous Proof) system to maintain continuity, transparency, and verifiable daily operations.\n\nMeasured values:\n\nTemperature: 16.1 °C\n\nHumidity: 72 %\n\nNo modification, reconstruction, or retrospective adjustment was performed.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "429"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Environmental Measurement"
+    },
+    {
+      "trait_type": "Temperature (°C)",
+      "value": "16.1"
+    },
+    {
+      "trait_type": "Humidity (%)",
+      "value": "72"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:00 (Asia/Bangkok)"
+    },
+    {
+      "trait_type": "Device",
+      "value": "HTC-1 Thermometer / Hygrometer"
+    }
+  ]
+}

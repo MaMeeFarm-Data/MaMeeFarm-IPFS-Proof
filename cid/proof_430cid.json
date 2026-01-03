@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeibkbzl27e5rb2jjsfpisfa5jewsdhnmskfq3cc27t7z2zhbachrzy",
+  "name": "DGCP | MaMeeFarm™ — Proof 430  Drying Dog Bedding as Daily Farm Routine",
+  "description": "This proof documents a routine daily activity at MaMeeFarm™: drying the bedding used by dogs living on the farm.\n\nThe activity was recorded on 2026-01-03 at 07:38 (Asia/Bangkok).\nThe bedding was aired outdoors as part of basic animal care and hygiene management.\n\nThis record reflects ordinary, continuous farm work and is preserved under the DGCP (Data Governance & Continuous Proof) system to maintain traceable evidence of real-life responsibilities, even in non-commercial or non-productive moments.\n\nNo staging, reenactment, or modification was performed.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "430"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Daily Farm Routine"
+    },
+    {
+      "trait_type": "Task Category",
+      "value": "Animal Care / Hygiene"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Dog Bedding"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:38 (Asia/Bangkok)"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Outdoor Farm Area"
+    }
+  ]
+}

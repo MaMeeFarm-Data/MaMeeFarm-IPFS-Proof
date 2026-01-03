@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeih4v2oaj7kt2bnxn6r5ihcng5iqlogpx7qabljmkj4nvuv555frby",
+  "name": "DGCP | MaMeeFarm™ — Proof 431  Recording Emptiness and Daily Cleaning at Duck Shelter",
+  "description": "This proof documents a daily routine at the duck shelter of MaMeeFarm™, recorded on\n2026-01-03 at 07:41 (Asia/Bangkok).\n\nThe activity reflects entering the duck shelter despite the absence of ducks, recording the physical emptiness of the space, and performing routine cleaning as part of ongoing farm maintenance.\n\nThe record demonstrates continuity of responsibility and care, even when production or livestock is temporarily absent.\nNo staging, reenactment, or modification was performed.\n\nThis proof is preserved under the DGCP (Data Governance & Continuous Proof) system as verifiable evidence of real-life, daily farm work.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "431"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Daily Farm Routine"
+    },
+    {
+      "trait_type": "Task Category",
+      "value": "Maintenance / Documentation"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Duck Shelter"
+    },
+    {
+      "trait_type": "Condition Recorded",
+      "value": "Empty Shelter"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "07:41 (Asia/Bangkok)"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dgcp_version": "DGCP-DAILY-LOG-1.0",
+  "project": "MaMeeFarm™",
+  "date": "2026-01-03",
+  "timezone": "Asia/Bangkok",
+  "proof_range": {
+    "start": 429,
+    "end": 433
+  },
+  "proofs": [
+    {
+      "proof_id": 429,
+      "category": "environmental-monitoring"
+    },
+    {
+      "proof_id": 430,
+      "category": "animal-care"
+    },
+    {
+      "proof_id": 431,
+      "category": "facility-maintenance"
+    },
+    {
+      "proof_id": 432,
+      "category": "energy-management"
+    },
+    {
+      "proof_id": 433,
+      "category": "movement-presence-tracking"
+    }
+  ],
+  "nft_activity": {
+    "total_files": 4,
+    "collections": [
+      {
+        "name": "7 Ducks Of Hope",
+        "day": 129,
+        "parts": [1, 2]
+      },
+      {
+        "name": "Seed of Hope",
+        "day": 161,
+        "parts": [1, 2]
+      }
+    ]
+  },
+  "dataset": {
+    "dgcp_data_unit": true,
+    "sha256_generated": true,
+    "open_timestamp_completed": true
+  },
+  "open_timestamp": {
+    "proof_files": true,
+    "nft_files": true,
+    "dataset_files": true
+  },
+  "anomalies": null,
+  "license": "DGCP | MMFARM-POL-2025"
+}

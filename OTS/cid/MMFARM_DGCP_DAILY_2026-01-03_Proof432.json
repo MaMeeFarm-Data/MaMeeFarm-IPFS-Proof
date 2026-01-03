@@ -1,0 +1,16 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_proof_cid",
+  "proof_id": 432,
+  "date_local": "2026-01-03",
+  "timezone": "Asia/Bangkok",
+  "file_name": "MMFARM_DGCP_DAILY_2026-01-03_Proof432.json",
+  "file_sha256": "c95ae933a4eae256c94bdaf533f80a1d13c7448f067ec9e715ccf7ca0e6bb599",
+  "description": "DGCP daily proof CID JSON record for 2026-01-03.",
+  "activity_classification": [
+    "dgcp.daily_proof",
+    "dataset.cid_record"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

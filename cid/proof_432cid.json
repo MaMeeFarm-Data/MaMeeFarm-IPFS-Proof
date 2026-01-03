@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeiecjv4ujesvzo6kv6jq5avbu5zjcimml5r7cy7cuufsuaz2a4w3ui",
+  "name": "DGCP | MaMeeFarm™ — Proof 432   Daily Inverter Startup After Battery Depletion",
+  "description": "This proof documents the daily operation of the off-grid electrical system at MaMeeFarm™, recorded on\n2026-01-03 at 08:43 (Asia/Bangkok).\n\nThe inverter system was turned on in the morning after being shut down at 00:30 the previous night.\nThe system issued an alert indicating that the stored battery power had been fully depleted.\n\nThis record reflects the reality of working under limited energy resources in an off-grid environment, where electricity availability directly constrains daily operations within the DGCP system.\n\nNo simulation, reenactment, or external power source was involved.\n\nLicense\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "MaMeeFarm™"
+    },
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "432"
+    },
+    {
+      "trait_type": "System Type",
+      "value": "Off-Grid Solar Inverter"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Daily Energy Management"
+    },
+    {
+      "trait_type": "Event Recorded",
+      "value": "Battery Depletion Alert"
+    },
+    {
+      "trait_type": "Operational Context",
+      "value": "Limited Energy Resource"
+    },
+    {
+      "trait_type": "Time Recorded",
+      "value": "08:43 (Asia/Bangkok)"
+    }
+  ]
+}

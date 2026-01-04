@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_proof_cid",
+  "proof_id": 438,
+  "date_local": "2026-01-04",
+  "timezone": "Asia/Bangkok",
+  "file_name": "MMFARM_DGCP_DAILY_2026-01-04_Proof438.json",
+  "file_sha256": "451bde585b1748e249b764b6607c552d933698c3c82305f4ca06af7c3ae3a564",
+  "evidence_status": "opentimestamps_completed",
+  "description": "CID verification record for DGCP Proof 438. Integrity and timestamping completed.",
+  "activity_classification": [
+    "dgcp.daily_proof",
+    "cid_record",
+    "integrity_timestamping"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

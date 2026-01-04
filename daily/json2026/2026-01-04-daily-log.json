@@ -1,0 +1,36 @@
+{
+  "date": "2026-01-04",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proofs": {
+    "range": "434-438",
+    "total_files": 5,
+    "open_timestamp": true,
+    "status": "verified"
+  },
+  "nfts": {
+    "7_ducks_of_hope": {
+      "day": 130,
+      "parts": [1, 2],
+      "total_files": 2,
+      "open_timestamp": true
+    },
+    "seed_of_hope": {
+      "day": 162,
+      "parts": [1, 2],
+      "total_files": 2,
+      "open_timestamp": true
+    }
+  },
+  "dataset": {
+    "name": "MaMeeFarm Primary Dataset",
+    "data_unit_recorded": true,
+    "open_timestamp": true,
+    "status": "verified"
+  },
+  "compliance": {
+    "dgcp_standard": "100%",
+    "anomalies_detected": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

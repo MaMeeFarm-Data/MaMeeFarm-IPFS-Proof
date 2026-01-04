@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeic2jdosuksyszquic67weelyfuim4pga4yxyuhz2x5gphpobbc5ra",
+  "name": "DGCP MaMeeFarm Proof 436 — Zone-Based Farm Work Management (Morning Session)",
+  "description": "This proof documents labor management at MaMeeFarm™ on January 4, 2026, focusing on zone-based work execution during the morning period.\n\nThe activity shows physical relocation and setup of materials as part of systematic farm management.\nWork is performed one zone at a time, with clear boundaries between zones:\n\nEach zone requires approximately 30–60 minutes\n\nAfter completion of Zone 1, work proceeds to Zone 2\n\nThis record reflects intentional time allocation and workload segmentation\n\nCaptured at 08:19 AM (Asia/Bangkok), this proof represents real-world labor planning and execution under the DGCP (Data Governance & Continuous Proof) framework, emphasizing traceable work processes rather than outcomes.\n\n📜 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "436"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2026-01-04"
+    },
+    {
+      "trait_type": "Time",
+      "value": "08:19 (Asia/Bangkok)"
+    },
+    {
+      "trait_type": "Work Method",
+      "value": "Zone-based management"
+    },
+    {
+      "trait_type": "Zone Status",
+      "value": "Transition from Zone 1 to Zone 2"
+    },
+    {
+      "trait_type": "Duration per Zone",
+      "value": "30–60 minutes"
+    },
+    {
+      "trait_type": "Work Period",
+      "value": "Morning session"
+    }
+  ]
+}

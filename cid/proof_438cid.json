@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeibpf626m2qs5nmvl4bilj43wcqndfxk4e4qb6b6vjqcx3h3ntqswi",
+  "name": "DGCP MaMeeFarm Proof 438 — Simple Meal After Labor Under Limited Resources",
+  "description": "This proof documents a simple meal taken after completing morning farm work at MaMeeFarm™ on January 4, 2026.\n\nThe image shows a bowl of instant noodles consumed as breakfast by MaMee and P’To, with one bowl per person.\nThis meal represents the primary food intake for the day, prepared and consumed under limited resources.\n\nCaptured at 11:17 AM (Asia/Bangkok), the record reflects real-life conditions of daily labor, energy recovery after physical work, and subsistence-level resource management within the DGCP (Data Governance & Continuous Proof) framework.\n\nThis proof does not represent comfort or abundance, but documents actual living conditions aligned with real labor output.\n\n📜 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "438"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2026-01-04"
+    },
+    {
+      "trait_type": "Time",
+      "value": "11:17 (Asia/Bangkok)"
+    },
+    {
+      "trait_type": "Meal Type",
+      "value": "Post-work meal"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Instant noodles"
+    },
+    {
+      "trait_type": "Consumers",
+      "value": "2 persons (MaMee & P’Toh)"
+    },
+    {
+      "trait_type": "Resource Condition",
+      "value": "Limited"
+    }
+  ]
+}

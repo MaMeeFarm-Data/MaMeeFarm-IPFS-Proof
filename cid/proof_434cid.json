@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeie5a7x2z2q2be2tyqlb7yfnoznzs2efngvhr7o36tyouoxspvoy4y",
+  "name": "DGCP MaMeeFarm Proof 434 — Morning Farm Temperature Record",
+  "description": "This proof documents the early morning environmental condition at MaMeeFarm™ on January 4, 2026.\nThe record captures on-site temperature and humidity readings before the start of daily farm activities.\n\nTemperature: 15.1°C\n\nHumidity: 73%\n\nTime recorded: 06:51 AM (Asia/Bangkok)\n\nThis data is part of the DGCP (Data Governance & Continuous Proof) system, ensuring continuous, verifiable, and tamper-resistant real-world records from MaMeeFarm™.\n\n📜 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "434"
+    },
+    {
+      "trait_type": "Time",
+      "value": "06:51 (Asia/Bangkok)"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "15.1 °C"
+    },
+    {
+      "trait_type": "Humidity",
+      "value": "73 %"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm™, Thailand"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Environmental Monitoring"
+    }
+  ]
+}

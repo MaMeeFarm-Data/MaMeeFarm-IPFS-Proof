@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeieqvuppjey2jpjtddvoivjvixvn5vuciwinlicmmsa5to7hybajea",
+  "name": "DGCP MaMeeFarm Proof 435 — Vegetable Bed Preparation in Empty Duck Shelter",
+  "description": "This proof documents the first physical task of the day at MaMeeFarm™ on January 4, 2026.\nThe activity involves manual soil digging and preparation of a vegetable planting bed inside an unused duck shelter.\n\nThe duck shelter was empty, with no animals present at the time of work.\n\nThe area is being repurposed for vegetable cultivation.\n\nThis record reflects real labor under actual farm conditions and is part of continuous daily operations.\n\nCaptured at 07:58 AM (Asia/Bangkok), this proof contributes to the DGCP (Data Governance & Continuous Proof) system, ensuring traceable, verifiable documentation of real-world farm work.\n\n📜 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "435"
+    },
+    {
+      "trait_type": "Time",
+      "value": "07:58 (Asia/Bangkok)"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Soil digging / vegetable bed preparation"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Empty duck shelter, MaMeeFarm™"
+    },
+    {
+      "trait_type": "Animal Presence",
+      "value": "None"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Agricultural labor"
+    }
+  ]
+}

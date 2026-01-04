@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_proof_cid",
+  "proof_id": 435,
+  "date_local": "2026-01-04",
+  "timezone": "Asia/Bangkok",
+  "file_name": "MMFARM_DGCP_DAILY_2026-01-04_Proof435.json",
+  "file_sha256": "0a61917873821c488305191cffc797d473b9fa0268241cc09096b5f74848d77",
+  "evidence_status": "opentimestamps_completed",
+  "description": "DGCP CID record for Proof 435 with verified SHA-256 and completed OpenTimestamps evidence.",
+  "activity_classification": [
+    "dgcp.daily_proof",
+    "cid_record"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

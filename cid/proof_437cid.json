@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeie6jiwkzmsphfdpns7ff4etd52wnkgnzidaqho7j5lkj4zkl6pvtu",
+  "name": "DGCP MaMeeFarm Proof 437 — Morning Farm Labor Progress & Workforce Scale",
+  "description": "This proof documents ongoing morning farm labor activities at MaMeeFarm™ on January 4, 2026.\n\nThe image captures active work in progress, with the morning session expected to conclude around 11:00 AM.\nAt this time, farm operations are carried out by two workers, managing and maintaining a total land area of:\n\n1 Rai 2 Ngan 17 Square Wah\n\nThe record reflects real-world labor conditions, scale of responsibility, and time-based workload management under the DGCP (Data Governance & Continuous Proof) framework.\nThis proof emphasizes labor reality, workforce limitation, and land scale, rather than production output.\n\nCaptured at 09:54 AM (Asia/Bangkok), this evidence forms part of the continuous, verifiable daily work archive of MaMeeFarm™.\n\n📜 License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "DGCP Proof ID",
+      "value": "437"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2026-01-04"
+    },
+    {
+      "trait_type": "Time",
+      "value": "09:54 (Asia/Bangkok)"
+    },
+    {
+      "trait_type": "Work Period",
+      "value": "Morning session"
+    },
+    {
+      "trait_type": "Estimated Completion",
+      "value": "~11:00 AM"
+    },
+    {
+      "trait_type": "Workforce",
+      "value": "2 persons"
+    },
+    {
+      "trait_type": "Managed Area",
+      "value": "1 Rai 2 Ngan 17 Sq. Wah"
+    }
+  ]
+}

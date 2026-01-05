@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeicivqmmiplm75yi5ewng3drenr3uzguhah2t674obblfikitlhgpe",
+  "name": "DGCP MaMeeFarm Proof 441 — Cutting Firewood for Cooking",
+  "description": "Daily subsistence labor activity at MaMeeFarm.\n\nThe image documents manual firewood cutting,\nprepared for household cooking use.\n\nThis activity reflects off-grid energy reliance\nand daily resource management under limited infrastructure.\n\nTimestamp and DGCP watermark are embedded directly in the image.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Daily Labor Record"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Firewood Cutting"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Cooking Fuel Preparation"
+    },
+    {
+      "trait_type": "Energy Source",
+      "value": "Biomass (Firewood)"
+    },
+    {
+      "trait_type": "Labor Type",
+      "value": "Manual (Hand Tools)"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm"
+    },
+    {
+      "trait_type": "Record Time",
+      "value": "2026-01-05 10:45"
+    }
+  ]
+}

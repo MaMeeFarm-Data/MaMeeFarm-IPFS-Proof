@@ -1,0 +1,36 @@
+{
+  "image": "ipfs://bafybeiak7lqzuhtilp573hx6icoed7ta3aiz46lj7fswbyztgxucd5dhi4",
+  "name": "DGCP MaMeeFarm Proof 440 — Clearing Weeds Around Empty Duck Pen",
+  "description": "Morning farm labor activity at MaMeeFarm.\n\nThe image documents manual weed clearing around an empty duck pen area,\nprepared for future vegetable planting.\n\nThe activity reflects routine land management and soil preparation\nin a zone currently without livestock.\n\nTimestamp and DGCP watermark are embedded directly in the image.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Farm Labor Record"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Weed Clearing"
+    },
+    {
+      "trait_type": "Area Condition",
+      "value": "Empty Duck Pen"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Land Preparation for Vegetables"
+    },
+    {
+      "trait_type": "Labor Type",
+      "value": "Manual (Hand Tool)"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm"
+    },
+    {
+      "trait_type": "Record Time",
+      "value": "2026-01-05 07:59"
+    }
+  ]
+}

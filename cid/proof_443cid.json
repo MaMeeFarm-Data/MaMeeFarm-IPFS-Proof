@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeiaczvnwgv3t4ehdrtricmwuxot3myce5scfyzvndhygkgrqe45jn4",
+  "name": "DGCP MaMeeFarm Proof 443 — Limited Meals Supporting System & Farm Labor",
+  "description": "This record documents a labor meal at MaMeeFarm.\n\nThe image shows a simple meal consisting of rice topped with\nstir-fried Chinese cabbage and pork sausage (moo yor).\nThis meal is part of a limited food supply,\ncounted as one of ten meals sustaining the day's labor.\n\nThe food supports both physical farm work\nand ongoing system-building activities under constrained resources.\n\nTimestamp and DGCP watermark are embedded directly in the image.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Daily Life & Labor Record"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Food Consumption"
+    },
+    {
+      "trait_type": "Meal Type",
+      "value": "Rice with Stir-Fried Vegetables"
+    },
+    {
+      "trait_type": "Protein",
+      "value": "Pork Sausage (Moo Yor)"
+    },
+    {
+      "trait_type": "Meal Allocation",
+      "value": "Limited (10 Meals Total)"
+    },
+    {
+      "trait_type": "Labor Context",
+      "value": "Farm Work & System Building"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm"
+    },
+    {
+      "trait_type": "Record Time",
+      "value": "2026-01-05 11:12"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-01-05",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "daily_proofs": [439, 440, 441, 442, 443],
+  "open_timestamp": true,
+  "nft": {
+    "7_ducks_of_hope": [
+      "day_131_part_1",
+      "day_131_part_2"
+    ],
+    "seed_of_hope": [
+      "day_163_part_1",
+      "day_163_part_2"
+    ],
+    "open_timestamp": true
+  },
+  "dataset": {
+    "name": "MaMeeFarm Primary Dataset",
+    "data_unit_recorded": true,
+    "open_timestamp": true
+  },
+  "notes": "Daily labor, environmental monitoring, energy preparation, food preparation, and sustenance recorded under constrained resources.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeifo3lwgdfpx3qcp4hu37cqy3tic7ua6kkdgebamun4cjmttftvybi",
+  "name": "DGCP MaMeeFarm Proof 442 — Shared Meal Under Resource Constraints",
+  "description": "Daily subsistence activity at MaMeeFarm.\n\nThe image documents food preparation:\nstir-fried Chinese cabbage with pork sausage (moo yor),\nprepared as a single shared meal for two people.\n\nThis record reflects daily living and labor continuity\nunder limited resources, where food, energy, and time\nare managed carefully to sustain ongoing work.\n\nTimestamp and DGCP watermark are embedded directly in the image.\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.\n",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Proof Type",
+      "value": "Daily Life & Labor Record"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Cooking (Stir-Fry)"
+    },
+    {
+      "trait_type": "Dish",
+      "value": "Chinese Cabbage with Pork Sausage"
+    },
+    {
+      "trait_type": "Meal Count",
+      "value": "1 Shared Meal"
+    },
+    {
+      "trait_type": "People",
+      "value": "2"
+    },
+    {
+      "trait_type": "Resource Context",
+      "value": "Limited Resources"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm"
+    },
+    {
+      "trait_type": "Record Time",
+      "value": "2026-01-05 11:03"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "image": "ipfs://bafybeibuj6jddethwtjmx635gmr3apigqokjxboicjo7byqoxbla5gshga",
+  "name": "DGCP MaMeeFarm — Proof 448",
+  "description": "This proof documents animal care activity at MaMeeFarm.\n\nDuring the late morning period, “Khao Niew” performs nursing duties for the puppies, alternating responsibility with “Khao Nueng.”\nA total of 11 puppies are being fed through shared maternal care.\n\nThis activity follows the previously recorded caregiving structure and directly references Proof 445, which documents the initial nursing and role assignment between the two mother dogs.\n\nThe record reflects coordinated animal care, role rotation, and continuity of responsibility within the same caregiving system.\n\nCaptured at 09:23 AM (local time) on January 6, 2026, this proof represents real-world livestock and animal welfare labor under farm conditions.\n\n⚖️ License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Date",
+      "value": "2026-01-06"
+    },
+    {
+      "trait_type": "Local Time",
+      "value": "09:23"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Lampang, Thailand"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Animal Care"
+    },
+    {
+      "trait_type": "Task",
+      "value": "Nursing / Feeding"
+    },
+    {
+      "trait_type": "Animals",
+      "value": "Dogs (Puppies)"
+    },
+    {
+      "trait_type": "Total Puppies",
+      "value": "11"
+    },
+    {
+      "trait_type": "Care Pattern",
+      "value": "Alternating Maternal Care"
+    },
+    {
+      "trait_type": "Referenced Proof",
+      "value": "445"
+    },
+    {
+      "trait_type": "DGCP Framework",
+      "value": "Active"
+    }
+  ]
+}

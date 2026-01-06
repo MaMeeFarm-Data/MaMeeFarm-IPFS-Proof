@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeidch24hvfriplldrlju4z2uqso3kuwylq6c5b6rk2m4azisrnt4ey",
+  "name": "DGCP MaMeeFarm — Proof 447",
+  "description": "This proof documents continued agricultural labor at MaMeeFarm.\n\nAfter completing work at a previous location, the worker proceeds to another area to clear weeds surrounding banana trees.\nThe activity reflects sequential task execution, where multiple work points are addressed consecutively within the same workday.\n\nThe clearing of weeds around banana plants is part of routine land maintenance to support plant health and future cultivation.\n\nCaptured at 08:16 AM (local time) on January 6, 2026, this record represents ongoing physical labor performed under real-world farming conditions.\n\n⚖️ License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Date",
+      "value": "2026-01-06"
+    },
+    {
+      "trait_type": "Local Time",
+      "value": "08:16"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Lampang, Thailand"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Land Maintenance"
+    },
+    {
+      "trait_type": "Task",
+      "value": "Weed Clearing"
+    },
+    {
+      "trait_type": "Crop Context",
+      "value": "Banana Trees"
+    },
+    {
+      "trait_type": "Work Pattern",
+      "value": "Sequential / Continuous"
+    },
+    {
+      "trait_type": "DGCP Framework",
+      "value": "Active"
+    }
+  ]
+}

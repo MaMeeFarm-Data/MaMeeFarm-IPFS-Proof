@@ -1,0 +1,35 @@
+{
+  "date": "2026-01-06",
+  "framework": "DGCP | Data Governance & Continuous Proof",
+  "project": "MaMeeFarm",
+  "proofs": {
+    "range": "444-448",
+    "count": 5,
+    "open_timestamp": "verified"
+  },
+  "nfts": {
+    "collections": {
+      "7_Ducks_Of_Hope": [
+        "Day 132 Part 1",
+        "Day 132 Part 2"
+      ],
+      "Seed_Of_Hope": [
+        "Day 164 Part 1",
+        "Day 164 Part 2"
+      ]
+    },
+    "total_files": 4,
+    "open_timestamp": "verified"
+  },
+  "dataset": {
+    "name": "MaMeeFarm Primary Dataset",
+    "data_units": "recorded",
+    "sha256": "completed",
+    "open_timestamp": "verified"
+  },
+  "integrity": {
+    "status": "complete",
+    "anomalies": "none"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

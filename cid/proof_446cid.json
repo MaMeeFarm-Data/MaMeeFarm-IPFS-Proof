@@ -1,0 +1,40 @@
+{
+  "image": "ipfs://bafybeiggwaozaa4b2e7fyjp33ur4xzuh2xo3p575paxbd6znfr3iikihhe",
+  "name": "DGCP MaMeeFarm — Proof 446",
+  "description": "This proof documents real-world agricultural labor at MaMeeFarm.\n\nThe image records the gradual planting of spring onions in a vegetable plot inside an empty duck shelter.\nThe work is not completed in a single session but carried out consistently over time, alongside multiple daily responsibilities.\n\nAt the time of this record, the task is expected to result in a fully planted plot by the end of the day.\nThis proof reflects sustained, incremental labor rather than one-time execution.\n\nCaptured at 07:47 AM (local time) on January 6, 2026, this activity represents continuous agricultural work under real-world constraints.\n\n⚖️ License\n\nDGCP | MMFARM-POL-2025\nThis work is licensed under the DGCP (Data Governance & Continuous Proof) framework.\nAll content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.\nRedistribution, citation, or derivative use must preserve attribution and license reference.",
+  "external_url": "https://www.mameefarm.com",
+  "attributes": [
+    {
+      "trait_type": "Date",
+      "value": "2026-01-06"
+    },
+    {
+      "trait_type": "Local Time",
+      "value": "07:47"
+    },
+    {
+      "trait_type": "Location",
+      "value": "MaMeeFarm, Lampang, Thailand"
+    },
+    {
+      "trait_type": "Activity Type",
+      "value": "Crop Planting"
+    },
+    {
+      "trait_type": "Crop",
+      "value": "Spring Onion"
+    },
+    {
+      "trait_type": "Work Pattern",
+      "value": "Incremental / Continuous"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Empty Duck Shelter"
+    },
+    {
+      "trait_type": "DGCP Framework",
+      "value": "Active"
+    }
+  ]
+}

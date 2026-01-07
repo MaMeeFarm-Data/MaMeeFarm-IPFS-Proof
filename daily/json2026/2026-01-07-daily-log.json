@@ -1,0 +1,36 @@
+{
+  "date_local": "2026-01-07",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "daily_proofs": {
+    "range": "449-453",
+    "ots_status": {
+      "md_files": "completed",
+      "cid_json": "pending_due_to_ipfs_timeout"
+    }
+  },
+  "system_incident": {
+    "type": "ipfs_gateway_timeout",
+    "http_status": 504,
+    "impact": [
+      "cid_json_metadata",
+      "nft_metadata_retrieval"
+    ],
+    "data_loss": false,
+    "status": "documented_and_preserved"
+  },
+  "nft_activity": {
+    "mint_status": "completed",
+    "collections": {
+      "7_ducks_of_hope": ["day_133_part_1", "day_133_part_2"],
+      "seed_of_hope": ["day_165_part_1", "day_165_part_2"]
+    }
+  },
+  "primary_dataset": {
+    "data_units": "recorded",
+    "ots_status": "completed",
+    "integrity": "verified"
+  },
+  "dgcp_compliance": true,
+  "license": "DGCP | MMFARM-POL-2025"
+}

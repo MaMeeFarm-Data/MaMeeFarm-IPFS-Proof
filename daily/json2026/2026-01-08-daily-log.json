@@ -1,0 +1,43 @@
+{
+  "date": "2026-01-08",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "timezone": "Asia/Bangkok",
+  "proof_range": "454-458",
+  "proof_format": "markdown",
+  "open_timestamp": {
+    "md_files": "completed",
+    "cid_files": "gateway_timeout_logged"
+  },
+  "nft": {
+    "minted": true,
+    "collections": [
+      {
+        "name": "7 Ducks Of Hope",
+        "day": 134,
+        "parts": [1, 2]
+      },
+      {
+        "name": "Seed of Hope",
+        "day": 166,
+        "parts": [1, 2]
+      }
+    ],
+    "metadata_status": "ipfs_gateway_timeout"
+  },
+  "dataset": {
+    "name": "MaMeeFarm Primary Dataset",
+    "data_units": "recorded",
+    "open_timestamp": "completed"
+  },
+  "system_issues": [
+    {
+      "type": "IPFS Gateway Timeout",
+      "severity": "infrastructure",
+      "impact": "retrievability_only",
+      "chain_integrity": "not_affected"
+    }
+  ],
+  "chain_status": "intact",
+  "license": "DGCP | MMFARM-POL-2025"
+}

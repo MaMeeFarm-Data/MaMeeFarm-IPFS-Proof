@@ -1,0 +1,65 @@
+{
+  "dgcp_version": "DGCP-DAILY-LOG-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_log",
+  "date_local": "2026-01-09",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm, Thailand",
+  "branches_status": {
+    "daily_proof": {
+      "proof_range": "459-463",
+      "status": "recorded",
+      "ots_scope": "md_only",
+      "cid_status": "blocked_by_ipfs_retrievability_issue"
+    },
+    "nft": {
+      "status": "minted",
+      "collections": [
+        {
+          "name": "7 Ducks Of Hope",
+          "items": [
+            "Day 135 Part 1",
+            "Day 135 Part 2"
+          ]
+        },
+        {
+          "name": "Seed of Hope",
+          "items": [
+            "Day 167 Part 1",
+            "Day 167 Part 2"
+          ]
+        }
+      ],
+      "integrity_note": {
+        "type": "operator_error_admission",
+        "issue": "NFT day/part label mismatch detected",
+        "intended_label": "Day 134 Part 2",
+        "minted_or_entered_label": "Day 133 Part 2",
+        "action": "no silent edits; correction recorded in daily log for auditability"
+      }
+    },
+    "primary_dataset": {
+      "status": "recorded",
+      "ots_status": "completed_for_all_files"
+    }
+  },
+  "ipfs_issue": {
+    "observed": true,
+    "symptom": "504 Gateway Timeout on ipfs.io",
+    "impact": "temporary retrievability failure via public gateway",
+    "notes": "does not invalidate evidence chain; local data + commit + OTS remain"
+  },
+  "integrity_statement": {
+    "no_deletion_or_concealment": true,
+    "chain_intact": true,
+    "reason": [
+      "multi-branch evidence structure (Proof/NFT/Dataset)",
+      "cryptographic anchoring via commit and OTS",
+      "IPFS gateway issue is a retrievability problem, not evidence corruption"
+    ]
+  },
+  "license": {
+    "name": "DGCP | MMFARM-POL-2025",
+    "text": "This work is licensed under the DGCP (Data Governance & Continuous Proof) framework. All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive. Redistribution, citation, or derivative use must preserve attribution and license reference."
+  }
+}

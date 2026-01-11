@@ -1,0 +1,72 @@
+{
+  "dgcp_version": "DGCP-DAILY-LOG-1.0",
+  "project": "MaMeeFarm",
+  "date_local": "2026-01-11",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm, Thailand",
+
+  "summary": "Daily log documenting real farm activities conducted under operational constraints, including unstable IPFS gateway access and limited electricity.",
+
+  "operational_conditions": {
+    "ipfs_gateway_status": "unstable",
+    "ipfs_error_observed": "504 Gateway Timeout",
+    "electricity_availability": "limited",
+    "impact": [
+      "CID verification deferred",
+      "Metadata access delayed",
+      "Some processing postponed intentionally"
+    ]
+  },
+
+  "dgcp_proofs": [
+    {
+      "proof_id": 469,
+      "activity": "Feeding dogs in the farm",
+      "category": "daily_routine"
+    },
+    {
+      "proof_id": 470,
+      "activity": "Morning environment view of adjacent cornfield",
+      "reference_data_unit": "00165"
+    },
+    {
+      "proof_id": 471,
+      "activity": "Watering vegetable beds",
+      "details": {
+        "watering_can_liters": 4,
+        "rounds_per_bed": 2,
+        "total_liters_per_bed": 8
+      },
+      "reference_data_unit": "00167"
+    },
+    {
+      "proof_id": 472,
+      "activity": "Clearing grass around papaya tree",
+      "purpose": "Reduce nutrient competition and improve growth"
+    },
+    {
+      "proof_id": 473,
+      "activity": "Preparing firewood during daylight",
+      "reference_data_unit": "00176"
+    }
+  ],
+
+  "nft_minting": {
+    "status": "completed",
+    "collections": {
+      "7_ducks_of_hope": ["day_137_part_1", "day_137_part_2"],
+      "seed_of_hope": ["day_169_part_1", "day_169_part_2"]
+    },
+    "metadata_note": "IPFS gateway instability affected metadata retrievability but not mint completion."
+  },
+
+  "primary_dataset": {
+    "ots_applied": true,
+    "processing_status": "partial",
+    "limitation_reason": "electricity_constraint"
+  },
+
+  "integrity_statement": "This record reflects actual activities and system conditions without retroactive modification or data omission.",
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

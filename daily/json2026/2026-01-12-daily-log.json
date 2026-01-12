@@ -1,0 +1,68 @@
+{
+  "dgcp_version": "DGCP-DAILY-LOG-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_log",
+  "date_local": "2026-01-12",
+  "timezone": "Asia/Bangkok",
+  "summary": "Proof 474-478 recorded and OTS applied to proof markdown only. CID/JSON deferred due to ongoing IPFS gateway metadata retrieval failures. NFT minting completed for 7 Ducks of Hope Day 138 Part 1-2 and Seed of Hope Day 170 Part 1-2, but retrievability remains unstable. Primary Dataset OTS continued file-by-file but not fully completed due to power constraints.",
+  "deliverables": {
+    "proofs": {
+      "range": "474-478",
+      "format": "markdown",
+      "ots_applied": true,
+      "cid_json_generated": false,
+      "notes": "OTS applied to proof md files only. CID/JSON deferred."
+    },
+    "nft_minting": [
+      {
+        "collection": "7 Ducks Of Hope",
+        "items": "Day 138 Part 1-2",
+        "mint_status": "minted",
+        "metadata_retrieval_status": "unstable"
+      },
+      {
+        "collection": "Seed of Hope",
+        "items": "Day 170 Part 1-2",
+        "mint_status": "minted",
+        "metadata_retrieval_status": "unstable"
+      }
+    ],
+    "primary_dataset": {
+      "ots_applied": true,
+      "mode": "file-by-file",
+      "completion_status": "partial",
+      "constraint": "limited electricity in farm"
+    }
+  },
+  "issues": [
+    {
+      "type": "ipfs_gateway_timeout",
+      "status": "ongoing",
+      "symptom": "504 Gateway Timeout / unable to retrieve content within timeout period",
+      "impact": "CID/JSON generation deferred due to inability to reliably retrieve metadata",
+      "mitigation": "Proceed with md+OTS first; generate CID/JSON later when retrievability stabilizes"
+    },
+    {
+      "type": "power_constraint",
+      "status": "ongoing",
+      "impact": "Primary Dataset processing not fully completed for the day",
+      "mitigation": "Continue remaining files when power is available"
+    }
+  ],
+  "integrity": {
+    "proof_layer": {
+      "md": true,
+      "ots": true,
+      "cid_json": "deferred"
+    },
+    "dataset_layer": {
+      "ots": true,
+      "completion": "partial"
+    },
+    "nft_layer": {
+      "minted": true,
+      "metadata_retrievability": "unstable"
+    }
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

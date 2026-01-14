@@ -1,0 +1,36 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "record_type": "daily_log",
+  "date_local": "2026-01-14",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "daily_proofs": [484, 485, 486, 487, 488],
+  "data_units_referenced": ["00251", "00253", "00259"],
+  "nft_activity": {
+    "7_ducks_of_hope": {
+      "day": 140,
+      "parts": [1, 2],
+      "status": "minted"
+    },
+    "seed_of_hope": {
+      "day": 172,
+      "parts": [1, 2],
+      "status": "minted"
+    },
+    "nft_ots_status": "pending_due_to_system_constraints"
+  },
+  "system_constraints": {
+    "ipfs_gateway": {
+      "gateway": "ipfs.io",
+      "issue": "504 Gateway Timeout",
+      "impact": "CID metadata retrieval unavailable at time of operation"
+    },
+    "power": {
+      "status": "limited",
+      "impact": "restricted full-day operations"
+    }
+  },
+  "integrity_statement": "All entries reflect real-world activities and conditions. No backfill or synthetic data was introduced.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

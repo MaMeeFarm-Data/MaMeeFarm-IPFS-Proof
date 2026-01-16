@@ -1,0 +1,45 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "record_type": "daily_log",
+  "date_local": "2026-01-16",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm, Thailand",
+  "framework": "DGCP",
+  "summary": "Daily real-world activity log recorded without interpretation under DGCP standards.",
+  "proofs": {
+    "range": "494-498",
+    "mint_status": "minted",
+    "ots_status": "completed"
+  },
+  "nft": {
+    "seven_ducks_of_hope": {
+      "day": 142,
+      "parts": "1-2",
+      "mint_status": "minted",
+      "ots_status": "pending"
+    },
+    "seed_of_hope": {
+      "day": 174,
+      "parts": "1-2",
+      "mint_status": "minted",
+      "ots_status": "pending"
+    }
+  },
+  "dataunit": {
+    "status": "completed",
+    "operation_window": "morning",
+    "constraints": "limited electrical power"
+  },
+  "technical_notes": {
+    "ipfs_gateway": "unstable",
+    "cid_json_retrievability": "pending",
+    "data_modification": "none"
+  },
+  "integrity": {
+    "interpretation": false,
+    "retrospective_edit": false,
+    "continuity_preserved": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

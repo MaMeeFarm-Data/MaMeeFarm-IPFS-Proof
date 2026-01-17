@@ -1,0 +1,62 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-01-17",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm, Thailand",
+
+  "system_status": {
+    "energy_source": "solar",
+    "power_availability": "partial_day",
+    "operational_constraint": "insufficient power for full 24h operation",
+    "data_loss": false
+  },
+
+  "activities": [
+    "Daily dog feeding (morning)",
+    "Backyard land work within physical capacity limits",
+    "Zone-based planting activities (pumpkin)",
+    "Ground preparation and maintenance",
+    "Food consumption under budget constraints"
+  ],
+
+  "proof_status": {
+    "proof_range": "499-503",
+    "proof_md_created": true,
+    "ots_completed": true,
+    "cid_metadata_status": "pending (IPFS gateway timeout)"
+  },
+
+  "nft_status": {
+    "7_ducks_of_hope": {
+      "day": 143,
+      "parts": [1, 2],
+      "minted": true,
+      "metadata_status": "pending"
+    },
+    "seed_of_hope": {
+      "day": 175,
+      "parts": [1, 2],
+      "minted": true,
+      "metadata_status": "pending"
+    }
+  },
+
+  "primary_dataset": {
+    "dataset_name": "MaMeeFarm Primary Dataset",
+    "dataunit_mode": "sequential",
+    "ots_per_file": true,
+    "coverage": "partial_day",
+    "limitation_reason": "solar power availability"
+  },
+
+  "compliance": {
+    "factual_only": true,
+    "no_backfill": true,
+    "constraint_disclosed": true
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

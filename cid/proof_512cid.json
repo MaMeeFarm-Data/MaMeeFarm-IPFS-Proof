@@ -1,0 +1,16 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid_record",
+  "proof_id": 512,
+  "date_local": "2026-01-19",
+  "timezone": "Asia/Bangkok",
+  "activity": "Banana tree cutting based on ripening assessment",
+  "related_dataunits": ["00104", "00409", "00413"],
+  "related_proofs": ["412"],
+  "ipfs_gateway": "pinata",
+  "cid": "bafybeihmyzel2t5fd5vvuzzayzt7f7ceaismnyjz5zny7rzlfqxn5fj3ca",
+  "verification_note": "CID recorded as provided. Retrieval subject to IPFS network conditions.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

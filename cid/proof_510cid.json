@@ -1,0 +1,14 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid_record",
+  "proof_id": 510,
+  "date_local": "2026-01-19",
+  "timezone": "Asia/Bangkok",
+  "activity": "Manual soil digging and planting bed preparation",
+  "ipfs_gateway": "pinata",
+  "cid": "bafybeibq7olp5pgbc4cj45dqyjjdpf63l4sezj3xcmgzwwgiq47i6cirbe",
+  "verification_note": "CID recorded as provided. Retrieval subject to IPFS network conditions.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,16 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid_record",
+  "proof_id": 511,
+  "date_local": "2026-01-19",
+  "timezone": "Asia/Bangkok",
+  "activity": "Dog area cleaning and sanitation as part of daily animal care",
+  "related_dataunits": ["00391", "00402"],
+  "related_proofs": ["509"],
+  "ipfs_gateway": "pinata",
+  "cid": "bafybeihc54mix7qudcgenm3rfjhnkxbvt5be3yu3c76x22nat53vpb2yey",
+  "verification_note": "CID recorded as provided. Retrieval subject to IPFS network conditions.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

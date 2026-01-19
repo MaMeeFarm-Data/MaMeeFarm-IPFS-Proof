@@ -1,0 +1,15 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid_record",
+  "proof_id": 509,
+  "date_local": "2026-01-19",
+  "timezone": "Asia/Bangkok",
+  "activity": "Dog bedding sheet drying",
+  "environmental_reference": "DataUnit 00404 (morning sunlight availability)",
+  "ipfs_gateway": "pinata",
+  "cid": "bafybeibryiq3amm7miorzspj2ghwbvvyws7yno4zs4lwqrscrlmh3dt2sq",
+  "verification_note": "CID recorded without modification. Retrieval subject to IPFS network conditions.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

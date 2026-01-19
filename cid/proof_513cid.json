@@ -1,0 +1,15 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid_record",
+  "proof_id": 513,
+  "date_local": "2026-01-19",
+  "timezone": "Asia/Bangkok",
+  "activity": "Incremental vegetable planting followed by immediate watering",
+  "related_dataunits": ["00415"],
+  "ipfs_gateway": "pinata",
+  "cid": "bafybeiephxtmuggjaepqfnzfcgj5imbqjp722brvkgo6b3y2omqco7645a",
+  "verification_note": "CID recorded as provided. Retrieval subject to IPFS network conditions.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

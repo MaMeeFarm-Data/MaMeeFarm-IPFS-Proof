@@ -1,0 +1,21 @@
+{
+  "proof_id": 515,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-20",
+  "time_local": "08:17",
+  "ipfs": {
+    "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiexv7fbpqpcejvuttgjiwpbpwkhyih7kxolgqyfiq23477ihusupi",
+    "cid": "bafybeiexv7fbpqpcejvuttgjiwpbpwkhyih7kxolgqyfiq23477ihusupi"
+  },
+  "references": {
+    "dataunit": ["00434"],
+    "related_proof": ["514"]
+  },
+  "status": {
+    "proof_md_created": true,
+    "cid_recorded": true,
+    "ots": "pending_or_completed"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,13 @@
+{
+  "proof_id": 516,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-20",
+  "time_local": "08:21",
+  "timezone": "Asia/Bangkok",
+  "cid": "bafybeifqlxfvv5iqwirpx3xxrp2clbgxq5gdcocb3g44zerqyj2wff6miy",
+  "evidence_type": "image",
+  "source": "ipfs",
+  "reference_dataunit": ["00426"],
+  "license": "DGCP | MMFARM-POL-2025"
+}

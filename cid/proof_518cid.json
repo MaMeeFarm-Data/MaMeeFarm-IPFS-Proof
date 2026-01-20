@@ -1,0 +1,17 @@
+{
+  "proof_id": 518,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-20",
+  "time_local": "11:42",
+  "timezone": "Asia/Bangkok",
+  "cid": "bafybeigoicafftpx6p7t4cemnpu5hi22dgtfocuc6hgda2gysqjym54tsi",
+  "evidence_type": "image",
+  "source": "ipfs",
+  "activity": "Water pump installation",
+  "infrastructure": {
+    "type": "Groundwater well",
+    "depth_meters": 7
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

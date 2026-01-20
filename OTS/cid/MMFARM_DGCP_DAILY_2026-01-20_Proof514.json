@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_proof_cid",
+  "proof_id": 514,
+  "date_local": "2026-01-20",
+  "timezone": "Asia/Bangkok",
+  "file_name": "MMFARM_DGCP_DAILY_2026-01-20_Proof514.json",
+  "file_sha256": "c5bb05660accdf048b0aec6e26c53e855af047c8e52ddeb4069afda781abb1eb",
+  "evidence_status": "opentimestamps_completed",
+  "description": "DGCP CID record for Proof 514. OpenTimestamps evidence completed prior to repository commit.",
+  "activity_classification": [
+    "dgcp.daily_proof",
+    "cid_record",
+    "integrity_timestamping"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

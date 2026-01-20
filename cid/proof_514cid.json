@@ -1,0 +1,39 @@
+{
+  "proof_id": 514,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-20",
+  "time_local": "07:43",
+  "timezone": "Asia/Bangkok",
+  "title": "Morning Banana Distribution to Dogs (From Farm Harvest)",
+  "location": "MaMeeFarm, Thailand (home zone / dog care area)",
+  "summary": "Ripe bananas from farm harvest were portioned and distributed to dogs as part of morning farm management. Linked to DataUnit 00104 (cut date: 2026-01-08).",
+  "farm_context": {
+    "humans": 2,
+    "dogs": 20,
+    "ducks": 0
+  },
+  "references": {
+    "data_units": [
+      {
+        "dataunit_id": "00104",
+        "note": "Banana harvest / cut date: 2026-01-08"
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "type": "image",
+      "storage": "ipfs",
+      "ipfs_cid": "bafybeic4otap3n54cq4f3bl7kesswofj2w5et2gehw7ucgwydowi25pzri",
+      "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic4otap3n54cq4f3bl7kesswofj2w5et2gehw7ucgwydowi25pzri",
+      "note": "External reference for verification; content-addressed CID is authoritative."
+    }
+  ],
+  "integrity": {
+    "status": "recorded",
+    "method": ["DGCP-proof-md", "CID-json"],
+    "notes": "This record reflects actual operational activity and references. No retroactive modification."
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

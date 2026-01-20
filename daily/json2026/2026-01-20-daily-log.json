@@ -1,0 +1,53 @@
+{
+  "schema_version": "dgcp.daily-log.v1",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-20",
+  "timezone": "Asia/Bangkok",
+  "proof_range": {
+    "from": 514,
+    "to": 518
+  },
+  "proof_md": {
+    "status": "completed"
+  },
+  "ots": {
+    "proof_md": "completed",
+    "cid_json": "completed"
+  },
+  "cid": {
+    "status": "prepared"
+  },
+  "nft": {
+    "note": "NFT is non-chain for DGCP proof continuity.",
+    "collections": [
+      {
+        "name": "7 Ducks of Hope",
+        "day": 146,
+        "parts": [1, 2],
+        "mint_status": "minted",
+        "metadata_retrieval": "not_available",
+        "action": "deferred"
+      },
+      {
+        "name": "Seed of Hope",
+        "day": 178,
+        "parts": [1, 2],
+        "mint_status": "minted",
+        "metadata_retrieval": "not_available",
+        "action": "deferred"
+      }
+    ]
+  },
+  "dataset_primary": {
+    "status": "in_progress",
+    "method": "per-file OTS",
+    "constraint": "solar_power",
+    "note": "Farm solar power could not sustain full 24-hour operations."
+  },
+  "integrity": {
+    "retroactive_modification": false,
+    "records_operational_reality": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,17 @@
+{
+  "proof_id": 517,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-20",
+  "time_local": "11:36",
+  "timezone": "Asia/Bangkok",
+  "cid": "bafybeihf4oqm2vnexr4yrnpm2c242gwvgp23wzo3ezvbjwwnyoaljvqf54",
+  "evidence_type": "image",
+  "source": "ipfs",
+  "plant_id": "BAN-0001",
+  "event": "Inflorescence cut",
+  "event_date": "2026-01-16",
+  "reference_proof": ["498"],
+  "reference_dataunit": ["00332"],
+  "license": "DGCP | MMFARM-POL-2025"
+}

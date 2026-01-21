@@ -1,0 +1,31 @@
+{
+  "schema_version": "dgcp.proof.cid.v1",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": 523,
+  "date_local": "2026-01-21",
+  "timezone": "Asia/Bangkok",
+  "assets": [
+    {
+      "asset_id": "WT-H-0001",
+      "type": "house_water_tank",
+      "capacity_liters": 1000,
+      "status": "active"
+    },
+    {
+      "asset_id": "WT-H-0002",
+      "type": "house_water_tank",
+      "capacity_liters": 2000,
+      "status": "active"
+    }
+  ],
+  "evidence": {
+    "type": "image",
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiczkjur6ka54ydyf6f5aqsxtlwnyndduzsvsur7ujbfyee4tqag6a"
+  },
+  "integrity": {
+    "retroactive_modification": false,
+    "narrative_injection": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

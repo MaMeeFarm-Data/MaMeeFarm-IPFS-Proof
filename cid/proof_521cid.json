@@ -1,0 +1,20 @@
+{
+  "schema_version": "dgcp.proof.cid.v1",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": 521,
+  "date_local": "2026-01-21",
+  "timezone": "Asia/Bangkok",
+  "reference": {
+    "dataunit": ["00484"]
+  },
+  "evidence": {
+    "type": "image",
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiblfkddf2iq24t7lpeitul44hojxejzs3urk6mg337n72yx7m34ba"
+  },
+  "integrity": {
+    "retroactive_modification": false,
+    "narrative_injection": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

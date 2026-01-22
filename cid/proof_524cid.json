@@ -1,0 +1,27 @@
+{
+  "proof_id": 524,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-22",
+  "time_local": "06:58",
+  "timezone": "Asia/Bangkok",
+  "title": "Morning Temperature and Humidity Record (First Reading of the Day)",
+  "evidence": {
+    "type": "image",
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigwz55v5isdq3nwkkft6xwtkhc2w5fsddi2c2yzvazszkzvm545zy"
+  },
+  "observed_values": {
+    "temperature_celsius": 16.0,
+    "relative_humidity_percent": 70
+  },
+  "device": {
+    "model": "HTC-1",
+    "type": "digital_thermo_hygrometer"
+  },
+  "sequence": {
+    "daily_order": 1,
+    "note": "first temperature and humidity record of the day"
+  },
+  "status": "confirmed_record",
+  "license": "DGCP | MMFARM-POL-2025"
+}

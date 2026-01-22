@@ -1,0 +1,46 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "log_type": "daily",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-22",
+  "timezone": "Asia/Bangkok",
+  "proof_range": {
+    "from": 519,
+    "to": 523
+  },
+  "proof_status": {
+    "proof_md_completed": true,
+    "ots_completed": true,
+    "cid_ots_completed": true,
+    "evidence_commit_completed": false,
+    "blocker": "power_loss_computer_shutdown"
+  },
+  "nft_status": {
+    "seven_ducks_of_hope": {
+      "day": 148,
+      "mint_completed": true,
+      "metadata_retrieved": false,
+      "next_action": "retrieve_metadata_when_available"
+    },
+    "seed_of_hope": {
+      "day": 80,
+      "mint_completed": true,
+      "metadata_retrieved": false,
+      "next_action": "retrieve_metadata_when_available"
+    }
+  },
+  "primary_dataset_status": {
+    "work_continued": true,
+    "ots_work_continued": true,
+    "day_completed": false,
+    "constraint": "solar_power_not_24h"
+  },
+  "constraints": [
+    "solar_power_not_24h",
+    "power_loss",
+    "computer_shutdown"
+  ],
+  "notes": "Proof/OTS/CID steps were completed, but evidence commit was not executed due to power loss. Pending actions are deferred without rewriting history.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

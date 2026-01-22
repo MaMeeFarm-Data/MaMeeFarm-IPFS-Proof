@@ -1,0 +1,21 @@
+{
+  "proof_id": 528,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-22",
+  "timezone": "Asia/Bangkok",
+  "asset_context": {
+    "asset_type": "areca_palm_tree",
+    "location": "front yard"
+  },
+  "evidence": {
+    "ipfs_cid": "bafybeihins2zn4cjzftno7humz6t7cu22c2sat65de3b4vo7psh2dgwlma",
+    "source": "pinata"
+  },
+  "status": {
+    "proof_md": "completed",
+    "ots": "pending_or_completed",
+    "mint": "not_required"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

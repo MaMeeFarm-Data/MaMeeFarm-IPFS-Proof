@@ -1,0 +1,18 @@
+{
+  "proof_id": 526,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-22",
+  "time_local": "09:39",
+  "timezone": "Asia/Bangkok",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeidq4wsnkyizm2vhhx6me2zartdg677rrsndc67itzfgofd5uxazxa",
+  "storage": "ipfs",
+  "integrity_status": "recorded",
+  "references": [
+    "dataunit_00518",
+    "dataunit_00519"
+  ],
+  "notes": "Routine dog waste collection and front area hygiene maintenance.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

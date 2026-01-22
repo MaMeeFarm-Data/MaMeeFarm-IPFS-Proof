@@ -1,0 +1,14 @@
+{
+  "proof_id": 525,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-22",
+  "time_local": "07:38",
+  "timezone": "Asia/Bangkok",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeiapno6g653l6wsszwk6jyjs6ez3emwyhozwc5u6bmblzo3xp34l5y",
+  "storage": "ipfs",
+  "integrity_status": "recorded",
+  "notes": "Daily morning labor routine documented under real-world conditions.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

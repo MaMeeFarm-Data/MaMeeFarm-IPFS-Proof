@@ -1,0 +1,21 @@
+{
+  "proof_id": 527,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-22",
+  "time_local": "11:14",
+  "timezone": "Asia/Bangkok",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeibfpl45f54uqslcl7llei45ybufqwujbeh3tymjd77on2tpnqqale",
+  "storage": "ipfs",
+  "asset_id": "BAN-0001",
+  "event_reference": {
+    "event": "inflorescence_cut",
+    "date": "2026-01-16",
+    "related_proofs": [498, 517],
+    "related_dataunit": "00332"
+  },
+  "integrity_status": "recorded",
+  "notes": "Area clearing to support post-inflorescence banana yield monitoring.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

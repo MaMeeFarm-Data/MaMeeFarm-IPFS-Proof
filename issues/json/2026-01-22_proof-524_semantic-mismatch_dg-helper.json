@@ -1,0 +1,32 @@
+{
+  "framework": "DGCP",
+  "organization": "MaMeeFarm",
+  "agent": "DG-HELPER",
+  "issue_type": "governance.semantic_mismatch",
+  "severity": "low",
+  "status": "recorded",
+  "date_local": "2026-01-22",
+  "timezone": "Asia/Bangkok",
+  "scope": {
+    "proof_id": 524,
+    "folders": ["proof", "cid"]
+  },
+  "facts": {
+    "confirmed_values": {
+      "temperature_c": 16.0,
+      "humidity_percent": 70
+    },
+    "capture_time_local": "2026-01-22 06:58"
+  },
+  "event": {
+    "description": "A commit message implied an update, confirmation, or superseding of Proof 524 values after anchoring, but no proof or CID files were changed.",
+    "root_cause": "human_error_human_ai_semantic_mismatch",
+    "data_integrity_impact": "none",
+    "evidence_anchoring_impact": "none"
+  },
+  "actions": {
+    "corrective_action": "Record the incident in governance issues; no changes to proof or cid artifacts are required.",
+    "preventive_action": "When no files change, use verification-only wording such as 'verification only (no data change)' instead of 'update' or 'confirm'."
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

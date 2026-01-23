@@ -1,0 +1,13 @@
+{
+  "proof_id": 529,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-23",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "ipfs_cid": "bafybeia3wbputwnu73ntxgdpuncuqngl3qzfnkukkdmevoalgqbbzxgizq",
+    "gateway": "pinata",
+    "type": "image"
+  },
+  "description": "Daily farm work performed in the morning as part of routine operations."
+}

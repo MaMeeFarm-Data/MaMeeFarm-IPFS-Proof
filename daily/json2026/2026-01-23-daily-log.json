@@ -1,0 +1,49 @@
+{
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "timezone": "Asia/Bangkok",
+  "date_local": "2026-01-23",
+  "daily_log_type": "operational_record",
+  "proof_activity": {
+    "proof_ids_created": [529, 530, 531, 532, 533],
+    "proof_md_status": "created",
+    "ots_status": "completed",
+    "cid_status": "created_and_ots_completed"
+  },
+  "cid_evidence_commit": {
+    "proof_ids": [524, 525, 526, 527, 528],
+    "commit_status": "completed"
+  },
+  "nft_activity": {
+    "collections": [
+      {
+        "name": "7 Ducks of Hope",
+        "day": 149
+      },
+      {
+        "name": "Seed Of Hope",
+        "day": 181
+      }
+    ],
+    "mint_status": "completed",
+    "metadata_retrieval": "not_available",
+    "impact_on_chain": "none"
+  },
+  "dataset_primary": {
+    "processing_mode": "file_by_file",
+    "ots_status": "completed_per_file",
+    "completion_status": "incomplete"
+  },
+  "constraints": {
+    "energy_source": "solar",
+    "power_availability": "less_than_24_hours",
+    "effect": "processing_interrupted"
+  },
+  "integrity": {
+    "chain_status": "intact",
+    "missing_proofs": false,
+    "cid_mismatch": false,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

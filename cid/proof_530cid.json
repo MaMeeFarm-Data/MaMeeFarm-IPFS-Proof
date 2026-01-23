@@ -1,0 +1,16 @@
+{
+  "proof_id": 530,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-23",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "ipfs_cid": "bafybeicf4rusw44j4ww5l6tclkqybby4mfn6s2bpt47g72lih4z5yfedla",
+    "gateway": "pinata",
+    "type": "image"
+  },
+  "reference": {
+    "dataunit_id": "00229"
+  },
+  "description": "Watering eggplant plot planted earlier; seedlings not yet emerged."
+}

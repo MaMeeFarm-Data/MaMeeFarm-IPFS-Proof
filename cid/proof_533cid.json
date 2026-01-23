@@ -1,0 +1,22 @@
+{
+  "proof_id": 533,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-23",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "ipfs_cid": "bafybeigsvq7q3bnl3mn3nw5hg46qqtoc3vk5wdfo6e76y3evie3ywyw5ue",
+    "gateway": "pinata",
+    "type": "image"
+  },
+  "asset": {
+    "asset_id": "WT-M-0001",
+    "type": "water_tank",
+    "capacity_liters": 200,
+    "system": "mobile"
+  },
+  "reference": {
+    "dataunit_ids": ["00552", "00554", "00462"]
+  },
+  "description": "Mobile water tank observed empty due to insufficient solar power for pumping."
+}

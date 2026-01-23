@@ -1,0 +1,16 @@
+{
+  "proof_id": 532,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-23",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "ipfs_cid": "bafybeigamrdpzhjnhmkx5xdray44opxk2thg2exbtuxepftguqlxheca4m",
+    "gateway": "pinata",
+    "type": "image"
+  },
+  "reference": {
+    "dataunit_ids": ["00552", "00554"]
+  },
+  "description": "Grass clearing around rose plant after sunlight returned."
+}

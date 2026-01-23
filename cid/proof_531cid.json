@@ -1,0 +1,16 @@
+{
+  "proof_id": 531,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-23",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "ipfs_cid": "bafybeidikmqtvtp3s5wkdmrgh6kc2yygwvc6vtlbq7imcl67vfz4hngory",
+    "gateway": "pinata",
+    "type": "image"
+  },
+  "reference": {
+    "dataunit_ids": ["00545", "00546", "00549", "00552", "00554"]
+  },
+  "description": "Dog bedding dried under limited sunlight conditions."
+}

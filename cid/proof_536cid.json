@@ -1,0 +1,29 @@
+{
+  "proof_id": 536,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-24",
+  "time_local": "08:15",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "type": "image",
+    "ipfs_cid": "bafybeiddf3q4m4utpafgep5cbi7wn334rceogg3uvqfuhepfdhbafbz6xi",
+    "source": "pinata"
+  },
+  "references": {
+    "dataunits": ["00577", "00578", "00579"]
+  },
+  "activity": {
+    "category": "infrastructure_operation",
+    "description": "solar_inverter_restart_under_low_energy"
+  },
+  "constraints": {
+    "solar_input": "low",
+    "system_limitations": true
+  },
+  "integrity": {
+    "retroactive_modification": false,
+    "simulation": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

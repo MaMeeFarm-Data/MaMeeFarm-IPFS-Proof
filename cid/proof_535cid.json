@@ -1,0 +1,25 @@
+{
+  "proof_id": 535,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-24",
+  "time_local": "07:03",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "type": "image",
+    "ipfs_cid": "bafybeihpvdwngd4rppn3hds54vat65suohx3j2f4k3te2iamgydrf7d7g4",
+    "source": "pinata"
+  },
+  "references": {
+    "dataunits": ["00576"]
+  },
+  "activity": {
+    "category": "animal_care",
+    "description": "morning_dog_feeding"
+  },
+  "integrity": {
+    "retroactive_modification": false,
+    "simulation": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

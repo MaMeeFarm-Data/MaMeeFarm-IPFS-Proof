@@ -1,0 +1,25 @@
+{
+  "proof_id": 537,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-24",
+  "time_local": "15:28",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "type": "image",
+    "ipfs_cid": "bafybeiclomk5mkd53ejr6rsbulxs5mn2ewjtnjeszibcsrtelnpdwtrubi",
+    "source": "pinata"
+  },
+  "references": {
+    "dataunits": ["00576"]
+  },
+  "activity": {
+    "category": "supply_chain_logistics",
+    "description": "waiting_for_dog_food_delivery"
+  },
+  "integrity": {
+    "retroactive_modification": false,
+    "simulation": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

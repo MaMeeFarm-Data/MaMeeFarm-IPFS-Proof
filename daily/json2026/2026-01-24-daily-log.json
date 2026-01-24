@@ -1,0 +1,37 @@
+{
+  "date_local": "2026-01-24",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "summary": "Daily farm operations and data processing conducted under solar power constraints.",
+  "proofs": {
+    "range": "534-538",
+    "md_completed": true,
+    "ots_completed": true,
+    "cid_completed": true,
+    "evidence_committed": true
+  },
+  "nft_reference": {
+    "7_ducks_of_hope": {
+      "day": 150,
+      "minted": true
+    },
+    "seed_of_hope": {
+      "day": 182,
+      "minted": true
+    },
+    "metadata_retrieval": "not_available",
+    "note": "NFTs are reference-only and do not affect DGCP chain integrity."
+  },
+  "dataset_primary": {
+    "processing": "sequential",
+    "ots_applied": true,
+    "completion_status": "partial",
+    "constraint": "solar_power_availability"
+  },
+  "integrity": {
+    "retroactive_modification": false,
+    "simulation": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

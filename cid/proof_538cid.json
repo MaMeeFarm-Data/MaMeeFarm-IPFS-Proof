@@ -1,0 +1,25 @@
+{
+  "proof_id": 538,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-24",
+  "time_local": "17:36",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "type": "image",
+    "ipfs_cid": "bafybeickifopichhly7svvx4ykaciryvxlkmkthwwyybvdusyem6sggk2a",
+    "source": "pinata"
+  },
+  "references": {
+    "proofs": ["534"]
+  },
+  "activity": {
+    "category": "farm_operations",
+    "description": "end_of_day_gate_closure"
+  },
+  "integrity": {
+    "retroactive_modification": false,
+    "simulation": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

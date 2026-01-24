@@ -1,0 +1,25 @@
+{
+  "proof_id": 534,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-24",
+  "time_local": "06:52",
+  "timezone": "Asia/Bangkok",
+  "evidence": {
+    "type": "image",
+    "ipfs_cid": "bafybeiglzyu5o5ivgntgrjw4xhsc35vszmihp5tqu4q54pq225sb2bcidu",
+    "source": "pinata"
+  },
+  "references": {
+    "dataunits": ["00569", "00570"]
+  },
+  "activity": {
+    "category": "human_labor",
+    "description": "early_morning_farm_entry"
+  },
+  "integrity": {
+    "retroactive_modification": false,
+    "simulation": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

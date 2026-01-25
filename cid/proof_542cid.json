@@ -1,0 +1,18 @@
+{
+  "proof_id": 542,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-25",
+  "time_local": "11:23",
+  "timezone": "Asia/Bangkok",
+  "activity": "animal_feeding",
+  "category": "farm_produce_usage",
+  "crop": "banana",
+  "source": "on_farm",
+  "related_dataunits": ["00104"],
+  "evidence": {
+    "ipfs_cid": "bafybeicjg4g247sildn4utr5ircc2n7dfddm5v7r3kww3saaummifuhxom",
+    "source": "pinata"
+  },
+  "status": "committed"
+}

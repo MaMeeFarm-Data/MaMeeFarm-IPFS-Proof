@@ -1,0 +1,37 @@
+{
+  "date_local": "2026-01-25",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "daily_summary": {
+    "proofs": {
+      "range": "539-543",
+      "proof_md_completed": true,
+      "ots_completed": true,
+      "cid_completed": true,
+      "evidence_committed": true
+    },
+    "nft": {
+      "seven_ducks_of_hope_day": 151,
+      "seed_of_hope_day": 183,
+      "mint_status": "completed",
+      "ots_status": "completed",
+      "note": "NFTs serve as visual reference only"
+    },
+    "dataset_primary": {
+      "processing": "sequential",
+      "ots_applied": true,
+      "full_day_completed": false,
+      "constraint": "solar_power_limited"
+    }
+  },
+  "constraints": {
+    "energy_system": "solar",
+    "description": "Electricity availability did not cover a full 24-hour cycle"
+  },
+  "integrity": {
+    "fact_only": true,
+    "post_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

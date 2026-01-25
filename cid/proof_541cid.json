@@ -1,0 +1,18 @@
+{
+  "proof_id": 541,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-25",
+  "time_local": "11:17",
+  "timezone": "Asia/Bangkok",
+  "activity": "water_pump_preparation",
+  "category": "infrastructure_operation",
+  "operational_window": "11:00-14:00",
+  "power_source": "solar",
+  "related_dataunits": ["00605", "00616"],
+  "evidence": {
+    "ipfs_cid": "bafybeiecx4wprjtt4aiplvy6jcf7fngle67o5bfrl7x24kwusw6znyv2ta",
+    "source": "pinata"
+  },
+  "status": "committed"
+}

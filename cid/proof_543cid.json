@@ -1,0 +1,19 @@
+{
+  "proof_id": 543,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-25",
+  "time_local": "17:45",
+  "timezone": "Asia/Bangkok",
+  "activity": "crop_maintenance",
+  "event": "banana_inflorescence_cut",
+  "asset": {
+    "type": "banana_tree",
+    "asset_code": "BAN-0002"
+  },
+  "evidence": {
+    "ipfs_cid": "bafybeih7pvpnp2aznp5rb2e6ktxnjhlwiond3qc2kbnoqfsayxdp2ylt7m",
+    "source": "pinata"
+  },
+  "status": "committed"
+}

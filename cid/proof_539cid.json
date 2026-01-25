@@ -1,0 +1,19 @@
+{
+  "proof_id": 539,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-25",
+  "time_local": "07:06",
+  "timezone": "Asia/Bangkok",
+  "title": "Morning Gate Opening for Daily Farm Work",
+  "ipfs_cid": "bafybeidfutteuimuvgnrqf5zurx2vllrzjmjt5yemfqyyj2innqw3jeuae",
+  "reference": {
+    "previous_proof": 538
+  },
+  "data_type": "image",
+  "integrity": {
+    "reconstructed": false,
+    "simulated": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

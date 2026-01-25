@@ -1,0 +1,16 @@
+{
+  "proof_id": 540,
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-01-25",
+  "time_local": "10:05",
+  "timezone": "Asia/Bangkok",
+  "activity": "dog_bedding_sun_drying",
+  "category": "routine_farm_work",
+  "related_dataunits": ["00598"],
+  "evidence": {
+    "ipfs_cid": "bafybeibanhoskpf2lpcg76h7zjieheaj4vqaghyabnk26xi5aboqfg3w5a",
+    "source": "pinata"
+  },
+  "status": "committed"
+}

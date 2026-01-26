@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_proof_cid",
+  "proof_id": 547,
+  "date_local": "2026-01-26",
+  "timezone": "Asia/Bangkok",
+  "file_name": "MMFARM_DGCP_DAILY_2026-01-26_Proof547.json",
+  "file_sha256": "54401e44b72c31ecf2438a13083aca81c57eb54c5ac455aa04258086c9e05f86",
+  "evidence_status": "opentimestamps_completed",
+  "description": "DGCP CID record for Proof 547. OpenTimestamps Stamp & Verify completed prior to repository commit.",
+  "activity_classification": [
+    "dgcp.daily_proof",
+    "cid_record",
+    "integrity_timestamping"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

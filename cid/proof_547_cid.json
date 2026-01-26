@@ -1,0 +1,13 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 547,
+  "date_local": "2026-01-26",
+  "timezone": "Asia/Bangkok",
+  "title": "House Core Zone Identification",
+  "ipfs_cid": "bafybeihgnslfr6nzsxfbncp4fapmvsaomxbmn4cpyhk4oqalxz7hfns4km",
+  "evidence_status": "ots_completed",
+  "description": "Documentation of House Core Zone identification label."
+}

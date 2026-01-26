@@ -1,0 +1,13 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 544,
+  "date_local": "2026-01-26",
+  "timezone": "Asia/Bangkok",
+  "title": "Zone Identification Label Installed (Front Yard)",
+  "ipfs_cid": "bafybeigzdv34se5gdbxtw66npqdchdf44gbh34cxugtd6who73dojkvtgy",
+  "evidence_status": "ots_completed",
+  "description": "Zone identification label installed and documented as part of farm zone mapping."
+}

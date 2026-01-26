@@ -1,0 +1,13 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 548,
+  "date_local": "2026-01-26",
+  "timezone": "Asia/Bangkok",
+  "title": "Evening Dog Feeding",
+  "ipfs_cid": "bafybeic2ljc55ieop3slicbne5ggtmvjtn73zenoyygtmjdrbl5otcb5r4",
+  "evidence_status": "ots_completed",
+  "description": "Routine evening dog feeding documented as part of daily animal care."
+}

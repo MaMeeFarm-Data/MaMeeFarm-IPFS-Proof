@@ -1,0 +1,13 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 545,
+  "date_local": "2026-01-26",
+  "timezone": "Asia/Bangkok",
+  "title": "Duck and Vegetable Zone A Identification",
+  "ipfs_cid": "bafybeibmbir2ogj647oqhj2tbckm7enmyladtmvfdgmw3rbqe6k7hfxw4e",
+  "evidence_status": "ots_completed",
+  "description": "Documentation of Duck & Vegetable Zone A label installation."
+}

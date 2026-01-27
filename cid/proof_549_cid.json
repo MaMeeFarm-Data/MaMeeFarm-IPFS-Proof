@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 549,
+  "title": "Farm Gate Opening for Daily Operations",
+  "date_local": "2026-01-26",
+  "time_local": "07:03",
+  "timezone": "Asia/Bangkok",
+  "zones": ["FZ-03", "FZ-04"],
+  "related_proofs": [545, 546],
+  "related_data_units": ["DU-00663", "DU-00664"],
+  "ipfs_reference": "bafybeih4aocqx6xxpy55e6zridomsrkexxhcuvuagqqtqlt7cf36tijage",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeih4aocqx6xxpy55e6zridomsrkexxhcuvuagqqtqlt7cf36tijage",
+  "license": "DGCP | MMFARM-POL-2025"
+}

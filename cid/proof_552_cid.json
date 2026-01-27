@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 552,
+  "title": "Water Tank WT-M-0003 Filled to Capacity",
+  "date_local": "2026-01-27",
+  "time_local": "11:44",
+  "timezone": "Asia/Bangkok",
+  "asset_id": "WT-M-0003",
+  "asset_type": "mobile_water_tank",
+  "status": "full",
+  "related_proofs": [551],
+  "related_data_units": ["DU-00689", "DU-00690"],
+  "ipfs_reference": "bafybeie3uzunogpvgrydnkszhkf5a3hqu27r2us2wlxxbwpownrm3ynjbq",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeie3uzunogpvgrydnkszhkf5a3hqu27r2us2wlxxbwpownrm3ynjbq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

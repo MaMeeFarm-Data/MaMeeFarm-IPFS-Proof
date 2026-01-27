@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 553,
+  "title": "Farm Gate Closure After Daily Operations",
+  "date_local": "2026-01-27",
+  "time_local": "17:57",
+  "timezone": "Asia/Bangkok",
+  "zones": ["FZ-03", "FZ-04"],
+  "action": "gate_closed",
+  "related_proofs": [549],
+  "ipfs_reference": "bafybeia2c6heq63r7rk5glj5u3yt64ekbfelrmdwhsfvoezwdzk5o4ekgq",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia2c6heq63r7rk5glj5u3yt64ekbfelrmdwhsfvoezwdzk5o4ekgq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

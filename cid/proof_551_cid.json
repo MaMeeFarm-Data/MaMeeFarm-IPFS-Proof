@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 551,
+  "title": "Water Pump Preparation and Activation for Farm Zones",
+  "date_local": "2026-01-27",
+  "time_local": "10:52",
+  "timezone": "Asia/Bangkok",
+  "target_zones": ["FZ-03", "FZ-04"],
+  "system": "Water Pump",
+  "operation_state": "start",
+  "related_proofs": [550],
+  "ipfs_reference": "bafybeibhlekflsayse5tlqohtwcpqdoprqt4ururn3houjkwdy3ocrqvw4",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibhlekflsayse5tlqohtwcpqdoprqt4ururn3houjkwdy3ocrqvw4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

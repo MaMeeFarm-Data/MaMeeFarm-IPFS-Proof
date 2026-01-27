@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 550,
+  "title": "Home Inverter Activation under Power Constraints",
+  "date_local": "2026-01-27",
+  "time_local": "08:03",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "system": "Hybrid Solar Inverter",
+  "related_data_units": ["DU-00675"],
+  "operational_condition": "limited_power_availability",
+  "ipfs_reference": "bafybeiaz2xymgroez22njqo5arup2zvrgcmhapcagp2jhnsmxxpctqdp2u",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiaz2xymgroez22njqo5arup2zvrgcmhapcagp2jhnsmxxpctqdp2u",
+  "license": "DGCP | MMFARM-POL-2025"
+}

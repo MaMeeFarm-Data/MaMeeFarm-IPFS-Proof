@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 556,
+  "title": "Evening Feeding Activity (HZ-02)",
+  "date_local": "2026-01-28",
+  "time_local": "17:29",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "activity": "animal_feeding_evening",
+  "related_proofs": [554],
+  "ipfs_reference": "bafybeif6nms4drg64qjmr5iutgogxbcd7rnvd5tfxxrfpqku5ufvjyqmme",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif6nms4drg64qjmr5iutgogxbcd7rnvd5tfxxrfpqku5ufvjyqmme",
+  "license": "DGCP | MMFARM-POL-2025"
+}

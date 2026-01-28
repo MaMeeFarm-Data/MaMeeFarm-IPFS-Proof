@@ -1,0 +1,32 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 555,
+  "title": "Power System Activation under Resource Constraints",
+  "date_local": "2026-01-28",
+  "time_local": "08:36",
+  "timezone": "Asia/Bangkok",
+  "systems": {
+    "inverter": {
+      "asset_id": "INV-01",
+      "type": "power_inverter",
+      "input": "DC from SPV-A-0001",
+      "output": "AC for farm systems",
+      "status": "active"
+    },
+    "solar_panel_array": {
+      "asset_id": "SPV-A-0001",
+      "type": "solar_panel_array",
+      "panels": 4,
+      "location": "farm",
+      "status": "active"
+    }
+  },
+  "operational_condition": "limited_resources",
+  "related_data_units": ["DU-00717"],
+  "ipfs_reference": "bafybeicgps37elkmkjpszqxravhqqwnbr2xibjcxftdiqldzt5jwuw4udi",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicgps37elkmkjpszqxravhqqwnbr2xibjcxftdiqldzt5jwuw4udi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

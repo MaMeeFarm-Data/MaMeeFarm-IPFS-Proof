@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 554,
+  "title": "Morning Feeding Activity (HZ-02)",
+  "date_local": "2026-01-28",
+  "time_local": "07:04",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "activity": "animal_feeding_morning",
+  "related_data_units": ["DU-00709"],
+  "ipfs_reference": "bafybeibxlwsapcsjrgroagydf24f5iyeyovhwclomf54e4uviza3byas2u",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibxlwsapcsjrgroagydf24f5iyeyovhwclomf54e4uviza3byas2u",
+  "license": "DGCP | MMFARM-POL-2025"
+}

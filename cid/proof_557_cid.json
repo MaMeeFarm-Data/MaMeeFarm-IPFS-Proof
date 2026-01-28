@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 557,
+  "title": "Banana Inflorescence Cut and Observation Start (BAN-0003)",
+  "date_local": "2026-01-28",
+  "time_local": "17:57",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "asset_id": "BAN-0003",
+  "event": "inflorescence_cut",
+  "tracking_status": "observation_started",
+  "related_data_units": ["DU-00724"],
+  "ipfs_reference": "bafybeibdzplpywhbdudjgnxq75sexxrahngx3anbqpvjp2m5gw4jxqmmn4",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibdzplpywhbdudjgnxq75sexxrahngx3anbqpvjp2m5gw4jxqmmn4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 558,
+  "title": "Farm Access Path for Work Movement",
+  "date_local": "2026-01-28",
+  "time_local": "18:09",
+  "timezone": "Asia/Bangkok",
+  "activity": "outgoing_farm_work_movement",
+  "asset_type": "access_path",
+  "related_data_units": ["DU-00721"],
+  "ipfs_reference": "bafybeibz6m44tzurekcpk4326pnv7in6inabpdp3jeowzx77ncpaaw56gi",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibz6m44tzurekcpk4326pnv7in6inabpdp3jeowzx77ncpaaw56gi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

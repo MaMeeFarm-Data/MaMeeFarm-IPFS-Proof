@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 561,
+  "title": "Data Label Installation for Banana Asset BAN-0003",
+  "date_local": "2026-01-29",
+  "time_local": "13:26",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "activity": "asset_labeling",
+  "primary_asset": "BAN-0003",
+  "derived_assets": ["BAN-0003-Inflorescence"],
+  "related_proofs": [557],
+  "related_data_units": ["DU-00724", "DU-00731"],
+  "ipfs_reference": "bafybeiamu7dad2bq3fefzahhjoabhmnxfkllumylixl3m3l2yv5rrsesf4",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiamu7dad2bq3fefzahhjoabhmnxfkllumylixl3m3l2yv5rrsesf4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

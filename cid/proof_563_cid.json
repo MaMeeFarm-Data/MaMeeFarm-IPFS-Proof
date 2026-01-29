@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 563,
+  "title": "Selective Sucker Removal for Banana Asset BAN-0001",
+  "date_local": "2026-01-29",
+  "time_local": "17:33",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "area": "Duck & Vegetable Zone A",
+  "activity": "banana_sucker_removal",
+  "primary_asset": "BAN-0001",
+  "related_proofs": [498, 517, 527],
+  "related_data_units": ["DU-00332", "DU-00528"],
+  "ipfs_reference": "bafybeidkyfequv55escqj42wojs3mlh6a5z77xcp5fkgg5q3jubrj5yv6i",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidkyfequv55escqj42wojs3mlh6a5z77xcp5fkgg5q3jubrj5yv6i",
+  "license": "DGCP | MMFARM-POL-2025"
+}

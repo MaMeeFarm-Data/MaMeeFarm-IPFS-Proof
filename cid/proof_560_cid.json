@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 560,
+  "title": "Environmental Maintenance and Dog Waste Removal (HZ-02)",
+  "date_local": "2026-01-29",
+  "time_local": "13:04",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "activity": "environmental_sanitation",
+  "actor": "MaMee",
+  "recorder": "PToh",
+  "related_data_units": ["DU-00743"],
+  "related_proofs": [559],
+  "ipfs_reference": "bafybeiev6vnqjkzhdlc5enya4omzu524e6w6apj6l6fsozsdeu5nwucgfi",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiev6vnqjkzhdlc5enya4omzu524e6w6apj6l6fsozsdeu5nwucgfi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 566,
+  "title": "Home Area Cleanup (Dog Waste Removal) at HZ-02",
+  "date_local": "2026-01-30",
+  "time_local": "07:55",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "area": "Home Zone",
+  "activity": "home_cleanup_dog_waste",
+  "primary_asset": "HZ-02",
+  "related_proofs": [],
+  "related_data_units": ["DU-00759", "DU-00762"],
+  "ipfs_reference": "bafybeigxtu2u7wlihq3fliteiglwljr4pkg3wecmipmbaevclxp7dmwtia",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigxtu2u7wlihq3fliteiglwljr4pkg3wecmipmbaevclxp7dmwtia",
+  "license": "DGCP | MMFARM-POL-2025"
+}

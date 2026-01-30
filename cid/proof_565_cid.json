@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 565,
+  "title": "Attach Banana Asset Labels for BAN-0001",
+  "date_local": "2026-01-30",
+  "time_local": "07:38",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "area": "Duck & Vegetable Zone A",
+  "activity": "banana_asset_labeling",
+  "primary_asset": "BAN-0001",
+  "related_proofs": [563],
+  "related_data_units": [],
+  "ipfs_reference": "bafybeihtftgp3lvvu4ujsl3ptfkn2q53ke5iq3petf2gsdhtdmct7jqwc4",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihtftgp3lvvu4ujsl3ptfkn2q53ke5iq3petf2gsdhtdmct7jqwc4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

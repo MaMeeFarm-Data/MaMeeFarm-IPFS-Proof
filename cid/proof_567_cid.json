@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 567,
+  "title": "Evening Dog Feeding",
+  "date_local": "2026-01-30",
+  "time_local": "17:17",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "area": "Home Zone",
+  "activity": "dog_feeding_evening",
+  "primary_asset": "DOG-PACK",
+  "related_proofs": [],
+  "related_data_units": ["DU-00743"],
+  "ipfs_reference": "bafybeifm6ypu3a373orw3f5mujgki2aguudom2csklfexhytad3k5htwse",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifm6ypu3a373orw3f5mujgki2aguudom2csklfexhytad3k5htwse",
+  "license": "DGCP | MMFARM-POL-2025"
+}

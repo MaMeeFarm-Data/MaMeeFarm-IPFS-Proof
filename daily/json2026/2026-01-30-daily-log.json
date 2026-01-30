@@ -1,0 +1,43 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-01-30",
+  "timezone": "Asia/Bangkok",
+  "location": "Lampang, Thailand",
+  "proof_range": {
+    "from": 564,
+    "to": 568
+  },
+  "proof_status": {
+    "proof_md": "completed",
+    "cid_files": "completed",
+    "ots": "completed",
+    "commit_evidence": "completed"
+  },
+  "nft_activity": {
+    "7_ducks_of_hope": {
+      "day": 156,
+      "mint_status": "completed",
+      "ots_status": "completed"
+    },
+    "seed_of_hope": {
+      "day": 188,
+      "mint_status": "completed",
+      "ots_status": "completed"
+    }
+  },
+  "dataset_primary": {
+    "status": "partial",
+    "ots_completed": false,
+    "limitation": "Solar power system could not provide continuous 24-hour electricity"
+  },
+  "integrity_notes": [
+    "All proofs follow DGCP standards",
+    "NFTs used as visual references only",
+    "No data rewriting or inference applied",
+    "System limitations transparently recorded"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

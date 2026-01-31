@@ -1,0 +1,23 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 569,
+  "title": "Daily Farm Gate Opening",
+  "date_local": "2026-01-31",
+  "time_local": "08:28",
+  "timezone": "Asia/Bangkok",
+  "zone": ["FZ-03", "FZ-04"],
+  "area": "Duck & Vegetable Zone",
+  "activity": "farm_gate_opening",
+  "actors": {
+    "actor_in_image": "Mamee",
+    "recorder": "P'Toh"
+  },
+  "related_proofs": [568],
+  "related_data_units": ["DU-00755"],
+  "ipfs_reference": "bafybeic5vahupnj7jfh5zzd56khihzcmoibgkcuodcb2py7u2ar7v3cggi",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic5vahupnj7jfh5zzd56khihzcmoibgkcuodcb2py7u2ar7v3cggi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

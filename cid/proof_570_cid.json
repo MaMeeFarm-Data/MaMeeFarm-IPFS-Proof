@@ -1,0 +1,26 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 570,
+  "title": "Morning Vegetable Plot Maintenance",
+  "date_local": "2026-01-31",
+  "time_local": "08:34",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "area": "Vegetable Plot",
+  "activity": "vegetable_plot_maintenance",
+  "actor": "MaMee",
+  "recorder": "P'Toh",
+  "related_proofs": [569],
+  "related_data_units": [
+    "DU-00794",
+    "DU-00795",
+    "DU-00796",
+    "DU-00797"
+  ],
+  "ipfs_reference": "bafybeigjtscxzwbvx2xxcav2zdqmdh7lowymnwha5xtrrwjy3pzrel4lr4",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigjtscxzwbvx2xxcav2zdqmdh7lowymnwha5xtrrwjy3pzrel4lr4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,37 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-01-31",
+  "timezone": "Asia/Bangkok",
+  "proofs": {
+    "range": "569-573",
+    "proof_md_completed": true,
+    "ots_completed": true,
+    "cid_completed": true,
+    "evidence_commit_completed": true
+  },
+  "nft_status": {
+    "7_ducks_of_hope": {
+      "day": 157,
+      "minted": true,
+      "ots_completed": true
+    },
+    "seed_of_hope": {
+      "day": 189,
+      "minted": true,
+      "ots_status": "pending",
+      "issue": "gateway_timeout",
+      "note": "NFT is a visual window only; DGCP dataset is authoritative"
+    }
+  },
+  "dataset_primary": {
+    "recording_mode": "file_by_file",
+    "ots_applied": true,
+    "completion_status": "partial",
+    "limitation": "solar_power_constraint_not_24h"
+  },
+  "integrity_statement": "All records reflect real-world activity under DGCP standards. No rewrite performed.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

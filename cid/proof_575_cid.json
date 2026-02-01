@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 575,
+  "title": "Morning Farm Care: Watering Crops",
+  "date_local": "2026-02-01",
+  "time_local": "08:33",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "area": "FZ-03, FZ-04",
+  "activity": "crop_watering",
+  "primary_asset": null,
+  "related_proofs": [574],
+  "related_data_units": [],
+  "ipfs_reference": "bafybeifynm7icjwn273qzfgri7cpjcbivnpkjx3mr6hbe4i4xtjmrwvehq",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifynm7icjwn273qzfgri7cpjcbivnpkjx3mr6hbe4i4xtjmrwvehq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

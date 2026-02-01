@@ -1,0 +1,14 @@
+{
+  "issue_id": "ISSUE-2026-02-01-CASE-ORDER",
+  "date_local": "2026-02-01",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "category": "governance-visual-ordering",
+  "affected_layer": "md-filename",
+  "not_affected": ["sha256", "ots", "cid", "json"],
+  "root_cause": "case-sensitive filename sorting",
+  "governance_decision": "no rename, no move, no rewrite",
+  "license": "DGCP | MMFARM-POL-2025"
+}
+

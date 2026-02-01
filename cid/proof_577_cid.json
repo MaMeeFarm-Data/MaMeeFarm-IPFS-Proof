@@ -1,0 +1,26 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 577,
+  "title": "Inverter System Labeling for Solar Power Infrastructure",
+  "date_local": "2026-02-01",
+  "time_local": "13:29",
+  "timezone": "Asia/Bangkok",
+  "zone": "Farm Infrastructure",
+  "activity": "inverter_system_labeling",
+  "primary_asset": "INV-01",
+  "related_assets": [
+    "SPV-A-0001",
+    "PWR-BAT-0001",
+    "PWR-BAT-0002"
+  ],
+  "related_data_units": [
+    "DU-00825",
+    "DU-00826"
+  ],
+  "ipfs_reference": "bafybeie4errxlitgbwld3noh6bj7xvciuzdywzynvqoqkbslyaex5l6sgy",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeie4errxlitgbwld3noh6bj7xvciuzdywzynvqoqkbslyaex5l6sgy",
+  "license": "DGCP | MMFARM-POL-2025"
+}

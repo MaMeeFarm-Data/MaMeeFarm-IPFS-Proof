@@ -1,0 +1,21 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 576,
+  "title": "Manual Soil Loosening for Coriander Bed",
+  "date_local": "2026-02-01",
+  "time_local": "08:40",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03, FZ-04",
+  "area": "Vegetable Cultivation Area",
+  "activity": "soil_loosening",
+  "primary_crop": "coriander",
+  "actor": "MaMee",
+  "recorded_by": "P'Toh",
+  "related_proofs": [574, 575],
+  "ipfs_reference": "bafybeigzynajjukny6ffzhq2sfybysopx7exkdkpyajhn4atunrpu62xsi",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigzynajjukny6ffzhq2sfybysopx7exkdkpyajhn4atunrpu62xsi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 578,
+  "title": "Manual Weed Clearing Around Avocado Tree",
+  "date_local": "2026-02-01",
+  "time_local": "18:10",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "activity": "weed_clearing",
+  "primary_asset": "AVO-TREE",
+  "operator": "P'Toh",
+  "ipfs_reference": "bafybeid3njkerttg37n3j3sasnay4ipbw3vke3xhlf5o6btpmzqu4bwhge",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeid3njkerttg37n3j3sasnay4ipbw3vke3xhlf5o6btpmzqu4bwhge",
+  "license": "DGCP | MMFARM-POL-2025"
+}

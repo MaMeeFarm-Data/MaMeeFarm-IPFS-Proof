@@ -1,0 +1,48 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-02-01",
+  "timezone": "Asia/Bangkok",
+  "scope": "proof_only",
+  "proof_range": {
+    "from": 574,
+    "to": 578
+  },
+  "proofs": [
+    {
+      "proof_id": 574,
+      "activity": "open_farm_gate",
+      "area": "farm_entrance"
+    },
+    {
+      "proof_id": 575,
+      "activity": "plant_watering",
+      "area": ["FZ-03", "FZ-04"],
+      "operator": "MaMee"
+    },
+    {
+      "proof_id": 576,
+      "activity": "soil_tilling",
+      "area": ["FZ-03", "FZ-04"],
+      "operator": "MaMee"
+    },
+    {
+      "proof_id": 577,
+      "activity": "inverter_system_labeling",
+      "area": "farm_power_system"
+    },
+    {
+      "proof_id": 578,
+      "activity": "weed_clearing",
+      "area": "HZ-02",
+      "operator": "P'Toh"
+    }
+  ],
+  "exclusions": {
+    "nft": true,
+    "dataunit": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,24 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+
+  "proof_id": 580,
+  "title": "Field Mobile Device Registration",
+
+  "date_local": "2026-02-02",
+  "time_local": "01:25",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "Field Operations",
+  "area": "Data Capture Infrastructure",
+
+  "activity": "device_registration",
+  "primary_asset": "DEV-MOB-AND-0001",
+
+  "ipfs_reference": "bafybeiev3ulsjfx7wi6arodnuzgdrnwljofizxyh5uip2oavu777zb2tdy",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiev3ulsjfx7wi6arodnuzgdrnwljofizxyh5uip2oavu777zb2tdy",
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

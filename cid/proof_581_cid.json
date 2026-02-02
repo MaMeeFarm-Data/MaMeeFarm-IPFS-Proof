@@ -1,0 +1,24 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+
+  "proof_id": 581,
+  "title": "Field Printer Device Registration",
+
+  "date_local": "2026-02-02",
+  "time_local": "01:48",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "Operations",
+  "area": "Documentation Infrastructure",
+
+  "activity": "device_registration",
+  "primary_asset": "DEV-PRN-0001",
+
+  "ipfs_reference": "bafybeiezvtdvptvybs2a6bxqk5a4a5ec52qqqdjulr3j6exk5asmkoust4",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiezvtdvptvybs2a6bxqk5a4a5ec52qqqdjulr3j6exk5asmkoust4",
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

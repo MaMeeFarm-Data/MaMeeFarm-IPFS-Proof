@@ -1,0 +1,24 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+
+  "proof_id": 579,
+  "title": "Field Computing Device Registration",
+
+  "date_local": "2026-02-02",
+  "time_local": "01:25",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "Field Operations",
+  "area": "Farm Infrastructure",
+
+  "activity": "device_registration",
+  "primary_asset": "DEV-LAP-ACER-E14-0001",
+
+  "ipfs_reference": "bafybeia3oslr6d4hqflkziabuo2bla4gqwb2cnfmsezn22w3d7z4lpq4cy",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia3oslr6d4hqflkziabuo2bla4gqwb2cnfmsezn22w3d7z4lpq4cy",
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

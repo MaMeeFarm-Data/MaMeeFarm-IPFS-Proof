@@ -1,0 +1,27 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+
+  "proof_id": 583,
+  "title": "Ground Maintenance Work Around Tree Area",
+
+  "date_local": "2026-02-02",
+  "time_local": "18:11",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "HZ-02",
+  "area": "Tree Area",
+
+  "activity": "ground_maintenance",
+  "continuity_type": "follow_up_activity",
+
+  "related_proofs": [578],
+  "related_data_units": ["854"],
+
+  "ipfs_reference": "bafybeidmsgrcbftfodu4ykgdfl6qavemkiylvygjiojvnkijgoqq3sq47i",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidmsgrcbftfodu4ykgdfl6qavemkiylvygjiojvnkijgoqq3sq47i",
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

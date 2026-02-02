@@ -1,0 +1,49 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_proof_log",
+
+  "date_local": "2026-02-02",
+  "timezone": "Asia/Bangkok",
+
+  "proof_range": {
+    "start": 579,
+    "end": 583
+  },
+
+  "proofs": [
+    {
+      "proof_id": 579,
+      "category": "asset_registration",
+      "description": "Primary laptop used for DGCP field data recording and verification."
+    },
+    {
+      "proof_id": 580,
+      "category": "asset_registration",
+      "description": "Mobile phone used for field image, video, and timestamp capture."
+    },
+    {
+      "proof_id": 581,
+      "category": "asset_registration",
+      "description": "Printer device used for proof labels and documentation output."
+    },
+    {
+      "proof_id": 582,
+      "category": "routine_labor",
+      "description": "Routine sanitation and waste collection around residential and farm area."
+    },
+    {
+      "proof_id": 583,
+      "category": "land_maintenance",
+      "description": "Continuation of land maintenance work around trees in Zone HZ-02."
+    }
+  ],
+
+  "exclusions": {
+    "nft_records": true,
+    "interpretation": true
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

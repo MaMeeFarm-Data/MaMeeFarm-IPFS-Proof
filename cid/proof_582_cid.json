@@ -1,0 +1,26 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+
+  "proof_id": 582,
+  "title": "Household Sanitation Routine Labor",
+
+  "date_local": "2026-02-02",
+  "time_local": "11:47",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "Residential",
+  "area": "Household Area",
+
+  "activity": "sanitation_maintenance",
+  "primary_actor": "MaMee",
+
+  "related_data_units": ["00833"],
+
+  "ipfs_reference": "bafybeihj2rc3jam2f5uoy5rrhi7yvz5ksrfe5qtxdrr2nkjmcz4yakt3oq",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihj2rc3jam2f5uoy5rrhi7yvz5ksrfe5qtxdrr2nkjmcz4yakt3oq",
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

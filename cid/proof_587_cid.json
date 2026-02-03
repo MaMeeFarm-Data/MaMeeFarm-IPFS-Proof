@@ -1,0 +1,21 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 587,
+  "title": "Rear Farm Gate Infrastructure Registration",
+  "date_local": "2026-02-03",
+  "time_local": "17:11",
+  "timezone": "Asia/Bangkok",
+  "asset_id": "INF-GATE-0003",
+  "asset_type": "infrastructure",
+  "asset_common_name": "farm_gate_rear",
+  "material": "metal",
+  "connected_zones": ["FZ-03", "FZ-04"],
+  "location": "Rear Farm Area",
+  "related_data_units": ["00902"],
+  "ipfs_reference": "bafybeiewjqraqpp2sspurzlhvtjcmovkqzaavtrxpmrbckolza2mymxqke",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiewjqraqpp2sspurzlhvtjcmovkqzaavtrxpmrbckolza2mymxqke",
+  "license": "DGCP | MMFARM-POL-2025"
+}

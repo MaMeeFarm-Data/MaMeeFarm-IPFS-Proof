@@ -1,0 +1,12 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "record_type": "daily_log",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-02-03",
+  "timezone": "Asia/Bangkok",
+  "proofs": [584, 585, 586, 587, 588],
+  "summary": "Daily index of verified human-origin activities recorded through DGCP proofs.",
+  "integrity_note": "This daily log contains no external links or duplicated evidence. All detailed records remain in individual proof files.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

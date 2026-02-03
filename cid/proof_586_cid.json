@@ -1,0 +1,21 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 586,
+  "title": "Submersible Pump Registration and Activation",
+  "date_local": "2026-02-03",
+  "time_local": "10:35",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "asset_id": "HZ-PMP-0003",
+  "asset_type": "equipment",
+  "asset_common_name": "submersible_pump",
+  "system": "water_transfer",
+  "purchase_price_thb": 665,
+  "related_data_units": ["00849"],
+  "ipfs_reference": "bafybeihq4srwcyqiua5ofiot3trf5ysi3o7n5nxclq2d4mojza5wbtvspu",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihq4srwcyqiua5ofiot3trf5ysi3o7n5nxclq2d4mojza5wbtvspu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

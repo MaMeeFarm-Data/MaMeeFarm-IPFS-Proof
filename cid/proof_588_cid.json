@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 588,
+  "title": "Evening Vegetable Irrigation FZ-03",
+  "date_local": "2026-02-03",
+  "time_local": "17:56",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "manual_irrigation",
+  "zone": "FZ-03",
+  "related_data_units": ["00905"],
+  "ipfs_reference": "bafybeibydcfa2h52yamokcyhfg3chhvklkh2mpvncqhjpxfii3ciukc5te",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibydcfa2h52yamokcyhfg3chhvklkh2mpvncqhjpxfii3ciukc5te",
+  "license": "DGCP | MMFARM-POL-2025"
+}

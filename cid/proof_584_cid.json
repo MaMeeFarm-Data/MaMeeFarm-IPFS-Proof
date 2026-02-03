@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 584,
+  "title": "Canal Dryness Observation in FZ-04",
+  "date_local": "2026-02-03",
+  "time_local": "07:15",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-04",
+  "area": "Soil Water Retention Canal",
+  "activity": "canal_condition_observation",
+  "related_data_units": ["00890"],
+  "ipfs_reference": "bafybeiaza3uwhc4dfe5jgb643wcqnln7d36e2qch27hlyz2jxfvewpzrsi",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiaza3uwhc4dfe5jgb643wcqnln7d36e2qch27hlyz2jxfvewpzrsi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

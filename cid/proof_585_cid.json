@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 585,
+  "title": "Wood Stove Preparation for Cooking",
+  "date_local": "2026-02-03",
+  "time_local": "09:44",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "asset_id": "HZ-STV-0001",
+  "asset_class": "HZ",
+  "asset_subtype": "STV",
+  "activity": "wood_stove_preparation",
+  "related_data_units": ["00836"],
+  "ipfs_reference": "bafybeibc5e6xgnwtey24fbgdqt423gpg6dlc5jfaicbzvzvooushggolye",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibc5e6xgnwtey24fbgdqt423gpg6dlc5jfaicbzvzvooushggolye",
+  "license": "DGCP | MMFARM-POL-2025"
+}

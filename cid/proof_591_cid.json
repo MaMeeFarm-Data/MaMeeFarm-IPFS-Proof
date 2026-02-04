@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 591,
+  "title": "Rice Cooking on Wood Stove STV-0001 HZ-02",
+  "date_local": "2026-02-04",
+  "time_local": "09:14",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "rice_cooking_wood_stove",
+  "zone": "HZ-02",
+  "asset_id": "STV-0001",
+  "related_data_units": ["00938"],
+  "ipfs_reference": "bafybeidcxvwjve7lz4hcuzo3rh7kws63b52h4iqtt5rst7ha5ie6g3szsi",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidcxvwjve7lz4hcuzo3rh7kws63b52h4iqtt5rst7ha5ie6g3szsi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

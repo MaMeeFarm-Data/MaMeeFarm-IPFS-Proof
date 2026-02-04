@@ -1,0 +1,52 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "record_type": "daily_log",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-02-04",
+  "timezone": "Asia/Bangkok",
+
+  "proofs": [
+    {
+      "proof_id": 589,
+      "time_local": "08:14",
+      "activity": "gate_opening",
+      "zone": "FZ-03-FZ-04",
+      "asset_id": "INF-GATE-0003"
+    },
+    {
+      "proof_id": 590,
+      "time_local": "08:20",
+      "activity": "plant_inspection",
+      "zone": "FZ-04"
+    },
+    {
+      "proof_id": 591,
+      "time_local": "09:14",
+      "activity": "rice_cooking_wood_stove",
+      "zone": "HZ-02",
+      "asset_id": "STV-0001"
+    },
+    {
+      "proof_id": 592,
+      "time_local": "11:29",
+      "activity": "asset_id_installation",
+      "zone": "HZ-01",
+      "asset_id": "INF-GATE-0001"
+    },
+    {
+      "proof_id": 593,
+      "time_local": "15:59",
+      "activity": "asset_id_installation_plant",
+      "zone": "HZ-02",
+      "asset_id": "PLT-AVO-0003"
+    }
+  ],
+
+  "evidence_status": {
+    "ots_verification": "completed_all",
+    "external_anchor": "ipfs"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

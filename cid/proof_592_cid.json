@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 592,
+  "title": "Asset ID Installation INF-GATE-0001 HZ-01",
+  "date_local": "2026-02-04",
+  "time_local": "11:29",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "asset_id_installation",
+  "zone": "HZ-01",
+  "asset_id": "INF-GATE-0001",
+  "related_data_units": [],
+  "ipfs_reference": "bafybeib5kkqy2nfwixqlyaop2xuimyhithkabeaenxgyscn6msc7zvztum",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeib5kkqy2nfwixqlyaop2xuimyhithkabeaenxgyscn6msc7zvztum",
+  "license": "DGCP | MMFARM-POL-2025"
+}

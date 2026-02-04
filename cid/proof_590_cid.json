@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 590,
+  "title": "Plant Inspection FZ-04",
+  "date_local": "2026-02-04",
+  "time_local": "08:20",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "plant_inspection",
+  "zone": "FZ-04",
+  "observer": "Mamee",
+  "recorded_by": "P'Toh",
+  "related_data_units": [],
+  "ipfs_reference": "bafybeic64vrxyb2vy2w3dnucrgiw5r5nu6d633m6dud7gkwpd3hvatpjkm",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic64vrxyb2vy2w3dnucrgiw5r5nu6d633m6dud7gkwpd3hvatpjkm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

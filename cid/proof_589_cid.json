@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 589,
+  "title": "Gate Opening INF-GATE-0003 FZ-03 FZ-04",
+  "date_local": "2026-02-04",
+  "time_local": "08:14",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "gate_opening",
+  "zone": "FZ-03-FZ-04",
+  "asset_id": "INF-GATE-0003",
+  "related_data_units": ["00924"],
+  "ipfs_reference": "bafybeiafpmczajhaufqsoc6pbtyn3i64tvjfc27uusj2pypkzn3ipciasy",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiafpmczajhaufqsoc6pbtyn3i64tvjfc27uusj2pypkzn3ipciasy",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 593,
+  "title": "Avocado Tree Asset ID Installation PLT-AVO-0003 HZ-02",
+  "date_local": "2026-02-04",
+  "time_local": "15:59",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "asset_id_installation_plant",
+  "zone": "HZ-02",
+  "asset_id": "PLT-AVO-0003",
+  "related_data_units": ["00956"],
+  "ipfs_reference": "bafybeig24bwgpqie5jjpwhbq7lv4tpdbbea2opxpyll3ce2cl6s5cdauba",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeig24bwgpqie5jjpwhbq7lv4tpdbbea2opxpyll3ce2cl6s5cdauba",
+  "license": "DGCP | MMFARM-POL-2025"
+}

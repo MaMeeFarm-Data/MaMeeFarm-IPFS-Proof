@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 595,
+  "title": "Papaya Harvest HZ-02",
+  "date_local": "2026-02-05",
+  "time_local": "12:07",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "fruit_harvesting",
+  "zone": "HZ-02",
+  "plant_type": "papaya",
+  "performed_by": "Mamee",
+  "recorded_by": "P'Toh",
+  "related_proofs": ["594"],
+  "ipfs_reference": "bafybeibrtelkfpozuchbqwvtn5zkmwwfsgzjta33qxdjue5jqrhlqmn6gq",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibrtelkfpozuchbqwvtn5zkmwwfsgzjta33qxdjue5jqrhlqmn6gq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

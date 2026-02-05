@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 597,
+  "title": "Evening Vegetable Garden Observation Before Watering FZ-03",
+  "date_local": "2026-02-05",
+  "time_local": "18:11",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "vegetable_garden_observation",
+  "zone": "FZ-03",
+  "timing_context": "before_watering",
+  "related_data_units": [],
+  "ipfs_reference": "bafybeic4yftbltw7kl2t6wwlfcldcubu6vweslscgmvuuddzpxlt4suufe",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic4yftbltw7kl2t6wwlfcldcubu6vweslscgmvuuddzpxlt4suufe",
+  "license": "DGCP | MMFARM-POL-2025"
+}

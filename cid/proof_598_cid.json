@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 598,
+  "title": "Vegetable Garden Watering Completed FZ-03",
+  "date_local": "2026-02-05",
+  "time_local": "18:17",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "vegetable_garden_watering",
+  "zone": "FZ-03",
+  "status": "completed",
+  "related_proofs": ["597"],
+  "ipfs_reference": "bafybeihuyo6fhgwccc2k3bbdcnmctwv76gmsaifparqggsfmgahwxwtu6q",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihuyo6fhgwccc2k3bbdcnmctwv76gmsaifparqggsfmgahwxwtu6q",
+  "license": "DGCP | MMFARM-POL-2025"
+}

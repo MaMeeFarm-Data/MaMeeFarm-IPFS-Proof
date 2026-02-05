@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 594,
+  "title": "Ripe Papaya Observation HZ-02",
+  "date_local": "2026-02-05",
+  "time_local": "08:22",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "fruit_observation",
+  "zone": "HZ-02",
+  "plant_type": "papaya",
+  "observation_detail": "one ripe fruit present",
+  "related_data_units": [],
+  "ipfs_reference": "bafybeiaol3md6mgfzzsvplpmzlgv6tls2vrnlsfy7elpld65in2ma2lrwq",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiaol3md6mgfzzsvplpmzlgv6tls2vrnlsfy7elpld65in2ma2lrwq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

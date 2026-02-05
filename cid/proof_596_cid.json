@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 596,
+  "title": "Ripe Papaya Farm Produce HZ-02",
+  "date_local": "2026-02-05",
+  "time_local": "12:30",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "farm_produce_documentation",
+  "zone": "HZ-02",
+  "produce": "papaya",
+  "related_proofs": ["595"],
+  "ipfs_reference": "bafybeidnqpp4h4e5t6tiekpmd7nqnxhphwiu4bb665dehlr7m7mwbkji2y",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidnqpp4h4e5t6tiekpmd7nqnxhphwiu4bb665dehlr7m7mwbkji2y",
+  "license": "DGCP | MMFARM-POL-2025"
+}

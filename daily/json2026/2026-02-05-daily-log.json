@@ -1,0 +1,52 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "record_type": "daily_log",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-02-05",
+  "timezone": "Asia/Bangkok",
+
+  "proofs": [
+    {
+      "proof_id": 594,
+      "time_local": "08:22",
+      "activity": "fruit_observation",
+      "zone": "HZ-02",
+      "detail": "one ripe papaya observed"
+    },
+    {
+      "proof_id": 595,
+      "time_local": "12:07",
+      "activity": "fruit_harvesting",
+      "zone": "HZ-02",
+      "detail": "one ripe papaya harvested"
+    },
+    {
+      "proof_id": 596,
+      "time_local": "12:30",
+      "activity": "farm_produce_documentation",
+      "zone": "HZ-02",
+      "produce": "papaya"
+    },
+    {
+      "proof_id": 597,
+      "time_local": "18:11",
+      "activity": "vegetable_garden_observation",
+      "zone": "FZ-03",
+      "timing_context": "before_watering"
+    },
+    {
+      "proof_id": 598,
+      "time_local": "18:17",
+      "activity": "vegetable_garden_watering",
+      "zone": "FZ-03",
+      "status": "completed"
+    }
+  ],
+
+  "evidence_status": {
+    "external_anchor": "ipfs"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

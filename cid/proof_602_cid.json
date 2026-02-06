@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 602,
+  "title": "Banana Blossom Removal BAN-0004",
+  "date_local": "2026-02-06",
+  "time_local": "18:19",
+  "timezone": "Asia/Bangkok",
+  "asset_id": "BAN-0004",
+  "asset_type": "plant",
+  "lifecycle_stage": "fruiting",
+  "activity_type": "banana_blossom_removal",
+  "zone": "FZ-03",
+  "ipfs_reference": "bafybeichcmfjejaeyj5p23vnaazj6jcekuvn32j7nusy542xpwdnvzkyrq",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeichcmfjejaeyj5p23vnaazj6jcekuvn32j7nusy542xpwdnvzkyrq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 603,
+  "title": "Banana Harvest FZ-04",
+  "date_local": "2026-02-06",
+  "time_local": "18:22",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "banana_harvesting",
+  "crop": "banana",
+  "zone": "FZ-04",
+  "ipfs_reference": "bafybeihwvfe7rzqkq3yiz34uypxa5dzqraxzir6zwtsqf4r53ltk4mjbl4",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihwvfe7rzqkq3yiz34uypxa5dzqraxzir6zwtsqf4r53ltk4mjbl4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 601,
+  "title": "Papaya Tree Growth Observation PLT-PAP-0003",
+  "date_local": "2026-02-06",
+  "time_local": "12:08",
+  "timezone": "Asia/Bangkok",
+  "asset_id": "PLT-PAP-0003",
+  "asset_type": "plant",
+  "lifecycle_stage": "fruiting",
+  "activity_type": "growth_observation",
+  "zone": "HZ-02",
+  "ipfs_reference": "bafybeibebz2kvnzscbw5gpvxap6lptsgqr4ypshhvxn4lptkfr2uz72xcm",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibebz2kvnzscbw5gpvxap6lptsgqr4ypshhvxn4lptkfr2uz72xcm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

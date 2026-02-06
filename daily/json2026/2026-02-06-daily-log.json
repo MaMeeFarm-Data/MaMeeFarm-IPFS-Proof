@@ -1,0 +1,33 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "record_type": "daily_log",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-02-06",
+  "timezone": "Asia/Bangkok",
+  "activities": [
+    {
+      "type": "growth_observation",
+      "asset_ids": ["PLT-PAP-0001", "PLT-PAP-0002", "PLT-PAP-0003"],
+      "zone": "HZ-02",
+      "proof_ids": [599, 600, 601]
+    },
+    {
+      "type": "banana_blossom_removal",
+      "asset_id": "BAN-0004",
+      "zone": "FZ-03",
+      "proof_id": 602
+    },
+    {
+      "type": "banana_harvesting",
+      "zone": "FZ-04",
+      "proof_id": 603
+    }
+  ],
+  "integrity": {
+    "human_origin": true,
+    "post_hoc_edit": false,
+    "verifiable": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

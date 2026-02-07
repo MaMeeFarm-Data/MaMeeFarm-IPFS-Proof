@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 608,
+  "title": "Water Storage Completion at FZ-04",
+  "date_local": "2026-02-07",
+  "time_local": "17:30",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "water_storage_confirmation",
+  "source_zone": "HZ-02",
+  "source_tanks": ["WT-F-0001", "WT-F-0002"],
+  "destination_zone": "FZ-04",
+  "destination_tank": "WT-M-0003",
+  "ipfs_reference": "bafybeifboef4itfv6achddwqttdfy3zgygs63kkcd2f3xlq5blko4ui5hu",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifboef4itfv6achddwqttdfy3zgygs63kkcd2f3xlq5blko4ui5hu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

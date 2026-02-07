@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 606,
+  "title": "Water transfer to WT-M 0003 FZ-03",
+  "date_local": "2026-02-07",
+  "time_local": "12:46",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "water_transfer",
+  "source_zone": "HZ-02",
+  "intermediate_assets": ["WT-F-0001", "WT-F-0002"],
+  "target_asset": "WT-M-0003",
+  "target_zone": "FZ-03",
+  "ipfs_reference": "bafybeifwqswnvzrxep3svlnpjktzvn6r4xwoidowqatld67jrwciahwcku",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifwqswnvzrxep3svlnpjktzvn6r4xwoidowqatld67jrwciahwcku",
+  "license": "DGCP | MMFARM-POL-2025"
+}

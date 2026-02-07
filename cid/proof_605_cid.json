@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 605,
+  "title": "Water Tank Level Observation WT-F-0001",
+  "date_local": "2026-02-07",
+  "time_local": "12:43",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "water_level_observation",
+  "asset_id": "WT-F-0001",
+  "zone": "HZ-02",
+  "related_proofs": ["604"],
+  "ipfs_reference": "bafybeifsaxzavft2kvqwb3eilfpg3rwjzlwjvu2yw2tpzdvfohxhfgdfmu",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifsaxzavft2kvqwb3eilfpg3rwjzlwjvu2yw2tpzdvfohxhfgdfmu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

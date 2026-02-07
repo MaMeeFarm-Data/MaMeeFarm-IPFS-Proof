@@ -1,0 +1,22 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "record_type": "daily_log",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-02-07",
+  "timezone": "Asia/Bangkok",
+  "proof_range": "604-608",
+  "proof_list": [604, 605, 606, 607, 608],
+  "activity_focus": "water_system_preparation_and_storage",
+  "zones_involved": ["HZ-02", "FZ-03", "FZ-04"],
+  "water_assets": {
+    "source_tanks": ["WT-F-0001", "WT-F-0002"],
+    "destination_tanks": ["WT-M-0001", "WT-M-0002", "WT-M-0003"]
+  },
+  "integrity": {
+    "human_origin": true,
+    "post_edit": false,
+    "verifiable": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

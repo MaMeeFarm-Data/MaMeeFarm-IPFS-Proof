@@ -1,0 +1,22 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 604,
+  "title": "Water Pump Preparation PVP-SUB-01 HZ-02",
+  "date_local": "2026-02-07",
+  "time_local": "12:43",
+  "timezone": "Asia/Bangkok",
+  "asset_id": "PVP-SUB-01",
+  "asset_type": "infrastructure_equipment",
+  "equipment_type": "submersible_pump",
+  "outlet_size": "1 inch",
+  "system": "water_transfer",
+  "status": "active",
+  "activity_type": "water_pump_preparation",
+  "zone": "HZ-02",
+  "ipfs_reference": "bafybeibypqcai5lv6doh7q5a32m2diu4iubtf23226hjng37mdic4hktie",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibypqcai5lv6doh7q5a32m2diu4iubtf23226hjng37mdic4hktie",
+  "license": "DGCP | MMFARM-POL-2025"
+}

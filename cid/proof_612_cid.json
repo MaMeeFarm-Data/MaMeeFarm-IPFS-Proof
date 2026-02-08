@@ -1,0 +1,16 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 612,
+  "title": "Cooked Rice Completion on Wood Stove",
+  "date_local": "2026-02-08",
+  "time_local": "15:33",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "rice_cooking_completion",
+  "zone": "HZ-02",
+  "ipfs_reference": "bafybeiach32xyqbh4ci5orz6qnydzmdtcl24w7zub5rxbkgzm4l4yerzim",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiach32xyqbh4ci5orz6qnydzmdtcl24w7zub5rxbkgzm4l4yerzim",
+  "license": "DGCP | MMFARM-POL-2025"
+}

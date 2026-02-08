@@ -1,0 +1,21 @@
+{
+  "dgcp_version": "DGCP-PROOF-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 613,
+  "date_local": "2026-02-08",
+  "timezone": "Asia/Bangkok",
+  "file_name": "proof_613.md",
+  "ipfs_cid": "bafybeicu3agld7plffuh3vzsta47gh5xniirkuet6hrlt35w4kce5tu4yy",
+  "content_type": "image",
+  "sequence": {
+    "previous_proof": 612,
+    "continuity": true
+  },
+  "integrity": {
+    "ots_verified": true,
+    "mutable": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,28 @@
+{
+  "dgcp_version": "DGCP-DAILY-LOG-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-02-08",
+  "timezone": "Asia/Bangkok",
+
+  "proof_range": "609-613",
+  "proof_count": 5,
+
+  "activity_flow": [
+    "wood_cutting",
+    "fire_ignition",
+    "rice_cooking",
+    "food_ready",
+    "meal_consumption"
+  ],
+
+  "integrity": {
+    "ots_verified": true,
+    "cross_day_merge": false,
+    "mutable": false
+  },
+
+  "note": "Daily log reflects actual recorded activities only. No interpretation applied.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,17 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 611,
+  "title": "Rice Pot Setup on Wood Stove",
+  "date_local": "2026-02-08",
+  "time_local": "15:06",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "rice_cooking_preparation",
+  "zone": "HZ-02",
+  "recorder": "P'Toh",
+  "ipfs_reference": "bafybeibrpbkucfhbsulnj4whjjnz4knjbpgo62yzonxjjob6mqehaiv5ga",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibrpbkucfhbsulnj4whjjnz4knjbpgo62yzonxjjob6mqehaiv5ga",
+  "license": "DGCP | MMFARM-POL-2025"
+}

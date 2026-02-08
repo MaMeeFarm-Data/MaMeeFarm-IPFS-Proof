@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 609,
+  "title": "Wood Cutting for Fuel Preparation HZ-02",
+  "date_local": "2026-02-08",
+  "time_local": "14:54",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "manual_wood_cutting",
+  "zone": "HZ-02",
+  "recorder": "P'Toh",
+  "subject": "MaMee",
+  "ipfs_reference": "bafybeibjeagiumihcmdrgxh65r3ccxefh765o5pblmxtxshomlvihimscm",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibjeagiumihcmdrgxh65r3ccxefh765o5pblmxtxshomlvihimscm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

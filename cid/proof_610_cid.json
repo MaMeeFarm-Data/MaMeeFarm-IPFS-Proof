@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 610,
+  "title": "Fire Ignition on Wood Stove HZ-STV-0001",
+  "date_local": "2026-02-08",
+  "time_local": "15:05",
+  "timezone": "Asia/Bangkok",
+  "activity_type": "fire_ignition_wood_stove",
+  "zone": "HZ-02",
+  "asset_id": "HZ-STV-0001",
+  "asset_type": "wood_stove",
+  "recorder": "P'Toh",
+  "subject": "MaMee",
+  "ipfs_reference": "bafybeifefs5alyhp3h33rf5emiki3oe7vk4pg5cswxa53t7nveazvcahrm",
+  "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifefs5alyhp3h33rf5emiki3oe7vk4pg5cswxa53t7nveazvcahrm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

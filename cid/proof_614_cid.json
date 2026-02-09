@@ -1,0 +1,14 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 614,
+  "date_local": "2026-02-09",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "asset_type": "plant",
+  "description": "Bamboo plant observation along fence line at HZ-02",
+  "ipfs_cid": "bafybeiej3lkjrhpyr2pkdizasettd3gyrsliuldc36cb6n5wzuuv7cnwq4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

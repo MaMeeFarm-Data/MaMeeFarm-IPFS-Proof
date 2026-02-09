@@ -1,0 +1,14 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 615,
+  "date_local": "2026-02-09",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "asset_type": "plant_material",
+  "description": "Bamboo harvested for use within MaMeeFarm",
+  "ipfs_cid": "bafybeiaamovfnivngsyy62a2vetuovnommg5wkwnpca4iswnuxszjtdfc4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

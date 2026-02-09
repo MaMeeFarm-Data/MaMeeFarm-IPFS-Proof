@@ -1,0 +1,14 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 618,
+  "date_local": "2026-02-09",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "asset_type": "plant_material",
+  "description": "Bamboo and banana plant materials applied for use in vegetable plot",
+  "ipfs_cid": "bafybeic5i52dqsazvg3xccjwwubmtsr6pwzrqb4jubv35nasooxj4xuwbu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 617,
+  "date_local": "2026-02-09",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "asset_type": "plant_fiber",
+  "description": "Dry banana sheath peeled and used to make rope",
+  "ipfs_cid": "bafybeigsn5laevyemrof6ciisodd6zosiy3vygvngvfbduhra7q46lpsji",
+  "license": "DGCP | MMFARM-POL-2025"
+}

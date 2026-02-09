@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-02-09",
+  "timezone": "Asia/Bangkok",
+  "proof_range": ["614", "615", "616", "617", "618"],
+  "event_flow": [
+    "bamboo observation",
+    "bamboo cutting",
+    "material transfer",
+    "banana sheath processing",
+    "vegetable plot support installation"
+  ],
+  "verification": {
+    "ots_status": "verified_all"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,15 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 616,
+  "date_local": "2026-02-09",
+  "timezone": "Asia/Bangkok",
+  "source_zone": "HZ-02",
+  "destination_zone": "FZ-03",
+  "asset_type": "plant_material",
+  "description": "Bamboo transferred from HZ-02 for use in vegetable plot FZ-03",
+  "ipfs_cid": "bafybeigqyv66uqumvslvh5tfpncq7lqjmy57qxw3nyl426ibh24lhco7fi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

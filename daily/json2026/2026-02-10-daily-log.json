@@ -1,0 +1,22 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-02-10",
+  "timezone": "Asia/Bangkok",
+  "proof_range": [619, 623],
+  "zones_involved": ["HZ-02", "FZ-03"],
+  "activities": [
+    "food_preparation",
+    "wood_stove_operation",
+    "cooking",
+    "animal_feeding"
+  ],
+  "external_dependency": false,
+  "verification": {
+    "ipfs": true,
+    "ots": "pending_or_verified_separately"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

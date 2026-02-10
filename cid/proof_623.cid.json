@@ -1,0 +1,15 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 623,
+  "date_local": "2026-02-10",
+  "time_local": "12:24",
+  "timezone": "Asia/Bangkok",
+  "asset_type": "image",
+  "zone": "FZ-03",
+  "activity": "animal_feeding",
+  "ipfs_cid": "bafybeiatpbb7t4q65ovp6odyiczcnlvrceetpxdxgu76enqax6ypvkojge",
+  "license": "DGCP | MMFARM-POL-2025"
+}

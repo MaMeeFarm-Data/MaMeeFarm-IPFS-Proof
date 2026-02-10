@@ -1,0 +1,16 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 619,
+  "date_local": "2026-02-10",
+  "timezone": "Asia/Bangkok",
+  "asset_type": "image",
+  "ipfs_cid": "bafybeih6r6z3tkewmk6oj6n6vi7bxm7xreh4jf3xm44sgwmkcdlrb3ici4",
+  "reference_dataunits": [
+    "01103",
+    "01105"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,19 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-02-11",
+  "timezone": "Asia/Bangkok",
+  "proof_range": [624, 625, 626, 627, 628],
+  "sequence_flow": [
+    "Observation",
+    "Maintenance",
+    "Watering",
+    "Harvest",
+    "Consumption"
+  ],
+  "primary_asset": "PLT-PAP-0003",
+  "location": "HZ-02",
+  "license": "DGCP | MMFARM-POL-2025"
+}

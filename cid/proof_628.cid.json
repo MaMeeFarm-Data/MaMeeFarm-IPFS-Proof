@@ -1,0 +1,13 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 628,
+  "asset_id": "PLT-PAP-0003",
+  "location": "HZ-02",
+  "recorded_local_datetime": "2026-02-11T15:36:00+07:00",
+  "reference_proof": 627,
+  "evidence_ipfs": "bafybeih7rd2yf42hhkf4kwr2i7kpepi4w5gdyepam5d55o7niq5v2fuo6y",
+  "license": "DGCP | MMFARM-POL-2025"
+}

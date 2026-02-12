@@ -1,0 +1,12 @@
+{
+  "proof_id": "633",
+  "date_local": "2026-02-12",
+  "time_local": "18:43",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "activity_type": "Irrigation",
+  "related_proof": "632",
+  "reference_dataunit": "00415",
+  "ipfs_cid": "bafybeidx7broq6gsy3sorrrz22roewtnvjsfybnj7aykfiq76hcz47qn2u",
+  "license": "DGCP | MMFARM-POL-2025"
+}

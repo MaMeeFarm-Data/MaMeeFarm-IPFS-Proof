@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-02-12",
+  "timezone": "Asia/Bangkok",
+  "proof_range": [629, 630, 631, 632, 633],
+  "sequence_flow": [
+    "Resource Preparation",
+    "Material Processing",
+    "Structural Setup",
+    "Irrigation"
+  ],
+  "primary_reference": "DataUnit 00415",
+  "location": ["External", "HZ-02", "FZ-03"],
+  "license": "DGCP | MMFARM-POL-2025"
+}

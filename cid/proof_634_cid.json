@@ -1,0 +1,13 @@
+{
+  "proof_id": 634,
+  "asset_reference": [
+    "PMP-0003",
+    "WT-F-0001",
+    "WT-F-0002"
+  ],
+  "location": "HZ-02",
+  "timestamp_local": "2026-02-13 10:09",
+  "timezone": "Asia/Bangkok",
+  "ipfs_cid": "bafybeibhxfm6e5ujxoxc4cvw7hg6z3yspb57yvyxopffqdr3klpf5br23u",
+  "license": "DGCP | MMFARM-POL-2025"
+}

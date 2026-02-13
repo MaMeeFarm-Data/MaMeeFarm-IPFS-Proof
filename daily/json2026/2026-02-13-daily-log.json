@@ -1,0 +1,25 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-02-13",
+  "timezone": "Asia/Bangkok",
+  "proof_range": [634, 635, 636, 637, 638],
+  "sequence_flow": [
+    "Preparation",
+    "Pipe Connection",
+    "Tank Verification",
+    "Water Level Check",
+    "Depletion Confirmation"
+  ],
+  "primary_assets": [
+    "PMP-0003",
+    "WT-F-0001",
+    "WT-F-0002",
+    "WT-H-0001",
+    "WT-H-0002"
+  ],
+  "location": "HZ-02",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,25 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "proof_cid",
+  "proof_id": 643,
+  "date_local": "2026-02-14",
+  "time_local": "07:23",
+  "timezone": "Asia/Bangkok",
+  "location": "HZ-02",
+  "performed_by": "Mamee",
+  "recorded_by": "P'Toh",
+  "reference_proof": 642,
+  "evidence": [
+    {
+      "type": "image",
+      "cid": "bafybeibtdjxdavwmqq4w6dux2vbpxxxyxoayhypciwqqtiujatx6yzsjz4",
+      "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibtdjxdavwmqq4w6dux2vbpxxxyxoayhypciwqqtiujatx6yzsjz4",
+      "ipfs_uri": "ipfs://bafybeibtdjxdavwmqq4w6dux2vbpxxxyxoayhypciwqqtiujatx6yzsjz4"
+    }
+  ],
+  "hash_file_path": "hash/proof_643.sha256",
+  "ots_file_path": "ots/proof_643.ots",
+  "license": "DGCP | MMFARM-POL-2025"
+}

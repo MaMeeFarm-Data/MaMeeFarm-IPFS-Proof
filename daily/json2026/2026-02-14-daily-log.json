@@ -1,0 +1,18 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_log",
+  "date_local": "2026-02-14",
+  "timezone": "Asia/Bangkok",
+  "proof_range": [639, 640, 641, 642, 643],
+  "sequence_flow": [
+    "Temperature Monitoring",
+    "Feeding Preparation",
+    "Consumption",
+    "Water Refill",
+    "Sanitation"
+  ],
+  "primary_zone": "HZ-02",
+  "license": "DGCP | MMFARM-POL-2025"
+}

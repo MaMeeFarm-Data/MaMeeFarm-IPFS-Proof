@@ -1,0 +1,16 @@
+{
+  "proof_id": "648",
+  "captured_at_local": "2026-02-15 08:07",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "equipment": {
+    "inverter_id": "INV-01",
+    "solar_array": "SPV-A-0001",
+    "battery_units": ["PWR-BAT-0001", "PWR-BAT-0002"]
+  },
+  "cid": "bafybeicwhgovaay3v7nlkldygyyzc5t7g6imxzauyc5jkwshfzdwqeu4fm",
+  "storage": "IPFS",
+  "gateway": "ipfs.io",
+  "binding": "non-editable reference",
+  "note": "Solar inverter activation event"
+}

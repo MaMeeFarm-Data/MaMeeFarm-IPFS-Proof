@@ -1,0 +1,52 @@
+{
+  "dgcp_version": "DGCP-DAILY-1.0",
+  "dataset": "MaMeeFarm-Daily-Log",
+  "date": "2026-02-15",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm",
+  "structure": "time-first",
+  "chronological_record": [
+    {
+      "time": "07:56",
+      "proof_id": "644",
+      "zone": "HZ-02",
+      "activity": "Grass clearing around Cha-om plant",
+      "note": "Area prepared prior to asset ID registration"
+    },
+    {
+      "time": "07:56",
+      "proof_id": "645",
+      "zone": "HZ-02",
+      "activity": "Human labor activity (MaMee)",
+      "recorded_by": "P'Toh"
+    },
+    {
+      "time": "07:58",
+      "proof_id": "646",
+      "zone": "HZ-02",
+      "activity": "Area clearing involving three Cha-om plants"
+    },
+    {
+      "time": "08:06",
+      "proof_id": "647",
+      "zone": "HZ-02",
+      "activity": "Cha-om plant condition record"
+    },
+    {
+      "time": "08:07",
+      "proof_id": "648",
+      "zone": "HZ-02",
+      "activity": "Solar inverter activation",
+      "equipment": {
+        "inverter_id": "INV-01",
+        "solar_array": "SPV-A-0001",
+        "battery_units": [
+          "PWR-BAT-0001",
+          "PWR-BAT-0002"
+        ]
+      }
+    }
+  ],
+  "integrity_statement": "Events recorded in strict chronological order. No category override. No IPFS embedded. Time continuity preserved under DGCP framework.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

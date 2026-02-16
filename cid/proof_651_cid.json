@@ -1,0 +1,19 @@
+{
+  "proof_id": "651",
+  "captured_at_local": "2026-02-16 08:05",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "device": {
+    "asset_id": "HTC-2",
+    "model": "HTC-2",
+    "sub_zone": "FZ-03-T1",
+    "location_name": "Duck House"
+  },
+  "temperature_inside_celsius": 19.1,
+  "temperature_outside_celsius": 18.3,
+  "humidity_percent": 83,
+  "cid": "bafybeieoauen5s2lvmkwwiv733ku4feyrv4iu5plv3keffccmwyp3srvam",
+  "storage": "IPFS",
+  "gateway": "ipfs.io",
+  "binding": "non-editable reference"
+}

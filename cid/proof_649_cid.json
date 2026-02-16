@@ -1,0 +1,19 @@
+{
+  "proof_id": "649",
+  "captured_at_local": "2026-02-16 07:50",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "device": {
+    "device_id": "HZ-02-HTC-1",
+    "sub_unit": "HZ-02-T1",
+    "model": "HTC-1",
+    "type": "Microclimate Sensor Point"
+  },
+  "temperature_celsius": 18.4,
+  "humidity_percent": 69,
+  "reference_dataunit": "01342",
+  "cid": "bafybeialyravsq4yog3gs62qzj672yntsql5pktyop42uw35tnknhvb4xu",
+  "storage": "IPFS",
+  "gateway": "ipfs.io",
+  "binding": "non-editable reference"
+}

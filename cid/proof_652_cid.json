@@ -1,0 +1,17 @@
+{
+  "proof_id": "652",
+  "captured_at_local": "2026-02-16 08:07",
+  "timezone": "Asia/Bangkok",
+  "asset_id": "PLT-RPH-0001",
+  "zone": "FZ-03",
+  "observation": {
+    "type": "Insect presence",
+    "species_identified": false,
+    "chemical_treatment_used": false
+  },
+  "reference_previous_proof": "618",
+  "cid": "bafybeia7u4jtxqef5unln3z777kexdzfetww644t6yzjggmho3yb3wrmcy",
+  "storage": "IPFS",
+  "gateway": "ipfs.io",
+  "binding": "non-editable reference"
+}

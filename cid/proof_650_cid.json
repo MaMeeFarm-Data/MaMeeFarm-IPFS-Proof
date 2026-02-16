@@ -1,0 +1,18 @@
+{
+  "proof_id": "650",
+  "captured_at_local": "2026-02-16 08:05",
+  "timezone": "Asia/Bangkok",
+  "asset": {
+    "asset_id": "INF-GATE-0003",
+    "type": "Infrastructure Gate",
+    "status": "Open"
+  },
+  "zone_connection": {
+    "primary": "HZ-02",
+    "connected": ["FZ-03", "FZ-04"]
+  },
+  "cid": "bafybeidev7gkygyuwg7b7vsi4pto7vsakufobptgjupdbh5jxc7qontgei",
+  "storage": "IPFS",
+  "gateway": "ipfs.io",
+  "binding": "non-editable reference"
+}

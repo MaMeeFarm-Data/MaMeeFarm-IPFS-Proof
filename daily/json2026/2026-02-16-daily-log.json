@@ -1,0 +1,59 @@
+{
+  "dgcp_version": "DGCP-DAILY-1.0",
+  "dataset": "MaMeeFarm-Daily-Log",
+  "date": "2026-02-16",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm",
+  "structure": "time-first",
+  "chronological_record": [
+    {
+      "time": "07:50",
+      "proof_id": "649",
+      "zone": "HZ-02",
+      "activity": "Morning temperature record",
+      "device": "HZ-02-HTC-1",
+      "temperature_celsius": 18.4,
+      "humidity_percent": 69
+    },
+    {
+      "time": "08:05",
+      "proof_id": "650",
+      "zone": "HZ-02",
+      "activity": "INF-GATE-0003 opened",
+      "connection": ["HZ-02", "FZ-03", "FZ-04"]
+    },
+    {
+      "time": "08:05",
+      "proof_id": "651",
+      "zone": "FZ-03",
+      "activity": "Duck house microclimate record",
+      "device": "HTC-2",
+      "temperature_inside_celsius": 19.1,
+      "temperature_outside_celsius": 18.3,
+      "humidity_percent": 83,
+      "ducks_present": false
+    },
+    {
+      "time": "08:07",
+      "proof_id": "652",
+      "zone": "FZ-03",
+      "activity": "Insect observation",
+      "asset": "PLT-RPH-0001",
+      "chemical_treatment_used": false
+    },
+    {
+      "time": "08:13",
+      "proof_id": "653",
+      "zone": "FZ-04",
+      "activity": "Care Event label attachment",
+      "asset": "BAN-0002",
+      "care_event_reference": {
+        "event_number": "01",
+        "type": "Leaf Pruning",
+        "dataunit_reference": ["01275", "01276"]
+      }
+    }
+  ],
+  "integrity_statement": "Events recorded in strict chronological order. No IPFS embedded. Time-first structure maintained under DGCP framework.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

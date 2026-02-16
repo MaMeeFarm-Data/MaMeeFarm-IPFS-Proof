@@ -1,0 +1,18 @@
+{
+  "proof_id": "653",
+  "captured_at_local": "2026-02-16 08:13",
+  "timezone": "Asia/Bangkok",
+  "asset_id": "BAN-0002",
+  "zone": "FZ-04",
+  "care_event": {
+    "event_number": "01",
+    "type": "Leaf Pruning",
+    "original_date": "2026-02-14",
+    "dataunit_reference": ["01275", "01276"]
+  },
+  "event_type": "Care Event Label Attachment",
+  "cid": "bafybeih2szgzmzqms5b5omogxkqwal2s2hqk3tlxezwsunnnvvyxjtjw5u",
+  "storage": "IPFS",
+  "gateway": "ipfs.io",
+  "binding": "non-editable reference"
+}

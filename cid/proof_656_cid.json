@@ -1,0 +1,14 @@
+{
+  "proof_id": 656,
+  "date": "2026-02-17",
+  "time": "07:58",
+  "timezone": "Asia/Bangkok",
+  "framework": "DGCP™",
+  "event": "Vegetable planting (manual)",
+  "performed_by": "MaMee",
+  "recorded_by": "P'Toh",
+  "cid": "bafybeigbrppdgbm42dud2247xy3feqhi4y7jd6n7tsys5cgcezvsktyvei",
+  "network": "ipfs",
+  "sequence_integrity": "time-ordered",
+  "license": "DGCP | MMFARM-POL-2025"
+}

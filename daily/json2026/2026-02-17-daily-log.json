@@ -1,0 +1,43 @@
+{
+  "dgcp_version": "DGCP-DAILY-1.0",
+  "date": "2026-02-17",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm",
+  "structure": "time-first",
+  "chronological_record": [
+    {
+      "time": "07:57",
+      "proof_id": 654,
+      "activity": "Seed preparation (pre-planting)"
+    },
+    {
+      "time": "07:57",
+      "proof_id": 655,
+      "activity": "Seed label documentation",
+      "crop_thai_name": "เมล็ดผักกาดกวางตุ้ง (กวางตุ้งดอก)"
+    },
+    {
+      "time": "07:58",
+      "proof_id": 656,
+      "activity": "Vegetable planting (manual)",
+      "performed_by": "MaMee",
+      "recorded_by": "P'Toh"
+    },
+    {
+      "time": "08:02",
+      "proof_id": 657,
+      "activity": "Watering planted bed (manual)",
+      "performed_by": "MaMee",
+      "recorded_by": "P'Toh"
+    },
+    {
+      "time": "08:03",
+      "proof_id": 658,
+      "activity": "Mulching / straw cover applied",
+      "performed_by": "MaMee",
+      "recorded_by": "P'Toh"
+    }
+  ],
+  "integrity_statement": "Events recorded in strict chronological order. Time-first structure maintained.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

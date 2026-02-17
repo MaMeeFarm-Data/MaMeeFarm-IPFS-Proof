@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_proof_cid",
+  "proof_id": 654,
+  "date_local": "2026-02-17",
+  "timezone": "Asia/Bangkok",
+  "file_name": "MMFARM_DGCP_DAILY_2026-02-17_Proof654.json",
+  "file_sha256": "541a03e1fb0c5d1efcceb2643900dccf372d04997dfd35963d19306a61a14b9f",
+  "evidence_status": "opentimestamps_completed",
+  "description": "DGCP CID record for Proof 654. OpenTimestamps verification completed. OTS reference only; primary dataset stored separately.",
+  "activity_classification": [
+    "dgcp.daily_proof",
+    "cid_record",
+    "integrity_timestamping",
+    "ots_only_reference"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 657,
+  "date": "2026-02-17",
+  "time": "08:02",
+  "timezone": "Asia/Bangkok",
+  "framework": "DGCP™",
+  "event": "Watering planted bed (manual)",
+  "performed_by": "MaMee",
+  "recorded_by": "P'Toh",
+  "cid": "bafybeibi546u3gncz3w2u4rhzpgluycktu4263loqb6gp5djirnqbev6wa",
+  "network": "ipfs",
+  "sequence_integrity": "time-ordered",
+  "license": "DGCP | MMFARM-POL-2025"
+}

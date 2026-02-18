@@ -1,0 +1,10 @@
+{
+  "proof_id": 662,
+  "date": "2026-02-18",
+  "timestamp": "07:39",
+  "zone": "INF-GATE-0003",
+  "event": "gate_open",
+  "reference_du": "01390",
+  "ipfs_cid": "bafybeigj5majpqmv7nry26vnah2l5zq3cvnozn4g6hvzpbiumiitysuuo4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

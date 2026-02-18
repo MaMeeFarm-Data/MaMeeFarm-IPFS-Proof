@@ -1,0 +1,11 @@
+{
+  "proof_id": 661,
+  "date": "2026-02-18",
+  "time": "06:51",
+  "zone": "HZ-02",
+  "event_type": "Animal Care - Feeding Consumption",
+  "ipfs_cid": "bafybeifwslzlgiznseb54veqvngkkpd3arvu7n5tfirdnmt54zd3zkvwqa",
+  "sequence_relation": "Same minute as Proof 660, distinct context",
+  "framework": "DGCP™",
+  "license": "DGCP | MMFARM-POL-2025"
+}

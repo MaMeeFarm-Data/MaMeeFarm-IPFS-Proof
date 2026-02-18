@@ -1,0 +1,54 @@
+{
+  "date": "2026-02-18",
+  "system": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "mode": "Layer 0",
+  "timeline": [
+    {
+      "time": "06:49",
+      "proof_id": 659,
+      "zone": "HZ-02",
+      "activity": "Morning microclimate record",
+      "layer": "microclimate"
+    },
+    {
+      "time": "06:51",
+      "proof_id": 660,
+      "zone": "HZ-02",
+      "activity": "Dog feeding (distribution phase)",
+      "layer": "animal_care"
+    },
+    {
+      "time": "06:51",
+      "proof_id": 661,
+      "zone": "HZ-02",
+      "activity": "Dogs eating (consumption phase)",
+      "layer": "animal_care",
+      "note": "Same minute, different operational state"
+    },
+    {
+      "time": "07:39",
+      "proof_id": 662,
+      "asset_id": "INF-GATE-0003",
+      "activity": "Gate opened",
+      "movement": "FZ-03 / FZ-04",
+      "layer": "infrastructure"
+    },
+    {
+      "time": "07:40",
+      "proof_id": 663,
+      "zone": "FZ-03",
+      "asset_id": "HTC-2",
+      "activity": "Duck house microclimate record",
+      "state": "No ducks present",
+      "layer": "microclimate"
+    }
+  ],
+  "integrity": {
+    "time_ordered": true,
+    "cross_layer_linkage": false,
+    "ots_verified": true,
+    "interpretation_added": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,18 @@
+{
+  "proof_id": 659,
+  "date": "2026-02-18",
+  "time": "06:49",
+  "timezone": "Asia/Bangkok",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm",
+  "zone": "HZ-02",
+  "system_layer": "microclimate",
+  "device_model": "HTC-1",
+  "temperature_celsius": 19.9,
+  "humidity_percent": 69,
+  "reference_dataunit": null,
+  "reference_note": "No DU linkage applied (cross-system references not used).",
+  "cid": "bafybeiejyo6oyyowe4cma4tk6ripxfw56j7ushgavfcoktcmxnuvnskeny",
+  "network": "ipfs",
+  "license": "DGCP | MMFARM-POL-2025"
+}

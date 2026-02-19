@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-19",
+  "timezone": "Asia/Bangkok",
+  "system": "MaMeeFarm",
+  "standard": "DGCP",
+  "proof_range": "664-668",
+  "records": [
+    {
+      "proof_id": "664",
+      "time": "08:15",
+      "event": "Inverter activation (screen not displaying)",
+      "asset": "INV-01",
+      "reference_du": "01423"
+    },
+    {
+      "proof_id": "665",
+      "time": "08:16",
+      "event": "Banana ripening (natural process)",
+      "reference_proof": "603",
+      "reference_du": "01030"
+    },
+    {
+      "proof_id": "666",
+      "time": "08:16",
+      "event": "Gate opening",
+      "asset": "INF-GATE-0003",
+      "reference_du": "01421"
+    },
+    {
+      "proof_id": "667",
+      "time": "08:24",
+      "event": "Watering vegetables",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "668",
+      "time": "08:24",
+      "event": "Microclimate record",
+      "asset": "HTC-2",
+      "zone": "FZ-03"
+    }
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

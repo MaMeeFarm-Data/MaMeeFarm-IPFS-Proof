@@ -1,0 +1,25 @@
+{
+  "dgcp_version": "DGCP-IPFS-PROOF-1.0",
+  "proof_id": "666",
+  "file_name": "proof_666.md",
+  "category": "infrastructure_operation",
+  "sub_category": "gate_morning_open",
+
+  "date_local": "2026-02-19",
+  "time_local": "08:16",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm",
+  "zone": "INF-GATE-0003",
+
+  "ipfs_cid": "bafybeia723q5npoaut46tcx7nrlsiz5sdzhaafiidp7ftyxpawgfppn24e",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia723q5npoaut46tcx7nrlsiz5sdzhaafiidp7ftyxpawgfppn24e",
+
+  "related_dataunit": "DU-01421",
+  "operation_cycle": "Morning Open",
+  "previous_state": "Closed (Evening Record)",
+
+  "sha256_note": "SHA-256 stored separately under dataset hash directory as per DGCP dataset standard.",
+  "ots_status": "Verified (stored in OTS folder)",
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

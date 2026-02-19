@@ -1,0 +1,23 @@
+{
+  "dgcp_version": "DGCP-IPFS-PROOF-1.0",
+  "proof_id": "665",
+  "file_name": "proof_665.md",
+  "category": "agricultural_observation",
+  "sub_category": "natural_ripening",
+
+  "date_local": "2026-02-19",
+  "time_local": "08:16",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm",
+
+  "ipfs_cid": "bafybeidki2q4jksklwmkga6dwpalzhe5iehkte5poa4c6l7vp47fmc6gf4",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidki2q4jksklwmkga6dwpalzhe5iehkte5poa4c6l7vp47fmc6gf4",
+
+  "related_proof": "603",
+  "related_dataunit": "DU-01030",
+
+  "sha256_note": "SHA-256 stored separately under dataset hash directory as per DGCP dataset standard.",
+  "ots_status": "Verified (stored in OTS folder)",
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

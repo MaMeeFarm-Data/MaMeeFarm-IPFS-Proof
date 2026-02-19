@@ -1,0 +1,13 @@
+{
+  "proof_id": "668",
+  "date": "2026-02-19",
+  "time_local": "08:24",
+  "title": "Microclimate Record FZ-03 (No Ducks Present)",
+  "ipfs_cid": "bafybeif5zwtwc2ajpjvu7uxvuhcpnlthwyxoxol622sykb6ibej6wbbmwq",
+  "ipfs_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif5zwtwc2ajpjvu7uxvuhcpnlthwyxoxol622sykb6ibej6wbbmwq",
+  "zone": "FZ-03",
+  "asset_id": "HTC-2",
+  "reference_dataunit": null,
+  "notes": "Environmental monitoring record. SHA-256 maintained separately per DGCP dataset standard.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

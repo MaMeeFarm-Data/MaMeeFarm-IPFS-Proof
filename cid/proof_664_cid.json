@@ -1,0 +1,11 @@
+{
+  "proof_id": "664",
+  "date": "2026-02-19",
+  "time_local": "08:15",
+  "title": "Inverter ON (Screen No Display)",
+  "ipfs_cid": "bafybeibpkttf7uw7e5kvwbmtvcr6s6mxu5772fbvqykkg4c7zkc2kfpyy4",
+  "ipfs_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibpkttf7uw7e5kvwbmtvcr6s6mxu5772fbvqykkg4c7zkc2kfpyy4",
+  "reference_dataunit": "DU-01423",
+  "notes": "Dataset JSON does not contain SHA-256. Hash file maintained separately under OTS repository.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

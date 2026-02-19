@@ -1,0 +1,11 @@
+{
+  "proof_id": "667",
+  "date": "2026-02-19",
+  "time_local": "08:24",
+  "title": "Vegetable Watering FZ-03",
+  "ipfs_cid": "bafybeif45akghpwvsbadvmbzlkza2moi6cqdstwqrq4oc7mtfojn65rewa",
+  "ipfs_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif45akghpwvsbadvmbzlkza2moi6cqdstwqrq4oc7mtfojn65rewa",
+  "reference_dataunit": null,
+  "notes": "No direct DataUnit dependency. Dataset SHA-256 stored separately per DGCP standard.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

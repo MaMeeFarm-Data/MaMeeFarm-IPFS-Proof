@@ -1,0 +1,24 @@
+{
+  "proof_id": "669",
+  "date": "2026-02-20",
+  "time_local": "17:48",
+  "timezone": "Asia/Bangkok",
+
+  "title": "Fuel Refill — Grass Cutter",
+  "category": "equipment_operation",
+  "sub_category": "fuel_refill",
+
+  "location": "MaMeeFarm",
+  "zone": "HZ-02",
+  "equipment_id": "EQP-GRC-0001",
+
+  "ipfs_cid": "bafybeigco2x7buswzutuykobciyzvq6cofeyqz2kghbwztyufktjow4ple",
+  "ipfs_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigco2x7buswzutuykobciyzvq6cofeyqz2kghbwztyufktjow4ple",
+
+  "reference_dataunit": null,
+
+  "sha256_note": "SHA-256 maintained separately under dataset hash directory per DGCP standard.",
+  "ots_status": "Verified",
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

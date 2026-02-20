@@ -1,0 +1,15 @@
+{
+  "proof_id": "672",
+  "file_name": "proof_672.md",
+  "ipfs_cid": "bafybeicpipr76ezj4zlwg36llxnm6yrn7oiebydxjxvxplf5prawqlqn4i",
+  "timestamp_local": "2026-02-20 18:11",
+  "timezone": "Asia/Bangkok",
+  "event": "Grass Cutting Completed",
+  "equipment_id": "EQP-GRC-0001",
+  "zone": "HZ-01",
+  "category": "equipment_operation",
+  "sub_category": "operation_completed",
+  "sha256": "recorded-separately",
+  "ots_status": "verified",
+  "license": "DGCP | MMFARM-POL-2025"
+}

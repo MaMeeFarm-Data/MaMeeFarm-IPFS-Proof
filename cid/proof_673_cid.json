@@ -1,0 +1,15 @@
+{
+  "proof_id": "673",
+  "file_name": "proof_673.md",
+  "ipfs_cid": "bafybeigqjfjyh4cv5lvv3ppj2i7666ssdopz7cumxf3r63zl77kvtipwli",
+  "timestamp_local": "2026-02-20 18:14",
+  "timezone": "Asia/Bangkok",
+  "event": "Return Through Gate",
+  "asset_id": "INF-GATE-0002",
+  "zone": "HZ-02",
+  "category": "infrastructure_interaction",
+  "sub_category": "zone_reentry",
+  "sha256": "recorded-separately",
+  "ots_status": "verified",
+  "license": "DGCP | MMFARM-POL-2025"
+}

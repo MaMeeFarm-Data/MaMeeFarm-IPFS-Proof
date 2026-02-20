@@ -1,0 +1,14 @@
+{
+  "proof_id": "670",
+  "file_name": "proof_670.md",
+  "ipfs_cid": "bafybeihkzg3qaea2z2ahamxps7wb3olsmmhc2jy4kbi4mi6ddb7rxoqyo4",
+  "timestamp_local": "2026-02-20 17:52",
+  "timezone": "Asia/Bangkok",
+  "event": "Gate Connection Record",
+  "asset_id": "INF-GATE-0002",
+  "zone_connection": "HZ-02 ↔ HZ-01",
+  "category": "infrastructure_record",
+  "sha256": "recorded-separately",
+  "ots_status": "verified",
+  "license": "DGCP | MMFARM-POL-2025"
+}

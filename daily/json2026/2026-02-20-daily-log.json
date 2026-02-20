@@ -1,0 +1,50 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "date": "2026-02-20",
+  "location": "MaMeeFarm",
+  "timezone": "Asia/Bangkok",
+  "proof_range": "669-673",
+  "events": [
+    {
+      "proof_id": "669",
+      "timestamp": "2026-02-20 17:48",
+      "event": "Fuel refill",
+      "equipment_id": "EQP-GRC-0001",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "670",
+      "timestamp": "2026-02-20 17:52",
+      "event": "Gate connection record",
+      "asset_id": "INF-GATE-0002",
+      "zone_connection": "HZ-02 ↔ HZ-01"
+    },
+    {
+      "proof_id": "671",
+      "timestamp": "2026-02-20 17:56",
+      "event": "Grass cutter preparation",
+      "equipment_id": "EQP-GRC-0001",
+      "zone": "HZ-01"
+    },
+    {
+      "proof_id": "672",
+      "timestamp": "2026-02-20 18:11",
+      "event": "Grass cutting completed",
+      "equipment_id": "EQP-GRC-0001",
+      "zone": "HZ-01"
+    },
+    {
+      "proof_id": "673",
+      "timestamp": "2026-02-20 18:14",
+      "event": "Return through gate",
+      "asset_id": "INF-GATE-0002",
+      "zone": "HZ-02"
+    }
+  ],
+  "verification": {
+    "sha256": "recorded-separately",
+    "ots_status": "verified",
+    "ipfs_status": "registered"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

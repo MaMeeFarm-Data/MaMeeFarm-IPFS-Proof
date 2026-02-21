@@ -1,0 +1,52 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-02-21",
+  "timezone": "Asia/Bangkok",
+
+  "activities": [
+    {
+      "time_local": "07:52",
+      "zone": "HZ-02",
+      "action": "INF-GATE-0003_open",
+      "proof_reference": "674"
+    },
+    {
+      "time_local": "07:58",
+      "zone": "FZ-03",
+      "action": "banana_cutting",
+      "proof_reference": "675"
+    },
+    {
+      "time_local": "08:01",
+      "zone": "FZ-03",
+      "action": "banana_ground_state",
+      "proof_reference": "676"
+    },
+    {
+      "time_local": "08:10",
+      "zone": "FZ-03",
+      "action": "banana_harvest_count",
+      "quantity": {
+        "unit": "hands",
+        "value": 13
+      },
+      "proof_reference": "677"
+    },
+    {
+      "time_local": "08:12",
+      "zone": "FZ-03",
+      "action": "kale_harvest",
+      "proof_reference": "678"
+    }
+  ],
+
+  "status": {
+    "proof_files_created": true,
+    "cid_files_created": true,
+    "time_sequence_preserved": true
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

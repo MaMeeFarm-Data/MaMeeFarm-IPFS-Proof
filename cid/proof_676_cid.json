@@ -1,0 +1,28 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": "676",
+  "date_local": "2026-02-21",
+  "time_local": "08:01",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "FZ-03",
+  "action": "banana_cutting_post_state",
+
+  "evidence": {
+    "type": "image",
+    "pinata_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeievtlcrdecnsti3pvht2rg6567xh7g73opkasje7vyxqcfl7pm44u",
+    "ipfs_cid": "bafybeievtlcrdecnsti3pvht2rg6567xh7g73opkasje7vyxqcfl7pm44u",
+    "ipfs_public_gateway_url": "https://ipfs.io/ipfs/bafybeievtlcrdecnsti3pvht2rg6567xh7g73opkasje7vyxqcfl7pm44u"
+  },
+
+  "activity_classification": {
+    "category": "agricultural_operation",
+    "sub_category": "banana_cutting_post_state",
+    "system": "Crop Production",
+    "data_type": "image"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

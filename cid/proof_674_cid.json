@@ -1,0 +1,34 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": "674",
+  "date_local": "2026-02-21",
+  "time_local": "07:52",
+  "timezone": "Asia/Bangkok",
+
+  "asset_id": "INF-GATE-0003",
+  "action": "open",
+  "location": "MaMeeFarm",
+  "connectivity_note": "Access route to FZ-03 / FZ-04 (via INF-GATE-0003)",
+
+  "evidence": {
+    "type": "image",
+    "pinata_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidbjihw6qy2xjq7dkfijhvpquq456zlvpooxocsi5azfrcxw7hnqi",
+    "ipfs_cid": "bafybeidbjihw6qy2xjq7dkfijhvpquq456zlvpooxocsi5azfrcxw7hnqi",
+    "ipfs_public_gateway_url": "https://ipfs.io/ipfs/bafybeidbjihw6qy2xjq7dkfijhvpquq456zlvpooxocsi5azfrcxw7hnqi"
+  },
+
+  "references": {
+    "dataunit_close_ref": "01483"
+  },
+
+  "activity_classification": {
+    "category": "infrastructure_operation",
+    "sub_category": "gate_operation_open",
+    "system": "Farm Infrastructure",
+    "data_type": "image"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

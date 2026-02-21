@@ -1,0 +1,32 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": "677",
+  "date_local": "2026-02-21",
+  "time_local": "08:10",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "FZ-03",
+  "action": "banana_harvest_count",
+  "quantity": {
+    "unit": "hands",
+    "value": 13
+  },
+
+  "evidence": {
+    "type": "image",
+    "pinata_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifvgtaybbr2ihx3tdua5hhvj2yrhssza3kzwrtbx27kejcku65e6y",
+    "ipfs_cid": "bafybeifvgtaybbr2ihx3tdua5hhvj2yrhssza3kzwrtbx27kejcku65e6y",
+    "ipfs_public_gateway_url": "https://ipfs.io/ipfs/bafybeifvgtaybbr2ihx3tdua5hhvj2yrhssza3kzwrtbx27kejcku65e6y"
+  },
+
+  "activity_classification": {
+    "category": "agricultural_operation",
+    "sub_category": "banana_harvest_count",
+    "system": "Crop Production",
+    "data_type": "image"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

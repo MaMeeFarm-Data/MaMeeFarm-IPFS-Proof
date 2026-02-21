@@ -1,0 +1,29 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": "678",
+  "date_local": "2026-02-21",
+  "time_local": "08:12",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "FZ-03",
+  "action": "kale_harvest",
+  "recorded_by": "P'Toh",
+
+  "evidence": {
+    "type": "image",
+    "pinata_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifuzsteckjldilwgvhsa6urd6zqm7labll5bqdmxaud5blm2dsmdy",
+    "ipfs_cid": "bafybeifuzsteckjldilwgvhsa6urd6zqm7labll5bqdmxaud5blm2dsmdy",
+    "ipfs_public_gateway_url": "https://ipfs.io/ipfs/bafybeifuzsteckjldilwgvhsa6urd6zqm7labll5bqdmxaud5blm2dsmdy"
+  },
+
+  "activity_classification": {
+    "category": "agricultural_operation",
+    "sub_category": "vegetable_harvest",
+    "system": "Crop Production",
+    "data_type": "image"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

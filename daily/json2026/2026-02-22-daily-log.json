@@ -1,0 +1,33 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date_local": "2026-02-22",
+  "timezone": "Asia/Bangkok",
+
+  "proof_range": ["679", "680", "681", "682", "683"],
+
+  "systems_covered": [
+    "House Line",
+    "Duck House",
+    "Crop Production"
+  ],
+
+  "zones_covered": [
+    "HZ-02",
+    "FZ-03"
+  ],
+
+  "data_types": [
+    "image"
+  ],
+
+  "integrity": {
+    "proofs_committed": true,
+    "cid_generated": true,
+    "ots_verified": true,
+    "evidence_committed": true
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

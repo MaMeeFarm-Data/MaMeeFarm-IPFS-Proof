@@ -1,0 +1,37 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": "681",
+  "date_local": "2026-02-22",
+  "time_local": "12:05",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "FZ-03",
+  "sub_zone": "FZ-03-T1",
+  "asset_id": "HTC-2",
+  "location": "duck_house_microclimate_sensor",
+  "livestock_present": false,
+
+  "measurement": {
+    "temperature_in_celsius": 25.9,
+    "temperature_out_celsius": 26.0,
+    "relative_humidity_percent": 75
+  },
+
+  "evidence": {
+    "type": "image",
+    "pinata_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeih4q43er6zvqcqdlbex3nrrixcmp5o3a22wa45wx3c4lkm7zwhlzu",
+    "ipfs_cid": "bafybeih4q43er6zvqcqdlbex3nrrixcmp5o3a22wa45wx3c4lkm7zwhlzu",
+    "ipfs_public_gateway_url": "https://ipfs.io/ipfs/bafybeih4q43er6zvqcqdlbex3nrrixcmp5o3a22wa45wx3c4lkm7zwhlzu"
+  },
+
+  "activity_classification": {
+    "category": "environmental_record",
+    "sub_category": "microclimate_measurement",
+    "system": "Animal Housing",
+    "data_type": "image"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

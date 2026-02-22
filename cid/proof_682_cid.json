@@ -1,0 +1,31 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": "682",
+  "date_local": "2026-02-22",
+  "time_local": "12:06",
+  "timezone": "Asia/Bangkok",
+
+  "asset_id": "PLT-TOM-0001",
+  "crop_type": "tomato",
+  "zone": "FZ-03",
+
+  "observation": "fruit_development_visible",
+
+  "evidence": {
+    "type": "image",
+    "pinata_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihq4tcsepsmq3ofa7c6hnyv5smsuolnb5lppcyiwctvxxwb45kbnu",
+    "ipfs_cid": "bafybeihq4tcsepsmq3ofa7c6hnyv5smsuolnb5lppcyiwctvxxwb45kbnu",
+    "ipfs_public_gateway_url": "https://ipfs.io/ipfs/bafybeihq4tcsepsmq3ofa7c6hnyv5smsuolnb5lppcyiwctvxxwb45kbnu"
+  },
+
+  "activity_classification": {
+    "category": "crop_observation",
+    "sub_category": "fruit_development",
+    "system": "Crop Production",
+    "data_type": "image"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

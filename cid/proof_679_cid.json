@@ -1,0 +1,35 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": "679",
+  "date_local": "2026-02-22",
+  "time_local": "12:03",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "HZ-02",
+  "device_id": "HZ-02-HTC-2",
+  "sensor_label": "HZ-02-T2",
+  "location": "house_indoor_sensor",
+
+  "measurement": {
+    "temperature_celsius": 24.7,
+    "humidity_percent": 80
+  },
+
+  "evidence": {
+    "type": "image",
+    "pinata_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidlsao5kes7mm6tq5q65wecsd3qe22qailtgdbufviaooxic7hxei",
+    "ipfs_cid": "bafybeidlsao5kes7mm6tq5q65wecsd3qe22qailtgdbufviaooxic7hxei",
+    "ipfs_public_gateway_url": "https://ipfs.io/ipfs/bafybeidlsao5kes7mm6tq5q65wecsd3qe22qailtgdbufviaooxic7hxei"
+  },
+
+  "activity_classification": {
+    "category": "environmental_record",
+    "sub_category": "temperature_humidity_measurement",
+    "system": "Climate Monitoring",
+    "data_type": "image"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,36 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": "683",
+  "date_local": "2026-02-22",
+  "time_local": "12:08",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "HZ-02",
+  "sub_unit": "HZ-02-T1",
+  "asset_id": "HZ-02-HTC-1",
+  "sensor_type": "microclimate_sensor",
+  "system": "House Line",
+
+  "recorded_values": {
+    "temperature_celsius": 23.5,
+    "humidity_percent": 71
+  },
+
+  "evidence": {
+    "type": "image",
+    "pinata_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidw3r7vjqshlazyhbombz5yqmr6mnojmcpnacomlhhyhjq3wvjdoq",
+    "ipfs_cid": "bafybeidw3r7vjqshlazyhbombz5yqmr6mnojmcpnacomlhhyhjq3wvjdoq",
+    "ipfs_public_gateway_url": "https://ipfs.io/ipfs/bafybeidw3r7vjqshlazyhbombz5yqmr6mnojmcpnacomlhhyhjq3wvjdoq"
+  },
+
+  "activity_classification": {
+    "category": "environmental_record",
+    "sub_category": "temperature_humidity_balcony",
+    "system": "House Line",
+    "data_type": "image"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,31 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_id": "680",
+  "date_local": "2026-02-22",
+  "time_local": "12:04",
+  "timezone": "Asia/Bangkok",
+
+  "zone": "FZ-03",
+  "structure": "duck_barn_roof",
+  "livestock_present": false,
+
+  "observation": "rainwater_marks_visible",
+
+  "evidence": {
+    "type": "image",
+    "pinata_gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigduzw5kqjxts2bnch5bxkbpn4rtf6ukp4y54qj4a27mb6agwzx3i",
+    "ipfs_cid": "bafybeigduzw5kqjxts2bnch5bxkbpn4rtf6ukp4y54qj4a27mb6agwzx3i",
+    "ipfs_public_gateway_url": "https://ipfs.io/ipfs/bafybeigduzw5kqjxts2bnch5bxkbpn4rtf6ukp4y54qj4a27mb6agwzx3i"
+  },
+
+  "activity_classification": {
+    "category": "infrastructure_observation",
+    "sub_category": "roof_surface_condition",
+    "system": "Farm Structure",
+    "data_type": "image"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

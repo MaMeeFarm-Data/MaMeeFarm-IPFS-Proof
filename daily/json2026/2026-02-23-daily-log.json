@@ -1,0 +1,47 @@
+{
+  "date_local": "2026-02-23",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_range": "684-688",
+  "events": [
+    {
+      "time": "07:20",
+      "proof_id": "684",
+      "type": "asset_identification",
+      "asset": "PLT-BMB-0001",
+      "zone": "HZ-02"
+    },
+    {
+      "time": "07:20",
+      "proof_id": "685",
+      "type": "environmental_record",
+      "zone": "HZ-02-T1",
+      "temperature_c": "20.8",
+      "humidity_percent": "71"
+    },
+    {
+      "time": "07:21",
+      "proof_id": "686",
+      "type": "animal_care_event",
+      "reference_du": "01521"
+    },
+    {
+      "time": "07:45",
+      "proof_id": "687",
+      "type": "infrastructure_operation",
+      "asset": "INF-GATE-0003",
+      "access_path": "HZ-02 to FZ-03, FZ-04, FZ-05",
+      "reference_du": "01526"
+    },
+    {
+      "time": "07:45",
+      "proof_id": "688",
+      "type": "plant_observation",
+      "asset": "PLT-PKN-0001",
+      "zone": "FZ-03"
+    }
+  ],
+  "status": "sequential_integrity_maintained",
+  "license": "DGCP | MMFARM-POL-2025"
+}

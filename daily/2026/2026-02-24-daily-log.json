@@ -1,0 +1,46 @@
+{
+  "date_local": "2026-02-24",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_range": "689-693",
+  "events": [
+    {
+      "time": "14:26",
+      "proof_id": "689",
+      "type": "animal_feed_supply",
+      "weight_kg": "20",
+      "location": "HZ-02"
+    },
+    {
+      "time": "14:27",
+      "proof_id": "690",
+      "type": "animal_care_event",
+      "location": "HZ-02"
+    },
+    {
+      "time": "14:36",
+      "proof_id": "691",
+      "type": "asset_identification",
+      "asset": "INF-SACK20-0001",
+      "location": "HZ-02"
+    },
+    {
+      "time": "14:36",
+      "proof_id": "692",
+      "type": "asset_identification",
+      "asset": "INF-SACK20-0002",
+      "location": "HZ-02"
+    },
+    {
+      "time": "14:41",
+      "proof_id": "693",
+      "type": "asset_status_update",
+      "asset": "INF-SACK20-0001",
+      "status": "Active - In Use",
+      "condition": "Opened"
+    }
+  ],
+  "status": "sequential_integrity_maintained",
+  "license": "DGCP | MMFARM-POL-2025"
+}

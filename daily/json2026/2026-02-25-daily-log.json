@@ -1,0 +1,40 @@
+{
+  "date_local": "2026-02-25",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_range": "694-698",
+  "entries": [
+    {
+      "proof_id": 694,
+      "category": "environmental_record",
+      "zone": "HZ-02-T1"
+    },
+    {
+      "proof_id": 695,
+      "category": "animal_care_event",
+      "sub_category": "feed_preparation",
+      "asset": "INF-SACK20-0001"
+    },
+    {
+      "proof_id": 696,
+      "category": "animal_care_event",
+      "sub_category": "dog_feeding_round"
+    },
+    {
+      "proof_id": 697,
+      "category": "animal_care_event",
+      "sub_category": "dog_feeding_observation",
+      "total_dogs_observed": 20
+    },
+    {
+      "proof_id": 698,
+      "category": "plant_observation",
+      "asset": "PLT-ROS-0001",
+      "zone": "HZ-02"
+    }
+  ],
+  "nft_activity": false,
+  "append_only": true,
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,16 @@
+{
+  "proof_id": "703",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "date_local": "2026-02-26",
+  "time_local": "15:43",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "actor": "P'Toh",
+  "reference_proofs": ["676-677", "701", "702"],
+  "harvest_source_zone": "FZ-03",
+  "harvest_date": "2026-02-21",
+  "cid": "bafybeibkixnkqs3xa554ti2ovysklvujeezxefj2hsaxgyvuvztyejcbeu",
+  "ipfs_gateway": "https://ipfs.io/ipfs/bafybeibkixnkqs3xa554ti2ovysklvujeezxefj2hsaxgyvuvztyejcbeu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,40 @@
+{
+  "date_local": "2026-02-26",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_range": "699-703",
+  "activities": [
+    {
+      "type": "microclimate_record",
+      "zone": "FZ-03",
+      "asset": "HTC-2"
+    },
+    {
+      "type": "stove_activation",
+      "zone": "HZ-02",
+      "asset": "STV-0001"
+    },
+    {
+      "type": "food_processing",
+      "sub_type": "banana_boiling_start",
+      "source_zone": "FZ-03",
+      "harvest_date": "2026-02-21"
+    },
+    {
+      "type": "food_processing",
+      "sub_type": "banana_boiling_completion"
+    },
+    {
+      "type": "food_consumption",
+      "actor": "P'Toh"
+    }
+  ],
+  "nft_activity": false,
+  "integrity": {
+    "append_only": true,
+    "alteration_detected": false,
+    "sequential_integrity": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

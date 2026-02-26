@@ -1,0 +1,17 @@
+{
+  "proof_id": "702",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "date_local": "2026-02-26",
+  "time_local": "14:15",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "asset_id": "STV-0001",
+  "reference_proof": "701",
+  "harvest_reference_proof_range": "676-677",
+  "harvest_source_zone": "FZ-03",
+  "harvest_date": "2026-02-21",
+  "cid": "bafybeibxomcxrpwlkhntu2cmyil4phaeeis4lkub7rveb2c72777yhlgti",
+  "ipfs_gateway": "https://ipfs.io/ipfs/bafybeibxomcxrpwlkhntu2cmyil4phaeeis4lkub7rveb2c72777yhlgti",
+  "license": "DGCP | MMFARM-POL-2025"
+}

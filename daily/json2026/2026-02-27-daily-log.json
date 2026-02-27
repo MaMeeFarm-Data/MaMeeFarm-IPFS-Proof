@@ -1,0 +1,47 @@
+{
+  "date_local": "2026-02-27",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "recorded_by": "P'Toh",
+  "proof_range": "704-708",
+  "activities": [
+    {
+      "proof_id": "704",
+      "type": "agriculture",
+      "sub_type": "harvest",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "705",
+      "type": "agriculture",
+      "sub_type": "crop_observation",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "706",
+      "type": "agriculture",
+      "sub_type": "post_harvest_record",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "707",
+      "type": "agriculture",
+      "sub_type": "field_preparation",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "708",
+      "type": "animal_observation",
+      "sub_type": "resting_behavior",
+      "zone": "FZ-03"
+    }
+  ],
+  "nft_activity": false,
+  "integrity": {
+    "append_only": true,
+    "alteration_detected": false,
+    "sequential_integrity": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

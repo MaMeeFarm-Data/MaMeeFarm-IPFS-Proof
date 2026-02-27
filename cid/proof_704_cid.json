@@ -1,0 +1,14 @@
+{
+  "proof_id": "704",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "date_local": "2026-02-27",
+  "time_local": "08:02",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "actor": "Mamee",
+  "activity": "shallot_harvest",
+  "cid": "bafybeifhrzxofexfkql24px6cwkuikncbaibs2yyyzu5dbdq3pzb7pwveu",
+  "ipfs_gateway": "https://ipfs.io/ipfs/bafybeifhrzxofexfkql24px6cwkuikncbaibs2yyyzu5dbdq3pzb7pwveu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

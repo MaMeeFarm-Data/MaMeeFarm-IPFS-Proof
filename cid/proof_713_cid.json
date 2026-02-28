@@ -1,0 +1,14 @@
+{
+  "proof_id": "713",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "date_local": "2026-02-28",
+  "time_local": "08:58",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "asset_id": "PLT-YLB-0002",
+  "activity": "plant_asset_registration",
+  "cid": "bafybeic4onb2ym5oa3tojke6vohscp2tdule2axmsh66csay6pteuzv2yy",
+  "ipfs_gateway": "https://ipfs.io/ipfs/bafybeic4onb2ym5oa3tojke6vohscp2tdule2axmsh66csay6pteuzv2yy",
+  "license": "DGCP | MMFARM-POL-2025"
+}

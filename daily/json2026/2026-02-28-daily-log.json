@@ -1,0 +1,16 @@
+{
+  "date_local": "2026-02-28",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_range": "709-713",
+  "total_proof_entries": 5,
+  "categories": {
+    "infrastructure_asset_registration": 2,
+    "plant_asset_registration": 3
+  },
+  "nft_activity": "none",
+  "append_only": true,
+  "sequential_integrity": "preserved",
+  "license": "DGCP | MMFARM-POL-2025"
+}

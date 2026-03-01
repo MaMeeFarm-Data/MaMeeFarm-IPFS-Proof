@@ -1,0 +1,21 @@
+{
+  "proof_id": "716",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "date_local": "2026-03-01",
+  "time_local": "08:40",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "sub_zone": "FZ-03-T1",
+  "asset_id": "HTC-2",
+  "activity": "temperature_record",
+  "values": {
+    "in_celsius": 22.2,
+    "out_celsius": 22.4,
+    "relative_humidity_percent": 73
+  },
+  "animal_presence": "none",
+  "cid": "bafybeibdiehckhjfqcuqr7eql7tlvdtagbkgvvzrk2p24tp6cm6k4zn65a",
+  "ipfs_gateway": "https://ipfs.io/ipfs/bafybeibdiehckhjfqcuqr7eql7tlvdtagbkgvvzrk2p24tp6cm6k4zn65a",
+  "license": "DGCP | MMFARM-POL-2025"
+}

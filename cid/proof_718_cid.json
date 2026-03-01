@@ -1,0 +1,14 @@
+{
+  "proof_id": "718",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "date_local": "2026-03-01",
+  "time_local": "08:50",
+  "timezone": "Asia/Bangkok",
+  "zone": "FZ-03",
+  "reference_proof": "715",
+  "activity": "banana_trimming",
+  "cid": "bafybeie2fdfw3t4s2fj3c6uzsp6wl4zxibdnyw5v7t5qxfelsnuht3ipma",
+  "ipfs_gateway": "https://ipfs.io/ipfs/bafybeie2fdfw3t4s2fj3c6uzsp6wl4zxibdnyw5v7t5qxfelsnuht3ipma",
+  "license": "DGCP | MMFARM-POL-2025"
+}

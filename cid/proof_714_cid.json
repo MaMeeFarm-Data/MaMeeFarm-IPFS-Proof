@@ -1,0 +1,15 @@
+{
+  "proof_id": "714",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "date_local": "2026-03-01",
+  "time_local": "08:38",
+  "timezone": "Asia/Bangkok",
+  "zone": "HZ-02",
+  "asset_id": "INF-GATE-0003",
+  "activity": "gate_opening",
+  "reference_dataunit": "01660",
+  "cid": "bafybeifmhecof2uukky7lkldkklmx5ntdzqt4gtx5joqnlsj5zzbroek2i",
+  "ipfs_gateway": "https://ipfs.io/ipfs/bafybeifmhecof2uukky7lkldkklmx5ntdzqt4gtx5joqnlsj5zzbroek2i",
+  "license": "DGCP | MMFARM-POL-2025"
+}

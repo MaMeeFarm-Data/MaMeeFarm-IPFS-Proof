@@ -1,0 +1,21 @@
+{
+  "proof_id": 721,
+  "date_local": "2026-03-02",
+  "time_local": "08:44",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zones_observed": ["HZ-02", "FZ-03", "FZ-04", "FZ-05"],
+  "title": "Perimeter dog presence during field activity",
+  "ipfs": {
+    "cid": "bafybeiggxxi67wcdlyyhb75ly2din2dwh4ggbzegkqmxgoabqyc2yu6e3m",
+    "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiggxxi67wcdlyyhb75ly2din2dwh4ggbzegkqmxgoabqyc2yu6e3m"
+  },
+  "source_note": "User-submitted evidence link (Pinata gateway).",
+  "license": "DGCP | MMFARM-POL-2025"
+}
+
+DGCP | MMFARM-POL-2025
+This work is licensed under the DGCP (Data Governance & Continuous Proof) framework.
+All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.
+Redistribution, citation, or derivative use must preserve attribution and license reference.

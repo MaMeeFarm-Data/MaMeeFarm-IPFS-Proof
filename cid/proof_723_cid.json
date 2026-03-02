@@ -1,0 +1,23 @@
+{
+  "proof_id": 723,
+  "date_local": "2026-03-02",
+  "time_local": "08:47",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "FZ-03",
+  "sub_zone": "FZ-03-T1",
+  "asset_id": "HTC-2",
+  "title": "Duck house microclimate record (no ducks present)",
+  "ipfs": {
+    "cid": "bafybeieegdz5jeczrbpm4ovxpmgugiijcsnsid36x3vkdmwrzck43vqxge",
+    "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeieegdz5jeczrbpm4ovxpmgugiijcsnsid36x3vkdmwrzck43vqxge"
+  },
+  "source_note": "User-submitted evidence link (Pinata gateway).",
+  "license": "DGCP | MMFARM-POL-2025"
+}
+
+DGCP | MMFARM-POL-2025
+This work is licensed under the DGCP (Data Governance & Continuous Proof) framework.
+All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.
+Redistribution, citation, or derivative use must preserve attribution and license reference.

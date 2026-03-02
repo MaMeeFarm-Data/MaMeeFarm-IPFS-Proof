@@ -1,0 +1,56 @@
+{
+  "date_local": "2026-03-02",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_range": "719-723",
+  "summary": "Morning agricultural workflow in FZ-03 covering tomato seed recovery, planting execution, perimeter observation, bed completion, and microclimate recording.",
+  "proofs": [
+    {
+      "proof_id": 719,
+      "time_local": "08:43",
+      "zone": "FZ-03",
+      "activity": "Tomato leftovers prepared for soil reintroduction"
+    },
+    {
+      "proof_id": 720,
+      "time_local": "08:43",
+      "zone": "FZ-03",
+      "activity": "Direct planting execution"
+    },
+    {
+      "proof_id": 721,
+      "time_local": "08:44",
+      "zones_observed": ["HZ-02", "FZ-03", "FZ-04", "FZ-05"],
+      "activity": "Perimeter dog presence during operation"
+    },
+    {
+      "proof_id": 722,
+      "time_local": "08:47",
+      "zone": "FZ-03",
+      "activity": "Tomato bed completion; pending Asset ID registration"
+    },
+    {
+      "proof_id": 723,
+      "time_local": "08:47",
+      "zone": "FZ-03",
+      "sub_zone": "FZ-03-T1",
+      "asset_id": "HTC-2",
+      "activity": "Microclimate measurement",
+      "recorded_values": {
+        "temperature_in_c": 20.3,
+        "temperature_out_c": 20.5,
+        "humidity_rh_percent": 75
+      },
+      "condition_note": "No ducks present"
+    }
+  ],
+  "sequence_flow": [
+    "Food Residue",
+    "Soil Preparation",
+    "Planting Execution",
+    "Bed Completion",
+    "Environmental Monitoring"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

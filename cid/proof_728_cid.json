@@ -1,0 +1,17 @@
+{
+  "proof_id": 728,
+  "date_local": "2026-03-03",
+  "time_local": "11:38",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "asset_series": ["INF-SACK20-0003", "INF-SACK20-0004", "INF-SACK20-0005", "INF-SACK20-0006", "INF-SACK20-0007", "INF-SACK20-0008"],
+  "title": "Feed sack stock verification (0003–0008, HZ-02)",
+  "ipfs": {
+    "cid": "bafybeifx6gvlmlvhbnst6eujnzvqrmbqsbm5jfdsmmkj2mchq2fjq47qg4",
+    "gateway_url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifx6gvlmlvhbnst6eujnzvqrmbqsbm5jfdsmmkj2mchq2fjq47qg4"
+  },
+  "source_note": "User-submitted evidence link (Pinata gateway).",
+  "license": "DGCP | MMFARM-POL-2025"
+}

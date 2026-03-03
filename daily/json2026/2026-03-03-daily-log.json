@@ -1,0 +1,63 @@
+{
+  "date_local": "2026-03-03",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activities": [
+    {
+      "type": "Infrastructure Stock Registration",
+      "time_local": "11:35",
+      "assets": [
+        {
+          "asset_id": "INF-SACK20-0005",
+          "category": "Woven PP Sack",
+          "capacity_kg": 20,
+          "origin": "Feed Bag",
+          "status": "Active – Standby",
+          "condition": "Unopened"
+        },
+        {
+          "asset_id": "INF-SACK20-0006",
+          "category": "Woven PP Sack",
+          "capacity_kg": 20,
+          "origin": "Feed Bag",
+          "status": "Active – Standby",
+          "condition": "Unopened"
+        },
+        {
+          "asset_id": "INF-SACK20-0007",
+          "category": "Woven PP Sack",
+          "capacity_kg": 20,
+          "origin": "Feed Bag",
+          "status": "Active – Standby",
+          "condition": "Unopened"
+        },
+        {
+          "asset_id": "INF-SACK20-0008",
+          "category": "Woven PP Sack",
+          "capacity_kg": 20,
+          "origin": "Feed Bag",
+          "status": "Active – Standby",
+          "condition": "Unopened"
+        }
+      ],
+      "related_proofs": [724, 725, 726, 727]
+    },
+    {
+      "type": "Stock Verification",
+      "time_local": "11:38",
+      "asset_series": [
+        "INF-SACK20-0003",
+        "INF-SACK20-0004",
+        "INF-SACK20-0005",
+        "INF-SACK20-0006",
+        "INF-SACK20-0007",
+        "INF-SACK20-0008"
+      ],
+      "related_proofs": [728]
+    }
+  ],
+  "summary": "Infrastructure stock registration and verification completed sequentially under DGCP™ traceability standard.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

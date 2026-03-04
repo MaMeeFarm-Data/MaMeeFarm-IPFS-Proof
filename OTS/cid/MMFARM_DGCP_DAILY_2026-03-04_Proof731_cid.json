@@ -1,0 +1,20 @@
+{
+  "dgcp_version": "DGCP-DATASET-1.0",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "record_type": "daily_proof_cid",
+  "proof_id": 731,
+  "date_local": "2026-03-04",
+  "timezone": "Asia/Bangkok",
+  "file_name": "MMFARM_DGCP_DAILY_2026-03-04_Proof731_cid.json",
+  "file_sha256": "5930b7514330b8382e3080b3ae8d5818c792f2885c0bd5f7a33a98cb221648ce",
+  "evidence_status": "opentimestamps_completed",
+  "description": "DGCP CID record for Proof 731. OpenTimestamps verification completed.",
+  "activity_classification": [
+    "dgcp.daily_proof",
+    "cid_record",
+    "integrity_timestamping",
+    "ots_only_reference"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

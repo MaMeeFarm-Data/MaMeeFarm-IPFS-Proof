@@ -1,0 +1,46 @@
+{
+  "date": "2026-03-05",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "operator": "P'Toh",
+  "zone": "FZ-03",
+  "event": "Care Event 05",
+  "asset_id": "BAN-0001",
+  "activities": [
+    {
+      "step": "initial_observation",
+      "proof_id": 734,
+      "description": "Initial observation of banana shoots around BAN-0001 before maintenance."
+    },
+    {
+      "step": "shoot_cutting",
+      "proof_id": 735,
+      "description": "Cutting and removal of excess banana shoots."
+    },
+    {
+      "step": "removed_shoots_documentation",
+      "proof_id": 736,
+      "description": "Documentation of removed plant material."
+    },
+    {
+      "step": "biomass_relocation",
+      "proof_id": 737,
+      "description": "Transport of removed banana shoots to decomposition area in Zone FZ-04."
+    },
+    {
+      "step": "post_operation_observation",
+      "proof_id": 738,
+      "description": "Final observation confirming completion of maintenance."
+    }
+  ],
+  "proof_range": "734-738",
+  "evidence_storage": "IPFS (Pinata gateway)",
+  "data_integrity": {
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "recorded_by": "P'Toh",
+  "system_role": "Field Observation & Recording",
+  "license": "DGCP | MMFARM-POL-2025"
+}

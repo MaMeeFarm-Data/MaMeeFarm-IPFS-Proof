@@ -1,0 +1,23 @@
+{
+  "date_local": "2026-03-06",
+  "timezone": "Asia/Bangkok",
+  "type": "classification_clarification",
+  "reference_proof": [
+    "proof/proof_711.md",
+    "cid/proof_711_cid.json"
+  ],
+  "asset_id": "PLT-CKC-0001",
+  "initial_label": "Chinese Kale (Flowering Type)",
+  "confirmed_classification": {
+    "scientific_name": "Brassica rapa var. parachinensis",
+    "common_name": "Choy Sum (Flowering Chinese Cabbage)",
+    "thai_name": "กวางตุ้งดอก"
+  },
+  "resolution": {
+    "asset_record_updated": true,
+    "lifecycle_closed_dataunit": "DU-01777"
+  },
+  "retroactive_modification": false,
+  "framework": "DGCP",
+  "project": "MaMeeFarm"
+}

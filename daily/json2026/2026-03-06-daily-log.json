@@ -1,0 +1,36 @@
+{
+  "date": "2026-03-06",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "events": [
+    {
+      "proof": 739,
+      "event": "Tool preparation",
+      "asset": "PLT-PAP-0001",
+      "zone": "HZ-02"
+    },
+    {
+      "proof": 740,
+      "event": "Pre-operation observation",
+      "asset": "PLT-PAP-0001"
+    },
+    {
+      "proof": 741,
+      "event": "Fruit ripening observation",
+      "asset": "PLT-PAP-0001"
+    },
+    {
+      "proof": 742,
+      "event": "Leaf removal",
+      "asset": "PLT-PAP-0001"
+    },
+    {
+      "proof": 743,
+      "event": "Post-operation observation",
+      "asset": "PLT-PAP-0001"
+    }
+  ],
+  "operation": "Care Event 02",
+  "license": "DGCP | MMFARM-POL-2025"
+}

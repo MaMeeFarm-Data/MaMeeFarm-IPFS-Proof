@@ -1,0 +1,36 @@
+{
+  "date": "2026-03-07",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "events": [
+    {
+      "proof": 744,
+      "event": "Tool preparation",
+      "zone": "HZ-02"
+    },
+    {
+      "proof": 745,
+      "event": "Dead tree observation",
+      "zone": "HZ-02"
+    },
+    {
+      "proof": 746,
+      "event": "Container preparation for firewood",
+      "zone": "HZ-02"
+    },
+    {
+      "proof": 747,
+      "event": "Firewood cutting from dead tree",
+      "zone": "HZ-02"
+    },
+    {
+      "proof": 748,
+      "event": "Firewood placement near stove",
+      "zone": "HZ-02",
+      "asset": "STV-0001"
+    }
+  ],
+  "operation": "Firewood preparation from dead tree",
+  "license": "DGCP | MMFARM-POL-2025"
+}

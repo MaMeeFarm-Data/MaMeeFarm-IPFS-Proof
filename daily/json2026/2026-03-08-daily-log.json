@@ -1,0 +1,40 @@
+{
+  "date": "2026-03-08",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+
+  "data_units_recorded": {
+    "start": "01800",
+    "end": "01801"
+  },
+
+  "data_units": [
+    "01800",
+    "01801"
+  ],
+
+  "proof_records": [
+    749,
+    750,
+    751,
+    752,
+    753
+  ],
+
+  "observation_summary": [
+    "Asset ID confirmation for INF-WTB-0001 (Water Tank Base)",
+    "Asset ID confirmation for INF-WTB-0002 (Water Tank Base)",
+    "Asset ID confirmation for TOL-PRN-HOOK-0001 (Pruning Saw)",
+    "Asset ID confirmation for TOL-MCH-0001 (Machete / Bush Knife)",
+    "Asset ID confirmation for FUEL-BUT-0001 (Butane Gas 250g)"
+  ],
+
+  "verification": {
+    "sha256": true,
+    "ots": true,
+    "structure": "append-only"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-09",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+
+  "data_units_recorded": {
+    "start": null,
+    "end": null
+  },
+
+  "data_units": [],
+
+  "proof_records": [
+    754,
+    755,
+    756,
+    757,
+    758
+  ],
+
+  "observation_summary": [
+    "Preparation of pruning tool before vegetation management",
+    "Branch cutting activity conducted on mango tree PLT-MNG-0001",
+    "Observation of mango fruit during maintenance activity",
+    "Observation of mango leaf condition under natural growth (no chemical treatment)",
+    "Post-work documentation after vegetation clearing"
+  ],
+
+  "verification": {
+    "sha256": true,
+    "ots": true,
+    "structure": "append-only"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

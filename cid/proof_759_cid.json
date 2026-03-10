@@ -1,0 +1,15 @@
+{
+  "proof_id": "759",
+  "date": "2026-03-10",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "event_id": "PLT-MNG-0001-CARE-02",
+  "event_type": "Mango Fruit Bagging",
+  "location": "MaMeeFarm",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeieta5ss4k2am3cnwyghbbqog3hrowgb2r2w2s42j2odmern5gtw5a",
+  "activity": "Representative mango fruit measurement before bagging",
+  "fruit_id": "PLT-MNG-0001-FRT-0001",
+  "timestamp": "09:20",
+  "related_asset": "PLT-MNG-0001",
+  "license": "DGCP | MMFARM-POL-2025"
+}

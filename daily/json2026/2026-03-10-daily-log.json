@@ -1,0 +1,43 @@
+{
+  "date": "2026-03-10",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+
+  "proof_records": [
+    759,
+    760,
+    761,
+    762,
+    763
+  ],
+
+  "event_reference": {
+    "event_id": "PLT-MNG-0001-CARE-02",
+    "event_type": "Mango Fruit Bagging",
+    "plant_asset": "PLT-MNG-0001"
+  },
+
+  "fruit_lot": [
+    "PLT-MNG-0001-FRT-0001 measured",
+    "PLT-MNG-0001-FRT-0002 bagged",
+    "PLT-MNG-0001-FRT-0003 bagged",
+    "PLT-MNG-0001-FRT-0004 bagged",
+    "PLT-MNG-0001-FRT-0005 bagged"
+  ],
+
+  "workforce": {
+    "field_operator": "MaMee",
+    "documentation": "P'Toh"
+  },
+
+  "data_units_recorded": false,
+
+  "verification": {
+    "sha256": true,
+    "ots": true,
+    "structure": "append-only"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

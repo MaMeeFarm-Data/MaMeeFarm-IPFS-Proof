@@ -1,0 +1,47 @@
+{
+  "date": "2026-03-11",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+
+  "proof_records": [
+    764,
+    765,
+    766,
+    767,
+    768
+  ],
+
+  "zone_context": {
+    "zone": "FZ-03",
+    "location": "Duck House Zone"
+  },
+
+  "related_assets": {
+    "sensor_asset": "HTC-2",
+    "plant_asset": "PLT-RPH-0001"
+  },
+
+  "activities": [
+    "Microclimate record using HTC-2 sensor",
+    "Plant condition observation",
+    "Pest / insect observation",
+    "Plant removal operation",
+    "Plant cycle closure and bed reset"
+  ],
+
+  "workforce": {
+    "field_operator": "MaMee",
+    "documentation": "P'Toh"
+  },
+
+  "data_units_recorded": false,
+
+  "verification": {
+    "sha256": true,
+    "ots": true,
+    "structure": "append-only"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

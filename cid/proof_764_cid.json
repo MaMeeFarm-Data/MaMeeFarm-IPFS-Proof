@@ -1,0 +1,16 @@
+{
+  "proof_id": "764",
+  "date": "2026-03-11",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "FZ-03",
+  "location": "Duck House Zone",
+  "activity": "Microclimate record",
+  "sensor_asset": "HTC-2",
+  "temperature_in": "22.1",
+  "temperature_out": "21.8",
+  "humidity": "84",
+  "timestamp": "08:21",
+  "ipfs_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihucmowqh3xbdx7s67lrckwmi3rrtpyr63ayt47h4nhuugltkviwq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,11 @@
+{
+  "proof_id": 764,
+  "file": "MMFARM_DGCP_DAILY_2026-03-11_Proof764.md",
+  "sha256": "3627475b05066d760c9a3e85f624124679209cc1a904387c9dfcf8902f00bbc6",
+  "timestamp_method": "OpenTimestamps",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "date": "2026-03-11",
+  "timezone": "Asia/Bangkok",
+  "license": "DGCP | MMFARM-POL-2025"
+}

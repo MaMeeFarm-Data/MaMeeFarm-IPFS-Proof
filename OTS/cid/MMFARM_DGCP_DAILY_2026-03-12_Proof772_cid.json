@@ -1,0 +1,13 @@
+{
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_id": 772,
+  "date_local": "2026-03-12",
+  "timezone": "Asia/Bangkok",
+  "evidence_file": "MMFARM_DGCP_DAILY_2026-03-12_Proof772_cid.json",
+  "algorithm": "SHA-256",
+  "sha256": "2f33cdc33ec174e7291ffd7aa5eafe06a32021ada591905383cc038fe5b755da",
+  "ots_status": "receipt created",
+  "integrity": "forward-only record",
+  "license": "DGCP | MMFARM-POL-2025"
+}

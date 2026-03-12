@@ -1,0 +1,26 @@
+{
+  "date": "2026-03-12",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "asset_id": "PLT-MNG-0002",
+  "activity": "grass clearing around mango tree using manual hoe",
+  "observations": [
+    "ants of unidentified species observed on branch junction",
+    "dark surface coverage and irregular visual patterns observed on mango leaves",
+    "no causal interpretation performed"
+  ],
+  "linked_proofs": [
+    "Proof 769",
+    "Proof 770",
+    "Proof 771",
+    "Proof 772",
+    "Proof 773"
+  ],
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

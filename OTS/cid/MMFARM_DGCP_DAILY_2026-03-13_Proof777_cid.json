@@ -1,0 +1,16 @@
+{
+  "file_name": "MMFARM_DGCP_DAILY_2026-03-13_Proof777_cid.json",
+  "date_local": "2026-03-13",
+  "time_local": "12:50",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_id": 777,
+  "evidence_type": "cid",
+  "verification_method": "OpenTimestamps (Stamp & Verify)",
+  "status": "Receipt created",
+  "confirmation": "Download initiated",
+  "sha256": "8d53b5cb37b4d38c0bd35636558f9b693442040d5131a46f8e8860bc34f28637",
+  "file_size": "348 B",
+  "license": "DGCP | MMFARM-POL-2025"
+}

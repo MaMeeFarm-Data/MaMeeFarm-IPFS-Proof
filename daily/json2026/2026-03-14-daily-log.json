@@ -1,0 +1,35 @@
+{
+  "date": "2026-03-14",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "asset_id": "PLT-MNG-0002",
+  "activity": "mango measurement and bagging",
+  "total_bagged_fruits": 10,
+  "measured_samples": 2,
+  "fruit_units": [
+    "PLT-MNG-0002-FRT-0001",
+    "PLT-MNG-0002-FRT-0002",
+    "PLT-MNG-0002-FRT-0003",
+    "PLT-MNG-0002-FRT-0004",
+    "PLT-MNG-0002-FRT-0005",
+    "PLT-MNG-0002-FRT-0006",
+    "PLT-MNG-0002-FRT-0007",
+    "PLT-MNG-0002-FRT-0008",
+    "PLT-MNG-0002-FRT-0009",
+    "PLT-MNG-0002-FRT-0010"
+  ],
+  "proof_records": [
+    779,
+    780,
+    781,
+    782,
+    783
+  ],
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

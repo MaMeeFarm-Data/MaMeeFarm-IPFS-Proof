@@ -1,0 +1,26 @@
+{
+  "proof_id": "782",
+  "date": "2026-03-14",
+  "time": "09:46",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "PLT-MNG-0002",
+  "zone": "HZ-02",
+  "activity": "mango bagging label record",
+  "fruit_ids": [
+    "PLT-MNG-0002-FRT-0006",
+    "PLT-MNG-0002-FRT-0007",
+    "PLT-MNG-0002-FRT-0008",
+    "PLT-MNG-0002-FRT-0009",
+    "PLT-MNG-0002-FRT-0010"
+  ],
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeib34l7mdjkopi7ani7x2fqlsh5ywkpkpw6ijuy5iruldiefzadjp4",
+  "description": "Bagging label assignment for mango fruits FRT-0006 to FRT-0010.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

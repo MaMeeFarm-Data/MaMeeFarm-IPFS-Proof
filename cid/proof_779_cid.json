@@ -1,0 +1,19 @@
+{
+  "proof_id": "779",
+  "date": "2026-03-14",
+  "time": "09:30",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "PLT-MNG-0002",
+  "zone": "HZ-02",
+  "activity": "mango measurement prior to bagging",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiazxpb5h6pysunsqbaxaimzl6z7zrhyzgsjmhhxjt2nvc6x6dzxkm",
+  "description": "Reference measurement of mango fruit before bagging.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

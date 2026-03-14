@@ -1,0 +1,20 @@
+{
+  "proof_id": "783",
+  "date": "2026-03-14",
+  "time": "09:46",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "PLT-MNG-0002",
+  "zone": "HZ-02",
+  "activity": "mango bagging completion overview",
+  "total_bagged_fruits": 10,
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigke6zd6kjfauzil6jfqx7mwwqvvl2zparuq4vsucmzd6uoft7zw4",
+  "description": "Whole-tree overview after completion of mango bagging.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

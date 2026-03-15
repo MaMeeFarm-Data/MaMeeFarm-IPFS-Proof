@@ -1,0 +1,35 @@
+{
+  "date": "2026-03-15",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "FZ-03",
+  "sub_zone": "FZ-03-T1",
+  "activity": "grass cutting operation",
+  "equipment": "EQP-GRC-0001",
+  "sensor": "HTC-2",
+  "environment_before": {
+    "time": "10:01",
+    "temperature_in": "28.5°C",
+    "temperature_out": "28.6°C",
+    "humidity": "60%"
+  },
+  "environment_after": {
+    "time": "10:28",
+    "temperature_in": "30.3°C",
+    "temperature_out": "30.8°C",
+    "humidity": "54%"
+  },
+  "proof_records": [
+    784,
+    785,
+    786,
+    787,
+    788
+  ],
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

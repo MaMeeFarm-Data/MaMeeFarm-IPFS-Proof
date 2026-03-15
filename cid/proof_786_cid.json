@@ -1,0 +1,18 @@
+{
+  "proof_id": "786",
+  "date": "2026-03-15",
+  "time": "10:27",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "EQP-GRC-0001",
+  "zone": "FZ-03",
+  "activity": "field condition observation after grass cutting",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeih3si7rgbjabsbm6j3j22vvqqvqb2jjcxqwkx77khusjam533ms64",
+  "description": "Post-operation field condition in FZ-03 with EQP-GRC-0001.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

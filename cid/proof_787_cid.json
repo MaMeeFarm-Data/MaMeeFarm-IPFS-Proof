@@ -1,0 +1,18 @@
+{
+  "proof_id": "787",
+  "date": "2026-03-15",
+  "time": "10:28",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "EQP-GRC-0001",
+  "location": "Duck House",
+  "activity": "equipment storage record after operation",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifeisflh7pl5w33jle2slhci5inumfbm4co7p7wley3hgzpjgzw6q",
+  "description": "Storage condition of EQP-GRC-0001 after grass cutting activity.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,19 @@
+{
+  "proof_id": "788",
+  "date": "2026-03-15",
+  "time": "10:28",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "HTC-2",
+  "zone": "FZ-03",
+  "sub_zone": "FZ-03-T1",
+  "activity": "temperature and humidity observation after grass cutting",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeib5gju6jhk3qdmzferq65pjcru4hcvc6ni4zy7hjwmi626ad74dge",
+  "description": "Post-operation temperature and humidity record from HTC-2.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,18 @@
+{
+  "proof_id": "785",
+  "date": "2026-03-15",
+  "time": "10:12",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "EQP-GRC-0001",
+  "zone": "FZ-03",
+  "activity": "grass cutting equipment observation before operation",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihhunnepkik4pqnmhq6cmhwlas4fbvf7v4m6dy564iphtborr7ieu",
+  "description": "Pre-operation field position of EQP-GRC-0001.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

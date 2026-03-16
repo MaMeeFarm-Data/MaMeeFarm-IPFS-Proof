@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-16",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": "Grass cutting field maintenance using equipment EQP-GRC-0001.",
+  "equipment": [
+    {
+      "asset_id": "EQP-GRC-0001",
+      "type": "Grass Cutter"
+    }
+  ],
+  "zones": {
+    "fuel_preparation": "FZ-03",
+    "operation_zone": "FZ-05",
+    "equipment_storage": "FZ-03"
+  },
+  "proof_sequence": [
+    {
+      "proof_id": 789,
+      "activity": "fuel preparation gasoline95 + 2T",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 790,
+      "activity": "fuel filling for equipment",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 791,
+      "activity": "grass cutting start",
+      "zone": "FZ-05"
+    },
+    {
+      "proof_id": 792,
+      "activity": "grass cutting completed",
+      "zone": "FZ-05"
+    },
+    {
+      "proof_id": 793,
+      "activity": "equipment storage",
+      "zone": "FZ-03"
+    }
+  ],
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

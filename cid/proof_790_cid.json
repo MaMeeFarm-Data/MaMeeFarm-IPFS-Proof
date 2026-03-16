@@ -1,0 +1,18 @@
+{
+  "proof_id": "790",
+  "date": "2026-03-16",
+  "time": "16:45",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "EQP-GRC-0001",
+  "zone": "FZ-03",
+  "activity": "fuel filling before grass cutting",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibv5grqulz24czqk5fygjhdcnww7m5sz2cfe5fttwotwshxxhfdza",
+  "description": "Fuel filling record for EQP-GRC-0001 before operation.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

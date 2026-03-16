@@ -1,0 +1,19 @@
+{
+  "proof_id": "793",
+  "date": "2026-03-16",
+  "time": "17:18",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "EQP-GRC-0001",
+  "zone": "FZ-03",
+  "location": "Duck House",
+  "activity": "equipment stored after operation",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidxwbxv2sbv6izkcjr5sjsyqchcqn57bi5r34w2bgahqc5bx4yhdy",
+  "description": "Storage condition of EQP-GRC-0001 after operation.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

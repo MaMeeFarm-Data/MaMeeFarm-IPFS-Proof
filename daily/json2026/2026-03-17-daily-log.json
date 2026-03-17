@@ -1,0 +1,28 @@
+{
+  "date": "2026-03-17",
+  "recorded": "2026-03-17",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": "Grass cutting and banana leaf cutting operations conducted in FZ-05. Field condition recorded before and after operation. Banana leaf cutting performed using TOL-PRN-HOOK-0001.",
+  "data_units": [
+    "Proof 794",
+    "Proof 795",
+    "Proof 796",
+    "Proof 797",
+    "Proof 798"
+  ],
+  "zone": [
+    "FZ-05"
+  ],
+  "equipment": [
+    "EQP-GRC-0001",
+    "TOL-PRN-HOOK-0001"
+  ],
+  "notes": "All activities recorded sequentially under DGCP observation model with image evidence and IPFS reference.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

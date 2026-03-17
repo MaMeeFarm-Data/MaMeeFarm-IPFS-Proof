@@ -1,0 +1,18 @@
+{
+  "proof_id": "796",
+  "date": "2026-03-17",
+  "time": "17:57",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "TOL-PRN-HOOK-0001",
+  "zone": "FZ-05",
+  "activity": "banana leaf cutting",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibtas324hcw26twtyo5hczc2hfyoo3hxvpiksvnkbfwgr7vqr7dfy",
+  "description": "Banana leaf cutting record in FZ-05.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

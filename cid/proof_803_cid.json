@@ -1,0 +1,18 @@
+{
+  "proof_id": "803",
+  "date": "2026-03-18",
+  "time": "11:08",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "HZ-PMP-0003",
+  "zone": "HZ-02",
+  "activity": "water pump stored after operation",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicoynt5ak67wha4k7iydelyxsq2pb3ubzjd7m3kk46ktjsijq7yku",
+  "description": "Water pump storage after operation in HZ-02.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

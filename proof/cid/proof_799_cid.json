@@ -1,0 +1,18 @@
+{
+  "proof_id": "799",
+  "date": "2026-03-18",
+  "time": "10:09",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "HZ-PMP-0003",
+  "zone": "HZ-02",
+  "activity": "water pump placed into underground well",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiecqjpncpq6prz4pbauwzh4bic4szwechdsaurjdcjjn7t63l6lyy",
+  "description": "Water pump placement at underground well in HZ-02.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

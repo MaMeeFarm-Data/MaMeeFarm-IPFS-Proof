@@ -1,0 +1,18 @@
+{
+  "proof_id": "802",
+  "date": "2026-03-18",
+  "time": "11:07",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "WT-F-0001",
+  "zone": "HZ-02",
+  "activity": "storage tank filled with water",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeift7xyydo3wub3t6rginawkf7sby2p2r7gsp2kwqkc343lbqxwjvm",
+  "description": "Filled water condition of WT-F-0001 in HZ-02.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

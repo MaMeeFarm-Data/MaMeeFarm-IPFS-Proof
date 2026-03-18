@@ -1,0 +1,18 @@
+{
+  "proof_id": "800",
+  "date": "2026-03-18",
+  "time": "10:10",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "asset_id": "WT-UW-0001-0002",
+  "zone": "HZ-02",
+  "activity": "underground well observation",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiavrrymi4vdwx6dradihbmpfr3lhxrhbfee5xq6dodquv5jtshr5e",
+  "description": "Underground well observation in HZ-02.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

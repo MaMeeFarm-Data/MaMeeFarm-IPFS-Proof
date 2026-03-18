@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-18",
+  "recorded": "2026-03-18",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": "Water pump operation conducted in HZ-02. Pump placed into underground well. Water condition recorded. Water transferred into WT-F-0001. Tank filled and pump stored after operation.",
+  "data_units": [
+    "Proof 799",
+    "Proof 800",
+    "Proof 801",
+    "Proof 802",
+    "Proof 803"
+  ],
+  "zone": [
+    "HZ-02"
+  ],
+  "equipment": [
+    "HZ-PMP-0003"
+  ],
+  "water_system": [
+    "WT-UW-0001",
+    "WT-UW-0002",
+    "WT-F-0001"
+  ],
+  "notes": "Sequential DGCP observation with image evidence and IPFS reference.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2026-03-19",
+  "recorded": "2026-03-19",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "FZ-03",
+  "activity": "banana cutting and clearing",
+  "asset_id": "PLT-BAN-0006",
+  "equipment": [
+    "TOL-MCH-0001",
+    "TOL-PRN-HOOK-0001"
+  ],
+  "proof_range": "804-808",
+  "proofs": [
+    804,
+    805,
+    806,
+    807,
+    808
+  ],
+  "description": "Banana cutting and clearing activity with tool usage and field observation in FZ-03.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

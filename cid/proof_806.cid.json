@@ -1,0 +1,18 @@
+{
+  "proof_id": "806",
+  "date": "2026-03-19",
+  "time": "17:43",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "FZ-03",
+  "asset_id": "PLT-BAN-0006",
+  "activity": "banana blossom observation",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifd5ktja4xdfgczdcyqcc2mcllbsrwzkffh7rak2np7oymbtfzxty",
+  "description": "Banana blossom observation in FZ-03.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

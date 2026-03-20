@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-20",
+  "recorded": "2026-03-20",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Rice cooking process",
+  "asset_id": "STV-0001",
+  "tools": [
+    "INF-TIM-0001"
+  ],
+  "data_units": [
+    {
+      "proof_id": "809",
+      "description": "Timer start",
+      "time_marker": "00m00s"
+    },
+    {
+      "proof_id": "810",
+      "description": "Pot placement",
+      "time_marker": "01m22s"
+    },
+    {
+      "proof_id": "811",
+      "description": "Firewood and stove observation",
+      "time_marker": "11:54"
+    },
+    {
+      "proof_id": "812",
+      "description": "Boiling stage",
+      "time_marker": "07m11s"
+    },
+    {
+      "proof_id": "813",
+      "description": "Cooked rice completion",
+      "time_marker": "17m25s"
+    }
+  ],
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

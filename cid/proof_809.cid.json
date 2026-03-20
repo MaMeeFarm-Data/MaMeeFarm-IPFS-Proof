@@ -1,0 +1,19 @@
+{
+  "proof_id": "809",
+  "date": "2026-03-20",
+  "time": "00:00",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "asset_id": "STV-0001",
+  "activity": "timer start for rice cooking using wood stove",
+  "file_type": "proof",
+  "cid_link": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiforu7rxmejg6k2cyy562opv2fc6xd4w52qujs7gef7nzag7sc3jq",
+  "cid": "bafybeiforu7rxmejg6k2cyy562opv2fc6xd4w52qujs7gef7nzag7sc3jq",
+  "description": "Timer start for rice cooking using wood stove in HZ-02.",
+  "recorded_by": {
+    "name": "P'Toh",
+    "role": "System Architect DGCP™"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

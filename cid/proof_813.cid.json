@@ -1,0 +1,19 @@
+{
+  "proof_id": "813",
+  "date": "2026-03-20",
+  "time": "12:08",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "asset_id": "STV-0001",
+  "activity": "Cooked rice state observation",
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibomcbfuigifwiml5yftzpidugj5xadff7zhfq5xyafykdnflhmse",
+    "ipfs_uri": "ipfs://bafybeibomcbfuigifwiml5yftzpidugj5xadff7zhfq5xyafykdnflhmse"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

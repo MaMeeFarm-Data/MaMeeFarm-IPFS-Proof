@@ -1,0 +1,43 @@
+{
+  "date": "2026-03-21",
+  "recorded": "2026-03-21",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "FZ-04",
+  "activity": "Banana leaf cutting field operation",
+  "assets": [
+    "BAN-0002",
+    "TOL-PRN-HOOK-0001",
+    "TOL-MCH-0001"
+  ],
+  "data_units": [
+    {
+      "proof_id": "814",
+      "description": "Tool observation before operation"
+    },
+    {
+      "proof_id": "815",
+      "description": "Banana tree observation before leaf cutting"
+    },
+    {
+      "proof_id": "816",
+      "description": "Banana leaf cutting observation"
+    },
+    {
+      "proof_id": "817",
+      "description": "Banana leaves collection after cutting"
+    },
+    {
+      "proof_id": "818",
+      "description": "Banana fruit observation after operation"
+    }
+  ],
+  "environment": {
+    "weather": "rainfall observed during final stage"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

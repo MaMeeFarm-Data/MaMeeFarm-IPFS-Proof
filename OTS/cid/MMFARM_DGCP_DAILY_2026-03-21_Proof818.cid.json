@@ -1,0 +1,14 @@
+{
+  "proof_id": 818,
+  "date": "2026-03-21",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "MMFARM_DGCP_DAILY_2026-03-21_Proof818.cid.json",
+  "file_size": "623 B",
+  "sha256": "4be0ef25c972678f1beeb0f21d158f1b1c6d04393f9b5c2d6a0844b29710c1cd",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "receipt created",
+  "sequence": "817 → 818",
+  "immutable": true,
+  "license": "DGCP | MMFARM-POL-2025"
+}

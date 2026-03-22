@@ -1,0 +1,19 @@
+{
+  "proof_id": "819",
+  "date": "2026-03-22",
+  "time": "17:39",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "asset_id": "PLT-MNG-0001",
+  "activity": "Mango tree observation before bagging",
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiad4bedoapoir6jsg5goxjgi3ghqlnyvo4wu5ncyxvxi5i63ezpfq",
+    "ipfs_uri": "ipfs://bafybeiad4bedoapoir6jsg5goxjgi3ghqlnyvo4wu5ncyxvxi5i63ezpfq"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,31 @@
+{
+  "proof_id": "821",
+  "date": "2026-03-22",
+  "time": "17:46",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "asset_id": "PLT-MNG-0001-FRT-0011",
+  "related_assets": [
+    "PLT-MNG-0001",
+    "TOL-TPM-0001"
+  ],
+  "activity": "Mango measurement observation (lot 2 continuation)",
+  "measurement": {
+    "type": "length",
+    "value": 10,
+    "unit": "cm",
+    "method": "tape_measure",
+    "tool_id": "TOL-TPM-0001",
+    "lot_range": "FRT0011-0015"
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiefefkzpv2gha6tbw55m67sf4l5ppc6xsj3hbmh4fljrjng2mgxx4",
+    "ipfs_uri": "ipfs://bafybeiefefkzpv2gha6tbw55m67sf4l5ppc6xsj3hbmh4fljrjng2mgxx4"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

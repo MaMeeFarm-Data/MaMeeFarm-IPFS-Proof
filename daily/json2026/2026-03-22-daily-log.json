@@ -1,0 +1,54 @@
+{
+  "date": "2026-03-22",
+  "recorded": "2026-03-22",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Mango measurement and bagging operation",
+  "assets": [
+    "PLT-MNG-0001",
+    "TOL-TPM-0001"
+  ],
+  "data_units": [
+    {
+      "proof_id": "819",
+      "description": "Mango tree observation before bagging"
+    },
+    {
+      "proof_id": "820",
+      "description": "Measurement lot FRT0006-0010"
+    },
+    {
+      "proof_id": "821",
+      "description": "Measurement lot FRT0011-0015"
+    },
+    {
+      "proof_id": "822",
+      "description": "Measurement lot FRT0016-0020"
+    },
+    {
+      "proof_id": "823",
+      "description": "Mango bagging completion (15 bags)"
+    }
+  ],
+  "measurement": {
+    "tool": "TOL-TPM-0001",
+    "unit": "cm",
+    "approx_value": 10,
+    "lot_groups": [
+      "FRT0006-0010",
+      "FRT0011-0015",
+      "FRT0016-0020"
+    ]
+  },
+  "operation": {
+    "type": "bagging",
+    "count": 15,
+    "unit": "bags"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

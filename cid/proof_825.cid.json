@@ -1,0 +1,23 @@
+{
+  "proof_id": "825",
+  "date": "2026-03-23",
+  "time": "10:25",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": ["HZ-01", "HZ-02"],
+  "asset_id": "INF-GATE-0002",
+  "activity": "Dogs at gate",
+  "entities": {
+    "type": "dogs",
+    "status": "present"
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeig7ktqurrksu3txpnmvx3zm7glmw6ezbtt3slopxvcxlsbg36sjmy",
+    "ipfs_uri": "ipfs://bafybeig7ktqurrksu3txpnmvx3zm7glmw6ezbtt3slopxvcxlsbg36sjmy"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

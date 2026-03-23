@@ -1,0 +1,24 @@
+{
+  "proof_id": "824",
+  "date": "2026-03-23",
+  "time": "10:25",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-01",
+  "asset_id": "INF-GATE-0001",
+  "activity": "Dog food received",
+  "resource": {
+    "type": "dog_food",
+    "weight": 20,
+    "unit": "kg"
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifkm4qrcotde7mb36pxw6og4lhbeodngfel6g73pas5c3cdfbt66m",
+    "ipfs_uri": "ipfs://bafybeifkm4qrcotde7mb36pxw6og4lhbeodngfel6g73pas5c3cdfbt66m"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

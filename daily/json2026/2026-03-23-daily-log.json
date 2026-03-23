@@ -1,0 +1,64 @@
+{
+  "date": "2026-03-23",
+  "recorded": "2026-03-23",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zones": [
+    "HZ-01",
+    "HZ-02"
+  ],
+  "activity": "Dog food delivery, movement, stock intake, and sack registration",
+  "data_units": [
+    {
+      "proof_id": "824",
+      "description": "Dog food received",
+      "asset_id": "INF-GATE-0001",
+      "zone": "HZ-01"
+    },
+    {
+      "proof_id": "825",
+      "description": "Dogs at gate",
+      "asset_id": "INF-GATE-0002",
+      "zone": ["HZ-01", "HZ-02"]
+    },
+    {
+      "proof_id": "826",
+      "description": "Dog food moved to gate",
+      "asset_id": "INF-GATE-0002",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "827",
+      "description": "Dog food stock intake",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "828",
+      "description": "Sack labeling registration",
+      "zone": "HZ-02",
+      "assets": [
+        "INF-SACK20-0009",
+        "INF-SACK20-0010",
+        "INF-SACK20-0011"
+      ]
+    }
+  ],
+  "resource": {
+    "type": "dog_food",
+    "weight": 20,
+    "weight_unit": "kg",
+    "count": 3,
+    "count_unit": "bags"
+  },
+  "sequence": [
+    "delivery",
+    "movement",
+    "stock",
+    "registration"
+  ],
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

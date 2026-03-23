@@ -1,0 +1,29 @@
+{
+  "proof_id": "826",
+  "date": "2026-03-23",
+  "time": "10:26",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "asset_id": "INF-GATE-0002",
+  "activity": "Dog food moved to gate",
+  "resource": {
+    "type": "dog_food",
+    "status": "present"
+  },
+  "entities": {
+    "dogs": "present"
+  },
+  "tools": [
+    "cart"
+  ],
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigwoipwvv3btvhwoxxkwzj6lmocdun4wuuut57cnx5cceqou2hanm",
+    "ipfs_uri": "ipfs://bafybeigwoipwvv3btvhwoxxkwzj6lmocdun4wuuut57cnx5cceqou2hanm"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

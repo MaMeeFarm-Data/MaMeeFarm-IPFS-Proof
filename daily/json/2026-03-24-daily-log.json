@@ -1,0 +1,59 @@
+{
+  "date": "2026-03-24",
+  "recorded": "2026-03-24",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": [
+    "water pump performed",
+    "water transfer performed",
+    "water storage recorded",
+    "parallel storage sequence recorded"
+  ],
+  "data_units": [
+    {
+      "proof": "829",
+      "activity": "water pump at underground well"
+    },
+    {
+      "proof": "830",
+      "activity": "water transfer to WT-M-0004"
+    },
+    {
+      "proof": "831",
+      "activity": "water distribution to FZ-03"
+    },
+    {
+      "proof": "832",
+      "activity": "WT-M-0002 filled"
+    },
+    {
+      "proof": "833",
+      "activity": "WT-M-0001 filled"
+    }
+  ],
+  "assets": {
+    "pump": "HZ-PMP-0003",
+    "submersible_pump": "PMP-SUB-01",
+    "tanks": [
+      "WT-M-0004",
+      "WT-M-0002",
+      "WT-M-0001"
+    ]
+  },
+  "sequence": [
+    "pump",
+    "transfer",
+    "distribution",
+    "storage"
+  ],
+  "structure": {
+    "type": "multi-node water storage",
+    "zone": "FZ-03"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "recorded_by": "P'Toh",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,24 @@
+{
+  "proof_id": "832",
+  "date": "2026-03-24",
+  "time": "15:40",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "FZ-03",
+  "activity": "Water storage fill",
+  "assets": {
+    "tank": "WT-M-0002"
+  },
+  "state": {
+    "water_level": "full"
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibuv4lt6vbggq7vas5ywsuk2wgrh4uz5s6y2kozobhsiujcqxpfjy",
+    "ipfs_uri": "ipfs://bafybeibuv4lt6vbggq7vas5ywsuk2wgrh4uz5s6y2kozobhsiujcqxpfjy"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

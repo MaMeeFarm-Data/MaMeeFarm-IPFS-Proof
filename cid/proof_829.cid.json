@@ -1,0 +1,25 @@
+{
+  "proof_id": "829",
+  "date": "2026-03-24",
+  "time": "14:46",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Water pumping activity",
+  "assets": {
+    "pump": "HZ-PMP-0003",
+    "water_source": [
+      "WT-UW-0001",
+      "WT-UW-0002"
+    ]
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihd2lhs7h4lbsghilq5f523bvm6ej42cakssb6wal4nw2kplchomi",
+    "ipfs_uri": "ipfs://bafybeihd2lhs7h4lbsghilq5f523bvm6ej42cakssb6wal4nw2kplchomi"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

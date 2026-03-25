@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-25",
+  "recorded": "2026-03-25",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": [
+    "wood stove cooking process recorded",
+    "ignition recorded",
+    "flame present",
+    "pot placed",
+    "boiling state recorded",
+    "cooked state recorded"
+  ],
+  "data_units": [
+    { "proof": 834, "activity": "ignition start" },
+    { "proof": 835, "activity": "flame present" },
+    { "proof": 836, "activity": "pot placed" },
+    { "proof": 837, "activity": "boiling state" },
+    { "proof": 838, "activity": "cooked state" }
+  ],
+  "operational_notes": {
+    "assets": {
+      "stove": "STV-0001",
+      "timer": "INF-TIM-0001"
+    },
+    "time_sequence": [
+      "00:00 ignition",
+      "00:10 flame",
+      "00:31 pot placed",
+      "09:04 boiling",
+      "12:46 cooked"
+    ],
+    "process": "full cooking cycle recorded"
+  },
+  "system_notes": [
+    "energy conversion recorded",
+    "fuel to heat to boiling to cooked",
+    "forward-only record",
+    "no retroactive edits"
+  ],
+  "recorded_by": "P'Toh",
+  "license": "DGCP | MMFARM-POL-2025"
+}

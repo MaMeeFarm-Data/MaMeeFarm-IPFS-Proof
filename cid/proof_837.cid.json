@@ -1,0 +1,26 @@
+{
+  "proof_id": "837",
+  "date": "2026-03-25",
+  "time": "09:49",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Boiling state",
+  "assets": {
+    "stove": "STV-0001",
+    "timer": "INF-TIM-0001"
+  },
+  "state": {
+    "boiling": "present",
+    "timer": "09:04"
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigqwlfwq5wlkl7w6a4ze5qie4uxbpjotey26x5mxfhnin6onec5mm",
+    "ipfs_uri": "ipfs://bafybeigqwlfwq5wlkl7w6a4ze5qie4uxbpjotey26x5mxfhnin6onec5mm"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

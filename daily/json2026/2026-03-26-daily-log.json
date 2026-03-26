@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-26",
+  "recorded": "2026-03-26",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "summary": {
+    "banana_plant": "present",
+    "banana_flower": "present",
+    "activities": [
+      "tools used",
+      "banana trunk cut performed",
+      "banana leaf trimming performed",
+      "area clearing performed",
+      "asset preparation recorded"
+    ]
+  },
+  "proofs": [
+    {
+      "proof_id": 839,
+      "activity": "banana flower present"
+    },
+    {
+      "proof_id": 840,
+      "activity": "tools present"
+    },
+    {
+      "proof_id": 841,
+      "activity": "banana trunk cutting"
+    },
+    {
+      "proof_id": 842,
+      "activity": "banana leaf trimming"
+    },
+    {
+      "proof_id": 843,
+      "activity": "area clearing and asset preparation"
+    }
+  ],
+  "assets": {
+    "tools": [
+      "TOL-MCH-0001",
+      "TOL-PRN-HOOK-0001",
+      "EQP-GRC-0001"
+    ],
+    "plant": "PLT-BAN-0007"
+  },
+  "sequence": [
+    "plant",
+    "tools",
+    "cutting",
+    "trimming",
+    "clearing",
+    "asset_preparation"
+  ],
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

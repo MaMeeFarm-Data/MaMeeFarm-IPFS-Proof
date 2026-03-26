@@ -1,0 +1,31 @@
+{
+  "proof_id": "841",
+  "date": "2026-03-26",
+  "time": "18:15",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Banana trunk cutting",
+  "assets": {
+    "machete": "TOL-MCH-0001"
+  },
+  "state": {
+    "banana_trunk": "cut",
+    "material": "pieces present"
+  },
+  "reference_dataunit": [
+    "01708",
+    "01709",
+    "01710",
+    "01711"
+  ],
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif3exvrrekfnjelmz5gdrvrpe2kepu5rno35topzxltvs4qldvjl4",
+    "ipfs_uri": "ipfs://bafybeif3exvrrekfnjelmz5gdrvrpe2kepu5rno35topzxltvs4qldvjl4"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

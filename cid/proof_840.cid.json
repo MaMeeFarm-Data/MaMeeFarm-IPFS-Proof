@@ -1,0 +1,26 @@
+{
+  "proof_id": "840",
+  "date": "2026-03-26",
+  "time": "18:10",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Tool set present",
+  "assets": {
+    "machete": "TOL-MCH-0001",
+    "pruning_hook": "TOL-PRN-HOOK-0001",
+    "grass_cutter": "EQP-GRC-0001"
+  },
+  "state": {
+    "tools": "present"
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifizbayclo3by2vgadxle43sm5rvvhhj2sf3wguk5b2iajpwnyw7y",
+    "ipfs_uri": "ipfs://bafybeifizbayclo3by2vgadxle43sm5rvvhhj2sf3wguk5b2iajpwnyw7y"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

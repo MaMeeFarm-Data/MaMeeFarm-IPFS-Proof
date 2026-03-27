@@ -1,0 +1,25 @@
+{
+  "proof_id": "847",
+  "date": "2026-03-27",
+  "time": "17:57",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Papaya weight measurement",
+  "assets": {
+    "plant": "PLT-PAP-0003"
+  },
+  "state": {
+    "fruit_index": 2,
+    "weight_grams": 1677
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeid6ns6x5kviqbez6lrenib4ead6gbyz72awpxrrgshvkziggqvoyy",
+    "ipfs_uri": "ipfs://bafybeid6ns6x5kviqbez6lrenib4ead6gbyz72awpxrrgshvkziggqvoyy"
+  },
+  "integrity": {
+    "note": "forward-only record, no retroactive modification"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

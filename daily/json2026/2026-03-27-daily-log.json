@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-27",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity_summary": [
+    "Papaya observed ripe",
+    "Papaya harvested",
+    "Papaya weight measured",
+    "Papaya consumed"
+  ],
+  "data_units": [
+    {
+      "proof_id": 844,
+      "description": "Papaya observed ripe",
+      "asset": "PLT-PAP-0003"
+    },
+    {
+      "proof_id": 845,
+      "description": "Papaya harvested",
+      "units": 2
+    },
+    {
+      "proof_id": 846,
+      "description": "Papaya weight measurement",
+      "fruit_index": 1,
+      "weight_grams": 1900
+    },
+    {
+      "proof_id": 847,
+      "description": "Papaya weight measurement",
+      "fruit_index": 2,
+      "weight_grams": 1677
+    },
+    {
+      "proof_id": 848,
+      "description": "Papaya consumption",
+      "type": "self-consumption"
+    }
+  ],
+  "sequence": [
+    "ripe",
+    "harvest",
+    "measurement",
+    "consumption"
+  ],
+  "assets": [
+    "PLT-PAP-0003"
+  ],
+  "integrity": {
+    "note": "forward-only record"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

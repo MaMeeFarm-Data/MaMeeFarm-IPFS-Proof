@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-28",
+  "recorded": "2026-03-28",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "data_units": {
+    "start": 849,
+    "end": 853,
+    "count": 5,
+    "proofs": [849, 850, 851, 852, 853]
+  },
+  "assets": {
+    "PLT-MNG-0001": {
+      "type": "mango",
+      "activity": ["labeling"],
+      "linked_proofs": [849]
+    },
+    "PLT-MNG-0002": {
+      "type": "mango",
+      "activity": ["labeling"],
+      "linked_proofs": [850]
+    },
+    "PLT-BAN-0006": {
+      "type": "banana",
+      "activity": ["labeling"],
+      "linked_proofs": [851]
+    },
+    "PLT-BAN-0007": {
+      "type": "banana",
+      "activity": ["labeling"],
+      "linked_proofs": [852]
+    }
+  },
+  "zones": {
+    "HZ-02": {
+      "activity": ["area_observation"],
+      "linked_proofs": [853]
+    }
+  },
+  "operations": {
+    "asset_level_separation": true,
+    "narrative": "none"
+  },
+  "integrity": {
+    "forward_only": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

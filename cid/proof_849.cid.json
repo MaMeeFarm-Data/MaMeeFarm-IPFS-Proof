@@ -1,0 +1,25 @@
+{
+  "proof_id": "849",
+  "date": "2026-03-28",
+  "time": "17:59",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Asset labeling",
+  "assets": {
+    "plant": "PLT-MNG-0001"
+  },
+  "state": {
+    "labeling": "physical",
+    "linked_proofs": ["754-758", "759-763", "811-813"]
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihjjjheovilw7743yygmhyawyklfdc32h4c7r5t5edvpadeutdpra",
+    "ipfs_uri": "ipfs://bafybeihjjjheovilw7743yygmhyawyklfdc32h4c7r5t5edvpadeutdpra"
+  },
+  "integrity": {
+    "note": "forward-only record"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

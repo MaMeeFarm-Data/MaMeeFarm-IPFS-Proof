@@ -1,0 +1,24 @@
+{
+  "proof_id": "853",
+  "date": "2026-03-28",
+  "time": "18:10",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Area observation",
+  "state": {
+    "environment": "recorded",
+    "structures": "present",
+    "water_system": "present",
+    "animal": "present"
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihwonj54pruftrxnvpu4myhzd4z6ns6reqrinkzs7snazjapmzgti",
+    "ipfs_uri": "ipfs://bafybeihwonj54pruftrxnvpu4myhzd4z6ns6reqrinkzs7snazjapmzgti"
+  },
+  "integrity": {
+    "note": "forward-only record"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

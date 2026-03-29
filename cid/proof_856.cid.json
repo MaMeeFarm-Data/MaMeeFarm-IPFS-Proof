@@ -1,0 +1,23 @@
+{
+  "proof_id": "856",
+  "date": "2026-03-29",
+  "time": "07:59",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "activity": "Dog food stock preparation",
+  "state": {
+    "dog_food": "present",
+    "quantity_bags": 4,
+    "weight_per_bag_kg": 20
+  },
+  "evidence": {
+    "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia7kbp6bzexe426s7phbogzegt2c4chhgvxsxf2qot653lezydv2y",
+    "ipfs_uri": "ipfs://bafybeia7kbp6bzexe426s7phbogzegt2c4chhgvxsxf2qot653lezydv2y"
+  },
+  "integrity": {
+    "note": "forward-only record"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

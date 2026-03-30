@@ -1,0 +1,20 @@
+{
+  "proof_id": 859,
+  "date": "2026-03-30",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "zone": "HZ-02",
+  "asset": "PLT-PAP-0003",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidj324aulttgcrta4hlaffzw7wk3m3bz7idq2cf36ad5pywvecbsy",
+  "observation": {
+    "fruit_present": true,
+    "ripe_fruit": true,
+    "count": 4
+  },
+  "integrity": {
+    "forward_only": true,
+    "no_retroactive_edit": true,
+    "sequence_continuity": "Proof 858 → Proof 859"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

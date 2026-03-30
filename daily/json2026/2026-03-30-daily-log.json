@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-30",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": [
+    "papaya observation recorded",
+    "papaya weight measurement recorded"
+  ],
+  "data_units": [
+    {
+      "proof_id": 859,
+      "type": "observation",
+      "asset": "PLT-PAP-0003",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 860,
+      "type": "measurement",
+      "asset": "PLT-PAP-0003",
+      "zone": "HZ-02",
+      "weight_g": 1424
+    },
+    {
+      "proof_id": 861,
+      "type": "measurement",
+      "asset": "PLT-PAP-0003",
+      "zone": "HZ-02",
+      "weight_g": 1596
+    },
+    {
+      "proof_id": 862,
+      "type": "measurement",
+      "asset": "PLT-PAP-0003",
+      "zone": "HZ-02",
+      "weight_g": 1577
+    },
+    {
+      "proof_id": 863,
+      "type": "measurement",
+      "asset": "PLT-PAP-0003",
+      "zone": "HZ-02",
+      "weight_g": 1022
+    }
+  ],
+  "asset_record": {
+    "asset_id": "PLT-PAP-0003",
+    "zone": "HZ-02",
+    "fruit_present": true,
+    "ripe_fruit": true,
+    "count": 4,
+    "weights_g": [1424, 1596, 1577, 1022]
+  },
+  "zone_record": [
+    {
+      "zone": "HZ-02",
+      "activity_recorded": true
+    }
+  ],
+  "integrity": {
+    "forward_only": true,
+    "no_retroactive_edit": true,
+    "sequence_continuity": "2026-03-29 → 2026-03-30"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

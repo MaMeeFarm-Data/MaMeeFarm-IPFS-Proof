@@ -1,0 +1,24 @@
+{
+  "proof_id": 867,
+  "date": "2026-03-31",
+  "time": "14:19",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "shoot collection performed",
+  "assets": [
+    "PLT-CHM-0001",
+    "PLT-CHM-0002",
+    "PLT-CHM-0003"
+  ],
+  "zone": "HZ-02",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigyka2smk4jzgkfx5474mhmr44j7j4apfmh5rz5yuibn3hn4xqyjy",
+  "output": "edible shoots collected",
+  "state": "shoot count reduced",
+  "integrity": {
+    "sequence": "866-867",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

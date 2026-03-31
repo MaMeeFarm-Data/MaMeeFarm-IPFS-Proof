@@ -1,0 +1,30 @@
+{
+  "proof_id": 866,
+  "date": "2026-03-31",
+  "time": "14:19",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "weed clearing performed",
+  "assets": [
+    "PLT-CHM-0001",
+    "PLT-CHM-0002",
+    "PLT-CHM-0003",
+    "PLT-PAP-0005",
+    "PLT-PAP-0006"
+  ],
+  "equipment": "TOL-HOE-0001",
+  "zone": "HZ-02",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidoh5v4srhg6hzyrdasufjb6dbl3gl62neq2m33azk4bkpddvsloa",
+  "state": "weed reduced",
+  "reference": {
+    "previous_observation": 864,
+    "equipment_registration": 865
+  },
+  "integrity": {
+    "sequence": "864-865-866",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

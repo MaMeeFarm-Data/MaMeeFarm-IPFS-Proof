@@ -1,0 +1,30 @@
+{
+  "proof_id": 868,
+  "date": "2026-03-31",
+  "time": "14:29",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "water pumping and distribution performed",
+  "source": [
+    "WT-UW-0001",
+    "WT-UW-0002",
+    "HZ-PMP-0003"
+  ],
+  "target_assets": [
+    "PLT-CHM-0001",
+    "PLT-CHM-0002",
+    "PLT-CHM-0003",
+    "PLT-PAP-0005",
+    "PLT-PAP-0006"
+  ],
+  "zone": "HZ-02",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifolx6wahacv36ilc2nt6zigri67blqchpwwh2zavrlukodhba6lu",
+  "state": "water flow present, soil moisture increased",
+  "integrity": {
+    "sequence": "867-868",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

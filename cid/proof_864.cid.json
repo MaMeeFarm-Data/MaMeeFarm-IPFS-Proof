@@ -1,0 +1,25 @@
+{
+  "proof_id": 864,
+  "date": "2026-03-31",
+  "time": "13:59",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "weed presence recorded",
+  "assets": [
+    "PLT-CHM-0001",
+    "PLT-CHM-0002",
+    "PLT-CHM-0003",
+    "PLT-PAP-0005",
+    "PLT-PAP-0006"
+  ],
+  "zone": "HZ-02",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic5b4epafsvkj5mirszu3jzzxrro4fszbq56b5d2dzjewui5ccvai",
+  "state": "weed present",
+  "integrity": {
+    "sequence": "863-864",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

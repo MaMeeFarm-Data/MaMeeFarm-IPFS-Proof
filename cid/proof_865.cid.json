@@ -1,0 +1,25 @@
+{
+  "proof_id": 865,
+  "date": "2026-03-31",
+  "time": "14:05",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "asset labeling recorded",
+  "asset": "TOL-HOE-0001",
+  "type": "hand tool",
+  "sub_type": "hoe",
+  "zone": "HZ-02",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidnvkgtdgt45wnwdkqcyxgizid5ejlfyaklk76ose2l2q26zziq2u",
+  "state": "asset id attached",
+  "intended_use": [
+    "weed clearing",
+    "soil digging"
+  ],
+  "integrity": {
+    "sequence": "864-865",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

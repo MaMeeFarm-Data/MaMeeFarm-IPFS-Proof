@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-31",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": [
+    "weed observation recorded",
+    "tool registration recorded",
+    "ground clearing performed",
+    "edible plant harvest recorded",
+    "water pumping and distribution performed"
+  ],
+  "proofs": [
+    {
+      "id": 864,
+      "activity": "weed observation",
+      "assets": ["PLT-CHM-0001", "PLT-CHM-0002", "PLT-CHM-0003", "PLT-PAP-0005", "PLT-PAP-0006"],
+      "zone": "HZ-02"
+    },
+    {
+      "id": 865,
+      "activity": "tool registration",
+      "assets": ["TOL-HOE-0001"]
+    },
+    {
+      "id": 866,
+      "activity": "ground clearing",
+      "zone": "HZ-02"
+    },
+    {
+      "id": 867,
+      "activity": "plant harvest",
+      "assets": ["PLT-CHM-0001", "PLT-CHM-0002", "PLT-CHM-0003"]
+    },
+    {
+      "id": 868,
+      "activity": "water pumping and distribution",
+      "source": ["WT-UW-0001", "WT-UW-0002", "HZ-PMP-0003"],
+      "target_assets": ["PLT-CHM-0001", "PLT-CHM-0002", "PLT-CHM-0003", "PLT-PAP-0005", "PLT-PAP-0006"],
+      "zone": "HZ-02"
+    }
+  ],
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "chronology": "preserved"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

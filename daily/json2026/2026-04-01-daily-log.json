@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-01",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": [
+    "temperature recorded",
+    "tool presence recorded",
+    "soil condition recorded",
+    "soil measurement recorded",
+    "dog presence recorded"
+  ],
+  "data_units": [
+    {
+      "proof": 869,
+      "activity": "temperature",
+      "asset": "HTC-2",
+      "location": "FZ-03"
+    },
+    {
+      "proof": 870,
+      "activity": "tool presence",
+      "asset": ["TOL-HOE-0001", "DEV-SOIL-0001"],
+      "location": "FZ-03"
+    },
+    {
+      "proof": 871,
+      "activity": "soil condition",
+      "location": "FZ-03"
+    },
+    {
+      "proof": 872,
+      "activity": "soil measurement",
+      "asset": "DEV-SOIL-0001",
+      "location": "FZ-03"
+    },
+    {
+      "proof": 873,
+      "activity": "dog presence",
+      "asset": "ANM-DOG-GROUP",
+      "location": "FZ-03"
+    }
+  ],
+  "zone": "FZ-03",
+  "integrity": {
+    "proof_range": "869-873",
+    "continuation_from": "2026-03-31",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "recorded_by": "P'Toh",
+  "license": "DGCP | MMFARM-POL-2025"
+}

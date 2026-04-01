@@ -1,0 +1,24 @@
+{
+  "proof_id": 869,
+  "date": "2026-04-01",
+  "time": "18:56",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "microclimate measurement recorded",
+  "asset": "HTC-2",
+  "location": "FZ-03",
+  "measurement": {
+    "temperature_in_c": 28.0,
+    "temperature_out_c": 27.9,
+    "humidity_percent": 65
+  },
+  "state": "no duck present",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicsrhcwtncu2uib4agzihhh22gjobjjvajija2adeorockfjcfexq",
+  "integrity": {
+    "sequence": "868-869",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

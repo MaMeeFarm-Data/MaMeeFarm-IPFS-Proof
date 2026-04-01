@@ -1,0 +1,25 @@
+{
+  "proof_id": 872,
+  "date": "2026-04-01",
+  "time": "19:01",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "soil measurement recorded",
+  "device": {
+    "id": "DEV-SOIL-0001",
+    "type": "Soil pH / Moisture Meter"
+  },
+  "location": "FZ-03",
+  "measurement": {
+    "moisture_level": "dry range",
+    "ph_indicator": "present"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibar3oyhsgz25mnrt3oxhubrsen7tgidiyvkj2xfgx2jskpcqs7fe",
+  "integrity": {
+    "sequence": "871-872",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

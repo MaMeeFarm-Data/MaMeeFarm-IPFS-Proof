@@ -1,0 +1,18 @@
+{
+  "proof_id": 873,
+  "date": "2026-04-01",
+  "time": "19:02",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "dog presence recorded",
+  "asset": "ANM-DOG-GROUP",
+  "location": "FZ-03",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia2s32k4az5vffmbehnlhfk35hljga65t7ejs6zj5oswct334jage",
+  "integrity": {
+    "sequence": "872-873",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

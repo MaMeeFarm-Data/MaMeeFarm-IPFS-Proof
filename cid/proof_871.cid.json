@@ -1,0 +1,22 @@
+{
+  "proof_id": 871,
+  "date": "2026-04-01",
+  "time": "18:57",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "soil surface observation recorded",
+  "location": "FZ-03",
+  "surface_condition": [
+    "dry soil present",
+    "loose texture present",
+    "organic residue present"
+  ],
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiak2d65ikoo2t3zloonltvpu4hztev762xtohbb6drb4pvlnxesie",
+  "integrity": {
+    "sequence": "870-871",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

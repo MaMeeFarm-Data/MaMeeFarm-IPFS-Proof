@@ -1,0 +1,25 @@
+{
+  "proof_id": 870,
+  "date": "2026-04-01",
+  "time": "18:57",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "soil measurement preparation recorded",
+  "tools": [
+    "TOL-HOE-0001"
+  ],
+  "device": {
+    "id": "DEV-SOIL-0001",
+    "type": "soil pH/moisture meter"
+  },
+  "location": "FZ-03",
+  "state": "tool present, device present",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigizopvfwkuceiiz55bvldomlym3ivtnqjf3argx5p35weurr7dqe",
+  "integrity": {
+    "sequence": "869-870",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,21 @@
+{
+  "proof_id": 874,
+  "date": "2026-04-02",
+  "time": "17:37",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "banana inflorescence observed",
+  "asset": "PLT-BAN-0008",
+  "location": {
+    "zone": "FZ-05",
+    "site": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicl7kqdcwa5ecv7ab53oborpafy5cj3t4mvpponlcxwywno3nhrsq",
+  "integrity": {
+    "sequence": "873-874",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

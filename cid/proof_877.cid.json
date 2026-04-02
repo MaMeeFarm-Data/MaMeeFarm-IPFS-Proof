@@ -1,0 +1,21 @@
+{
+  "proof_id": 877,
+  "date": "2026-04-02",
+  "time": "17:42",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "asset labeling applied in physical environment",
+  "asset": "PLT-BAN-0008",
+  "location": {
+    "zone": "FZ-05",
+    "site": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia524u5vtabfd3law3tjwkbhreayose2frbpkdoux7o2y4wkkhf5i",
+  "integrity": {
+    "sequence": "876-877",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

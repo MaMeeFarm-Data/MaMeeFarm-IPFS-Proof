@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-02",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": [
+    "banana plant flowering observed",
+    "tool preparation recorded",
+    "banana leaf trimming performed",
+    "asset labeling applied",
+    "soil subsidence observed near canal"
+  ],
+  "data_units": [
+    {
+      "proof": 874,
+      "description": "banana flowering observed",
+      "asset": "PLT-BAN-0008",
+      "zone": "FZ-05"
+    },
+    {
+      "proof": 875,
+      "description": "tool observation",
+      "asset": [
+        "TOL-PRN-HOOK-0001",
+        "TOL-MCH-0001"
+      ]
+    },
+    {
+      "proof": 876,
+      "description": "banana leaf trimming performed",
+      "asset": "PLT-BAN-0008",
+      "zone": "FZ-05"
+    },
+    {
+      "proof": 877,
+      "description": "asset labeling applied",
+      "asset": "PLT-BAN-0008",
+      "zone": "FZ-05"
+    },
+    {
+      "proof": 878,
+      "description": "soil subsidence observed",
+      "asset": "FZ-05-CANAL-0001",
+      "zone": "FZ-05"
+    }
+  ],
+  "integrity": {
+    "sequence": "874-878",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

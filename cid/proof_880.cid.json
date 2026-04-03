@@ -1,0 +1,25 @@
+{
+  "proof_id": 880,
+  "date": "2026-04-03",
+  "time": "17:51",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "tools and devices observed in field usage context",
+  "asset": [
+    "DEV-PRN-0001",
+    "DEV-SOIL-0001",
+    "TOL-HOE-0001"
+  ],
+  "location": {
+    "zone": "FZ-03",
+    "site": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihfzkuimu7k37bqc2twxdyqy4k3zzbwe2xigd7r3rwqdb7kldo5ny",
+  "integrity": {
+    "sequence": "879-880",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

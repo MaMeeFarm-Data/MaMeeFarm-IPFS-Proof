@@ -1,0 +1,27 @@
+{
+  "proof_id": 883,
+  "date": "2026-04-03",
+  "time": "18:14",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "tomato ripening observed across multiple plants",
+  "asset": [
+    "PLT-TOM-0001",
+    "PLT-TOM-0002",
+    "PLT-TOM-0003",
+    "PLT-TOM-0004",
+    "PLT-TOM-0005"
+  ],
+  "location": {
+    "zone": "FZ-03",
+    "site": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifypexeuora235tbx7qrjgote7uws5rwxy5wkuknkatckienxipfu",
+  "integrity": {
+    "sequence": "882-883",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,26 @@
+{
+  "proof_id": 882,
+  "date": "2026-04-03",
+  "time": "18:12",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "asset label attached to tomato plant",
+  "asset": [
+    "PLT-TOM-0002",
+    "PLT-TOM-0003",
+    "PLT-TOM-0004",
+    "PLT-TOM-0005"
+  ],
+  "location": {
+    "zone": "FZ-03",
+    "site": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibpxz2p2vmjy2bhfgjbvikfzk6x7xoqne2jhrhqmxg6hvojs42psi",
+  "integrity": {
+    "sequence": "881-882",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,26 @@
+{
+  "proof_id": 879,
+  "date": "2026-04-03",
+  "time": "17:51",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "tomato plants observed for asset registration",
+  "asset": [
+    "PLT-TOM-0002",
+    "PLT-TOM-0003",
+    "PLT-TOM-0004",
+    "PLT-TOM-0005"
+  ],
+  "location": {
+    "zone": "FZ-03",
+    "site": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeida4bfhzxb5v6u5k5btv5uxdefabasuel2wzoge23e4zzwjbx4dfi",
+  "integrity": {
+    "sequence": "878-879",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

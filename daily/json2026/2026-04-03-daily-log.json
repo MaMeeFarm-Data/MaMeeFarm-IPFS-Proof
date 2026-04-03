@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-03",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+
+  "activity_summary": [
+    "tomato plants observed and prepared for asset registration",
+    "tools and devices observed in field",
+    "soil condition observed and measured",
+    "asset labels attached to tomato plants",
+    "tomato fruit ripening observed"
+  ],
+
+  "proofs": [
+    {
+      "proof_id": 879,
+      "activity": "tomato plants observed for registration",
+      "assets": ["PLT-TOM-0002", "PLT-TOM-0003", "PLT-TOM-0004", "PLT-TOM-0005"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 880,
+      "activity": "tools and devices observed",
+      "assets": ["DEV-PRN-0001", "DEV-SOIL-0001", "TOL-HOE-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 881,
+      "activity": "soil measurement performed",
+      "assets": ["DEV-SOIL-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 882,
+      "activity": "asset label attached",
+      "assets": ["PLT-TOM-0002", "PLT-TOM-0003", "PLT-TOM-0004", "PLT-TOM-0005"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 883,
+      "activity": "tomato ripening observed",
+      "assets": ["PLT-TOM-0001", "PLT-TOM-0002", "PLT-TOM-0003", "PLT-TOM-0004", "PLT-TOM-0005"],
+      "zone": "FZ-03"
+    }
+  ],
+
+  "assets": {
+    "PLT-TOM-0001": ["fruit ripening observed"],
+    "PLT-TOM-0002": ["observed", "soil measured", "asset labeled", "fruit ripening observed"],
+    "PLT-TOM-0003": ["observed", "soil measured", "asset labeled", "fruit ripening observed"],
+    "PLT-TOM-0004": ["observed", "soil measured", "asset labeled", "fruit ripening observed"],
+    "PLT-TOM-0005": ["observed", "soil measured", "asset labeled", "fruit ripening observed"]
+  },
+
+  "equipment": {
+    "DEV-PRN-0001": ["present"],
+    "DEV-SOIL-0001": ["used for soil measurement"],
+    "TOL-HOE-0001": ["present"]
+  },
+
+  "system_flow": [
+    "observation",
+    "tool presence",
+    "measurement",
+    "asset labeling",
+    "biological output"
+  ],
+
+  "integrity": {
+    "append_only": true,
+    "no_deletion": true,
+    "no_retroactive_edit": true,
+    "sequence_range": "879-883"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

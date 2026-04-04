@@ -1,0 +1,19 @@
+{
+  "proof_id": 887,
+  "date": "2026-04-04",
+  "time": "18:05",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "pre-cut grass condition observed",
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "grass and weeds present before cutting",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibjjusgyizsphyhmyni2bcsgqai35oag3lb5rayprfsnjxdjwt5ey",
+  "integrity": {
+    "sequence": "886-887",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

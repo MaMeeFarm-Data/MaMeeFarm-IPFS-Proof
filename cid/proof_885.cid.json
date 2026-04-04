@@ -1,0 +1,27 @@
+{
+  "proof_id": 885,
+  "date": "2026-04-04",
+  "time": "18:02",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "fuel mixture prepared and filled into grass cutter",
+  "asset": [
+    "EQP-GRC-0001"
+  ],
+  "material": [
+    "gasoline 95",
+    "2T oil mixture"
+  ],
+  "location": {
+    "zone": "FZ-03",
+    "site": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigsmy6sebsen5nd6cyfqrqqq3n26f77l66zfgfqtskvyvjcv2j5pu",
+  "integrity": {
+    "sequence": "884-885",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

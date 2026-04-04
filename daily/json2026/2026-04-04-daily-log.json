@@ -1,0 +1,100 @@
+{
+  "date": "2026-04-04",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+
+  "activity_summary": [
+    "grass cutting operation performed in FZ-03 and FZ-04",
+    "equipment prepared and fueled prior to operation",
+    "environmental baseline recorded in duck house (no animals present)",
+    "pre-cut and post-cut surface conditions recorded"
+  ],
+
+  "data_units": [
+    {
+      "proof_id": 884,
+      "description": "grass cutter prepared",
+      "asset": ["EQP-GRC-0001"],
+      "zone": ["FZ-03"]
+    },
+    {
+      "proof_id": 885,
+      "description": "fuel added (gasoline 95 + 2T mixture)",
+      "zone": ["FZ-03"]
+    },
+    {
+      "proof_id": 886,
+      "description": "temperature and humidity recorded (no ducks present)",
+      "asset": ["HTC-2"],
+      "zone": ["FZ-03-T1"]
+    },
+    {
+      "proof_id": 887,
+      "description": "pre-cut grass condition observed",
+      "zone": ["FZ-03"]
+    },
+    {
+      "proof_id": 888,
+      "description": "post-cut grass condition observed",
+      "asset": ["EQP-GRC-0001"],
+      "zone": ["FZ-03", "FZ-04"]
+    }
+  ],
+
+  "assets": {
+    "EQP-GRC-0001": {
+      "type": "grass_cutter",
+      "status": [
+        "prepared",
+        "fueled",
+        "used"
+      ]
+    },
+    "HTC-2": {
+      "type": "microclimate_sensor",
+      "status": [
+        "temperature_recorded",
+        "humidity_recorded",
+        "no_animals_present"
+      ]
+    }
+  },
+
+  "zones": {
+    "FZ-03": [
+      "equipment preparation",
+      "fueling activity",
+      "environmental measurement",
+      "pre-cut condition",
+      "grass cutting operation"
+    ],
+    "FZ-04": [
+      "post-cut condition",
+      "vegetation reduced"
+    ]
+  },
+
+  "operation_flow": [
+    "preparation",
+    "fueling",
+    "baseline_measurement",
+    "pre_condition",
+    "operation",
+    "post_condition"
+  ],
+
+  "integrity": {
+    "sequence": "884-888",
+    "append_only": true,
+    "retroactive_edit": false
+  },
+
+  "signature": {
+    "recorded_by": "P'Toh",
+    "role": "System Architect — DGCP™"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

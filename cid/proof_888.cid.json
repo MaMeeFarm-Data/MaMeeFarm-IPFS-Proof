@@ -1,0 +1,25 @@
+{
+  "proof_id": 888,
+  "date": "2026-04-04",
+  "time": "18:16",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "post-cut grass condition observed",
+  "zone": [
+    "FZ-03",
+    "FZ-04"
+  ],
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "grass reduced and surface cleared after cutting",
+  "equipment": [
+    "EQP-GRC-0001"
+  ],
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeie34utg7dmzih2ipm76zd36426h3nacm3lsbjq3dwoxjcpuv5k52a",
+  "integrity": {
+    "sequence": "887-888",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

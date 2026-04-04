@@ -1,0 +1,23 @@
+{
+  "proof_id": 884,
+  "date": "2026-04-04",
+  "time": "18:00",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "grass cutter prepared for field operation",
+  "asset": [
+    "EQP-GRC-0001"
+  ],
+  "location": {
+    "zone": "FZ-03",
+    "site": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibn5bt3224et6lk4mhjcvlx47u5bezdawokhjbjoyqrelcirr5kra",
+  "integrity": {
+    "sequence": "883-884",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

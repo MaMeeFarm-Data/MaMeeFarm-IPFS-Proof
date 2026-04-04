@@ -1,0 +1,30 @@
+{
+  "proof_id": 886,
+  "date": "2026-04-04",
+  "time": "18:03",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "temperature and humidity recorded in duck house (no animals present)",
+  "asset": [
+    "HTC-2"
+  ],
+  "observation_data": {
+    "temperature_in_celsius": 31.8,
+    "temperature_out_celsius": 31.2,
+    "humidity_percent": 55
+  },
+  "condition": "no ducks present",
+  "location": {
+    "zone": "FZ-03",
+    "sub_zone": "FZ-03-T1",
+    "site": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihz5ssgoqonar6u5px55sduezifil5kl5czuminxhfxq7zmjnrxb4",
+  "integrity": {
+    "sequence": "885-886",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

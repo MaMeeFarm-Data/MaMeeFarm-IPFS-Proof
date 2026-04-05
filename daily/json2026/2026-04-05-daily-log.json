@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-05",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity_summary": [
+    "water system operation observed from underground source to storage tank",
+    "pump system activated and monitored",
+    "water flow continuity recorded",
+    "tank fill state confirmed"
+  ],
+  "data_units": [
+    {
+      "proof_id": 889,
+      "description": "underground water source observed",
+      "assets": ["WT-UW-0001", "WT-UW-0002"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 890,
+      "description": "water pump observed",
+      "assets": ["HZ-PMP-0003"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 891,
+      "description": "water transfer to tank",
+      "assets": ["WT-F-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 892,
+      "description": "water flow output into tank confirmed",
+      "assets": ["WT-F-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 893,
+      "description": "tank filled state observed",
+      "assets": ["WT-F-0001"],
+      "zone": "HZ-02"
+    }
+  ],
+  "system_flow": "underground water source -> pump -> pipe -> storage tank -> full capacity",
+  "integrity": {
+    "append_only": true,
+    "sequence_continuity": true,
+    "retroactive_edit": false
+  },
+  "recorded_by": "P'Toh",
+  "role": "System Architect — DGCP™",
+  "license": "DGCP | MMFARM-POL-2025"
+}

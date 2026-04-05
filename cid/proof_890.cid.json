@@ -1,0 +1,22 @@
+{
+  "proof_id": 890,
+  "date": "2026-04-05",
+  "time": "10:48",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "water pump condition observed",
+  "asset": [
+    "HZ-PMP-0003"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "water pump present with pipe connection and power cable",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidxct2ulb2fxgffyrbium357r6u4nzom5ytilh34xe6ozdbg5pa6q",
+  "integrity": {
+    "sequence": "889-890",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

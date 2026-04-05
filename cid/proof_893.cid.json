@@ -1,0 +1,22 @@
+{
+  "proof_id": 893,
+  "date": "2026-04-05",
+  "time": "11:46",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "water storage tank reached filled state",
+  "asset": [
+    "WT-F-0001"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "water level near full capacity with stable surface, no overflow observed",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidwlydmvcm2xhgq4v3p4b47trmkfmgisxzbszismfs5yyfxneru24",
+  "integrity": {
+    "sequence": "892-893",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

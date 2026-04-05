@@ -1,0 +1,22 @@
+{
+  "proof_id": 891,
+  "date": "2026-04-05",
+  "time": "10:50",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "water pumped from underground well to storage tank",
+  "asset": [
+    "WT-F-0001"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "water transfer observed from well through pump into storage tank",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiduiupuvpa6d6lp7jei7n3gwdrqqsvxjl4hxkteuvsx2htar3nv3y",
+  "integrity": {
+    "sequence": "890-891",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

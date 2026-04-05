@@ -1,0 +1,22 @@
+{
+  "proof_id": 892,
+  "date": "2026-04-05",
+  "time": "10:50",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "water flow output observed into storage tank",
+  "asset": [
+    "WT-F-0001"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "continuous water flow observed from pipe outlet entering storage tank",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiaf5xhwgqfie25bgls427kydwqd4sy5x6xcqhb5hvin7pkvg5jaxu",
+  "integrity": {
+    "sequence": "891-892",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,23 @@
+{
+  "proof_id": 889,
+  "date": "2026-04-05",
+  "time": "10:48",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "underground water well condition observed",
+  "asset": [
+    "WT-UW-0001",
+    "WT-UW-0002"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "water level present with visible reflection and pipe installed",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeig7ivzk2bneer6654b2575cmk5j33hlealslwcpdv62pt2pcd62jq",
+  "integrity": {
+    "sequence": "888-889",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

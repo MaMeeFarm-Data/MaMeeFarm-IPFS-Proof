@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-06",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "summary": "plant observation, insect presence, fruit-level traceability and weight measurement, equipment verification",
+  "activities": [
+    {
+      "proof": 894,
+      "activity": "equipment observation",
+      "assets": ["DEV-PRN-0001", "EQP-SCL-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof": 895,
+      "activity": "plant observation",
+      "assets": ["PLT-PKN-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof": 896,
+      "activity": "insect presence observation",
+      "assets": ["PLT-PKN-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof": 897,
+      "activity": "weight measurement",
+      "assets": ["PLT-PKN-0001-FRT-0001", "EQP-SCL-0001"],
+      "zone": "FZ-03",
+      "value": "586 grams"
+    },
+    {
+      "proof": 898,
+      "activity": "weight measurement",
+      "assets": ["PLT-PKN-0001-FRT-0002", "EQP-SCL-0001"],
+      "zone": "FZ-03",
+      "value": "354 grams"
+    }
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "integrity": {
+    "sequence": "894-898",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

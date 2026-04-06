@@ -1,0 +1,23 @@
+{
+  "proof_id": 898,
+  "date": "2026-04-06",
+  "time": "17:51",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "weight measurement and labeling",
+  "asset": [
+    "PLT-PKN-0001-FRT-0002",
+    "EQP-SCL-0001"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "pumpkin fruit measured at 354 grams using digital scale, physical label attached indicating no chemical usage",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifgk53f6d6r2ajuuo6iqwawhw4v6t3ipxpeuoho3ondjg4bi3ecbi",
+  "integrity": {
+    "sequence": "897-898",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

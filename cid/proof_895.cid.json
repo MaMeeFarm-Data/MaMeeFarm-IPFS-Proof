@@ -1,0 +1,22 @@
+{
+  "proof_id": 895,
+  "date": "2026-04-06",
+  "time": "17:29",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "plant overview observation",
+  "asset": [
+    "PLT-PKN-0001"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "pumpkin plant cluster present with expanded leaves and multiple growth points",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiazttcrlxz6axlk5o6jki3lyt57ox6fg6rdatdd7miweh5tbhmida",
+  "integrity": {
+    "sequence": "894-895",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

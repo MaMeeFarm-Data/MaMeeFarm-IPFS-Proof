@@ -1,0 +1,24 @@
+{
+  "proof_id": 903,
+  "date": "2026-04-07",
+  "time": "[fill]",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "post-planting observation",
+  "asset": [
+    "PLT-YLB-0003",
+    "PLT-YLB-0004",
+    "PLT-YLB-0005"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "planting completed, water applied to soil, straw mulch applied on soil surface",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic2n3turjmgf3lm76g4ubf25vg63pgdh46uy2ysdwwn4ncdiiv2zu",
+  "integrity": {
+    "sequence": "902-903",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,22 @@
+{
+  "proof_id": 900,
+  "date": "2026-04-07",
+  "time": "18:36",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "seed planting",
+  "asset": [
+    "SEED-YLB-0001"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "yardlong bean seeds placed in soil, 5 seeds per hole, seeds distributed within planting hole",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicd3aomz6hrk2ek5poopqkhzcwjwvsitup4e4rabxpytkp5bsblo4",
+  "integrity": {
+    "sequence": "899-900",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

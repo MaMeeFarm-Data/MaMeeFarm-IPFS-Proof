@@ -1,0 +1,25 @@
+{
+  "proof_id": 899,
+  "date": "2026-04-07",
+  "time": "[fill]",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "equipment observation before operation",
+  "asset": [
+    "DEV-PRN-0001",
+    "DEV-SOIL-0001",
+    "TOL-HOE-0001",
+    "SEED-YLB-0001"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "printer device present, soil measurement device present, hoe tool present, yardlong bean seeds present, equipment arranged prior to operation",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibwu23btdmfuy7ayslgaddfnauuw26vao6czunsbe2tlkiuwsu3m4",
+  "integrity": {
+    "sequence": "898-899",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

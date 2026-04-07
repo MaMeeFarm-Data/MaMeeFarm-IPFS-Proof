@@ -1,0 +1,24 @@
+{
+  "proof_id": 902,
+  "date": "2026-04-07",
+  "time": "18:43",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "asset labeling",
+  "asset": [
+    "PLT-YLB-0003",
+    "PLT-YLB-0004",
+    "PLT-YLB-0005"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "physical labels attached to plant positions, asset IDs PLT-YLB-0003 to PLT-YLB-0005 assigned, printed labels include asset ID and zone reference",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigwzg3qsg3n3aot4yrubwigmeizgzxmkw243bw55vind2db46nvpm",
+  "integrity": {
+    "sequence": "901-902",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

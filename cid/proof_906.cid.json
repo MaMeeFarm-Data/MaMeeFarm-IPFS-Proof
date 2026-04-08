@@ -1,0 +1,22 @@
+{
+  "proof_id": 906,
+  "date": "2026-04-08",
+  "time": "18:22",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "seed extraction",
+  "asset": [
+    "PLT-YLB-0001"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "yardlong bean pods processed, seeds extracted from pods, seeds separated from shell",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidvxqtyzdiaw6muspzpg55vym353uuqid2aqs6deukwfphqx5sjji",
+  "integrity": {
+    "sequence": "905-906",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

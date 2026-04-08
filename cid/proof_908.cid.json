@@ -1,0 +1,23 @@
+{
+  "proof_id": 908,
+  "date": "2026-04-08",
+  "time": "18:35",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "seed labeling and packaging",
+  "asset": [
+    "SEED-YLB-0002",
+    "PLT-YLB-0001"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "seeds placed in plastic bag, label attached to bag, label includes asset ID parent location and weight, weight recorded as 77 grams",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia6dl73zuv2r6m3vpoab67btefifenv3ssw64tovwfq72cwtu4vpi",
+  "integrity": {
+    "sequence": "907-908",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

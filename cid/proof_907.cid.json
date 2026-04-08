@@ -1,0 +1,23 @@
+{
+  "proof_id": 907,
+  "date": "2026-04-08",
+  "time": "18:26",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "weight measurement",
+  "asset": [
+    "PLT-YLB-0001",
+    "EQP-SCL-0001"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "seeds placed on digital scale, recorded weight 77 grams, measurement displayed on device",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibmlsyy2tibsx3svhgkk7x6lrmdamwrkzmvvhvvfdc2qlg2wa34fa",
+  "integrity": {
+    "sequence": "906-907",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

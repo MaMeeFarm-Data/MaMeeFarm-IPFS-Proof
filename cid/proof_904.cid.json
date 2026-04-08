@@ -1,0 +1,22 @@
+{
+  "proof_id": 904,
+  "date": "2026-04-08",
+  "time": "17:59",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "harvest dry yardlong bean",
+  "asset": [
+    "PLT-YLB-0001"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "dry yardlong bean pods present on plant, pods collected from plant, dry stage observed",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihkz3yjk2io4y2w4jlxoh32ktqshl6anczcpuulzoz6ae3oyzjldm",
+  "integrity": {
+    "sequence": "903-904",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,22 @@
+{
+  "proof_id": 905,
+  "date": "2026-04-08",
+  "time": "18:04",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "post-harvest observation",
+  "asset": [
+    "PLT-YLB-0001"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "dry yardlong bean pods present, pods grouped after harvest, dry condition maintained",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiglr5ainkp6wckdnea3xhwhu23w3okwqqhku7ee6q3pwy5hk3oqom",
+  "integrity": {
+    "sequence": "904-905",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-08",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "summary": [
+    "dry pod harvest recorded",
+    "post-harvest handling observed",
+    "seed extraction completed",
+    "weight measurement recorded",
+    "seed labeling and packaging completed"
+  ],
+  "activity_log": [
+    {
+      "proof_id": 904,
+      "activity": "dry yardlong bean harvest"
+    },
+    {
+      "proof_id": 905,
+      "activity": "post-harvest observation"
+    },
+    {
+      "proof_id": 906,
+      "activity": "seed extraction"
+    },
+    {
+      "proof_id": 907,
+      "activity": "weight measurement (77 grams)"
+    },
+    {
+      "proof_id": 908,
+      "activity": "seed labeling and packaging"
+    }
+  ],
+  "asset_coverage": [
+    "PLT-YLB-0001",
+    "SEED-YLB-0002",
+    "EQP-SCL-0001"
+  ],
+  "zone_coverage": {
+    "zone": [
+      "FZ-03",
+      "HZ-02"
+    ],
+    "location": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "system_note": "harvest to seed preparation sequence recorded with traceable linkage from plant asset to seed asset",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,22 @@
+{
+  "proof_id": 911,
+  "date": "2026-04-09",
+  "time": "18:25",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "fruit observation",
+  "asset": [
+    "PLT-BAN-0001"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "banana fruit cluster present, fruit structure visible on plant, cluster condition observed",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibpiynjc7klltatzvkzx3vfd7ekt7bexcixijxd7y4pngdglqduoq",
+  "integrity": {
+    "sequence": "910-911",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

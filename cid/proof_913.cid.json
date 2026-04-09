@@ -1,0 +1,22 @@
+{
+  "proof_id": 913,
+  "date": "2026-04-09",
+  "time": "18:30",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "area clearing",
+  "asset": [
+    "PLT-BAN-0001"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "ground area around banana plant cleared, removed plant material present on ground, base area visible",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic4e3onvdtmnajj24zglrv4pwnoyd7af5jor2l7jrsnzyt65ykyfa",
+  "integrity": {
+    "sequence": "912-913",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

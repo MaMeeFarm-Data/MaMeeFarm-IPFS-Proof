@@ -1,0 +1,22 @@
+{
+  "proof_id": 909,
+  "date": "2026-04-09",
+  "time": "18:20",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "tool observation",
+  "asset": [
+    "TOL-PRN-HOOK-0001"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "pruning hook tool present, tool condition observed, blade and handle visible",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigmqxdgcp6d65dhg24wufc2gouxj6vghjyame2iusfnbccdwgkqnu",
+  "integrity": {
+    "sequence": "908-909",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

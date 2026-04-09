@@ -1,0 +1,22 @@
+{
+  "proof_id": 910,
+  "date": "2026-04-09",
+  "time": "18:20",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "pre-pruning observation",
+  "asset": [
+    "PLT-BAN-0001"
+  ],
+  "zone": "FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "banana plant present, leaf structure visible, condition observed prior to pruning",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiec3gtkivgzfeb2ke5kwvxyrdkelwyw4zt532erupkl4c3bhdxm74",
+  "integrity": {
+    "sequence": "909-910",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

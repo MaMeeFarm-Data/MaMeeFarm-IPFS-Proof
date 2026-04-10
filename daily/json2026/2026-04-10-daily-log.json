@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-10",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "summary": [
+    "papaya fruit observation recorded",
+    "weight measurement completed",
+    "labeling recorded"
+  ],
+  "activity_log": [
+    {
+      "proof_id": 914,
+      "activity": "fruit observation"
+    },
+    {
+      "proof_id": 915,
+      "activity": "tool observation"
+    },
+    {
+      "proof_id": 916,
+      "activity": "weight measurement"
+    },
+    {
+      "proof_id": 917,
+      "activity": "weight measurement"
+    },
+    {
+      "proof_id": 918,
+      "activity": "labeling"
+    }
+  ],
+  "asset_coverage": [
+    "PLT-PAP-0001",
+    "PLT-PAP-0001-FRT-0002",
+    "EQP-SCL-0001",
+    "TOL-STL-0001"
+  ],
+  "zone_coverage": {
+    "zone": [
+      "HZ-02"
+    ],
+    "location": "MaMeeFarm (Primary DGCP Site)"
+  },
+  "system_note": "papaya harvest and measurement sequence recorded",
+  "license": "DGCP | MMFARM-POL-2025"
+}

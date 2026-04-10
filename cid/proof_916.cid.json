@@ -1,0 +1,23 @@
+{
+  "proof_id": 916,
+  "date": "2026-04-10",
+  "time": "14:06",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "weight measurement",
+  "asset": [
+    "PLT-PAP-0001",
+    "EQP-SCL-0001"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "papaya fruit placed on digital scale, recorded weight 710 grams, ripe fruit condition visible",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifhsndsmd3mf4bqf5p5vrtoagdqisigxazzzku5dt75x4tg6eovkm",
+  "integrity": {
+    "sequence": "915-916",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

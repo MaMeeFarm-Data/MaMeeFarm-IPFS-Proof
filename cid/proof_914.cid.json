@@ -1,0 +1,22 @@
+{
+  "proof_id": 914,
+  "date": "2026-04-10",
+  "time": "14:03",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "fruit observation",
+  "asset": [
+    "PLT-PAP-0001"
+  ],
+  "zone": "HZ-02",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "papaya fruit present on plant, ripe fruit observed, color change visible",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihyeevkbz5ukvwpfzwtkm267jnmyhduvxelrnaiw4bwnmsxkrhceu",
+  "integrity": {
+    "sequence": "913-914",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,22 @@
+{
+  "proof_id": 919,
+  "date": "2026-04-11",
+  "time": "07:49",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "gate operation",
+  "asset": [
+    "INF-GATE-0003"
+  ],
+  "zone": "HZ-02 to FZ-03 FZ-04 FZ-05",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "farm gate opened, access path visible, connection between zones present",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifvicjn2kwwgjofr7ydk6mhlz4gltlb5qgnddtiakl2wjbm4pafne",
+  "integrity": {
+    "sequence": "918-919",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

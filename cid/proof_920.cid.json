@@ -1,0 +1,22 @@
+{
+  "proof_id": 920,
+  "date": "2026-04-11",
+  "time": "07:53",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "water flow observation",
+  "asset": [
+    "FZ-05-CANAL-0001"
+  ],
+  "zone": "FZ-05",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "water flowing into canal, inflow point visible, connection from adjacent field present",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihmbuldpz5jw6lokuteuxhnftw4xt6twavrubsynjcioss4dwgkvu",
+  "integrity": {
+    "sequence": "919-920",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

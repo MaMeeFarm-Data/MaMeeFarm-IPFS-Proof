@@ -1,0 +1,26 @@
+{
+  "proof_id": 921,
+  "date": "2026-04-11",
+  "time": "07:55",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "area overview observation",
+  "asset": [
+    "FZ-03",
+    "FZ-04"
+  ],
+  "zone": [
+    "FZ-03",
+    "FZ-04"
+  ],
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "farm layout visible, multiple plant structures present, pathway and working area observed, banana clusters and support structures visible",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifm3o4bpkcikbdh4qxrae64f75xvewwomv7tjgjnzdh3iuynq3vm4",
+  "integrity": {
+    "sequence": "920-921",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,24 @@
+{
+  "proof_id": 922,
+  "date": "2026-04-11",
+  "time": "07:56",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "activity": "boundary observation",
+  "asset": [
+    "FZ-05"
+  ],
+  "zone": [
+    "FZ-05"
+  ],
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation": "side boundary of farm visible, no physical fence structure present, adjacent agricultural area observed, open access condition",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeielxqkx5jfzb274tpe3de7dwcrngntf4ylxfgl6r25byvkj7kdaym",
+  "integrity": {
+    "sequence": "921-922",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

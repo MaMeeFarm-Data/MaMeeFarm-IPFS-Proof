@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-11",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+
+  "summary": [
+    "farm gate opened and area accessed",
+    "water inflow observed from adjacent agricultural land",
+    "area overview recorded",
+    "boundary condition recorded",
+    "duck house microclimate recorded"
+  ],
+
+  "activity_log": [
+    {
+      "proof_id": 919,
+      "activity": "farm gate opened",
+      "asset": ["INF-GATE-0003"],
+      "zone": ["HZ-02", "FZ-03", "FZ-04", "FZ-05"]
+    },
+    {
+      "proof_id": 920,
+      "activity": "water inflow observation",
+      "asset": ["FZ-05-CANAL-0001"],
+      "zone": ["FZ-05"]
+    },
+    {
+      "proof_id": 921,
+      "activity": "area overview observation",
+      "asset": ["FZ-03", "FZ-04"],
+      "zone": ["FZ-03", "FZ-04"]
+    },
+    {
+      "proof_id": 922,
+      "activity": "boundary observation",
+      "asset": ["FZ-05"],
+      "zone": ["FZ-05"]
+    },
+    {
+      "proof_id": 923,
+      "activity": "microclimate measurement",
+      "asset": ["HTC-2"],
+      "zone": ["FZ-03", "FZ-03-T1"]
+    }
+  ],
+
+  "asset_coverage": [
+    "INF-GATE-0003",
+    "FZ-05-CANAL-0001",
+    "HTC-2"
+  ],
+
+  "zone_coverage": [
+    "HZ-02",
+    "FZ-03",
+    "FZ-04",
+    "FZ-05",
+    "FZ-03-T1"
+  ],
+
+  "data_highlights": {
+    "boundary_condition": "open (no fence at FZ-05)",
+    "external_water_flow": "present at canal interface",
+    "duck_house_microclimate": {
+      "temperature_in_c": 24.2,
+      "temperature_out_c": 24.4,
+      "humidity_percent": 72
+    },
+    "duck_presence": "no duck present"
+  },
+
+  "integrity": {
+    "proof_sequence": "919-923",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

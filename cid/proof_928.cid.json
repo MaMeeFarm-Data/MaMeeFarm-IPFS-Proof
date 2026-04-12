@@ -1,0 +1,20 @@
+{
+  "proof_id": 928,
+  "date": "2026-04-12",
+  "time": "17:55",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity": "label application",
+  "asset": "PLT-BAN-0006",
+  "zone": "FZ-03",
+  "observation": "physical label applied, care event 02 recorded, reference to proof 926-927",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeih6t5zh7jges2ry4kluwvukjnz4ko5sdskze5c7ijwy42r42h4x4m",
+  "integrity": {
+    "sequence": "926-927-928",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

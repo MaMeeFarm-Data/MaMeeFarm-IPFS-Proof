@@ -1,0 +1,21 @@
+{
+  "proof_id": 926,
+  "date": "2026-04-12",
+  "time": "17:48",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity": "pre-cut observation",
+  "asset": "PLT-BAN-0006",
+  "tool": "TOL-PRN-HOOK-0001",
+  "zone": "FZ-03",
+  "observation": "banana blossom present below fruit cluster, recorded prior to cutting, tool prepared",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifszrlwcauya6dx6fmegc3w76l4zkuey4agrt2ek66s2aazrwvybu",
+  "integrity": {
+    "sequence": "925-926",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

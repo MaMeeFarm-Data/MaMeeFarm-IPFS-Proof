@@ -1,0 +1,20 @@
+{
+  "proof_id": 925,
+  "date": "2026-04-12",
+  "time": "17:46",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity": "asset registration and labeling",
+  "asset": "PLT-BAN-0009",
+  "zone": "HZ-02",
+  "observation": "physical label attached to banana plant, event defined as banana blossom emergence, event id PLT-BAN-0009 CARE-01, reference linked to proof 924",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiajxqubjawgz2rgfd626mvkfglhjvj6atlbk5at56iki3xpndylla",
+  "integrity": {
+    "sequence": "924-925",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

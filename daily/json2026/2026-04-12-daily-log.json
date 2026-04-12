@@ -1,0 +1,74 @@
+{
+  "date": "2026-04-12",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+
+  "activity_summary": [
+    "banana blossom emergence observed",
+    "pre-cut banana blossom observation performed",
+    "banana blossom cutting operation recorded",
+    "post-cut state observed",
+    "physical labeling applied to banana plant"
+  ],
+
+  "data_units_recorded": [
+    {
+      "proof_id": 924,
+      "activity": "banana blossom emergence observed",
+      "asset": "PLT-BAN-0009",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 926,
+      "activity": "pre-cut observation",
+      "asset": "PLT-BAN-0006",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 927,
+      "activity": "post-cut observation",
+      "asset": "PLT-BAN-0006",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 928,
+      "activity": "label application",
+      "asset": "PLT-BAN-0006",
+      "zone": "FZ-03"
+    }
+  ],
+
+  "asset_coverage": [
+    "PLT-BAN-0009",
+    "PLT-BAN-0006"
+  ],
+
+  "zone_coverage": [
+    "HZ-02",
+    "FZ-03"
+  ],
+
+  "process_note": {
+    "event": "banana blossom management",
+    "sequence": [
+      "emergence",
+      "pre-cut",
+      "post-cut",
+      "labeling"
+    ],
+    "care_event": "02",
+    "asset": "PLT-BAN-0006",
+    "status": "closed"
+  },
+
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "sequence_complete": true,
+    "physical_digital_link": true
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,20 @@
+{
+  "proof_id": 927,
+  "date": "2026-04-12",
+  "time": "17:50",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity": "post-cut observation",
+  "asset": "PLT-BAN-0006",
+  "zone": "FZ-03",
+  "observation": "banana blossom removed, lower section cleared, fruit cluster intact",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibxomolx2bn6f5ts3ih6qp5svfjbhvynk3qacibs7apzeajed46ze",
+  "integrity": {
+    "sequence": "926-927",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

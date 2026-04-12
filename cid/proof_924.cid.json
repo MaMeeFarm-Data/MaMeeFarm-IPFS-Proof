@@ -1,0 +1,20 @@
+{
+  "proof_id": 924,
+  "date": "2026-04-12",
+  "time": "17:40",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity": "banana flowering observation",
+  "asset": "unregistered (pre-registration)",
+  "zone": "HZ-02",
+  "observation": "banana inflorescence present, purple banana blossom visible, plant structure intact, pre-registration state prior to asset assignment BAN-0009",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeie7fu23wndwyhhn5mayrqqlnkcpzyj26z4hvlyv2yjplncfvyfgii",
+  "integrity": {
+    "sequence": "923-924",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

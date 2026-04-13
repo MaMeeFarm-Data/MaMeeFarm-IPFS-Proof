@@ -1,0 +1,22 @@
+{
+  "proof_id": 930,
+  "date": "2026-04-13",
+  "time": "07:55",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity": "soil moisture measurement",
+  "asset": [
+    "DEV-SOIL-0001"
+  ],
+  "zone": "FZ-03",
+  "observation": "soil moisture measurement performed before planting, measurement device present",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihwkpjssxeyg7sn2wlsupr3ni2rikhgit4zrm7pxwrnxvc4hv4hfy",
+  "integrity": {
+    "sequence": "929-930",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

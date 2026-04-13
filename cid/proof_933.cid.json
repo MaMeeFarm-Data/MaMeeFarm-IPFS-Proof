@@ -1,0 +1,26 @@
+{
+  "proof_id": 933,
+  "date": "2026-04-13",
+  "time": "08:16",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity": "label application",
+  "asset": [
+    "PLT-TOM-0006",
+    "PLT-TOM-0007",
+    "PLT-TOM-0008",
+    "PLT-TOM-0009",
+    "PLT-TOM-0010"
+  ],
+  "zone": "FZ-03",
+  "observation": "physical labels applied to tomato plants after planting",
+  "evidence": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifllqcmhv3d3mlzkbrhj7bpp55wh7py2geenhl2ugnanc4ymw6esi",
+  "integrity": {
+    "sequence": "932-933",
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

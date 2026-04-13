@@ -1,0 +1,70 @@
+{
+  "date": "2026-04-13",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity_summary": [
+    "planting holes prepared",
+    "soil moisture measured",
+    "tomato plants observed",
+    "tomato planting performed",
+    "physical labeling applied"
+  ],
+  "data_units": [
+    {
+      "proof_id": 929,
+      "activity": "planting hole observation",
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 930,
+      "activity": "soil moisture measurement",
+      "asset": ["DEV-SOIL-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 931,
+      "activity": "tomato observation",
+      "asset": ["PLT-TOM-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 932,
+      "activity": "tomato planting observation",
+      "asset": ["PLT-TOM-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 933,
+      "activity": "label application",
+      "asset": [
+        "PLT-TOM-0006",
+        "PLT-TOM-0007",
+        "PLT-TOM-0008",
+        "PLT-TOM-0009",
+        "PLT-TOM-0010"
+      ],
+      "zone": "FZ-03"
+    }
+  ],
+  "asset_coverage": [
+    "TOL-HOE-0001",
+    "DEV-SOIL-0001",
+    "DEV-PRN-0001",
+    "PLT-TOM-0001",
+    "PLT-TOM-0006",
+    "PLT-TOM-0007",
+    "PLT-TOM-0008",
+    "PLT-TOM-0009",
+    "PLT-TOM-0010"
+  ],
+  "zone_coverage": [
+    "FZ-03"
+  ],
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

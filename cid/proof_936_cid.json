@@ -1,0 +1,15 @@
+{
+  "proof_id": "936",
+  "date": "2026-04-14",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file": "proof/proof_936.md",
+  "evidence_ipfs": "bafybeigtscslvzfczba4ezfokz3vxlicyuomop7lnw444tg4i3sh3r5ngy",
+  "description": "fire ignition state observed using INF-TIM-0001 with STV-0001 at 00:18",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

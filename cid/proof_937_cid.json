@@ -1,0 +1,15 @@
+{
+  "proof_id": "937",
+  "date": "2026-04-14",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file": "proof/proof_937.md",
+  "evidence_ipfs": "bafybeidqbfmwp4cxgtzakm25z4cejbkm77romi6zzq5g3jkz7wp6kabwmy",
+  "description": "rice pot placement recorded using INF-TIM-0001 with STV-0001 at 00:46",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

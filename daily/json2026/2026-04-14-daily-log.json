@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-14",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity_summary": [
+    "rice weight measurement performed",
+    "fire ignition recorded",
+    "pot placement recorded",
+    "rice cooking process recorded",
+    "rice cooking completion recorded"
+  ],
+  "data_units_recorded": [
+    {
+      "proof_id": 934,
+      "description": "rice weight measurement",
+      "assets": ["EQP-SCL-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 935,
+      "description": "fire ignition",
+      "assets": ["STV-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 936,
+      "description": "pot placement",
+      "assets": ["STV-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 937,
+      "description": "rice cooking process",
+      "assets": ["INF-TIM-0001", "STV-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 938,
+      "description": "rice cooking completion",
+      "assets": ["INF-TIM-0001", "STV-0001"],
+      "zone": "HZ-02"
+    }
+  ],
+  "asset_coverage": [
+    "EQP-SCL-0001",
+    "INF-TIM-0001",
+    "STV-0001"
+  ],
+  "zone_coverage": [
+    "HZ-02"
+  ],
+  "process_note": {
+    "rice_cooking_sequence": [
+      "weight",
+      "ignition",
+      "placement",
+      "process",
+      "completion"
+    ]
+  },
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_linkage": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

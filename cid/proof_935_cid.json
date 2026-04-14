@@ -1,0 +1,15 @@
+{
+  "proof_id": "935",
+  "date": "2026-04-14",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file": "proof/proof_935.md",
+  "evidence_ipfs": "bafybeifxxd3cpgtyxahy24lsac5wgtrv25mmzdr25yicbwfag3wgvt5nha",
+  "description": "rice cooking timer start recorded using INF-TIM-0001 with STV-0001 at 00:00",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

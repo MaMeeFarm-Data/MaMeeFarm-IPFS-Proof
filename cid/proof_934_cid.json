@@ -1,0 +1,15 @@
+{
+  "proof_id": "934",
+  "date": "2026-04-14",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file": "proof/proof_934.md",
+  "evidence_ipfs": "bafybeib3ff4zipw3pqmfhasczxvv2njcbs5amtbxcjli7gtroi47vaklry",
+  "description": "rice weight measurement performed using EQP-SCL-0001, result 347 g",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

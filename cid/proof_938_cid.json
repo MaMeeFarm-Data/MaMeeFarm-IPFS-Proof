@@ -1,0 +1,15 @@
+{
+  "proof_id": "938",
+  "date": "2026-04-14",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file": "proof/proof_938.md",
+  "evidence_ipfs": "bafybeicizmgd33ybeptidplarp5ypy447lrnwfvswkzrbcfvstvpycrcxe",
+  "description": "rice cooking completion recorded using INF-TIM-0001 with STV-0001 at 22:17",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

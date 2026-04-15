@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-15",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity_summary": [
+    "grass observation around underground well performed",
+    "tool presence recorded",
+    "water level observed",
+    "grass clearing operation performed",
+    "physical labeling applied"
+  ],
+  "data_units_recorded": [
+    {
+      "proof_id": 939,
+      "description": "grass observation around underground well",
+      "assets": ["WT-UW-0001", "WT-UW-0002"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 940,
+      "description": "tool presence observation",
+      "assets": ["TOL-HOE-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 941,
+      "description": "water level observation",
+      "assets": ["WT-UW-0001", "WT-UW-0002"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 942,
+      "description": "grass clearing operation",
+      "assets": ["WT-UW-0001", "WT-UW-0002"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 943,
+      "description": "label application for weeding event",
+      "assets": ["WT-UW-0001", "WT-UW-0002"],
+      "zone": "HZ-02"
+    }
+  ],
+  "asset_coverage": [
+    "WT-UW-0001",
+    "WT-UW-0002",
+    "TOL-HOE-0001"
+  ],
+  "zone_coverage": [
+    "HZ-02"
+  ],
+  "process_note": {
+    "weeding_sequence": [
+      "grass presence",
+      "tool",
+      "water level",
+      "clearing",
+      "labeling"
+    ]
+  },
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_linkage": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

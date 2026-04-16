@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-16",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity_summary": [
+    "banana blossom emergence observed",
+    "tool usage for banana leaf trimming recorded",
+    "post-trimming leaf condition observed",
+    "soil condition around banana plant observed",
+    "physical labeling applied for identity binding"
+  ],
+  "data_units_recorded": [
+    {
+      "proof_id": 944,
+      "event": "banana blossom emergence observed",
+      "assets": ["PLT-BAN-0010"],
+      "zone": "FZ-05"
+    },
+    {
+      "proof_id": 945,
+      "event": "tool usage recorded",
+      "assets": ["TOL-PRN-HOOK-0001"],
+      "zone": "FZ-05"
+    },
+    {
+      "proof_id": 946,
+      "event": "post-trimming leaf condition observed",
+      "assets": ["PLT-BAN-0010"],
+      "zone": "FZ-05"
+    },
+    {
+      "proof_id": 947,
+      "event": "soil condition observed",
+      "assets": ["PLT-BAN-0010"],
+      "zone": "FZ-05"
+    },
+    {
+      "proof_id": 948,
+      "event": "label binding applied",
+      "assets": ["PLT-BAN-0010"],
+      "zone": "FZ-05"
+    }
+  ],
+  "asset_coverage": [
+    "PLT-BAN-0010",
+    "TOL-PRN-HOOK-0001"
+  ],
+  "zone_coverage": [
+    "FZ-05"
+  ],
+  "process_note": {
+    "process": "banana registration sequence",
+    "steps": [
+      "blossom emergence",
+      "tool usage",
+      "post-trimming",
+      "soil observation",
+      "label binding"
+    ]
+  },
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_linkage": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

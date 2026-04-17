@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-17",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity_summary": [
+    "Firewood cutting activity performed",
+    "Cut firewood pieces observed",
+    "Minor injury occurred during operation",
+    "Forehead injury condition observed",
+    "Firewood applied for cooking using wood stove"
+  ],
+  "data_units_recorded": [
+    {
+      "proof_id": 949,
+      "description": "firewood cutting recorded",
+      "assets": ["TOL-MCH-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 950,
+      "description": "cut firewood pieces observed",
+      "assets": ["TOL-MCH-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 951,
+      "description": "minor injury during firewood cutting",
+      "assets": ["TOL-MCH-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 952,
+      "description": "forehead injury observed from wood impact",
+      "assets": ["TOL-MCH-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 953,
+      "description": "firewood used for cooking",
+      "assets": ["TOL-MCH-0001", "STV-0001"],
+      "zone": "HZ-02"
+    }
+  ],
+  "asset_coverage": [
+    "TOL-MCH-0001",
+    "STV-0001"
+  ],
+  "zone_coverage": [
+    "HZ-02"
+  ],
+  "process_note": "Firewood usage sequence established: cutting → observation → incident → condition → application",
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_linkage": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

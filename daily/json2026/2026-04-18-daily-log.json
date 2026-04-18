@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-18",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+
+  "activity_summary": [
+    "papaya ripening observed",
+    "papaya harvest performed",
+    "weight measurement recorded",
+    "fruit identity binding applied"
+  ],
+
+  "data_units": [
+    {
+      "proof_id": "954",
+      "event": "papaya ripening observed",
+      "asset": "PLT-PAP-0003",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "955",
+      "event": "papaya ripening observed",
+      "asset": "PLT-PAP-0001",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "956",
+      "event": "harvest and weight measurement",
+      "asset": ["PLT-PAP-0003", "EQP-SCL-0001"],
+      "zone": "HZ-02",
+      "weight_g": 1241
+    },
+    {
+      "proof_id": "957",
+      "event": "harvest and weight measurement",
+      "asset": ["PLT-PAP-0001", "EQP-SCL-0001"],
+      "zone": "HZ-02",
+      "weight_g": 1517
+    },
+    {
+      "proof_id": "958",
+      "event": "identity binding applied",
+      "asset": [
+        "PLT-PAP-0003-FRT-0001",
+        "PLT-PAP-0001-FRT-0003"
+      ],
+      "zone": "HZ-02"
+    }
+  ],
+
+  "asset_coverage": [
+    "PLT-PAP-0003",
+    "PLT-PAP-0001",
+    "EQP-SCL-0001"
+  ],
+
+  "zone_coverage": [
+    "HZ-02"
+  ],
+
+  "process_note": "ripening -> harvest -> measurement -> identity_binding",
+
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_link": true
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

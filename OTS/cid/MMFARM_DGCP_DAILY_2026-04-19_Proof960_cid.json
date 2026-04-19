@@ -1,0 +1,13 @@
+{
+  "proof_id": 960,
+  "date": "2026-04-19",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "MMFARM_DGCP_DAILY_2026-04-19_Proof960.md",
+  "file_size": "354 B",
+  "sha256": "973cecbc961652a47ac83168276bbfef3904abf1fcce97ecd441bf81a21ca79b",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "verified",
+  "sequence": "959 → 960",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2026-04-19",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "data_unit_range": "Proof 959 → Proof 963",
+  "activity_summary": [
+    "Jackfruit tree pre-registration observed",
+    "Tool preparation for maintenance recorded",
+    "Jackfruit fruit presence observed",
+    "Banana clearing around jackfruit tree performed",
+    "Physical labeling applied for identity binding"
+  ],
+  "data_units": [
+    {
+      "proof_id": 959,
+      "description": "jackfruit tree observed before registration",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 960,
+      "description": "tool preparation recorded",
+      "assets": ["TOL-MCH-0001", "TOL-HOE-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 961,
+      "description": "jackfruit fruit observed on tree",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 962,
+      "description": "banana clearing around jackfruit tree",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 963,
+      "description": "label binding applied",
+      "assets": ["PLT-JCK-0001"],
+      "zone": "HZ-02"
+    }
+  ],
+  "asset_coverage": [
+    "PLT-JCK-0001",
+    "TOL-MCH-0001",
+    "TOL-HOE-0001"
+  ],
+  "zone_coverage": [
+    "HZ-02"
+  ],
+  "process_note": "tree observation → tool preparation → fruit observation → area clearing → label binding",
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_link": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

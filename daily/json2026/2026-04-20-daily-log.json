@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-20",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "data_unit_range": "Proof 964 → Proof 968",
+
+  "activity_summary": [
+    "underground water well observed",
+    "pump deployment into well recorded",
+    "solar panel array observed",
+    "power inverter observed",
+    "solar-powered water pumping and irrigation applied"
+  ],
+
+  "data_units": [
+    {
+      "proof_id": 964,
+      "event": "underground water well observation",
+      "assets": ["WT-UW-0001", "WT-UW-0002"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 965,
+      "event": "pump deployment into well",
+      "assets": ["PMP-0003", "WT-UW-0001", "WT-UW-0002"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 966,
+      "event": "solar panel array observation",
+      "assets": ["SPV-A-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 967,
+      "event": "power inverter observation",
+      "assets": ["INV-01", "SPV-A-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 968,
+      "event": "solar-powered water pumping and irrigation",
+      "assets": [
+        "PMP-0003",
+        "WT-UW-0001",
+        "WT-UW-0002",
+        "SPV-A-0001",
+        "INV-01",
+        "PLT-CHM-0001",
+        "PLT-CHM-0002",
+        "PLT-CHM-0003"
+      ],
+      "zone": "HZ-02"
+    }
+  ],
+
+  "asset_coverage": [
+    "WT-UW-0001",
+    "WT-UW-0002",
+    "PMP-0003",
+    "SPV-A-0001",
+    "INV-01",
+    "PLT-CHM-0001",
+    "PLT-CHM-0002",
+    "PLT-CHM-0003"
+  ],
+
+  "zone_coverage": [
+    "HZ-02"
+  ],
+
+  "process_note": "water source → pump deployment → power generation → power conversion → irrigation",
+
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_link": true
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

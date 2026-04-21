@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-21",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "framework": "DGCP™",
+  "mode": "observation_append_only_no_interpretation",
+
+  "scope": "banana plant observation, asset preparation, ground clearing, tool deployment, identity binding",
+
+  "proof_range": {
+    "start": 969,
+    "end": 973,
+    "total": 5
+  },
+
+  "activities": [
+    "banana plant flowering observed (blossom emerged)",
+    "asset preparation for banana plant registration (BAN-0011)",
+    "tools prepared for field operation",
+    "ground clearing around banana plant",
+    "grass cutting operation performed",
+    "banana leaf trimming completed",
+    "physical label installed on banana plant",
+    "identity binding between digital record and physical asset completed"
+  ],
+
+  "assets": [
+    "PLT-BAN-0011",
+    "DEV-PRN-0001",
+    "TOL-PRN-HOOK-0001",
+    "EQP-GRC-0001"
+  ],
+
+  "zone": "FZ-05",
+
+  "system_notes": [
+    "observation_to_binding_cycle_completed",
+    "physical_digital_link_established",
+    "asset_stage_recorded_flowering",
+    "tool_usage_linked_to_maintenance"
+  ],
+
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "sequence_valid": true,
+    "sequence": "969 -> 970 -> 971 -> 972 -> 973",
+    "traceable": true
+  },
+
+  "status": {
+    "daily_record": "complete",
+    "asset_binding": "completed",
+    "chain_continuity": "valid"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

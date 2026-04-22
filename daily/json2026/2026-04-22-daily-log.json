@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-22",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+
+  "activity_summary": [
+    "Dog food inventory batch prepared for registration",
+    "Four sacks (20kg each) observed and separated",
+    "Physical labeling applied to all units",
+    "Asset identity assigned for each sack",
+    "Inventory state recorded as standby and unopened"
+  ],
+
+  "data_units_recorded": [
+    {
+      "proof_id": "974",
+      "description": "dog food sacks observed before registration",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "975",
+      "description": "physical label installed",
+      "asset": "INF-SACK20-0016",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "976",
+      "description": "physical label installed",
+      "asset": "INF-SACK20-0017",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "977",
+      "description": "physical label installed",
+      "asset": "INF-SACK20-0018",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "978",
+      "description": "physical label installed",
+      "asset": "INF-SACK20-0019",
+      "zone": "HZ-02"
+    }
+  ],
+
+  "asset_coverage": [
+    "INF-SACK20-0016",
+    "INF-SACK20-0017",
+    "INF-SACK20-0018",
+    "INF-SACK20-0019"
+  ],
+
+  "zone_coverage": [
+    "HZ-02"
+  ],
+
+  "process_note": {
+    "sequence": [
+      "bulk observation",
+      "unit separation",
+      "labeling",
+      "identity binding"
+    ],
+    "result": "All units transitioned from non-traceable bulk state to individually traceable DGCP assets"
+  },
+
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_link": true,
+    "batch_traceability": "complete"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,13 @@
+{
+  "proof_id": "983",
+  "date": "2026-04-23",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file": "proof/proof_983.md",
+  "evidence": "bafybeidr4rnnmfkjhu7hdwi3g3zh63adsbluhhcci5zcplx6nmbvde3p6m",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "sequence": "982 -> 983",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "license": "DGCP | MMFARM-POL-2025"
+}

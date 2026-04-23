@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-23",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "framework": "DGCP™",
+  "mode": "observation_only_append_only_no_interpretation",
+  "summary": "papaya fruit lifecycle completed from observation to packaging with full traceability linkage",
+  "proof_range": {
+    "start": 979,
+    "end": 983
+  },
+  "proofs": [
+    {
+      "id": 979,
+      "event": "pre_harvest_observation",
+      "asset": "PLT-PAP-0001"
+    },
+    {
+      "id": 980,
+      "event": "on_tree_confirmation",
+      "asset": "PLT-PAP-0001"
+    },
+    {
+      "id": 981,
+      "event": "weight_measurement",
+      "asset": "PLT-PAP-0001-FRT-0004",
+      "weight_grams": 1012
+    },
+    {
+      "id": 982,
+      "event": "weight_measurement",
+      "asset": "PLT-PAP-0001-FRT-0005",
+      "weight_grams": 777
+    },
+    {
+      "id": 983,
+      "event": "packaging_and_traceability",
+      "assets": [
+        "PLT-PAP-0001-FRT-0004",
+        "PLT-PAP-0001-FRT-0005"
+      ]
+    }
+  ],
+  "assets": [
+    "PLT-PAP-0001",
+    "PLT-PAP-0001-FRT-0004",
+    "PLT-PAP-0001-FRT-0005",
+    "EQP-SCL-0001"
+  ],
+  "zones": [
+    "HZ-02"
+  ],
+  "integrity": {
+    "sequence": "978 -> 979 -> 980 -> 981 -> 982 -> 983",
+    "missing": false,
+    "duplicate": false,
+    "retroactive_edit": false
+  },
+  "next_expected_proof": 984,
+  "status": {
+    "dataset": "complete",
+    "chain": "valid",
+    "integrity": "confirmed"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

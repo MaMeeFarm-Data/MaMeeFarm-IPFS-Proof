@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-24",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "data_unit_range": "Proof 984 → Proof 989",
+  "activity_summary": [
+    "banana bunch observed before harvest",
+    "harvest tool position observed",
+    "banana bunch harvested",
+    "banana hands separated from bunch",
+    "physical labeling applied to harvested banana batch",
+    "representative hand-level tracking applied"
+  ],
+  "data_units_recorded": [
+    {
+      "proof_id": "984",
+      "description": "banana bunch observed before harvest",
+      "assets": ["PLT-BAN-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "985",
+      "description": "pruning hook positioned for harvest",
+      "assets": ["TOL-PRN-HOOK-0001", "PLT-BAN-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "986",
+      "description": "harvested banana bunch observed",
+      "assets": ["PLT-BAN-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "987",
+      "description": "banana bunch separated into 12 hands",
+      "assets": ["PLT-BAN-0001", "TOL-MCH-0001"],
+      "zone": "FZ-03",
+      "total_hands": 12
+    },
+    {
+      "proof_id": "988",
+      "description": "physical label applied to harvested banana hands",
+      "assets": ["PLT-BAN-0001"],
+      "zone": "FZ-03",
+      "tracked_hands": 5,
+      "selection_type": "representative sampling"
+    },
+    {
+      "proof_id": "989",
+      "description": "representative banana hands labeled and counted",
+      "assets": ["PLT-BAN-0001"],
+      "zone": "FZ-03",
+      "selected_hands": 6,
+      "fruit_count_per_sample": 18
+    }
+  ],
+  "asset_coverage": [
+    "PLT-BAN-0001",
+    "TOL-PRN-HOOK-0001",
+    "TOL-MCH-0001"
+  ],
+  "zone_coverage": [
+    "FZ-03"
+  ],
+  "process_note": {
+    "sequence": [
+      "pre-harvest observation",
+      "tool positioning",
+      "harvest",
+      "hand separation",
+      "batch label",
+      "representative hand tracking"
+    ],
+    "note": "PLT-BAN-0001 has multiple prior care events. This daily log references the tracking point beginning from 2026-01-16 Inflorescence Cut Proof 498 / DU 00332 as the lifecycle linkage point for this harvest sequence."
+  },
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_link": true,
+    "harvest_sequence_traceability": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

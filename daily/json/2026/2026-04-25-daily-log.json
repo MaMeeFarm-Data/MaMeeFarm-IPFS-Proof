@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-25",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+
+  "activity_summary": [
+    "Banana inflorescence observed prior to registration",
+    "Pre-cut condition observed",
+    "Cutting tool observed near plant",
+    "Surrounding area observed after clearing",
+    "Physical label applied to banana trunk"
+  ],
+
+  "data_units_recorded": [
+    "Proof 990 — pre-registration observation (PLT-BAN-0012, FZ-03)",
+    "Proof 991 — pre-cut observation (PLT-BAN-0012, FZ-03)",
+    "Proof 992 — tool observation (TOL-PRN-HOOK-0001, PLT-BAN-0012, FZ-03)",
+    "Proof 993 — surrounding area context after clearing (PLT-BAN-0012, FZ-03)",
+    "Proof 994 — physical label applied (PLT-BAN-0012, FZ-03)"
+  ],
+
+  "asset_coverage": [
+    "PLT-BAN-0012",
+    "TOL-PRN-HOOK-0001"
+  ],
+
+  "zone_coverage": [
+    "FZ-03"
+  ],
+
+  "process_note": "pre-registration → pre-cut → tool observation → surrounding context → physical labeling",
+
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "physical_digital_link": true,
+    "traceability": "maintained"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

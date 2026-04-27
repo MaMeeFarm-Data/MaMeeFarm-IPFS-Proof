@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-27",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+
+  "activity_summary": [
+    "Tool observed on ground surface",
+    "Soil canal with water present",
+    "Water discharge from pump system",
+    "Underground water well observed",
+    "Pump unit positioned outside well after operation"
+  ],
+
+  "data_units": [
+    {
+      "proof_id": "1000",
+      "description": "tool observation",
+      "assets": ["TOL-HOE-0001"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "1001",
+      "description": "soil canal water flow observation",
+      "assets": [],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "1002",
+      "description": "water discharge from pump system",
+      "assets": ["WT-UW-0001", "WT-UW-0002", "PMP-0003"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "1003",
+      "description": "underground water well observation",
+      "assets": ["WT-UW-0001", "WT-UW-0002"],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "1004",
+      "description": "post-operation pump observation",
+      "assets": ["PMP-0003", "WT-UW-0001", "WT-UW-0002"],
+      "zone": "HZ-02"
+    }
+  ],
+
+  "asset_coverage": [
+    "TOL-HOE-0001",
+    "PMP-0003",
+    "WT-UW-0001",
+    "WT-UW-0002"
+  ],
+
+  "zone_coverage": [
+    "HZ-02"
+  ],
+
+  "process_note": [
+    "tool presence",
+    "canal water presence",
+    "pump discharge",
+    "well observation",
+    "post-operation equipment state"
+  ],
+
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "sequence": "999 -> 1004",
+    "physical_digital_linkage": "maintained"
+  },
+
+  "standard": "DGCP-GLOBAL-LOG-1.0",
+  "license": "DGCP | MMFARM-POL-2025"
+}

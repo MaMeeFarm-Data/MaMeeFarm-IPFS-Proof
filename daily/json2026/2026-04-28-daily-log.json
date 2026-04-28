@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-28",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activity_summary": [
+    "Pre-clearing observation of tomato plant area",
+    "Tool preparation and positioning observed",
+    "Tomato plant condition observed",
+    "Soil moisture measured",
+    "Soil clearing and loosening performed",
+    "Watering applied after clearing",
+    "Physical plant labeling applied"
+  ],
+  "data_units": [
+    {
+      "proof_id": "1005",
+      "description": "pre-clearing observation",
+      "assets": ["PLT-TOM-0002", "PLT-TOM-0003", "PLT-TOM-0004", "PLT-TOM-0005"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "1006",
+      "description": "plant condition observation",
+      "assets": ["PLT-TOM-0002", "PLT-TOM-0003", "PLT-TOM-0004", "PLT-TOM-0005"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "1007",
+      "description": "soil moisture measurement",
+      "assets": ["DEV-SOIL-0001"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "1008",
+      "description": "watering after soil clearing",
+      "assets": ["PLT-TOM-0002", "PLT-TOM-0003", "PLT-TOM-0004", "PLT-TOM-0005"],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": "1009",
+      "description": "physical label applied",
+      "assets": ["PLT-TOM-0002", "PLT-TOM-0003", "PLT-TOM-0004", "PLT-TOM-0005"],
+      "zone": "FZ-03"
+    }
+  ],
+  "asset_coverage": [
+    "PLT-TOM-0002",
+    "PLT-TOM-0003",
+    "PLT-TOM-0004",
+    "PLT-TOM-0005",
+    "TOL-HOE-0001",
+    "DEV-SOIL-0001"
+  ],
+  "zone_coverage": ["FZ-03"],
+  "process_note": "pre-clearing observation → tool preparation → plant condition → soil measurement → soil clearing → watering → physical labeling",
+  "integrity": {
+    "forward_only": true,
+    "retroactive_edit": false,
+    "traceability": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

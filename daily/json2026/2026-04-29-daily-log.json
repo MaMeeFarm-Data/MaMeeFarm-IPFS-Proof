@@ -1,0 +1,76 @@
+{
+  "date": "2026-04-29",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+
+  "activity_summary": [
+    "Banana bunch observed before harvest",
+    "Harvest tool observed",
+    "Banana bunch observed",
+    "Banana bunch separated into hands",
+    "Physical fruit labeling applied"
+  ],
+
+  "data_units_recorded": [
+    {
+      "proof": "1010",
+      "description": "banana bunch observed before harvest",
+      "asset": "PLT-BAN-0002",
+      "zone": "FZ-04"
+    },
+    {
+      "proof": "1011",
+      "description": "harvest tool observed",
+      "asset": "TOL-PRN-HOOK-0001",
+      "zone": "FZ-04"
+    },
+    {
+      "proof": "1012",
+      "description": "banana bunch observed",
+      "asset": "PLT-BAN-0002",
+      "zone": "FZ-04"
+    },
+    {
+      "proof": "1013",
+      "description": "banana bunch separated into 6 hands",
+      "asset": "PLT-BAN-0002",
+      "zone": "FZ-04"
+    },
+    {
+      "proof": "1014",
+      "description": "physical fruit labeling applied (3 hands, 12 fruits each)",
+      "asset": "PLT-BAN-0002",
+      "zone": "FZ-04"
+    }
+  ],
+
+  "asset_coverage": [
+    "PLT-BAN-0002",
+    "TOL-PRN-HOOK-0001",
+    "FRT-0001",
+    "FRT-0002",
+    "FRT-0003"
+  ],
+
+  "zone_coverage": [
+    "FZ-04"
+  ],
+
+  "process_note": [
+    "pre-harvest observation",
+    "tool observation",
+    "bunch observation",
+    "hand separation",
+    "physical fruit labeling"
+  ],
+
+  "integrity": {
+    "forward_only": true,
+    "no_retroactive_edit": true,
+    "traceability": "maintained"
+  },
+
+  "license": "DGCP | MMFARM-POL-2025"
+}

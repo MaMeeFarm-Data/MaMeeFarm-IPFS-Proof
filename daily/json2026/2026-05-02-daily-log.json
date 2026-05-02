@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-02",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "framework": "DGCP™",
+  "mode": "Observation • Append-only • No interpretation",
+  "proof_range": "1025-1029",
+  "recorded_events": [
+    "Proof 1025 — water pump observation (HZ-PMP-0003, HZ-02)",
+    "Proof 1026 — water pump deployment into well (HZ-PMP-0003, WT-UW-0001-0002, HZ-02)",
+    "Proof 1027 — water pump output to storage tank (HZ-PMP-0003, WT-M-0004, HZ-02)",
+    "Proof 1028 — water tank full level observed (WT-M-0004, HZ-02)",
+    "Proof 1029 — water pump retrieval and storage (HZ-PMP-0003, HZ-02)"
+  ],
+  "asset_coverage": [
+    "HZ-PMP-0003",
+    "WT-UW-0001",
+    "WT-UW-0002",
+    "WT-M-0004"
+  ],
+  "zone_coverage": [
+    "HZ-02"
+  ],
+  "process_note": "pump observation → pump deployment into well → water output to storage tank → tank full level observation → pump retrieval and storage",
+  "integrity": {
+    "append_only": true,
+    "retroactive_modification": "none",
+    "sequence": "1025 -> 1029"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

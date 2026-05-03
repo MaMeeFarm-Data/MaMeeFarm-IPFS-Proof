@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-03",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "mode": "daily_record_append_only",
+  "proof_range": "1030-1034",
+  "events": [
+    "papaya observation",
+    "papaya harvested",
+    "papaya weight measurement FRT-0006 752g",
+    "papaya weight measurement FRT-0007 582g",
+    "papaya physical labeling"
+  ],
+  "assets": [
+    "PLT-PAP-0001",
+    "FRT-0006",
+    "FRT-0007",
+    "EQP-SCL-0001"
+  ],
+  "integrity": {
+    "sequence": "valid",
+    "missing": "none",
+    "duplicate": "none",
+    "retroactive_edit": "none"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

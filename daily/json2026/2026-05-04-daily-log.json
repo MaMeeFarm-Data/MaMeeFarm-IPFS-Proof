@@ -1,0 +1,34 @@
+{
+  "date": "2026-05-04",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "mode": "observation_only",
+  "data_unit_coverage": {
+    "proof_start": 1035,
+    "proof_end": 1039
+  },
+  "events": [
+    "banana plant broken condition observed",
+    "internal stem structure documented",
+    "banana bunch pre-mature condition observed",
+    "pre-cut state recorded with machete",
+    "post-cut banana bunch documented",
+    "fruit density and compact structure observed"
+  ],
+  "assets": [
+    "PLT-BAN-0004",
+    "TOL-MCH-0001"
+  ],
+  "zones": [
+    "FZ-03"
+  ],
+  "integrity": {
+    "sequence_continuity": "valid",
+    "missing": false,
+    "duplicate": false,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-05",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "mode": "observation_only",
+  "proof_range": "1040-1044",
+  "events": [
+    "dog food sacks observed",
+    "physical labels applied",
+    "asset traceability established",
+    "stock count confirmed (0019-0022)",
+    "all sacks unopened and intact"
+  ],
+  "assets": [
+    "INF-SACK20-0019",
+    "INF-SACK20-0020",
+    "INF-SACK20-0021",
+    "INF-SACK20-0022"
+  ],
+  "zone": "HZ-02",
+  "integrity": {
+    "sequence_continuity": true,
+    "missing_entry": false,
+    "duplicate_entry": false,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

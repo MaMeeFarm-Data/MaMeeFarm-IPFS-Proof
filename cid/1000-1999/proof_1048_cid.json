@@ -1,0 +1,31 @@
+{
+  "proof_id": "1048",
+  "date": "2026-05-06",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "pumpkin weight measurement observation",
+  "asset_id": [
+    "PLT-PKN-0001",
+    "FRT-0002",
+    "EQP-SCL-0001"
+  ],
+  "zone": "HZ-02",
+  "observed_data": {
+    "fruit_id": "FRT-0002",
+    "weight_grams": 893,
+    "measurement_equipment": "Digital scale"
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeie3mgtbquhhx6dvnnvtytzvfnccxuuh3lrdpjm5sjoz2okmu3diq4",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeie3mgtbquhhx6dvnnvtytzvfnccxuuh3lrdpjm5sjoz2okmu3diq4",
+  "linked_context": {
+    "previous": "Proof 1047",
+    "continuation": "1045 → 1046 → 1047 → 1048"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,24 @@
+{
+  "proof_id": "1045",
+  "date": "2026-05-06",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "pumpkin observation before harvest",
+  "asset_id": [
+    "PLT-PKN-0001"
+  ],
+  "zone": "FZ-03",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeif4lcwybktmwdsciikd6ql7k3d26x7qdhcqjgjtzarla3d6nuhd2q",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif4lcwybktmwdsciikd6ql7k3d26x7qdhcqjgjtzarla3d6nuhd2q",
+  "linked_context": {
+    "previous": "Proof 1044",
+    "continuation": "1044 → 1045"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

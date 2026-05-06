@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-06",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "mode": "Field documentation",
+  "proof_coverage": {
+    "start": 1045,
+    "end": 1049
+  },
+  "events": [
+    {
+      "proof_id": 1045,
+      "event": "pumpkin observation before harvest",
+      "assets": [
+        "PLT-PKN-0001"
+      ],
+      "zone": "FZ-03"
+    },
+    {
+      "proof_id": 1046,
+      "event": "pumpkin fruit damage observation",
+      "assets": [
+        "PLT-PKN-0001",
+        "FRT-0001"
+      ],
+      "zone": "FZ-03",
+      "condition": "rot observed"
+    },
+    {
+      "proof_id": 1047,
+      "event": "pumpkin harvest observation",
+      "assets": [
+        "PLT-PKN-0001",
+        "FRT-0002"
+      ],
+      "zone": "FZ-03",
+      "status": "harvested"
+    },
+    {
+      "proof_id": 1048,
+      "event": "pumpkin weight measurement observation",
+      "assets": [
+        "PLT-PKN-0001",
+        "FRT-0002",
+        "EQP-SCL-0001"
+      ],
+      "zone": "HZ-02",
+      "weight_grams": 893
+    },
+    {
+      "proof_id": 1049,
+      "event": "physical traceability label application",
+      "assets": [
+        "PLT-PKN-0001",
+        "FRT-0002"
+      ],
+      "zone": "HZ-02",
+      "traceability": "proof chain linked"
+    }
+  ],
+  "integrity": {
+    "sequence_verified": true,
+    "missing_proof": false,
+    "duplicate_proof": false,
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,26 @@
+{
+  "proof_id": "1046",
+  "date": "2026-05-06",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "pumpkin fruit damage observation",
+  "asset_id": [
+    "PLT-PKN-0001",
+    "FRT-0001"
+  ],
+  "zone": "FZ-03",
+  "observed_condition": "rot observed",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeigokr3cv4rn7lnwpknvntbox4hhexkiy5w3lodqyjn5jxfrza7kaa",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigokr3cv4rn7lnwpknvntbox4hhexkiy5w3lodqyjn5jxfrza7kaa",
+  "linked_context": {
+    "previous": "Proof 1045",
+    "continuation": "1045 → 1046"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

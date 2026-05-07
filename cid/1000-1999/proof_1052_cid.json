@@ -1,0 +1,33 @@
+{
+  "proof_id": "1052",
+  "date": "2026-05-07",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "physical traceability label application",
+  "asset_id": [
+    "PLT-BAN-0010"
+  ],
+  "zone": "FZ-05",
+  "observed_data": {
+    "care_event": "02",
+    "label_status": "physical label applied",
+    "linked_proofs": [
+      "1050",
+      "1051",
+      "1052"
+    ]
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeigctc65frggjoooewt64pebdprwixk6fwxkp7kk5ydhkhv2bruta4",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigctc65frggjoooewt64pebdprwixk6fwxkp7kk5ydhkhv2bruta4",
+  "linked_context": {
+    "previous": "Proof 1051",
+    "continuation": "1049 → 1050 → 1051 → 1052"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

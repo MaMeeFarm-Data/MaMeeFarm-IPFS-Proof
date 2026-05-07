@@ -1,0 +1,29 @@
+{
+  "proof_id": "1051",
+  "date": "2026-05-07",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "banana blossom post-cut observation",
+  "asset_id": [
+    "PLT-BAN-0010"
+  ],
+  "zone": "FZ-05",
+  "observed_data": {
+    "care_event": "02",
+    "plant_status": "banana bunch active",
+    "blossom_status": "removed after cut"
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeibrwquln7dbcormnoma5v276c5ek2yormma2nszlciblbjh4c4vqe",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibrwquln7dbcormnoma5v276c5ek2yormma2nszlciblbjh4c4vqe",
+  "linked_context": {
+    "previous": "Proof 1050",
+    "continuation": "1049 → 1050 → 1051"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

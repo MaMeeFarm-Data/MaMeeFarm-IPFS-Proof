@@ -1,0 +1,31 @@
+{
+  "proof_id": "1050",
+  "date": "2026-05-07",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "banana blossom pre-cut observation",
+  "asset_id": [
+    "PLT-BAN-0010",
+    "TOL-PRN-HOOK-0001"
+  ],
+  "zone": "FZ-05",
+  "observed_data": {
+    "care_event": "02",
+    "plant_status": "banana bunch active",
+    "blossom_status": "present before cut",
+    "tool_status": "pruning hook observed"
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeidecrjq5d2eruew34r3zdjm2uz5tgghdlokkt3lac677s2nbydc7q",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidecrjq5d2eruew34r3zdjm2uz5tgghdlokkt3lac677s2nbydc7q",
+  "linked_context": {
+    "previous": "Proof 1049",
+    "continuation": "1049 → 1050"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

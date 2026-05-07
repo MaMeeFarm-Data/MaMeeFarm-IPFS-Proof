@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-07",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "mode": "Field documentation",
+  "proof_coverage": {
+    "start": 1050,
+    "end": 1055
+  },
+  "events": [
+    {
+      "proof_id": 1050,
+      "event": "banana blossom pre-cut observation",
+      "assets": [
+        "PLT-BAN-0010",
+        "TOL-PRN-HOOK-0001"
+      ],
+      "zone": "FZ-05",
+      "care_event": "02"
+    },
+    {
+      "proof_id": 1051,
+      "event": "banana blossom post-cut observation",
+      "assets": [
+        "PLT-BAN-0010"
+      ],
+      "zone": "FZ-05",
+      "status": "blossom removed"
+    },
+    {
+      "proof_id": 1052,
+      "event": "physical traceability label application",
+      "assets": [
+        "PLT-BAN-0010"
+      ],
+      "zone": "FZ-05",
+      "traceability": "proof chain linked"
+    },
+    {
+      "proof_id": 1053,
+      "event": "banana blossom pre-cut observation",
+      "assets": [
+        "PLT-BAN-0011",
+        "TOL-PRN-HOOK-0001"
+      ],
+      "zone": "FZ-05",
+      "care_event": "02"
+    },
+    {
+      "proof_id": 1054,
+      "event": "banana blossom post-cut observation",
+      "assets": [
+        "PLT-BAN-0011"
+      ],
+      "zone": "FZ-05",
+      "status": "blossom removed"
+    },
+    {
+      "proof_id": 1055,
+      "event": "physical traceability label application",
+      "assets": [
+        "PLT-BAN-0011"
+      ],
+      "zone": "FZ-05",
+      "traceability": "proof chain linked"
+    }
+  ],
+  "integrity": {
+    "sequence_verified": true,
+    "missing_proof": false,
+    "duplicate_proof": false,
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

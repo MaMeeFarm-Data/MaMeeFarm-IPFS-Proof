@@ -1,0 +1,29 @@
+{
+  "proof_id": "1059",
+  "date": "2026-05-08",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "grass cutter fuel refill observation",
+  "asset_id": [
+    "EQP-GRC-0001"
+  ],
+  "zone": "FZ-03",
+  "observed_data": {
+    "equipment_status": "fuel refill observed",
+    "fuel_condition": "liquid fuel present",
+    "operation_stage": "pre-operation preparation"
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeidfmzzbz66yw4rv5eknq6q22igp2qvdbadvbzxpq5qzzva4b6urcy",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidfmzzbz66yw4rv5eknq6q22igp2qvdbadvbzxpq5qzzva4b6urcy",
+  "linked_context": {
+    "previous": "Proof 1058",
+    "continuation": "1056 → 1057 → 1058 → 1059"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

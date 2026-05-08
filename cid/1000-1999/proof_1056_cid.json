@@ -1,0 +1,28 @@
+{
+  "proof_id": "1056",
+  "date": "2026-05-08",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "grass cutter preparation observation",
+  "asset_id": [
+    "EQP-GRC-0001"
+  ],
+  "zone": "FZ-05",
+  "observed_data": {
+    "equipment_status": "prepared for operation",
+    "condition": "assembled"
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeict3q7bxntju2tsoo2m5fno4sifctnofd7oinri5i4xodyjf74psm",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeict3q7bxntju2tsoo2m5fno4sifctnofd7oinri5i4xodyjf74psm",
+  "linked_context": {
+    "previous": "Proof 1055",
+    "continuation": "1055 → 1056"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

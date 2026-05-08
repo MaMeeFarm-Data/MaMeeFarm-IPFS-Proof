@@ -1,0 +1,28 @@
+{
+  "proof_id": "1058",
+  "date": "2026-05-08",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "field grass condition post-cut observation",
+  "asset_id": [
+    "EQP-GRC-0001"
+  ],
+  "zone": "FZ-05",
+  "observed_data": {
+    "field_condition": "grass reduced after cutting",
+    "operation_status": "grass cutting completed"
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeiebmnajwauzar6opnfa4iyi4ja3uyvxm6ukwzcqvxmhd4q5ryv5ia",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiebmnajwauzar6opnfa4iyi4ja3uyvxm6ukwzcqvxmhd4q5ryv5ia",
+  "linked_context": {
+    "previous": "Proof 1057",
+    "continuation": "1056 → 1057 → 1058"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

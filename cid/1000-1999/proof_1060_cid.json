@@ -1,0 +1,30 @@
+{
+  "proof_id": "1060",
+  "date": "2026-05-08",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "duck house environmental observation",
+  "asset_id": [
+    "HTC-2"
+  ],
+  "zone": "FZ-03-T1",
+  "observed_data": {
+    "location_note": "duck house without ducks",
+    "temperature_in_celsius": 31.9,
+    "temperature_out_celsius": 31.6,
+    "humidity_percent": 49
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeigkj6siivyvpddtzx2vm3fwryagmzmid3ogndnexkws3asfjsrii4",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigkj6siivyvpddtzx2vm3fwryagmzmid3ogndnexkws3asfjsrii4",
+  "linked_context": {
+    "previous": "Proof 1059",
+    "continuation": "1056 → 1057 → 1058 → 1059 → 1060"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

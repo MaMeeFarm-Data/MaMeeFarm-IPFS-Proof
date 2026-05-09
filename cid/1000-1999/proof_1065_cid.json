@@ -1,0 +1,50 @@
+{
+  "proof_id": "1065",
+  "date": "2026-05-09",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "physical label applied to mango pack 01 and pack 02",
+  "asset_id": [
+    "PLT-MNG-0002",
+    "FRT-0001",
+    "FRT-0002",
+    "FRT-0003",
+    "FRT-0004",
+    "FRT-0005",
+    "FRT-0006",
+    "FRT-0007",
+    "FRT-0008",
+    "FRT-0009",
+    "FRT-0010"
+  ],
+  "zone": "HZ-02",
+  "observed_data": {
+    "pack_01_weight_grams": 718,
+    "pack_01_reference": "Proof 1063",
+    "pack_02_weight_grams": 808,
+    "pack_02_reference": "Proof 1064",
+    "status": [
+      "Observed",
+      "Harvested",
+      "Packed"
+    ]
+  },
+  "observation_type": "physical traceability label application",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeicxy3uouno6iodvy5rp5jzvq7kvqesd7i3w6cyhlfw3vkfnjp6txu",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicxy3uouno6iodvy5rp5jzvq7kvqesd7i3w6cyhlfw3vkfnjp6txu",
+  "linked_context": {
+    "pre_harvest": "Proof 1061",
+    "post_harvest": "Proof 1062",
+    "pack_01_measurement": "Proof 1063",
+    "pack_02_measurement": "Proof 1064",
+    "current": "Proof 1065",
+    "chain_continuity": "1061 → 1062 → 1063 → 1064 → 1065"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

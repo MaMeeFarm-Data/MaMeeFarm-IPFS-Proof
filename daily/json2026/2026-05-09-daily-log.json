@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-09",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "mode": [
+    "Observation",
+    "Append-only",
+    "No interpretation"
+  ],
+  "proof_coverage": {
+    "start": 1061,
+    "end": 1065,
+    "total_proofs": 5
+  },
+  "recorded_activities": [
+    "Mango pre-harvest observation",
+    "Mango post-harvest observation",
+    "Mango pack-01 weight measurement",
+    "Mango pack-02 weight measurement",
+    "Physical traceability label application",
+    "Harvest packaging observation",
+    "Digital scale utilization observation",
+    "Fruit traceability continuity maintained"
+  ],
+  "asset_references": {
+    "plant_asset": [
+      "PLT-MNG-0002"
+    ],
+    "fruit_assets": [
+      "FRT-0001",
+      "FRT-0002",
+      "FRT-0003",
+      "FRT-0004",
+      "FRT-0005",
+      "FRT-0006",
+      "FRT-0007",
+      "FRT-0008",
+      "FRT-0009",
+      "FRT-0010"
+    ],
+    "equipment": [
+      "EQP-SCL-0001"
+    ]
+  },
+  "zones": [
+    "HZ-02"
+  ],
+  "proof_references": [
+    1061,
+    1062,
+    1063,
+    1064,
+    1065
+  ],
+  "integrity_status": {
+    "sequence_continuity": true,
+    "append_only_structure": true,
+    "duplicate_sequence": false,
+    "retroactive_modification": false
+  },
+  "chain_continuity": {
+    "previous": 1060,
+    "current_range": "1061-1065",
+    "next": 1066
+  },
+  "daily_status": {
+    "system_operational": true,
+    "dataset_continuity_maintained": true,
+    "observation_flow_active": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

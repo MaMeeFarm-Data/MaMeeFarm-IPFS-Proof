@@ -1,0 +1,39 @@
+{
+  "proof_id": "1062",
+  "date": "2026-05-09",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "post-harvest mango observation",
+  "asset_id": [
+    "PLT-MNG-0002",
+    "FRT-0001",
+    "FRT-0002",
+    "FRT-0003",
+    "FRT-0004",
+    "FRT-0005",
+    "FRT-0006",
+    "FRT-0007",
+    "FRT-0008",
+    "FRT-0009",
+    "FRT-0010"
+  ],
+  "zone": "HZ-02",
+  "observed_data": {
+    "fruit_condition": "harvested mango fruits observed",
+    "observation_stage": "after harvest",
+    "fruit_sequence": "0001 → 0010"
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeiadfh2ngpzspcobmyneweluw7hiswhos2qvcfvfolhk2bbu4tyac4",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiadfh2ngpzspcobmyneweluw7hiswhos2qvcfvfolhk2bbu4tyac4",
+  "linked_context": {
+    "previous": "Proof 1061",
+    "continuation": "1061 → 1062"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

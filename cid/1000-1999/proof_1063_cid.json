@@ -1,0 +1,30 @@
+{
+  "proof_id": "1063",
+  "date": "2026-05-09",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "mango pack 01 weight measurement observation",
+  "asset_id": [
+    "PLT-MNG-0002",
+    "EQP-SCL-0001"
+  ],
+  "zone": "HZ-02",
+  "observed_data": {
+    "pack_id": "Pack 01",
+    "weight_grams": 718,
+    "condition": "mango fruits packed for measurement"
+  },
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeifylg2pfjsdc2bmdt4gyyvfi2yrs7bz2lmwql6ffgsr7oj5ctbt3e",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifylg2pfjsdc2bmdt4gyyvfi2yrs7bz2lmwql6ffgsr7oj5ctbt3e",
+  "linked_context": {
+    "previous": "Proof 1062",
+    "continuation": "1061 → 1062 → 1063"
+  },
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

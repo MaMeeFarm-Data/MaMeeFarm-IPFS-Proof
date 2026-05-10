@@ -1,0 +1,33 @@
+{
+  "proof_id": "1067",
+  "date": "2026-05-10",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "surface observation on mango fruit",
+  "asset_id": [
+    "PLT-MNG-0001",
+    "FRT-unknown"
+  ],
+  "zone": "HZ-02",
+  "observed_data": {
+    "surface_condition": [
+      "white insect-like or scale-like presence observed",
+      "white clustered material near stem area observed",
+      "localized black residue observed"
+    ],
+    "species_classification": "not specified",
+    "status": [
+      "Observed"
+    ]
+  },
+  "observation_type": "surface condition observation",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeidda6zkitmtsqkl6e74pz6gfn5xozqrkkq25m3y2mpf2ueo3xcpam",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidda6zkitmtsqkl6e74pz6gfn5xozqrkkq25m3y2mpf2ueo3xcpam",
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

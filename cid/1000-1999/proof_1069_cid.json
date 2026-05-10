@@ -1,0 +1,33 @@
+{
+  "proof_id": "1069",
+  "date": "2026-05-10",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "observation of internal surface condition of mango protective wrapping",
+  "asset_id": [
+    "PLT-MNG-0001"
+  ],
+  "zone": "HZ-02",
+  "observed_data": {
+    "internal_surface": [
+      "dark paper surface observed",
+      "white residue observed",
+      "dark spot patterns observed",
+      "surface moisture marks observed"
+    ],
+    "classification": "not specified",
+    "status": [
+      "Observed"
+    ]
+  },
+  "observation_type": "internal wrapping condition observation",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeibrare6lnz6xyb7qylpwkbtnsm7l5yrcxv3p6xfljwcew5bxgbf4u",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibrare6lnz6xyb7qylpwkbtnsm7l5yrcxv3p6xfljwcew5bxgbf4u",
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

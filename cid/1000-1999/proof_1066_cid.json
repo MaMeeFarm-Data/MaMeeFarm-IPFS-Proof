@@ -1,0 +1,49 @@
+{
+  "proof_id": "1066",
+  "date": "2026-05-10",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "mango observation on-tree condition",
+  "asset_id": [
+    "PLT-MNG-0001",
+    "FRT-0001",
+    "FRT-0002",
+    "FRT-0003",
+    "FRT-0004",
+    "FRT-0005",
+    "FRT-0006",
+    "FRT-0007",
+    "FRT-0008",
+    "FRT-0009",
+    "FRT-0010",
+    "FRT-0011",
+    "FRT-0012",
+    "FRT-0013",
+    "FRT-0014",
+    "FRT-0015",
+    "FRT-0016",
+    "FRT-0017",
+    "FRT-0018",
+    "FRT-0019",
+    "FRT-0020"
+  ],
+  "zone": "HZ-02",
+  "observed_data": {
+    "fruit_condition": "on-tree observed",
+    "protective_wrapping": "observed on multiple fruits",
+    "mixed_condition": "wrapped and exposed fruits observed",
+    "status": [
+      "Observed"
+    ]
+  },
+  "observation_type": "on-tree fruit condition observation",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeib5hqtekxy3fmlzu67nv3c2ofj2xffltcjrkw363jokyywazaksfe",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeib5hqtekxy3fmlzu67nv3c2ofj2xffltcjrkw363jokyywazaksfe",
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

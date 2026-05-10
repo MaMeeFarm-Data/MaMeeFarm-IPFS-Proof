@@ -1,0 +1,36 @@
+{
+  "proof_id": "1070",
+  "date": "2026-05-10",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "event": "observation comparison between wrapped and non-wrapped mango surface condition",
+  "asset_id": [
+    "PLT-MNG-0001"
+  ],
+  "zone": "HZ-02",
+  "observed_data": {
+    "wrapped_mango": [
+      "lighter surface coloration observed"
+    ],
+    "non_wrapped_mango": [
+      "darker green surface coloration observed"
+    ],
+    "comparison": [
+      "surface appearance difference observed between wrapped and non-wrapped condition"
+    ],
+    "classification": "not specified",
+    "status": [
+      "Observed"
+    ]
+  },
+  "observation_type": "surface comparison observation",
+  "evidence_type": "image",
+  "ipfs_cid": "bafybeib7b6yxq4kfzubgejrtl57iutyqmkxstrpqq5uhi2u3cbd2ckysdu",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeib7b6yxq4kfzubgejrtl57iutyqmkxstrpqq5uhi2u3cbd2ckysdu",
+  "integrity": {
+    "append_only": true,
+    "retroactive_edit": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,23 @@
+{
+  "proof_id": "DGCP-PROOF-1073",
+  "date": "2026-05-11",
+  "time_observed": "17:19",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "INF-GATE-0003",
+  "asset_type": "Farm Gate Infrastructure",
+  "observation_type": "Infrastructure State Observation",
+  "observed_state": {
+    "gate_status": "closed",
+    "boundary_condition": "restricted access",
+    "enclosure_status": "maintained"
+  },
+  "context": "Farm gate operational state recorded at field zone FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibnwrf2wtqx3duqwswwck5zzrfwxkstcbojsyotifcokbyoxefdce",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

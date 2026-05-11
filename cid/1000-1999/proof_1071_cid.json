@@ -1,0 +1,24 @@
+{
+  "proof_id": "DGCP-PROOF-1071",
+  "date": "2026-05-11",
+  "time_observed": "17:18",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "sub_zone": "FZ-03-T1",
+  "asset_id": "HTC-2",
+  "device_type": "Clock / Humidity / Temperature Sensor",
+  "observation_type": "Environmental Observation",
+  "measurements": {
+    "temperature_in_celsius": 31.3,
+    "temperature_out_celsius": 31.1,
+    "relative_humidity_percent": 58
+  },
+  "context": "Duck house environmental observation recorded without duck occupancy present.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifxnwxq4vvnyk4lgnmwxswkvfy5snxzsyb456vjqhl5o6kcsox77q",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

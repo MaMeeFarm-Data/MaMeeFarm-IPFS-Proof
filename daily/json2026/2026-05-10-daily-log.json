@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-10",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "mode": [
+    "Observation",
+    "Append-only",
+    "No interpretation"
+  ],
+  "daily_activity_summary": [
+    "Mango observation activity",
+    "Mango surface condition observation",
+    "Mango wrapping observation",
+    "Internal wrapping surface observation",
+    "Wrapped vs non-wrapped mango comparison observation"
+  ],
+  "proofs": [
+    {
+      "proof_id": "1066",
+      "event": "mango tree condition observation",
+      "asset_id": [
+        "PLT-MNG-0001"
+      ],
+      "reference_group": [
+        "FRT-0001",
+        "FRT-0020"
+      ],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "1067",
+      "event": "white insect or residue-like material observation on mango surface",
+      "asset_id": [
+        "PLT-MNG-0001"
+      ],
+      "zone": "HZ-02",
+      "classification": "not specified"
+    },
+    {
+      "proof_id": "1068",
+      "event": "external mango wrapping surface observation",
+      "asset_id": [
+        "PLT-MNG-0001"
+      ],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "1069",
+      "event": "internal wrapping surface condition observation",
+      "asset_id": [
+        "PLT-MNG-0001"
+      ],
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": "1070",
+      "event": "wrapped and non-wrapped mango surface comparison observation",
+      "asset_id": [
+        "PLT-MNG-0001"
+      ],
+      "zone": "HZ-02"
+    }
+  ],
+  "data_unit_coverage": {
+    "start": "1066",
+    "end": "1070",
+    "total_entries": 5
+  },
+  "integrity_status": {
+    "sequence_continuity": true,
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "related_files": [
+    "ledger/2026/2026-05-10_OTS_VERIFICATION.md"
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

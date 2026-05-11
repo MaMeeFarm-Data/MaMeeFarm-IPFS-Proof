@@ -1,0 +1,24 @@
+{
+  "proof_id": "DGCP-PROOF-1075",
+  "date": "2026-05-11",
+  "time_observed": "17:22",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "sub_zone": "HZ-02-T2",
+  "asset_id": "HZ-02-HTC-0002",
+  "device_type": "Indoor Temperature & Humidity Sensor",
+  "model": "HTC-1",
+  "observation_type": "Indoor Environmental Observation",
+  "measurements": {
+    "temperature_celsius": 31.8,
+    "relative_humidity_percent": 60
+  },
+  "context": "Indoor environmental observation recorded inside HZ-02 residential area using HTC-1 sensor.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiaze5zkkn72xaqzpcyizt35o2h5vmz35pswb5k6dm6k5eb25qa4ly",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,22 @@
+{
+  "proof_id": "DGCP-PROOF-1072",
+  "date": "2026-05-11",
+  "time_observed": "17:19",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "observation_type": "Weather Observation",
+  "observed_conditions": {
+    "rainfall_present": true,
+    "cloud_coverage": "dense",
+    "sky_condition": "overcast",
+    "visibility_condition": "reduced brightness"
+  },
+  "context": "Environmental observation recorded during rainfall and cloud accumulation at field zone FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidfdufmzljrlha4z5fkbogbaknrxkvzichyn4oi5dwsuytda2xubq",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,23 @@
+{
+  "proof_id": "DGCP-PROOF-1078",
+  "date": "2026-05-12",
+  "time_observed": "18:38",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "TOL-HOE-0001",
+  "asset_type": "Hoe Tool",
+  "observation_type": "Tool Observation",
+  "observed_state": {
+    "tool_present": true,
+    "maintenance_activity_context": true,
+    "cultivation_zone_visible": true
+  },
+  "context": "Agricultural maintenance tool observation recorded near yardlong bean cultivation area at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic6f7bx5j7k7ub23uwb3jjw4htdzx3co2qvabck3bpkpzeoalpk3y",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

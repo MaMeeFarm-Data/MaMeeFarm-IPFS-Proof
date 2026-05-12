@@ -1,0 +1,24 @@
+{
+  "proof_id": "DGCP-PROOF-1079",
+  "date": "2026-05-12",
+  "time_observed": "18:42",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "ANM-DOG-GROOP",
+  "asset_type": "Animal Group",
+  "observation_type": "Animal Activity Observation",
+  "observed_state": {
+    "animal_presence": true,
+    "soil_digging_activity": true,
+    "ground_surface_displacement": true,
+    "activity_near_cultivation_zone": true
+  },
+  "context": "Dog group activity observation recorded near yardlong bean cultivation area at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihe47t4yrn2dbagni3cvxay6sanodxmnvwuinhhsb2ly6ibftpcf4",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

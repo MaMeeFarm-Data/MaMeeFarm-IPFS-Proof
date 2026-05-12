@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-12",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "mode": "Observation • Append-only • No interpretation",
+  "proof_coverage": {
+    "start": 1076,
+    "end": 1080
+  },
+  "activities": [
+    {
+      "proof_id": 1076,
+      "type": "Plant Observation",
+      "zone": "FZ-03",
+      "asset_ids": [
+        "PLT-YLB-0003",
+        "PLT-YLB-0004",
+        "PLT-YLB-0005"
+      ],
+      "details": {
+        "plant_presence": true,
+        "climbing_growth_visible": true,
+        "support_stake_present": true
+      }
+    },
+    {
+      "proof_id": 1077,
+      "type": "Tool Observation",
+      "zone": "FZ-03",
+      "asset_id": "TOL-MCH-0001",
+      "details": {
+        "tool_present": true,
+        "bamboo_material_present": true
+      }
+    },
+    {
+      "proof_id": 1078,
+      "type": "Tool Observation",
+      "zone": "FZ-03",
+      "asset_id": "TOL-HOE-0001",
+      "details": {
+        "tool_present": true,
+        "maintenance_activity_context": true
+      }
+    },
+    {
+      "proof_id": 1079,
+      "type": "Animal Activity Observation",
+      "zone": "FZ-03",
+      "asset_id": "ANM-DOG-GROOP",
+      "details": {
+        "soil_digging_activity": true,
+        "ground_surface_displacement": true
+      }
+    },
+    {
+      "proof_id": 1080,
+      "type": "Cultivation Structure Observation",
+      "zone": "FZ-03",
+      "asset_ids": [
+        "PLT-YLB-0003",
+        "PLT-YLB-0004",
+        "PLT-YLB-0005"
+      ],
+      "details": {
+        "bamboo_trellis_present": true,
+        "vertical_support_established": true,
+        "plant_attachment_visible": true
+      }
+    }
+  ],
+  "references": {
+    "proof_files": [
+      "proof/1000-1999/proof_1076.md",
+      "proof/1000-1999/proof_1077.md",
+      "proof/1000-1999/proof_1078.md",
+      "proof/1000-1999/proof_1079.md",
+      "proof/1000-1999/proof_1080.md"
+    ],
+    "cid_files": [
+      "cid/1000-1999/proof_1076_cid.json",
+      "cid/1000-1999/proof_1077_cid.json",
+      "cid/1000-1999/proof_1078_cid.json",
+      "cid/1000-1999/proof_1079_cid.json",
+      "cid/1000-1999/proof_1080_cid.json"
+    ]
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

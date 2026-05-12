@@ -1,0 +1,28 @@
+{
+  "proof_id": "DGCP-PROOF-1076",
+  "date": "2026-05-12",
+  "time_observed": "18:36",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_ids": [
+    "PLT-YLB-0003",
+    "PLT-YLB-0004",
+    "PLT-YLB-0005"
+  ],
+  "asset_type": "Yardlong Bean Plant",
+  "observation_type": "Plant Observation",
+  "observed_state": {
+    "plant_presence": true,
+    "leaf_structure_visible": true,
+    "climbing_growth_visible": true,
+    "support_stake_present": true
+  },
+  "context": "Plant growth observation recorded for yardlong bean cultivation area at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeif5jxiabhlov4wfgsejyoh2sr4macotbgvup7mhxiz7ieempbg7iq",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

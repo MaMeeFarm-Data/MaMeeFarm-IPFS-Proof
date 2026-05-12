@@ -1,0 +1,28 @@
+{
+  "proof_id": "DGCP-PROOF-1080",
+  "date": "2026-05-12",
+  "time_observed": "18:48",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_ids": [
+    "PLT-YLB-0003",
+    "PLT-YLB-0004",
+    "PLT-YLB-0005"
+  ],
+  "asset_type": "Yardlong Bean Plant",
+  "observation_type": "Cultivation Structure Observation",
+  "observed_state": {
+    "bamboo_trellis_present": true,
+    "vertical_support_established": true,
+    "plant_attachment_visible": true,
+    "cultivation_structure_active": true
+  },
+  "context": "Bamboo trellis and climbing support observation recorded for yardlong bean cultivation area at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigv67sxamf6r4nfubcdmdvz6eqwygdxag554iohypqohkqutntqfi",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

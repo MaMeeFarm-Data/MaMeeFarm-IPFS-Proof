@@ -1,0 +1,23 @@
+{
+  "proof_id": "DGCP-PROOF-1077",
+  "date": "2026-05-12",
+  "time_observed": "18:36",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "TOL-MCH-0001",
+  "asset_type": "Machete Tool",
+  "observation_type": "Tool Observation",
+  "observed_state": {
+    "tool_present": true,
+    "bamboo_material_present": true,
+    "support_structure_material_visible": true
+  },
+  "context": "Tool and bamboo material observation recorded during field preparation activity at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibraqepvl2q3ahvivy5s32xpd3u4f4g2azzr3627zx43viqoueulq",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

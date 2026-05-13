@@ -1,0 +1,20 @@
+{
+  "proof_id": "DGCP-PROOF-1085",
+  "date": "2026-05-13",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "observation_type": "Weather State Observation",
+  "observed_state": {
+    "rainfall_active": false,
+    "precipitation_stopped": true,
+    "wet_surface_condition_present": true,
+    "post_rain_condition": true
+  },
+  "context": "Post-rain environmental observation recorded following rainfall event at MaMeeFarm Primary DGCP Site.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibaqmc2zbq67cvimwiyb3uq74qx4hbq3nzcilrblfblxs7if6yfiy",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

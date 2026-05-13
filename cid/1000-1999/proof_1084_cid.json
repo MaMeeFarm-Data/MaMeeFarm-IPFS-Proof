@@ -1,0 +1,22 @@
+{
+  "proof_id": "DGCP-PROOF-1084",
+  "date": "2026-05-13",
+  "time_observed": "17:22",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "observation_type": "Weather Observation",
+  "observed_state": {
+    "rainfall_present": true,
+    "surface_water_accumulation": true,
+    "ground_saturation": true,
+    "water_pooling_visible": true
+  },
+  "context": "Rainfall and water accumulation observation recorded at rear residential area of HZ-02.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeie52z2qljtj6aamdfhlnaiqz6vtblmy5kfciy63tvtwhi5gnab5vy",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

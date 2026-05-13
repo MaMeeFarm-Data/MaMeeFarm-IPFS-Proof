@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-13",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "mode": "Observation • Append-only • No interpretation",
+  "proof_coverage": {
+    "start": 1081,
+    "end": 1085
+  },
+  "activities": [
+    {
+      "proof_id": 1081,
+      "type": "Weather Observation",
+      "zone": "HZ-02",
+      "details": {
+        "rainfall_present": true,
+        "surface_water_accumulation": true,
+        "ground_saturation": true
+      }
+    },
+    {
+      "proof_id": 1082,
+      "type": "Indoor Environmental Observation",
+      "zone": "HZ-02",
+      "sub_zone": "HZ-02-T2",
+      "asset_id": "HZ-02-HTC-0002",
+      "details": {
+        "temperature_celsius": 27.0,
+        "relative_humidity_percent": 78
+      }
+    },
+    {
+      "proof_id": 1083,
+      "type": "Environmental Observation",
+      "zone": "HZ-02",
+      "sub_zone": "HZ-02-T1",
+      "asset_id": "HTC-1",
+      "details": {
+        "temperature_celsius": 25.1,
+        "relative_humidity_percent": 73
+      }
+    },
+    {
+      "proof_id": 1084,
+      "type": "Weather Observation",
+      "zone": "HZ-02",
+      "details": {
+        "rainfall_present": true,
+        "water_pooling_visible": true,
+        "ground_saturation": true
+      }
+    },
+    {
+      "proof_id": 1085,
+      "type": "Weather State Observation",
+      "details": {
+        "rainfall_active": false,
+        "post_rain_condition": true,
+        "wet_surface_condition_present": true
+      }
+    }
+  ],
+  "references": {
+    "proof_files": [
+      "proof/1000-1999/proof_1081.md",
+      "proof/1000-1999/proof_1082.md",
+      "proof/1000-1999/proof_1083.md",
+      "proof/1000-1999/proof_1084.md",
+      "proof/1000-1999/proof_1085.md"
+    ],
+    "cid_files": [
+      "cid/1000-1999/proof_1081_cid.json",
+      "cid/1000-1999/proof_1082_cid.json",
+      "cid/1000-1999/proof_1083_cid.json",
+      "cid/1000-1999/proof_1084_cid.json",
+      "cid/1000-1999/proof_1085_cid.json"
+    ]
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

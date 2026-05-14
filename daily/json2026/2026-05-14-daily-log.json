@@ -1,0 +1,73 @@
+{
+  "document_type": "DGCP Daily Log",
+  "date": "2026-05-14",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "framework": "DGCP",
+  "mode": "Append-only • No interpretation",
+  "proof_range": {
+    "start": 1086,
+    "end": 1090
+  },
+  "observations": [
+    {
+      "proof_id": 1086,
+      "type": "farm_gate_operation",
+      "asset_id": "INF-GATE-0003",
+      "zone": "HZ-02",
+      "routes": [
+        "FZ-03",
+        "FZ-04",
+        "FZ-05"
+      ],
+      "state": "closed",
+      "condition": "nighttime"
+    },
+    {
+      "proof_id": 1087,
+      "type": "animal_observation",
+      "group": "ANM-DOG-GROOP",
+      "asset_reference": [
+        "WT-F-0001",
+        "WT-F-0002"
+      ],
+      "zone": "HZ-02",
+      "condition": "nighttime"
+    },
+    {
+      "proof_id": 1088,
+      "type": "animal_observation",
+      "group": "ANM-DOG-GROOP",
+      "zone": "HZ-02",
+      "activity": "house_guarding"
+    },
+    {
+      "proof_id": 1089,
+      "type": "environmental_measurement",
+      "zone": "HZ-02",
+      "sub_zone": "HZ-02-T1",
+      "temperature_celsius": 28.2,
+      "relative_humidity_percent": 70
+    },
+    {
+      "proof_id": 1090,
+      "type": "environmental_measurement",
+      "zone": "HZ-02",
+      "sub_zone": "HZ-02-T2",
+      "temperature_celsius": 29.3,
+      "relative_humidity_percent": 76
+    }
+  ],
+  "integrity": {
+    "sequence_continuity": true,
+    "duplicate_entries": false,
+    "retroactive_modification": false,
+    "append_only_structure": true
+  },
+  "chain_continuity": {
+    "previous": 1085,
+    "current_range": "1086-1090",
+    "next_expected": 1091
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

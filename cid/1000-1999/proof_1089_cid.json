@@ -1,0 +1,28 @@
+{
+  "proof_id": "DGCP-PROOF-1089",
+  "date": "2026-05-14",
+  "time_observed": "20:26",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "sub_zone": "HZ-02-T1",
+  "asset_id": "HZ-02-HTC-1",
+  "sensor_name": "House Balcony Sensor",
+  "device_type": "HTC-1 Clock / Humidity Sensor",
+  "observation_type": "Environmental Measurement",
+  "measurements": {
+    "temperature_celsius": 28.2,
+    "relative_humidity_percent": 70
+  },
+  "observed_state": {
+    "nighttime_condition": true,
+    "balcony_monitoring_active": true
+  },
+  "context": "Nighttime balcony environmental measurement recorded at HZ-02-T1.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifyhpp2g44njaa52bkpmqzyjjixewu22pyu5cwntbz2fwqvu23ufa",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

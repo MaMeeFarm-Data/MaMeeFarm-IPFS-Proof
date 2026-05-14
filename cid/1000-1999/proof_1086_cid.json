@@ -1,0 +1,29 @@
+{
+  "proof_id": "DGCP-PROOF-1086",
+  "date": "2026-05-14",
+  "time_observed": "19:44",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "route_reference": [
+    "FZ-03",
+    "FZ-04",
+    "FZ-05"
+  ],
+  "asset_id": "INF-GATE-0003",
+  "asset_type": "Farm Gate Infrastructure",
+  "observation_type": "Infrastructure Observation",
+  "observed_state": {
+    "gate_closed": true,
+    "boundary_access_restricted": true,
+    "nighttime_condition": true,
+    "fence_structure_visible": true
+  },
+  "context": "Nighttime gate closure observation recorded between HZ-02 and field operational zones.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicmbqikswwjmigmmzc4ciehdhx2x5dln2aorr2wv4obmgaxme7lci",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

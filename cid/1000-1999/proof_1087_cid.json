@@ -1,0 +1,27 @@
+{
+  "proof_id": "DGCP-PROOF-1087",
+  "date": "2026-05-14",
+  "time_observed": "19:45",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_ids": [
+    "WT-F-0001",
+    "WT-F-0002",
+    "ANM-DOG-GROOP"
+  ],
+  "observation_type": "Animal and Infrastructure Observation",
+  "observed_state": {
+    "dogs_present": true,
+    "multiple_animals_visible": true,
+    "water_tank_visible": true,
+    "nighttime_condition": true
+  },
+  "context": "Nighttime observation recorded near water tank infrastructure area at HZ-02.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicoqshfgceikfq4iq2wrleawfptazn5iafoar7egx3h43uckipubm",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

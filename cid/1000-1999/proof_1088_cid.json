@@ -1,0 +1,23 @@
+{
+  "proof_id": "DGCP-PROOF-1088",
+  "date": "2026-05-14",
+  "time_observed": "20:24",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "observation_type": "Animal Observation",
+  "observed_state": {
+    "multiple_dogs_visible": true,
+    "indoor_positioning_present": true,
+    "nighttime_condition": true,
+    "group_activity_present": true
+  },
+  "context": "Nighttime animal observation recorded within residential area HZ-02.",
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifmvfbmszzxlqyxylc6cpv42bgwgrh25ast2ylyv4ttqjcsxzjkrm",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,35 @@
+{
+  "proof_id": "DGCP-PROOF-1095",
+  "date": "2026-05-15",
+  "time_observed": "10:21",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-04",
+  "category": "burial_operation_observation",
+  "sub_category": "animal_burial_completion",
+  "observation": {
+    "burial_pit_closed": true,
+    "soil_redistributed": true,
+    "ground_surface_partially_compacted": true,
+    "excavation_area_open": false
+  },
+  "associated_context": {
+    "related_to_anm_dog_group_mortality_event": true,
+    "burial_operation_completed": true
+  },
+  "equipment_context": {
+    "tool_present": "TOL-HOE-0001",
+    "soil_handling_operation_observed": true
+  },
+  "environmental_context": {
+    "lighting_condition": "daylight",
+    "soil_condition": "dry_loose_soil",
+    "ground_disturbance_active": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidesj2odhu5hzfweohb4i445fccjoizqo3uhknyvjbysyp7zab24a",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,28 @@
+{
+  "proof_id": "DGCP-PROOF-1092",
+  "date": "2026-05-15",
+  "time_observed": "10:06",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "animal_observation",
+  "sub_category": "carcass_preparation_record",
+  "subject_group": "ANM-DOG-GROOP",
+  "observation": {
+    "carcass_preparation_before_burial": true,
+    "movement_detected": false,
+    "plastic_sheet_visible": true,
+    "cloth_cover_visible": true
+  },
+  "environmental_context": {
+    "surface_type": "tiled_floor",
+    "lighting_condition": "daylight",
+    "activity_context": "burial_preparation"
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiegkxokshplb64flrpyy2vqiivpfoeqfqhmbawvyrheb7emmtbxni",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,126 @@
+{
+  "document_type": "DGCP Daily Log",
+  "date": "2026-05-15",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "mode": "Observation • Append-only • No interpretation",
+  "proof_coverage": {
+    "start": 1091,
+    "end": 1095
+  },
+  "records": [
+    {
+      "proof_id": 1091,
+      "time_observed": "09:51",
+      "category": "animal_observation",
+      "sub_category": "mortality_record",
+      "zone": "HZ-02",
+      "asset_reference": "ANM-DOG-GROOP",
+      "record_status": {
+        "member_deceased": true,
+        "ground_level_position_recorded": true,
+        "additional_group_member_visible": true
+      }
+    },
+    {
+      "proof_id": 1092,
+      "time_observed": "10:06",
+      "category": "animal_observation",
+      "sub_category": "carcass_preparation_record",
+      "zone": "HZ-02",
+      "asset_reference": "ANM-DOG-GROOP",
+      "record_status": {
+        "carcass_preparation_before_burial": true,
+        "plastic_sheet_visible": true,
+        "cloth_cover_visible": true
+      }
+    },
+    {
+      "proof_id": 1093,
+      "time_observed": "10:08",
+      "category": "infrastructure_observation",
+      "sub_category": "gate_status_record",
+      "zone": "HZ-02",
+      "asset_reference": "INF-GATE-0003",
+      "record_status": {
+        "gate_closed_prior_operation": true,
+        "perimeter_boundary_visible": true,
+        "field_access_route_visible": true
+      },
+      "transition_routes": [
+        "HZ-02 to FZ-03",
+        "HZ-02 to FZ-04",
+        "HZ-02 to FZ-05"
+      ]
+    },
+    {
+      "proof_id": 1094,
+      "time_observed": "10:16",
+      "category": "burial_preparation_observation",
+      "sub_category": "animal_burial_site_preparation",
+      "zone": "FZ-04",
+      "record_status": {
+        "burial_pit_prepared": true,
+        "excavation_boundary_visible": true,
+        "ground_surface_disturbed": true
+      },
+      "associated_context": {
+        "related_to_anm_dog_group_mortality_event": true
+      }
+    },
+    {
+      "proof_id": 1095,
+      "time_observed": "10:21",
+      "category": "burial_operation_observation",
+      "sub_category": "animal_burial_completion",
+      "zone": "FZ-04",
+      "tool_reference": "TOL-HOE-0001",
+      "record_status": {
+        "burial_pit_closed": true,
+        "soil_redistributed": true,
+        "ground_surface_partially_compacted": true,
+        "burial_operation_completed": true
+      },
+      "associated_context": {
+        "related_to_anm_dog_group_mortality_event": true
+      }
+    }
+  ],
+  "file_references": {
+    "proof_files": [
+      "proof/1000-1999/proof_1091.md",
+      "proof/1000-1999/proof_1092.md",
+      "proof/1000-1999/proof_1093.md",
+      "proof/1000-1999/proof_1094.md",
+      "proof/1000-1999/proof_1095.md"
+    ],
+    "cid_files": [
+      "cid/1000-1999/proof_1091_cid.json",
+      "cid/1000-1999/proof_1092_cid.json",
+      "cid/1000-1999/proof_1093_cid.json",
+      "cid/1000-1999/proof_1094_cid.json",
+      "cid/1000-1999/proof_1095_cid.json"
+    ]
+  },
+  "integrity": {
+    "sequence_continuity": "valid",
+    "missing_proof": "none",
+    "duplicate_entry": "none",
+    "retroactive_modification": "none",
+    "append_only_structure": "preserved"
+  },
+  "chain_continuity": {
+    "previous": 1090,
+    "current": [
+      1091,
+      1092,
+      1093,
+      1094,
+      1095
+    ],
+    "next": 1096
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,32 @@
+{
+  "proof_id": "DGCP-PROOF-1093",
+  "date": "2026-05-15",
+  "time_observed": "10:08",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "INF-GATE-0003",
+  "category": "infrastructure_observation",
+  "sub_category": "gate_status_record",
+  "observation": {
+    "gate_closed_prior_operation": true,
+    "perimeter_boundary_visible": true,
+    "field_access_visible": true
+  },
+  "transition_routes": [
+    "HZ-02 to FZ-03",
+    "HZ-02 to FZ-04",
+    "HZ-02 to FZ-05"
+  ],
+  "environmental_context": {
+    "lighting_condition": "daylight",
+    "agricultural_field_visible": true,
+    "fence_perimeter_active": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiazgxxyvnmiiojzkuhomk2olcl3vglcai7hafkmddzamev66yum5i",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

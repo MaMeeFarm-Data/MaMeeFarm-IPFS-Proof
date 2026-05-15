@@ -1,0 +1,28 @@
+{
+  "proof_id": "DGCP-PROOF-1091",
+  "date": "2026-05-15",
+  "time_observed": "09:51",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "animal_observation",
+  "sub_category": "mortality_record",
+  "subject_group": "ANM-DOG-GROOP",
+  "observation": {
+    "member_deceased": true,
+    "movement_detected": false,
+    "ground_position_recorded": true,
+    "additional_group_member_visible": true
+  },
+  "environmental_context": {
+    "surface_type": "tiled_floor",
+    "lighting_condition": "daylight",
+    "group_environment_active": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifr27m6ttcly65i2hfmc5kyghx2xahzrvu5krrmofjkah5i63igui",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

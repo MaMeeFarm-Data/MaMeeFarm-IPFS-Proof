@@ -1,0 +1,28 @@
+{
+  "proof_id": "DGCP-PROOF-1099",
+  "date": "2026-05-16",
+  "time_observed": "19:12",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "category": "plant_observation",
+  "sub_category": "banana_tree_structure_observation",
+  "plant_record": {
+    "plant_id": "PLT-BAN-0003",
+    "fruit_cluster_visible": true,
+    "tree_standing": true,
+    "trunk_tilt_observed": true,
+    "cutting_activity_observed": false
+  },
+  "environmental_context": {
+    "time_period": "evening",
+    "low_light_environment": true,
+    "duck_house_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihlcsb72eimkkhrbtxreqtrf6dqib32waggbenufwuokyx7g7o4em",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

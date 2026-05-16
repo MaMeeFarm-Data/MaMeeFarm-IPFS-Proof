@@ -1,0 +1,29 @@
+{
+  "proof_id": "DGCP-PROOF-1096",
+  "date": "2026-05-16",
+  "time_observed": "19:10",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "category": "environmental_observation",
+  "sub_category": "evening_sky_record",
+  "observation": {
+    "evening_sky_condition_active": true,
+    "sunset_light_visible": true,
+    "cloud_layer_visible": true,
+    "mountain_silhouette_visible": true,
+    "banana_plant_silhouette_visible": true,
+    "outdoor_visibility_reduced": true
+  },
+  "environmental_context": {
+    "lighting_condition": "natural_evening_light",
+    "transition_period": "sunset",
+    "field_environment_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihq56kezaldlpqyaazt7e2ykiv7gg23yxiodllp5bshfatvcf6ip4",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

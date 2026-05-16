@@ -1,0 +1,34 @@
+{
+  "proof_id": "DGCP-PROOF-1097",
+  "date": "2026-05-16",
+  "time_observed": "19:10",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03-T1",
+  "category": "environmental_sensor_observation",
+  "sub_category": "duck_house_temperature_humidity_record",
+  "sensor_record": {
+    "sensor_id": "HTC-2",
+    "temperature_in_celsius": 29.7,
+    "temperature_out_celsius": 29.5,
+    "relative_humidity_percent": 69
+  },
+  "observation": {
+    "sensor_operating_normally": true,
+    "indoor_outdoor_temperature_visible": true,
+    "humidity_measurement_active": true,
+    "duck_house_environment_monitored": true,
+    "no_duck_presence_observed": true
+  },
+  "environmental_context": {
+    "lighting_condition": "artificial_light_active",
+    "environment_state": "night_time",
+    "outdoor_darkness_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigl64x5pbq7aekjybyrflv2uk6jkzhuyqfnsmqdpdamlbkdtp3kee",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

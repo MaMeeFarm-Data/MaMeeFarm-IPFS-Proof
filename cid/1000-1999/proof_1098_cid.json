@@ -1,0 +1,28 @@
+{
+  "proof_id": "DGCP-PROOF-1098",
+  "date": "2026-05-16",
+  "time_observed": "19:11",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "category": "infrastructure_observation",
+  "sub_category": "duck_house_status_observation",
+  "infrastructure_record": {
+    "type": "Duck House",
+    "lighting_active": true,
+    "roof_structure_visible": true,
+    "interior_pathway_visible": true,
+    "no_duck_presence_observed": true
+  },
+  "environmental_context": {
+    "time_period": "evening",
+    "low_light_environment": true,
+    "outdoor_vegetation_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifu2z7x7hol3cviixaab34p4dvqv36wvefsnrdof6jxlymoead5na",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

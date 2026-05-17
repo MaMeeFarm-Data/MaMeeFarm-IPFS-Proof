@@ -1,0 +1,33 @@
+{
+  "proof_id": "DGCP-PROOF-1105",
+  "date": "2026-05-17",
+  "time_observed": "19:07",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "equipment_storage_observation",
+  "sub_category": "post_operation_equipment_storage_observation",
+  "equipment_storage_record": {
+    "equipment_id": "EQP-GRC-0001",
+    "equipment_positioned_in_storage_area": true,
+    "post_operation_storage_documented": true,
+    "shoulder_strap_visible": true,
+    "equipment_exterior_condition_visible": true
+  },
+  "storage_context": {
+    "indoor_storage_environment_observed": true,
+    "positioned_near_household_utility_items": true,
+    "active_operation_observed": false
+  },
+  "environmental_context": {
+    "time_period": "night",
+    "artificial_lighting_partially_visible": true,
+    "low_light_indoor_environment": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihgqeiexeura5qvt67lh7iuyk3i4b7qg2qnqp4nsrqfmoznmdrbza",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

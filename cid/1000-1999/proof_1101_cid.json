@@ -1,0 +1,31 @@
+{
+  "proof_id": "DGCP-PROOF-1101",
+  "date": "2026-05-17",
+  "time_observed": "18:40",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "environmental_observation",
+  "sub_category": "front_yard_grass_growth_observation",
+  "environmental_record": {
+    "grass_growth_present": true,
+    "mixed_vegetation_density_visible": true,
+    "ground_surface_partially_covered": true,
+    "pathway_structure_visible": true
+  },
+  "visible_structures": {
+    "gate_structure_visible": true,
+    "wooden_roof_frame_visible": true,
+    "fence_boundary_visible": true
+  },
+  "environmental_context": {
+    "time_period": "evening",
+    "low_light_environment": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihcqbcxn5x3e3jqv5yamxsiohc76yfc6b7fnd2beoijquyw7oz66y",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

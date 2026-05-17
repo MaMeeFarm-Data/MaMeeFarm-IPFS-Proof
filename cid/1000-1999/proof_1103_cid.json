@@ -1,0 +1,33 @@
+{
+  "proof_id": "DGCP-PROOF-1103",
+  "date": "2026-05-17",
+  "time_observed": "18:46",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "equipment_operation_observation",
+  "sub_category": "grass_cutting_activity_observation",
+  "equipment_operation_record": {
+    "equipment_id": "EQP-GRC-0001",
+    "grass_cutting_operation_in_progress": true,
+    "cutting_guard_structure_visible": true,
+    "equipment_positioned_within_vegetation_area": true
+  },
+  "operation_result": {
+    "grass_surface_partially_trimmed": true,
+    "mixed_vegetation_density_reduced": true,
+    "operational_work_area_visible": true
+  },
+  "environmental_context": {
+    "time_period": "evening",
+    "freshly_cut_vegetation_visible": true,
+    "ground_surface_partially_exposed": true,
+    "gravel_and_soil_surface_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiccri5s6zws5ojzgk3nj5sda3lwy5qcbhpfmqmiyiap3vunloxx4a",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

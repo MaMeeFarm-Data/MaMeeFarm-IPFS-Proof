@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-17",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "mode": "Observation | Append-only | No interpretation",
+  "proof_range": {
+    "start": 1101,
+    "end": 1105,
+    "total_proofs": 5
+  },
+  "records": [
+    {
+      "proof_id": 1101,
+      "category": "environmental_observation",
+      "sub_category": "front_yard_grass_growth_observation",
+      "zone": "HZ-02",
+      "time_observed": "18:40",
+      "status": [
+        "Front yard grass growth observed",
+        "Mixed vegetation density visible",
+        "Pathway visibility documented",
+        "Evening environmental condition active"
+      ]
+    },
+    {
+      "proof_id": 1102,
+      "category": "equipment_observation",
+      "sub_category": "grass_cutter_pre_operation_observation",
+      "zone": "HZ-02",
+      "time_observed": "18:40",
+      "asset_reference": [
+        "EQP-GRC-0001"
+      ],
+      "status": [
+        "Grass cutter pre-operation condition documented",
+        "Equipment structure visibility recorded",
+        "Fuel tank and handle structures visible",
+        "No active operation observed"
+      ]
+    },
+    {
+      "proof_id": 1103,
+      "category": "equipment_operation_observation",
+      "sub_category": "grass_cutting_activity_observation",
+      "zone": "HZ-02",
+      "time_observed": "18:46",
+      "asset_reference": [
+        "EQP-GRC-0001"
+      ],
+      "status": [
+        "Grass cutting activity documented",
+        "Vegetation trimming observed",
+        "Operational work area visible",
+        "Freshly cut vegetation recorded"
+      ]
+    },
+    {
+      "proof_id": 1104,
+      "category": "environmental_management_observation",
+      "sub_category": "post_grass_cutting_condition_observation",
+      "zone": "HZ-02",
+      "time_observed": "18:52",
+      "asset_reference": [
+        "EQP-GRC-0001"
+      ],
+      "status": [
+        "Post-operation environmental condition documented",
+        "Trimmed grass surface visible",
+        "Ground pathway visibility improved",
+        "Managed vegetation area recorded"
+      ]
+    },
+    {
+      "proof_id": 1105,
+      "category": "equipment_storage_observation",
+      "sub_category": "post_operation_equipment_storage_observation",
+      "zone": "HZ-02",
+      "time_observed": "19:07",
+      "asset_reference": [
+        "EQP-GRC-0001"
+      ],
+      "status": [
+        "Post-operation equipment storage documented",
+        "Indoor storage environment observed",
+        "Equipment positioned in storage area",
+        "Night environmental condition active"
+      ]
+    }
+  ],
+  "integrity_status": {
+    "sequence_continuity_verified": true,
+    "sequence_range": "1101 -> 1105",
+    "append_only_structure_maintained": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

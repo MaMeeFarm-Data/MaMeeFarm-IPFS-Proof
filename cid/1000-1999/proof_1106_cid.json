@@ -1,0 +1,35 @@
+{
+  "proof_id": "DGCP-PROOF-1106",
+  "date": "2026-05-18",
+  "time_observed": "11:31",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "infrastructure_observation",
+  "sub_category": "water_pump_operation_setup_observation",
+  "infrastructure_record": {
+    "infrastructure_id": "HZ-PMP-0003",
+    "pump_intake_structure_visible": true,
+    "water_hose_connection_visible": true,
+    "electrical_cable_visible": true,
+    "ground_placement_condition_visible": true
+  },
+  "operation_context": {
+    "pump_positioned_on_ground_surface": true,
+    "water_hose_connected": true,
+    "vegetation_surrounding_operation_area_visible": true,
+    "daytime_setup_condition_documented": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "mixed_vegetation_density_visible": true,
+    "ground_soil_surface_partially_exposed": true,
+    "small_flowering_plants_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidnvhkt34luuri2nz33m2t2xd533lvp2akkitrzfdoduegr4pv7ry",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

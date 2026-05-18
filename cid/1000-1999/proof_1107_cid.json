@@ -1,0 +1,38 @@
+{
+  "proof_id": "DGCP-PROOF-1107",
+  "date": "2026-05-18",
+  "time_observed": "11:31",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "infrastructure_observation",
+  "sub_category": "underground_water_well_condition_observation",
+  "infrastructure_record": {
+    "infrastructure_ids": [
+      "WT-UW-0001",
+      "WT-UW-0002"
+    ],
+    "concrete_wall_structure_visible": true,
+    "inner_surface_moisture_marks_visible": true,
+    "water_level_visible": true,
+    "circular_depth_structure_documented": true
+  },
+  "well_condition": {
+    "water_present_inside_structure": true,
+    "vegetation_growth_present": true,
+    "inner_wall_surface_condition_visible": true,
+    "daytime_observation_documented": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "sunlight_reflection_visible": true,
+    "moisture_condition_visible": true,
+    "small_vegetation_growth_observed": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidnvhkt34luuri2nz33m2t2xd533lvp2akkitrzfdoduegr4pv7ry",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

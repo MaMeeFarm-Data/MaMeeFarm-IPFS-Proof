@@ -1,0 +1,38 @@
+{
+  "proof_id": "DGCP-PROOF-1109",
+  "date": "2026-05-18",
+  "time_observed": "11:33",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "infrastructure_operation_observation",
+  "sub_category": "water_transfer_operation_observation",
+  "infrastructure_operation_record": {
+    "infrastructure_ids": [
+      "HZ-PMP-0003",
+      "WT-F-0001"
+    ],
+    "water_transferred_into_storage_tank": true,
+    "pipe_outlet_positioned_above_tank_opening": true,
+    "continuous_water_flow_visible": true,
+    "tank_filling_operation_documented": true
+  },
+  "operation_context": {
+    "water_movement_visible": true,
+    "tank_intake_area_visible": true,
+    "outdoor_operation_condition_active": true,
+    "daytime_operation_documented": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "agricultural_field_visible": true,
+    "structural_support_column_visible": true,
+    "distant_smoke_condition_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiexqxmak2t5yriiyjkzbjduiyzuqys2emgggmv56x5jyq4vlnbjga",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,36 @@
+{
+  "proof_id": "DGCP-PROOF-1120",
+  "date": "2026-05-19",
+  "time_observed": "11:23",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "food_consumption_observation",
+  "sub_category": "papaya_consumption_record",
+  "consumption_record": {
+    "plant_id": "PLT-PAP-0001",
+    "fruit_id": "FRT-0008",
+    "consumption_ready_condition_visible": true,
+    "processed_into_pieces": true,
+    "serving_container_visible": true,
+    "associated_weight_reference_g": 583
+  },
+  "observation_context": {
+    "cut_papaya_pieces_visible": true,
+    "consumption_preparation_completed": true,
+    "human_consumption_activity_ongoing": true,
+    "fresh_fruit_condition_observable": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "indoor_daylight_operational_environment": true,
+    "food_preparation_surface_visible": true,
+    "consumption_container_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigb2ql4mp3o5ieufko5toda6czguhp4cfanmgzz5rczb35xjtsf34",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,33 @@
+{
+  "proof_id": "DGCP-PROOF-1111",
+  "date": "2026-05-19",
+  "time_observed": "10:37",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "plant_observation",
+  "sub_category": "papaya_tree_pre_cutting_observation",
+  "plant_record": {
+    "plant_id": "PLT-PAP-0001",
+    "tall_trunk_structure_visible": true,
+    "upper_canopy_density_visible": true,
+    "multiple_leaf_branches_visible": true,
+    "pre_cutting_condition_documented": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "vegetation_growth_surrounding_base_visible": true,
+    "fence_structure_visible": true,
+    "agricultural_field_visible": true,
+    "structural_lighting_pole_visible": true
+  },
+  "operation_context": {
+    "outdoor_operation_stool_positioned_near_tree": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeia7lwx24vinl5btzpvrvqnr4qqkjfl6phiudanles3hfn5rbzouzq",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

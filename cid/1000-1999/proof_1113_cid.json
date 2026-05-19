@@ -1,0 +1,33 @@
+{
+  "proof_id": "DGCP-PROOF-1113",
+  "date": "2026-05-19",
+  "time_observed": "10:41",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "tool_observation",
+  "sub_category": "cutting_tool_operation_preparation_observation",
+  "tool_record": {
+    "tool_id": "TOL-MCH-0001",
+    "blade_positioned_against_tree_trunk": true,
+    "tool_prepared_for_cutting_activity": true,
+    "handle_grip_structure_visible": true,
+    "tool_operational_condition_documented": true
+  },
+  "related_plant_reference": {
+    "plant_id": "PLT-PAP-0001"
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "dense_papaya_leaf_canopy_visible": true,
+    "outdoor_vegetation_density_visible": true,
+    "daylight_operational_environment_active": true,
+    "tree_trunk_surface_texture_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiaopcemldcy66uksqjf2jeracpksiennskzqt2oahccw6bkovarg4",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

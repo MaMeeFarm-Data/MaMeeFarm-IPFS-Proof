@@ -1,0 +1,30 @@
+{
+  "proof_id": "DGCP-PROOF-1112",
+  "date": "2026-05-19",
+  "time_observed": "10:39",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "plant_observation",
+  "sub_category": "ripe_papaya_fruit_observation",
+  "plant_record": {
+    "plant_id": "PLT-PAP-0001",
+    "ripe_papaya_fruit_visible": true,
+    "mature_fruit_coloration_visible": true,
+    "fruit_attached_to_trunk_structure": true,
+    "surface_markings_visible_on_fruit": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "dense_leaf_canopy_visible": true,
+    "sunlight_passing_through_canopy_visible": true,
+    "green_foliage_density_visible": true,
+    "outdoor_plant_observation_active": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigfboka362qe5xajmivsjynv73p5tpqoyribsemdt4n37fgmjg7jm",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

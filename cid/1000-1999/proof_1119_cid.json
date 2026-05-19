@@ -1,0 +1,37 @@
+{
+  "proof_id": "DGCP-PROOF-1119",
+  "date": "2026-05-19",
+  "time_observed": "11:04",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "traceability_observation",
+  "sub_category": "fruit_traceability_label_attachment_observation",
+  "traceability_record": {
+    "plant_id": "PLT-PAP-0001",
+    "fruit_id": "FRT-0009",
+    "zone_reference_visible": "HZ-02",
+    "status_reference_visible": "Observed | Measured",
+    "recorded_weight_g": 721,
+    "date_reference_visible": "2026-05-19"
+  },
+  "observation_context": {
+    "label_attachment_documented": true,
+    "fruit_packaging_condition_visible": true,
+    "traceability_information_readable": true,
+    "documentation_process_completed": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "daylight_indoor_operational_environment": true,
+    "packaging_surface_visibility_active": true,
+    "printed_traceability_information_visible": true,
+    "fruit_surface_partially_observable": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiaaqanbpxmqfatsfv6jdec6iojobtxwzxm5wem3yivb77tbcmvidm",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

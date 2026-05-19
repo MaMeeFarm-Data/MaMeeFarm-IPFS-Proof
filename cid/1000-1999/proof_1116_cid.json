@@ -1,0 +1,35 @@
+{
+  "proof_id": "DGCP-PROOF-1116",
+  "date": "2026-05-19",
+  "time_observed": "10:50",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "fruit_measurement_observation",
+  "sub_category": "papaya_weight_measurement_observation",
+  "fruit_measurement_record": {
+    "plant_id": "PLT-PAP-0001",
+    "fruit_id": "FRT-0008",
+    "measurement_equipment": "EQP-SCL-0001",
+    "recorded_weight_g": 583,
+    "ripe_papaya_fruit_positioned_on_scale": true,
+    "digital_measurement_display_active": true
+  },
+  "measurement_context": {
+    "fruit_surface_condition_visible": true,
+    "measurement_process_documented": true,
+    "traceable_asset_label_visible": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "daylight_operational_environment": true,
+    "digital_scale_display_illuminated": true,
+    "indoor_measurement_activity_active": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidssxbdgmzq2u6y4nwxz5fnqsiji6nvdkccc6dxk25hnp5h533btu",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

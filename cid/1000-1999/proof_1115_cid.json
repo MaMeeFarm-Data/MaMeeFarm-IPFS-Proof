@@ -1,0 +1,35 @@
+{
+  "proof_id": "DGCP-PROOF-1115",
+  "date": "2026-05-19",
+  "time_observed": "10:45",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "plant_operation_observation",
+  "sub_category": "cut_papaya_branch_ground_condition_observation",
+  "plant_operation_record": {
+    "plant_id": "PLT-PAP-0001",
+    "detached_branch_sections_positioned_on_ground": true,
+    "multiple_leaf_canopy_structures_visible": true,
+    "cut_trunk_segments_visible": true,
+    "post_cutting_debris_condition_documented": true
+  },
+  "operation_context": {
+    "plant_maintenance_residue_documented": true,
+    "ground_accumulation_of_cut_material_visible": true,
+    "outdoor_maintenance_activity_completed": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "dense_green_foliage_visible": true,
+    "daylight_outdoor_environment_active": true,
+    "ground_vegetation_coverage_visible": true,
+    "leaf_surface_condition_observable": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidckybliblolreuc3u2cbshyxl3veh55kjzvttwynzz4femlk52yy",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

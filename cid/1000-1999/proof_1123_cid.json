@@ -1,0 +1,29 @@
+{
+  "proof_id": 1123,
+  "date": "2026-05-20",
+  "time_local": "10:11",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "sub_zone": "Duck House",
+  "category": "operational_activity",
+  "sub_category": "equipment_storage",
+  "asset_id": "EQP-GRC-0001",
+  "title": "Grass Cutting Equipment Stored Inside Duck House",
+  "description": "Observed grass cutting equipment transported and stored inside FZ-03 duck house after operational activity completion.",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihk6wkzekwbqeb5ftr3qn3u4ni3rknpuvzyycqtmezruljyxs6rqe",
+  "binding": "non-binding",
+  "integrity": {
+    "sha256": "Pending",
+    "ots": "Pending"
+  },
+  "sequence": {
+    "previous": 1122,
+    "current": 1123,
+    "next": 1124
+  },
+  "status": "observed",
+  "license": "DGCP | MMFARM-POL-2025"
+}

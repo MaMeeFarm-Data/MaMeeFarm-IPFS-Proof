@@ -1,0 +1,34 @@
+{
+  "proof_id": 1124,
+  "date": "2026-05-20",
+  "time_local": "10:11",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "sub_zone": "Duck House",
+  "category": "environmental_observation",
+  "sub_category": "temperature_humidity_monitoring",
+  "asset_id": "HTC-2",
+  "title": "Duck House Temperature and Humidity Observation",
+  "description": "Observed temperature and humidity conditions inside FZ-03 duck house structure with no ducks present.",
+  "observation": {
+    "temperature_in_c": 31.8,
+    "temperature_out_c": 31.6,
+    "relative_humidity_percent": 63
+  },
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeierrzwlhi5uhdimlyfbpga4fzx45pqhbnu6coisf6owm4ar4uor3q",
+  "binding": "non-binding",
+  "integrity": {
+    "sha256": "Pending",
+    "ots": "Pending"
+  },
+  "sequence": {
+    "previous": 1123,
+    "current": 1124,
+    "next": 1125
+  },
+  "status": "observed",
+  "license": "DGCP | MMFARM-POL-2025"
+}

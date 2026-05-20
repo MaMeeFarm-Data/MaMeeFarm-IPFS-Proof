@@ -1,0 +1,29 @@
+{
+  "proof_id": "DGCP-PROOF-1121",
+  "date": "2026-05-20",
+  "time_observed": "09:52",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "equipment_preparation_observation",
+  "sub_category": "grass_cutting_preparation",
+  "equipment_record": {
+    "equipment_id": "EQP-GRC-0001",
+    "equipment_positioned_before_use": true,
+    "shoulder_support_strap_attached": true,
+    "cutting_assembly_visible": true,
+    "fuel_tank_attached": true
+  },
+  "environmental_context": {
+    "time_period": "daytime",
+    "vegetation_growth_visible": true,
+    "outdoor_maintenance_preparation_state": true,
+    "ground_access_pathway_visible": true
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "gateway": "Pinata",
+    "url": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicswoceffdnxsaydfmypfzgg44lnznm34ektdn75mbcf63dvld5qu",
+    "binding": "non-binding"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

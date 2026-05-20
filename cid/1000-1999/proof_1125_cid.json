@@ -1,0 +1,27 @@
+{
+  "proof_id": 1125,
+  "date": "2026-05-20",
+  "time_local": "10:12",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "operational_activity",
+  "sub_category": "grass_cutting_completion",
+  "title": "Post Grass Cutting Area Observation",
+  "description": "Observed HZ-02 area condition after grass cutting maintenance activity completion.",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifhotdspaacfyyxhtkd77z6dpmph34oyn4jfnznutz6uj2egkn5wa",
+  "binding": "non-binding",
+  "integrity": {
+    "sha256": "Pending",
+    "ots": "Pending"
+  },
+  "sequence": {
+    "previous": 1124,
+    "current": 1125,
+    "next": 1126
+  },
+  "status": "observed",
+  "license": "DGCP | MMFARM-POL-2025"
+}

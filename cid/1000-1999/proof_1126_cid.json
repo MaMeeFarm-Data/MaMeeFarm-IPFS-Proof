@@ -1,0 +1,27 @@
+{
+  "proof_id": 1126,
+  "date": "2026-05-21",
+  "time_local": "18:16",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "infrastructure_observation",
+  "sub_category": "damaged_sink_observation",
+  "title": "Damaged Sink Observation",
+  "description": "Observed damaged sink structure detached from installation area inside HZ-02 operational zone.",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifoy5ko2kwhkm6dqpereomjfgyt6wf4isxx6jdg3gqly7pdblh5pu",
+  "binding": "non-binding",
+  "integrity": {
+    "sha256": "Pending",
+    "ots": "Pending"
+  },
+  "sequence": {
+    "previous": 1125,
+    "current": 1126,
+    "next": 1127
+  },
+  "status": "observed",
+  "license": "DGCP | MMFARM-POL-2025"
+}

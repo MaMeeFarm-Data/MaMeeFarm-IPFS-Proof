@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-22",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "framework": "DGCP",
+  "mode": "Observation only • Structural mapping • No prediction • No advice",
+  "daily_log_id": "DGCP-DAILY-2026-05-22",
+  "activities": [
+    {
+      "proof_id": 1131,
+      "category": "infrastructure_observation",
+      "sub_category": "tree_roof_contact_observation",
+      "zone": "HZ-02",
+      "summary": "Observed tree structure leaning toward residential roof structure."
+    },
+    {
+      "proof_id": 1132,
+      "category": "maintenance_activity",
+      "sub_category": "tree_cutting_preparation",
+      "zone": "HZ-02",
+      "asset_id": "TOL-MCH-0001",
+      "summary": "Observed cutting tool prepared for tree branch cutting operation."
+    },
+    {
+      "proof_id": 1133,
+      "category": "maintenance_activity",
+      "sub_category": "tree_cutting_operation",
+      "zone": "HZ-02",
+      "summary": "Observed removed tree branch positioned on ground after cutting operation."
+    },
+    {
+      "proof_id": 1134,
+      "category": "maintenance_activity",
+      "sub_category": "post_cutting_structure_observation",
+      "zone": "HZ-02",
+      "summary": "Observed remaining upper tree structure and cut surface after branch removal."
+    }
+  ],
+  "sequence_continuity": {
+    "start": 1131,
+    "end": 1134,
+    "status": "valid"
+  },
+  "integrity": {
+    "retroactive_modification": "none",
+    "missing_proof": "none",
+    "duplicate_entry": "none"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

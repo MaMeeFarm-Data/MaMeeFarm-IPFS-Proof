@@ -1,0 +1,27 @@
+{
+  "proof_id": 1133,
+  "date": "2026-05-22",
+  "time_local": "18:24",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "maintenance_activity",
+  "sub_category": "tree_cutting_operation",
+  "title": "Tree Branch Removed To Ground Level",
+  "description": "Observed tree branch after cutting operation positioned on ground surface adjacent to residential stair access area inside HZ-02.",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiggvlv2lpy7g7j4oauzvtmwjqxkfc4xk3lvfloxwgis7mft7orihy",
+  "binding": "non-binding",
+  "integrity": {
+    "sha256": "Pending",
+    "ots": "Pending"
+  },
+  "sequence": {
+    "previous": 1132,
+    "current": 1133,
+    "next": 1134
+  },
+  "status": "observed",
+  "license": "DGCP | MMFARM-POL-2025"
+}

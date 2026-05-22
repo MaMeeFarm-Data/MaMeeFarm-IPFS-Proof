@@ -1,0 +1,27 @@
+{
+  "proof_id": 1131,
+  "date": "2026-05-22",
+  "time_local": "18:14",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "infrastructure_observation",
+  "sub_category": "tree_roof_contact_observation",
+  "title": "Tree Contacting Roof Structure Observation",
+  "description": "Observed tree structure leaning toward residential roof structure inside HZ-02 operational area.",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiddvu3jyl3d2roqw3bxdr4d7kdon3tdrfk74venav26djpanuw36a",
+  "binding": "non-binding",
+  "integrity": {
+    "sha256": "Pending",
+    "ots": "Pending"
+  },
+  "sequence": {
+    "previous": 1130,
+    "current": 1131,
+    "next": 1132
+  },
+  "status": "observed",
+  "license": "DGCP | MMFARM-POL-2025"
+}

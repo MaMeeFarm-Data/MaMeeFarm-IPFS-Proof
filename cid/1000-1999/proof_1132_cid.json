@@ -1,0 +1,28 @@
+{
+  "proof_id": 1132,
+  "date": "2026-05-22",
+  "time_local": "18:15",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "maintenance_activity",
+  "sub_category": "tree_cutting_preparation",
+  "asset_id": "TOL-MCH-0001",
+  "title": "Tree Cutting Preparation Observation",
+  "description": "Observed preparation activity for tree cutting operation using machete tool asset inside HZ-02 operational area.",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiaogzxaawuqnkr7l2xrrri7pvhtc4wemndqejb3lztj6rgmeglnkm",
+  "binding": "non-binding",
+  "integrity": {
+    "sha256": "Pending",
+    "ots": "Pending"
+  },
+  "sequence": {
+    "previous": 1131,
+    "current": 1132,
+    "next": 1133
+  },
+  "status": "observed",
+  "license": "DGCP | MMFARM-POL-2025"
+}

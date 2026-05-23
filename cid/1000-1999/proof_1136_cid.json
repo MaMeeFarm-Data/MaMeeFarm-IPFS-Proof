@@ -1,0 +1,28 @@
+{
+  "proof_id": 1136,
+  "date": "2026-05-23",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1136_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "EQP-GRC-0001",
+  "category": "field_operation",
+  "sub_category": "grass_cutter_fueling",
+  "evidence_type": "image_record",
+  "description": "Observation of fueling preparation activity for EQP-GRC-0001 at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeigzvolbiivsagumdjk6yqt6jsbunnfjhocwl5nppblvl4bub44nky",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigzvolbiivsagumdjk6yqt6jsbunnfjhocwl5nppblvl4bub44nky",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1135 -> 1136",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

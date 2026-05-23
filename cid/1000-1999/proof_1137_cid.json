@@ -1,0 +1,28 @@
+{
+  "proof_id": 1137,
+  "date": "2026-05-23",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1137_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-05",
+  "asset_id": "EQP-GRC-0001",
+  "category": "field_observation",
+  "sub_category": "pre_grass_cutting_condition",
+  "evidence_type": "image_record",
+  "description": "Observation of field vegetation condition before grass cutting operation at FZ-05.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeifaqdytlntnfmeogtmpjg2c5dkduu2nk25xnhxls24viujf2nfqfy",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifaqdytlntnfmeogtmpjg2c5dkduu2nk25xnhxls24viujf2nfqfy",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1136 -> 1137",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

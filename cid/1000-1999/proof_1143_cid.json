@@ -1,0 +1,27 @@
+{
+  "proof_id": 1143,
+  "date": "2026-05-24",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1143_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "category": "field_observation",
+  "sub_category": "post_grass_cutting_condition",
+  "evidence_type": "image_record",
+  "description": "Observation of field condition after grass cutting activity at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeigiztiqn66nt3bs7nlkroazle2h6qlaezaos5jkqnmxqrjcxbqh2y",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigiztiqn66nt3bs7nlkroazle2h6qlaezaos5jkqnmxqrjcxbqh2y",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1142 -> 1143",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

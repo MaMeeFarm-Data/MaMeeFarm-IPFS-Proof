@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-24",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "mode": "Daily Documentation • Append-only • No interpretation",
+  "coverage": {
+    "data_unit_range": {
+      "start": 3101,
+      "end": 3110
+    },
+    "proof_range": {
+      "start": 1140,
+      "end": 1144
+    }
+  },
+  "zones": [
+    "FZ-03"
+  ],
+  "assets": [
+    "EQP-GRC-0001"
+  ],
+  "activities": [
+    "Black plastic hose collection workflow",
+    "Blue hose collection workflow",
+    "Grass cutter preparation workflow",
+    "Post-cutting field condition observation",
+    "Grass cutter storage workflow"
+  ],
+  "proof_references": [
+    1140,
+    1141,
+    1142,
+    1143,
+    1144
+  ],
+  "integrity": {
+    "append_only": true,
+    "retroactive_modification": false,
+    "sequence_continuity": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

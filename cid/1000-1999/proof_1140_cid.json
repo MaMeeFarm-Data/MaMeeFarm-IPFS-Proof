@@ -1,0 +1,27 @@
+{
+  "proof_id": 1140,
+  "date": "2026-05-24",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1140_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "category": "field_operation",
+  "sub_category": "plastic_hose_collection",
+  "evidence_type": "image_record",
+  "description": "Observation of black plastic hose collection workflow at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeidzhxhfzhwgfftmil47ylptcjuumbel3ze2b3zxu2f6du3qub7faa",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidzhxhfzhwgfftmil47ylptcjuumbel3ze2b3zxu2f6du3qub7faa",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1139 -> 1140",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

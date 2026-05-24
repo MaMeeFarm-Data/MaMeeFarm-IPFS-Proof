@@ -1,0 +1,28 @@
+{
+  "proof_id": 1144,
+  "date": "2026-05-24",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1144_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "EQP-GRC-0001",
+  "category": "equipment_storage",
+  "sub_category": "post_operation_storage",
+  "evidence_type": "image_record",
+  "description": "Observation of EQP-GRC-0001 storage workflow after field operation at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeibrd7pv7coobbhnf5zzm2362xis53riowlz4wg5ivkpfg3aqdt6ou",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibrd7pv7coobbhnf5zzm2362xis53riowlz4wg5ivkpfg3aqdt6ou",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1143 -> 1144",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,28 @@
+{
+  "proof_id": 1142,
+  "date": "2026-05-24",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1142_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "EQP-GRC-0001",
+  "category": "field_operation",
+  "sub_category": "grass_cutter_preparation",
+  "evidence_type": "image_record",
+  "description": "Observation of grass cutter preparation workflow at FZ-03.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeiftsrvw6t4ao4jhg4l6pzw3jwpxagejk63wx3z7q7sq4igkgvcohe",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiftsrvw6t4ao4jhg4l6pzw3jwpxagejk63wx3z7q7sq4igkgvcohe",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1141 -> 1142",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

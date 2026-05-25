@@ -1,0 +1,28 @@
+{
+  "proof_id": 1147,
+  "date": "2026-05-25",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1147_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "category": "field_operation",
+  "sub_category": "active_grass_cutting",
+  "evidence_type": "image_record",
+  "description": "Observation of EQP-GRC-0001 during active grass cutting operation at HZ-02.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeiggbnimqogpfjmnupur5pjfupxeclh6wujd246nxuxk2mxpmnn52i",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiggbnimqogpfjmnupur5pjfupxeclh6wujd246nxuxk2mxpmnn52i",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1146 -> 1147",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

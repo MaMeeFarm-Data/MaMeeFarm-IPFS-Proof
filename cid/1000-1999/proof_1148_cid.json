@@ -1,0 +1,28 @@
+{
+  "proof_id": 1148,
+  "date": "2026-05-25",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1148_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "category": "equipment_maintenance",
+  "sub_category": "blade_damage_observation",
+  "evidence_type": "image_record",
+  "description": "Observation of blade edge damage after operational impact at HZ-02.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeifajdkrago4ditv6nbynoxavrp47c3323ixp2zj5pp6buv6jwe2am",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifajdkrago4ditv6nbynoxavrp47c3323ixp2zj5pp6buv6jwe2am",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1147 -> 1148",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,28 @@
+{
+  "proof_id": 1155,
+  "date": "2026-05-26",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1155_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "field_operation",
+  "sub_category": "equipment_storage_condition",
+  "equipment_id": "EQP-GRC-0001",
+  "evidence_type": "image_record",
+  "description": "Observation of grass cutter storage condition after vegetation maintenance workflow completion within HZ-02.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeih552xlr2cn7ijnwjufqelrxd453twk2f22c4ezqo4kyvnkkqk6ge",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeih552xlr2cn7ijnwjufqelrxd453twk2f22c4ezqo4kyvnkkqk6ge",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1154 -> 1155",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

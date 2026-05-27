@@ -1,0 +1,28 @@
+{
+  "proof_id": 1159,
+  "date": "2026-05-27",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1159_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "plant_observation",
+  "sub_category": "harvest_ready_papaya_observation",
+  "plant_id": "PLT-PAP-0003",
+  "evidence_type": "image_record",
+  "description": "Observation of ripe papaya fruit prepared for harvest from standing papaya plant within HZ-02.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeiameak4xtdsn4czrfvpguuc2s7cvnynlogz6u3wsciy5josupnoau",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiameak4xtdsn4czrfvpguuc2s7cvnynlogz6u3wsciy5josupnoau",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1158 -> 1159",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

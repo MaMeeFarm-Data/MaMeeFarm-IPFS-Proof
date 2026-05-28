@@ -1,0 +1,29 @@
+{
+  "proof_id": 1164,
+  "date": "2026-05-28",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1164_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-01",
+  "asset_id": "INF-GATE-0001",
+  "tool_reference": "TOOL-TAPE-0001",
+  "category": "infrastructure_measurement",
+  "sub_category": "gate_measurement_observation",
+  "evidence_type": "image_record",
+  "description": "Observation of physical width measurement activity on INF-GATE-0001 using TOOL-TAPE-0001 at HZ-01.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeidsz7mgs2i33vfz6hef53wwtkyxrbcahfjup4nwr4uw2aewe7rciu",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidsz7mgs2i33vfz6hef53wwtkyxrbcahfjup4nwr4uw2aewe7rciu",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1163 -> 1164",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

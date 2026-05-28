@@ -1,0 +1,28 @@
+{
+  "proof_id": 1161,
+  "date": "2026-05-28",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1161_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-01",
+  "asset_id": "INF-GATE-0001",
+  "category": "infrastructure_asset",
+  "sub_category": "sale_notice_observation",
+  "evidence_type": "image_record",
+  "description": "Observation of physical sale notice attached to INF-GATE-0001 at HZ-01.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeib7pv2dsts3nfphqjgy76izxpzvn2jbcblkifnp2lrygwb5bfrx2u",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeib7pv2dsts3nfphqjgy76izxpzvn2jbcblkifnp2lrygwb5bfrx2u",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1160 -> 1161",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

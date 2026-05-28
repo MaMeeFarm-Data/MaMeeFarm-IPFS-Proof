@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-28",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "mode": "daily operational continuity logging",
+  "proof_range": {
+    "start": 1161,
+    "end": 1165
+  },
+  "activities": [
+    {
+      "proof_id": 1161,
+      "category": "infrastructure_asset_sale",
+      "sub_category": "sale_notice_installation",
+      "zone": "HZ-01",
+      "asset_id": "INF-GATE-0001"
+    },
+    {
+      "proof_id": 1162,
+      "category": "infrastructure_observation",
+      "sub_category": "gate_structure_documentation",
+      "zone": "HZ-01",
+      "asset_id": "INF-GATE-0001"
+    },
+    {
+      "proof_id": 1163,
+      "category": "measurement_tool_observation",
+      "sub_category": "tool_identification",
+      "zone": "HZ-01",
+      "asset_id": "TOOL-TAPE-0001"
+    },
+    {
+      "proof_id": 1164,
+      "category": "measurement_activity",
+      "sub_category": "gate_dimension_measurement",
+      "zone": "HZ-01",
+      "asset_id": "INF-GATE-0001"
+    },
+    {
+      "proof_id": 1165,
+      "category": "infrastructure_asset_sale",
+      "sub_category": "physical_sale_notice_installation",
+      "zone": "HZ-01",
+      "asset_id": "INF-GATE-0001"
+    }
+  ],
+  "integrity": {
+    "proof_continuity": "1160 -> 1161 -> 1162 -> 1163 -> 1164 -> 1165",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

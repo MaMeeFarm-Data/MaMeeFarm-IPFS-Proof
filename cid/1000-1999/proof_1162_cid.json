@@ -1,0 +1,28 @@
+{
+  "proof_id": 1162,
+  "date": "2026-05-28",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1162_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-01",
+  "asset_id": "INF-GATE-0001",
+  "category": "infrastructure_asset",
+  "sub_category": "gate_structure_observation",
+  "evidence_type": "image_record",
+  "description": "Observation of INF-GATE-0001 dual gate structure at HZ-01.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeigulpbvsx5aqta7fylkooc7gin6lqjbhtxxtjvo54fp2azdkeudru",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigulpbvsx5aqta7fylkooc7gin6lqjbhtxxtjvo54fp2azdkeudru",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1161 -> 1162",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

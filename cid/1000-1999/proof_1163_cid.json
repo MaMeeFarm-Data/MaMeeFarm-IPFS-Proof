@@ -1,0 +1,28 @@
+{
+  "proof_id": 1163,
+  "date": "2026-05-28",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1163_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-01",
+  "asset_id": "TOOL-TAPE-0001",
+  "category": "tool_asset",
+  "sub_category": "measurement_tool_observation",
+  "evidence_type": "image_record",
+  "description": "Observation of labeled tape measure tool TOOL-TAPE-0001 within MaMeeFarm operational environment.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeigfdri6kw7zlgatdigivyijt52tuspadzevb3lmecw4rbdab5mws4",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigfdri6kw7zlgatdigivyijt52tuspadzevb3lmecw4rbdab5mws4",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1162 -> 1163",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

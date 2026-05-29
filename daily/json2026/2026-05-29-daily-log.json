@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-29",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_range": {
+    "start": 1166,
+    "end": 1169
+  },
+  "proof_count": 4,
+  "records": [
+    {
+      "proof_id": 1166,
+      "zone": "FZ-03-T1",
+      "asset_id": "HTC-2",
+      "category": "environment_monitoring"
+    },
+    {
+      "proof_id": 1167,
+      "zone": "FZ-03",
+      "asset_id": "INF-GATE-0003",
+      "category": "gate_operation"
+    },
+    {
+      "proof_id": 1168,
+      "zone": "HZ-02-T1",
+      "asset_id": "HTC-1",
+      "category": "environment_monitoring"
+    },
+    {
+      "proof_id": 1169,
+      "zone": "HZ-02-T2",
+      "asset_id": "HTC-1",
+      "category": "environment_monitoring"
+    }
+  ],
+  "chain_continuity": {
+    "previous": 1165,
+    "current_range": "1166-1169",
+    "next": 1170
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

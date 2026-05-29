@@ -1,0 +1,32 @@
+{
+  "proof_id": 1167,
+  "date": "2026-05-29",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1167_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "INF-GATE-0003",
+  "category": "infrastructure_operation",
+  "sub_category": "gate_close_observation",
+  "evidence_type": "image_record",
+  "description": "Observation of INF-GATE-0003 recorded in closed position following previous open-state observation.",
+  "reference": {
+    "dataunit_ref": "03176",
+    "relation": "gate_open_to_gate_close"
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeide2mn3movchdoazk2iagmlmkvs5biw5y44kbmaua4kqksxlvbpcy",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeide2mn3movchdoazk2iagmlmkvs5biw5y44kbmaua4kqksxlvbpcy",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1166 -> 1167",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,32 @@
+{
+  "proof_id": 1168,
+  "date": "2026-05-29",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1168_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02-T1",
+  "asset_id": "HTC-1",
+  "category": "environment_monitoring",
+  "sub_category": "temperature_humidity_observation",
+  "evidence_type": "image_record",
+  "description": "Observation of HTC-1 environmental sensor at HZ-02-T1 recording 32.4°C and 54% relative humidity.",
+  "observation": {
+    "temperature_c": 32.4,
+    "relative_humidity_percent": 54
+  },
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeigueumxoo5nlrmdkfu34xyrcs3c3e7tsrdy63vl6fxskdav32svbu",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigueumxoo5nlrmdkfu34xyrcs3c3e7tsrdy63vl6fxskdav32svbu",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1167 -> 1168",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

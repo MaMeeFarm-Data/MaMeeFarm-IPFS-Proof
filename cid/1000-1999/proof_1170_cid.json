@@ -1,0 +1,27 @@
+{
+  "proof_id": 1170,
+  "date": "2026-05-30",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1170_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "environmental_monitoring",
+  "sub_category": "rainfall_observation",
+  "evidence_type": "image_record",
+  "description": "Observation of rainfall event occurring at HZ-02 during early morning environmental monitoring.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeicwazombtnlohfxpajudwht376ohbccimc6qidfzthgk5bd5n5cri",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicwazombtnlohfxpajudwht376ohbccimc6qidfzthgk5bd5n5cri",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1169 -> 1170",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

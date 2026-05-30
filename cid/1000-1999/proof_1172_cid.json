@@ -1,0 +1,28 @@
+{
+  "proof_id": 1172,
+  "date": "2026-05-30",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1172_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "INF-GATE-0003",
+  "category": "infrastructure_operation",
+  "sub_category": "gate_open",
+  "evidence_type": "image_record",
+  "description": "Observation of INF-GATE-0003 opened for access between HZ-02 and FZ-03/FZ-04/FZ-05.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeiexlleazlwaomd4to7kjlmpzcof7s23hbwy75z5olpuuhv6cofnsu",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiexlleazlwaomd4to7kjlmpzcof7s23hbwy75z5olpuuhv6cofnsu",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1171 -> 1172",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

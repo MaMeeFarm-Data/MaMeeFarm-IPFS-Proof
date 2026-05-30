@@ -1,0 +1,28 @@
+{
+  "proof_id": 1173,
+  "date": "2026-05-30",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1173_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03-T1",
+  "asset_id": "HTC-2",
+  "category": "environmental_monitoring",
+  "sub_category": "duck_house_temperature_humidity",
+  "evidence_type": "image_record",
+  "description": "Observation of duck house environmental conditions at FZ-03-T1. Temperature IN 26.5C, OUT 25.9C, RH 80%. No ducks present.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeigw4lh6xk6nwy4kumow456afdff5hca6kh5ikov23hrnqwe6fr42i",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigw4lh6xk6nwy4kumow456afdff5hca6kh5ikov23hrnqwe6fr42i",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1172 -> 1173",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

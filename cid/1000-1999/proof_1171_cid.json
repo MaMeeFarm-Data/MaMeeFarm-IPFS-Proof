@@ -1,0 +1,28 @@
+{
+  "proof_id": 1171,
+  "date": "2026-05-30",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1171_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "category": "animal_management",
+  "sub_category": "dog_feeding",
+  "evidence_type": "image_record",
+  "description": "Observation of dog feeding activity for ANM-DOG-GROOP at HZ-02.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeidrilkitcwws42cla5v3nrvkhpnsnnrc22lx7rit2tnafaoaffbza",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeidrilkitcwws42cla5v3nrvkhpnsnnrc22lx7rit2tnafaoaffbza",
+    "binding": "non-binding"
+  },
+  "integrity": {
+    "sequence_continuity": "1170 -> 1171",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

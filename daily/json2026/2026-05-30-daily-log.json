@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-30",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "proof_range": {
+    "start": 1170,
+    "end": 1174
+  },
+  "proof_count": 5,
+  "records": [
+    {
+      "proof_id": 1170,
+      "category": "environmental_observation",
+      "description": "Rainfall observation at HZ-02."
+    },
+    {
+      "proof_id": 1171,
+      "category": "animal_management",
+      "description": "Dog feeding activity for ANM-DOG-GROOP at HZ-02."
+    },
+    {
+      "proof_id": 1172,
+      "category": "infrastructure_operation",
+      "description": "INF-GATE-0003 opening operation from HZ-02 to FZ-03, FZ-04 and FZ-05."
+    },
+    {
+      "proof_id": 1173,
+      "category": "environmental_monitoring",
+      "description": "Duck house temperature and humidity observation at FZ-03-T1."
+    },
+    {
+      "proof_id": 1174,
+      "category": "water_management",
+      "description": "Water level observation at FZ-05-CANAL-0001 after rainfall."
+    }
+  ],
+  "chain_continuity": "1169 -> 1170 -> 1171 -> 1172 -> 1173 -> 1174",
+  "next_proof": 1175,
+  "license": "DGCP | MMFARM-POL-2025"
+}

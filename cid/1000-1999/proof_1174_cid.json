@@ -1,0 +1,31 @@
+{
+  "proof_id": 1174,
+  "date": "2026-05-30",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "proof_1174_cid.json",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "pending",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-05",
+  "asset_id": "FZ-05-CANAL-0001",
+  "category": "water_management",
+  "sub_category": "canal_water_level_observation",
+  "evidence_type": "image_record",
+  "description": "Observation of elevated canal water level at FZ-05-CANAL-0001 following rainfall event. Reference Proof 1170.",
+  "external_reference": {
+    "type": "ipfs",
+    "cid": "bafybeift65rshzmkzeajxmwszddpilntxu6s3kw4hdaga26w4zq7sbwoui",
+    "gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeift65rshzmkzeajxmwszddpilntxu6s3kw4hdaga26w4zq7sbwoui",
+    "binding": "non-binding"
+  },
+  "reference": {
+    "proof_ref": 1170
+  },
+  "integrity": {
+    "sequence_continuity": "1173 -> 1174",
+    "append_only": true,
+    "retroactive_modification": false
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

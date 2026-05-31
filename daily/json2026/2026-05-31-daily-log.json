@@ -1,0 +1,60 @@
+{
+"date": "2026-05-31",
+"timezone": "Asia/Bangkok",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"proof_range": {
+"start": 1175,
+"end": 1179
+},
+"records": [
+{
+"proof_id": 1175,
+"time": "12:27",
+"zone": "HZ-02",
+"category": "maintenance_activity",
+"observation": "Cleaning activity observed at HZ-02 balcony area.",
+"ipfs_cid": "bafybeib2f2gimnsbpin7cr6uueagne7onlknszvapf77q4a2tqr6ktzg6y"
+},
+{
+"proof_id": 1176,
+"time": "12:28",
+"zone": "HZ-02",
+"asset_id": "ANM-DOG-GROOP",
+"category": "animal_observation",
+"observation": "One member of ANM-DOG-GROOP observed resting at balcony area.",
+"ipfs_cid": "bafybeihdzo2wdwdwobwc2zhoqc25yizfc4aksamszwvhiam6hp4dahwvby"
+},
+{
+"proof_id": 1177,
+"time": "12:28",
+"zone": "HZ-02",
+"category": "biological_observation",
+"observation": "Tick-like organisms of unspecified species observed on wall surface.",
+"ipfs_cid": "bafybeigela2pbgrqh56fesmwp5zok2ji2h7mnsbd5osgnepqiffba6ebpe"
+},
+{
+"proof_id": 1178,
+"time": "12:47",
+"zone": "HZ-02",
+"category": "maintenance_observation",
+"observation": "Floor surface condition documented after cleaning activity.",
+"ipfs_cid": "bafybeifevra2z2umqixq2xmthiaz5en7xu5npbhz5g7c6hcicjn2gkttyy"
+},
+{
+"proof_id": 1179,
+"time": "12:56",
+"zone": "HZ-02",
+"sensor_id": "HTC-1",
+"sensor_location": "HZ-02-T1",
+"temperature_celsius": 31.6,
+"humidity_percent": 59,
+"category": "environmental_measurement",
+"ipfs_cid": "bafybeiejlesedhbzlwdwze6ozyokg7xqfxbpf7mfrodmkwrs5oqvepcmka"
+}
+],
+"chain_continuity": "1175->1176->1177->1178->1179",
+"status": "complete",
+"license": "DGCP | MMFARM-POL-2025"
+}

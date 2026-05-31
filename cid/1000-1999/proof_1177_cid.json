@@ -1,0 +1,22 @@
+{
+  "proof_id": 1177,
+  "date": "2026-05-31",
+  "time_local": "12:28",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "biological_observation",
+  "sub_category": "tick_like_organism_presence",
+  "identification_status": "unspecified_species",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeigela2pbgrqh56fesmwp5zok2ji2h7mnsbd5osgnepqiffba6ebpe",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigela2pbgrqh56fesmwp5zok2ji2h7mnsbd5osgnepqiffba6ebpe",
+  "proof_reference": [
+    1176,
+    1177
+  ],
+  "status": "recorded",
+  "verification": "image_evidence_available",
+  "license": "DGCP | MMFARM-POL-2025"
+}

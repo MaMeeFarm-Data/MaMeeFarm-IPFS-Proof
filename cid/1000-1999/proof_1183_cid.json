@@ -1,0 +1,25 @@
+{
+  "proof_id": 1183,
+  "date": "2026-06-01",
+  "time_local": "11:42",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "water_management",
+  "sub_category": "water_transfer_to_storage",
+  "asset_ids": [
+    "WT-H-0001",
+    "WT-H-0002"
+  ],
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeihje2v3lt5knvptk7pbhcmlaij4xnrpf322gvhlhujybztdmgnbie",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihje2v3lt5knvptk7pbhcmlaij4xnrpf322gvhlhujybztdmgnbie",
+  "proof_reference": [
+    1182,
+    1183
+  ],
+  "status": "recorded",
+  "verification": "image_evidence_available",
+  "license": "DGCP | MMFARM-POL-2025"
+}

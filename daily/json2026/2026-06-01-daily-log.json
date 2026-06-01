@@ -1,0 +1,70 @@
+{
+"date": "2026-06-01",
+"timezone": "Asia/Bangkok",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"proof_range": {
+"start": 1180,
+"end": 1184
+},
+"records": [
+{
+"proof_id": 1180,
+"time": "11:38",
+"zone": "HZ-02",
+"asset_ids": [
+"WT-UW-0001",
+"WT-UW-0002"
+],
+"category": "infrastructure_observation",
+"observation": "Underground water well infrastructure observed.",
+"ipfs_cid": "bafybeicpuj3t2o6cxar57qkjcrtlijvib434hecj5jgnrgcthqj3n2l2ju"
+},
+{
+"proof_id": 1181,
+"time": "11:39",
+"zone": "HZ-02",
+"asset_id": "HZ-PMP-0003",
+"category": "water_management",
+"observation": "Water pump deployed into underground water well.",
+"ipfs_cid": "bafybeih5ocremsp4uymglp3af47unl7jb6jbqsi7kedtbllow7jery5xoi"
+},
+{
+"proof_id": 1182,
+"time": "11:40",
+"zone": "HZ-02",
+"related_asset": "HZ-PMP-0003",
+"category": "water_management",
+"observation": "Water pipe connection observed for water transfer.",
+"ipfs_cid": "bafybeieqhkwghdywt72kht2qqi24gx2vzfuua6denme35fjscn6qk23cvu"
+},
+{
+"proof_id": 1183,
+"time": "11:42",
+"zone": "HZ-02",
+"asset_ids": [
+"WT-H-0001",
+"WT-H-0002"
+],
+"category": "water_management",
+"observation": "Water transfer to elevated storage tanks observed.",
+"ipfs_cid": "bafybeihje2v3lt5knvptk7pbhcmlaij4xnrpf322gvhlhujybztdmgnbie"
+},
+{
+"proof_id": 1184,
+"time": "12:37",
+"zone": "HZ-02",
+"asset_ids": [
+"WT-H-0001",
+"WT-H-0002"
+],
+"category": "water_management",
+"observation": "Water overflow condition observed at elevated storage tanks.",
+"ipfs_cid": "bafybeifbuzj72g44fz4zptdf37famn2zv5ipfs7es3ajjoebf7paj6pj7q"
+}
+],
+"chain_continuity": "1180->1181->1182->1183->1184",
+"status": "complete",
+"license": "DGCP | MMFARM-POL-2025"
+}

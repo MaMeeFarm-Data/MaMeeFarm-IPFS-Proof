@@ -1,0 +1,14 @@
+{
+  "proof_id": 1181,
+  "date": "2026-06-01",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "MMFARM_DGCP_DAILY_2026-06-01_Proof1181_cid.json",
+  "file_size": "744 B",
+  "sha256": "05b7e78898e1e73edaf8bd82cc389b123eebf2153bfdae71cf280290dd3d314f",
+  "timestamp_method": "OpenTimestamps",
+  "timestamp_status": "receipt created and download started",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "sequence": "1180 → 1181",
+  "license": "DGCP | MMFARM-POL-2025"
+}

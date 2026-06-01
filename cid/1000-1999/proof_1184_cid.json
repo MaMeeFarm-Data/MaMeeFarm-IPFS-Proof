@@ -1,0 +1,25 @@
+{
+  "proof_id": 1184,
+  "date": "2026-06-01",
+  "time_local": "12:37",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "water_management",
+  "sub_category": "storage_tank_overflow",
+  "asset_ids": [
+    "WT-H-0001",
+    "WT-H-0002"
+  ],
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeifbuzj72g44fz4zptdf37famn2zv5ipfs7es3ajjoebf7paj6pj7q",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifbuzj72g44fz4zptdf37famn2zv5ipfs7es3ajjoebf7paj6pj7q",
+  "proof_reference": [
+    1183,
+    1184
+  ],
+  "status": "recorded",
+  "verification": "image_evidence_available",
+  "license": "DGCP | MMFARM-POL-2025"
+}

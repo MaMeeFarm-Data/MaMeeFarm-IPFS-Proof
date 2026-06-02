@@ -1,0 +1,24 @@
+{
+  "proof_id": 1185,
+  "date": "2026-06-02",
+  "time_local": "18:21",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "equipment_operation_preparation",
+  "sub_category": "fuel_mixing",
+  "asset_id": "EQP-GRC-0001",
+  "fuel_type": "Gasoline 95",
+  "additive": "2T Oil",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeic6e6lsgyv2airundeezub23v6xhg6fm3cicmdayadmy6e4mpeota",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeic6e6lsgyv2airundeezub23v6xhg6fm3cicmdayadmy6e4mpeota",
+  "proof_reference": [
+    1184,
+    1185
+  ],
+  "status": "recorded",
+  "verification": "image_evidence_available",
+  "license": "DGCP | MMFARM-POL-2025"
+}

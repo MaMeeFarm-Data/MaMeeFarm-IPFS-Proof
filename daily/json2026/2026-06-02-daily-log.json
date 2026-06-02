@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-02",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": {
+    "start": 1185,
+    "end": 1189
+  },
+  "records": [
+    {
+      "proof_id": 1185,
+      "time": "18:21",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "category": "equipment_operation_preparation",
+      "observation": "Preparation of fuel mixture for grass cutter operation observed.",
+      "ipfs_cid": "bafybeic6e6lsgyv2airundeezub23v6xhg6fm3cicmdayadmy6e4mpeota"
+    },
+    {
+      "proof_id": 1186,
+      "time": "18:24",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "category": "maintenance_activity",
+      "observation": "Grass condition observed prior to grass cutting operations.",
+      "ipfs_cid": "bafybeiedzy7athkrplpgxt4imtcn36o3c5sevgscdp6qfgbr2zyq4eg2di"
+    },
+    {
+      "proof_id": 1187,
+      "time": "18:33",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "category": "maintenance_activity",
+      "observation": "Grass cutter operation observed during vegetation maintenance activity.",
+      "ipfs_cid": "bafybeig4fw4sox3uaam2h4ckzlux7eh3uygr5clultft4nguqlrqioawd4"
+    },
+    {
+      "proof_id": 1188,
+      "time": "18:48",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "category": "maintenance_activity",
+      "observation": "Grass cutting activity completed and post-maintenance condition observed.",
+      "ipfs_cid": "bafybeiedb7sipyg6gfya3sxmjanlkvm5vhoy2n7nrslayufb6rt5takhge"
+    },
+    {
+      "proof_id": 1189,
+      "time": "18:49",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "category": "equipment_management",
+      "observation": "Grass cutter equipment stored after operation.",
+      "ipfs_cid": "bafybeib5ejfup6mn2iolgiuokglzdwd4gginbdepwa2ofvuowuvrp2foeq"
+    }
+  ],
+  "chain_continuity": "1185->1186->1187->1188->1189",
+  "status": "complete",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,22 @@
+{
+  "proof_id": 1187,
+  "date": "2026-06-02",
+  "time_local": "18:33",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "maintenance_activity",
+  "sub_category": "grass_cutting_operation",
+  "asset_id": "EQP-GRC-0001",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeig4fw4sox3uaam2h4ckzlux7eh3uygr5clultft4nguqlrqioawd4",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeig4fw4sox3uaam2h4ckzlux7eh3uygr5clultft4nguqlrqioawd4",
+  "proof_reference": [
+    1186,
+    1187
+  ],
+  "status": "recorded",
+  "verification": "image_evidence_available",
+  "license": "DGCP | MMFARM-POL-2025"
+}

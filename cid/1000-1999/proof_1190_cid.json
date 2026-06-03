@@ -1,0 +1,26 @@
+{
+  "proof_id": 1190,
+  "date": "2026-06-03",
+  "time_local": "18:10",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "plant_maintenance",
+  "sub_category": "pre_leaf_trimming",
+  "asset_ids": [
+    "PLT-BAN-0007",
+    "PLT-BAN-0009"
+  ],
+  "tool_id": "TOL-PRN-HOOK-0001",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeialwxozybvvouehvtkojzxevg5hwbjxldfxz6faodqrltj5z2mpau",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeialwxozybvvouehvtkojzxevg5hwbjxldfxz6faodqrltj5z2mpau",
+  "proof_reference": [
+    1189,
+    1190
+  ],
+  "status": "recorded",
+  "verification": "image_evidence_available",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-03",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "proof_range": {
+    "start": 1190,
+    "end": 1194
+  },
+  "proof_count": 5,
+  "records": [
+    {
+      "proof_id": 1190,
+      "time": "18:10",
+      "category": "plant_management",
+      "observation": "Banana leaves before pruning",
+      "asset_ids": [
+        "PLT-BAN-0007",
+        "PLT-BAN-0009"
+      ],
+      "tool_id": "TOL-PRN-HOOK-0001",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 1191,
+      "time": "18:12",
+      "category": "plant_management",
+      "observation": "Banana tree after pruning",
+      "zone": "HZ-02",
+      "reference_proof": 1190
+    },
+    {
+      "proof_id": 1192,
+      "time": "18:12",
+      "category": "plant_management",
+      "observation": "Removed banana leaves after pruning",
+      "zone": "HZ-02",
+      "reference_proof": 1190
+    },
+    {
+      "proof_id": 1193,
+      "time": "18:13",
+      "category": "infrastructure",
+      "observation": "Farm gate closed",
+      "asset_id": "INF-GATE-0003",
+      "zone": "HZ-02",
+      "reference_dataunit": "03241"
+    },
+    {
+      "proof_id": 1194,
+      "time": "18:32",
+      "category": "environmental_monitoring",
+      "observation": "Temperature and humidity record",
+      "sensor": "HTC-1",
+      "asset_id": "HZ-02-T1",
+      "temperature_celsius": 31.5,
+      "humidity_percent": 54,
+      "zone": "HZ-02"
+    }
+  ],
+  "status": "complete",
+  "license": "DGCP | MMFARM-POL-2025"
+}

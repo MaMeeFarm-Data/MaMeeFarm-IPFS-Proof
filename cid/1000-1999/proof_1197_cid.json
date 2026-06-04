@@ -1,0 +1,21 @@
+{
+  "proof_id": 1197,
+  "date": "2026-06-04",
+  "time_local": "18:28",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "environmental_monitoring",
+  "sub_category": "temperature_humidity_record",
+  "asset_id": "HZ-02-T1",
+  "sensor_id": "HTC-1",
+  "temperature_celsius": 31.3,
+  "humidity_percent": 54,
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeigspmajjmi6cr6uyiz3eq52zoqhpttodmwcn734us3vugv2zffdce",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigspmajjmi6cr6uyiz3eq52zoqhpttodmwcn734us3vugv2zffdce",
+  "verification": "sensor_display_observed",
+  "status": "recorded",
+  "license": "DGCP | MMFARM-POL-2025"
+}

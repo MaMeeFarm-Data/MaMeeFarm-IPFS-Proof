@@ -1,0 +1,19 @@
+{
+  "proof_id": 1199,
+  "date": "2026-06-04",
+  "time_local": "18:34",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "maintenance_observation",
+  "sub_category": "post_cleaning_verification",
+  "asset_id": "HZ-02",
+  "activity": "surface_condition_observation",
+  "observation": "post-maintenance floor condition after rainfall cleaning",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeieyi7ppgybtc3mzoutxy7vue7p43fnqos6noozf4vw7kq5yujywqm",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeieyi7ppgybtc3mzoutxy7vue7p43fnqos6noozf4vw7kq5yujywqm",
+  "status": "recorded",
+  "license": "DGCP | MMFARM-POL-2025"
+}

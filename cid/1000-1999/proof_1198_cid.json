@@ -1,0 +1,19 @@
+{
+  "proof_id": 1198,
+  "date": "2026-06-04",
+  "time_local": "18:30",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "maintenance_activity",
+  "sub_category": "floor_cleaning",
+  "asset_id": "TOL-FLR-BRUSH-0001",
+  "activity": "algae_removal",
+  "observation": "floor cleaning during rainfall conditions",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeicwzdvcrt26pfvw5pe7wljtf46bsx3srzmb2f5tj6zcernwvos47a",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeicwzdvcrt26pfvw5pe7wljtf46bsx3srzmb2f5tj6zcernwvos47a",
+  "status": "recorded",
+  "license": "DGCP | MMFARM-POL-2025"
+}

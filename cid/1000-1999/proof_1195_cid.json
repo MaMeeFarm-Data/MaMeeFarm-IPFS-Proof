@@ -1,0 +1,18 @@
+{
+  "proof_id": 1195,
+  "date": "2026-06-04",
+  "time_local": "18:27",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "weather_observation",
+  "sub_category": "rainfall_event",
+  "weather_condition": "rain",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeiebr7ycqnl7yjoctlcnwndpmifbsyfzrplhbdg57vdlcdiozmevf4",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeiebr7ycqnl7yjoctlcnwndpmifbsyfzrplhbdg57vdlcdiozmevf4",
+  "verification": "visual_observation",
+  "status": "recorded",
+  "license": "DGCP | MMFARM-POL-2025"
+}

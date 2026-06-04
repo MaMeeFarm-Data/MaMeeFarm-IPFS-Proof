@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-04",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": "1195-1199",
+  "records": [
+    {
+      "proof_id": 1195,
+      "time": "18:27",
+      "activity_type": "weather_observation",
+      "zone": "HZ-02",
+      "observation": "Rainfall observed around MaMeeFarm."
+    },
+    {
+      "proof_id": 1196,
+      "time": "18:28",
+      "activity_type": "environmental_measurement",
+      "zone": "HZ-02-T2",
+      "asset_id": "HZ-02-HTC-0002",
+      "observation": "Indoor temperature 30.1C humidity 64%."
+    },
+    {
+      "proof_id": 1197,
+      "time": "18:28",
+      "activity_type": "environmental_measurement",
+      "zone": "HZ-02-T1",
+      "asset_id": "HZ-02-HTC-0001",
+      "observation": "Balcony temperature 31.3C humidity 54%."
+    },
+    {
+      "proof_id": 1198,
+      "time": "18:30",
+      "activity_type": "maintenance_activity",
+      "zone": "HZ-02",
+      "asset_id": "TOL-FLR-BRUSH-0001",
+      "observation": "Floor cleaning and algae removal activity."
+    },
+    {
+      "proof_id": 1199,
+      "time": "18:34",
+      "activity_type": "post_maintenance_observation",
+      "zone": "HZ-02",
+      "observation": "Surface condition observed after cleaning."
+    }
+  ],
+  "summary": {
+    "total_proofs": 5,
+    "proof_start": 1195,
+    "proof_end": 1199,
+    "chain_continuity": "1194 -> 1195 -> 1196 -> 1197 -> 1198 -> 1199"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

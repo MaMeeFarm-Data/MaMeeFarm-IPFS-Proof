@@ -1,0 +1,19 @@
+{
+  "proof_id": 1201,
+  "date": "2026-06-05",
+  "time_local": "18:18",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "wildlife_observation",
+  "sub_category": "bee_cluster",
+  "asset_id": "PLT-MNG-0001",
+  "activity": "environmental_monitoring",
+  "observation": "bee aggregation observed on mango tree, species not identified",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeid5zg2n5vbuz7yt2kzdiuojbcc4ty4mkr7u3zugrll5x5b7dcm5c4",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeid5zg2n5vbuz7yt2kzdiuojbcc4ty4mkr7u3zugrll5x5b7dcm5c4",
+  "status": "recorded",
+  "license": "DGCP | MMFARM-POL-2025"
+}

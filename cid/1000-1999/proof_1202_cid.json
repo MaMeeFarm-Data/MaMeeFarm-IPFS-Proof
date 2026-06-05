@@ -1,0 +1,19 @@
+{
+  "proof_id": 1202,
+  "date": "2026-06-05",
+  "time_local": "18:20",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "plant_health_observation",
+  "sub_category": "white_insect_infestation",
+  "asset_id": "PLT-MNG-0001",
+  "activity": "environmental_monitoring",
+  "observation": "white insect infestation observed on mango fruit surface, species not identified",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeihhr22ho2v4k5rwcgka4zkmbylnvwzsnua3jrtceb7g7mrvonjfne",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeihhr22ho2v4k5rwcgka4zkmbylnvwzsnua3jrtceb7g7mrvonjfne",
+  "status": "recorded",
+  "license": "DGCP | MMFARM-POL-2025"
+}

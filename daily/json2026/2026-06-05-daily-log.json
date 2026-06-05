@@ -1,0 +1,57 @@
+{
+"date": "2026-06-05",
+"timezone": "Asia/Bangkok",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"mode": "daily_observation_append_only",
+"proof_range": {
+"start": 1200,
+"end": 1204
+},
+"proof_count": 5,
+"zone": "HZ-02",
+"records": [
+{
+"proof_id": 1200,
+"time": "18:18",
+"asset_id": "PLT-MNG-0001",
+"activity_type": "plant_observation",
+"observation": "observed mango tree condition and fruit presence"
+},
+{
+"proof_id": 1201,
+"time": "18:18",
+"asset_id": "PLT-MNG-0001",
+"activity_type": "insect_observation",
+"observation": "observed bee aggregation on mango tree, species not identified"
+},
+{
+"proof_id": 1202,
+"time": "18:20",
+"asset_id": "PLT-MNG-0001",
+"activity_type": "plant_health_observation",
+"observation": "observed white insect infestation on mango fruit surface, species not identified"
+},
+{
+"proof_id": 1203,
+"time": "18:23",
+"asset_id": "PLT-MNG-0001",
+"activity_type": "insect_observation",
+"observation": "observed black ants on mango tree trunk, species not identified"
+},
+{
+"proof_id": 1204,
+"time": "18:24",
+"asset_id": "PLT-MNG-0001",
+"activity_type": "harvest_observation",
+"observation": "harvested three mango fruits for household consumption"
+}
+],
+"chain_continuity": {
+"previous_proof": 1199,
+"current_sequence": "1200-1204",
+"next_proof": 1205
+},
+"license": "DGCP | MMFARM-POL-2025"
+}

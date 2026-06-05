@@ -1,0 +1,19 @@
+{
+  "proof_id": 1203,
+  "date": "2026-06-05",
+  "time_local": "18:23",
+  "timezone": "Asia/Bangkok",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "category": "insect_observation",
+  "sub_category": "black_ant_observation",
+  "asset_id": "PLT-MNG-0001",
+  "activity": "environmental_monitoring",
+  "observation": "black ants observed on mango tree trunk, species not identified",
+  "media_type": "image",
+  "media_count": 1,
+  "ipfs_cid": "bafybeigb6awilsgcoxeoa6p34h2q63qz3ncui6cpo7w7supl4wklwlcqsy",
+  "ipfs_gateway": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeigb6awilsgcoxeoa6p34h2q63qz3ncui6cpo7w7supl4wklwlcqsy",
+  "status": "recorded",
+  "license": "DGCP | MMFARM-POL-2025"
+}

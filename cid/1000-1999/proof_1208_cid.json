@@ -1,0 +1,12 @@
+{
+  "proof_id": 1208,
+  "date": "2026-06-06",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "title": "Red Warning Indicator Observed on INV-01",
+  "cid": "bafybeicfd52hxqz64o77oyuh7gsrmb2yb6igyhhzf3m2rulc5f72zcsjke",
+  "asset_id": "INV-01",
+  "zone": "HZ-02",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,15 @@
+{
+  "proof_id": 1209,
+  "date": "2026-06-06",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "title": "Balcony Temperature and Humidity Observation",
+  "cid": "bafybeihcf67wvgcyfidj5ro2qbsed5av66gf7mogujgfhyfiq2c4w34w3m",
+  "asset_id": "HZ-02-HTC-0001",
+  "device": "HTC-1",
+  "zone": "HZ-02-T1",
+  "temperature_c": 27.3,
+  "humidity_percent": 74,
+  "license": "DGCP | MMFARM-POL-2025"
+}

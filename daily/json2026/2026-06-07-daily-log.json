@@ -1,0 +1,55 @@
+{
+"date": "2026-06-07",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"proof_range": {
+"start": 1210,
+"end": 1214
+},
+"proofs": [
+{
+"proof_id": 1210,
+"title": "INF-GATE-0003 Open Observation",
+"asset_id": "INF-GATE-0003",
+"zone": "HZ-02"
+},
+{
+"proof_id": 1211,
+"title": "Duck House Environmental Measurement",
+"asset_id": "HTC-2",
+"zone": "FZ-03-T1",
+"temperature_inside_c": 30.7,
+"temperature_outside_c": 30.5,
+"humidity_percent": 70
+},
+{
+"proof_id": 1212,
+"title": "Grass Condition Observation Before Cutting",
+"zone": "FZ-03"
+},
+{
+"proof_id": 1213,
+"title": "Grass Cutter Preparation Observation",
+"asset_id": "EQP-GRC-0001",
+"zone": "FZ-03"
+},
+{
+"proof_id": 1214,
+"title": "Grass Condition Observation After Cutting",
+"zone": "FZ-03"
+}
+],
+"summary": {
+"infrastructure_observed": [
+"INF-GATE-0003"
+],
+"equipment_observed": [
+"EQP-GRC-0001",
+"HTC-2"
+],
+"maintenance_activity": "grass_cutting",
+"environmental_measurements": true
+},
+"license": "DGCP | MMFARM-POL-2025"
+}

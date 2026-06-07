@@ -1,0 +1,13 @@
+{
+  "proof_id": 1210,
+  "date": "2026-06-07",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "title": "INF-GATE-0003 Open Observation",
+  "cid": "bafybeig6p3yrs2ofaj4ii6dvh5dgynopfgnbi6rlmuyb7s3h4tkgwk2wje",
+  "asset_id": "INF-GATE-0003",
+  "zone": "HZ-02",
+  "connection": "HZ-02 to FZ-03, FZ-04, FZ-05",
+  "license": "DGCP | MMFARM-POL-2025"
+}

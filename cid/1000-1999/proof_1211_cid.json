@@ -1,0 +1,15 @@
+{
+  "proof_id": 1211,
+  "date": "2026-06-07",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "title": "Duck House Environmental Measurement",
+  "cid": "bafybeie2xhgyxueutunb7udlnanli6uqyxhttgkx2av27lqw4xe3dguuyi",
+  "asset_id": "HTC-2",
+  "zone": "FZ-03-T1",
+  "temperature_inside_c": 30.7,
+  "temperature_outside_c": 30.5,
+  "humidity_percent": 70,
+  "license": "DGCP | MMFARM-POL-2025"
+}

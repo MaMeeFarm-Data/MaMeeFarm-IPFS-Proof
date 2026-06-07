@@ -1,0 +1,13 @@
+{
+  "proof_id": 1205,
+  "date": "2026-06-06",
+  "project": "MaMeeFarm™",
+  "framework": "DGCP™",
+  "file_name": "MMFARM_DGCP_DAILY_2026-06-06_Proof1205_cid.json",
+  "file_size": "350 B",
+  "sha256": "64256491b372ac17f8b08472d78160bea5084c76630c29a7033e70a63c0c4992",
+  "timestamp_method": "OpenTimestamps",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "sequence": "1204 → 1205",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,56 @@
+{
+"date": "2026-06-08",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"proof_range": {
+"start": 1215,
+"end": 1219
+},
+"proofs": [
+{
+"proof_id": 1215,
+"title": "Cracked Mango Observation",
+"asset_id": "PLT-MNG-0001",
+"zone": "HZ-02"
+},
+{
+"proof_id": 1216,
+"title": "Mango Fruit Feeding Damage Observation",
+"asset_id": "PLT-MNG-0001",
+"zone": "HZ-02"
+},
+{
+"proof_id": 1217,
+"title": "Cracked Mango Fruit Observed on Tree",
+"asset_id": "PLT-MNG-0001",
+"zone": "HZ-02"
+},
+{
+"proof_id": 1218,
+"title": "Ant Activity Observed on Mango Fruit",
+"asset_id": "PLT-MNG-0001",
+"zone": "HZ-02"
+},
+{
+"proof_id": 1219,
+"title": "Harvested Mango Condition Observation",
+"asset_id": "PLT-MNG-0001",
+"zone": "HZ-02"
+}
+],
+"summary": {
+"asset_observed": [
+"PLT-MNG-0001"
+],
+"observations": [
+"cracked_fruit",
+"feeding_damage",
+"ant_activity",
+"fruit_deterioration",
+"larvae_presence"
+],
+"chemical_treatment_reported": false
+},
+"license": "DGCP | MMFARM-POL-2025"
+}

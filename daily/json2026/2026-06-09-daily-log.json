@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-09",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": {
+    "start": 1220,
+    "end": 1224
+  },
+  "proofs": [
+    {
+      "proof_id": 1220,
+      "title": "Grass Cutter Fuel Preparation Observation",
+      "asset_id": "EQP-GRC-0001",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 1221,
+      "title": "Fuel Mixture Preparation Observation",
+      "asset_id": "EQP-GRC-0001",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 1222,
+      "title": "Pre-Mowing Front Yard Observation",
+      "asset_id": "EQP-GRC-0001",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 1223,
+      "title": "Grass Cutting Incident Observation",
+      "zone": "HZ-02"
+    },
+    {
+      "proof_id": 1224,
+      "title": "Post-Mowing Area Observation",
+      "asset_id": "EQP-GRC-0001",
+      "zone": "HZ-02"
+    }
+  ],
+  "summary": {
+    "asset_observed": [
+      "EQP-GRC-0001"
+    ],
+    "activities": [
+      "fuel_preparation",
+      "refueling_preparation",
+      "grass_cutting",
+      "site_maintenance",
+      "post_operation_observation"
+    ],
+    "incident_recorded": true
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

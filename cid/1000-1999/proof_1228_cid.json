@@ -1,0 +1,14 @@
+{
+  "proof_id": 1228,
+  "date": "2026-06-10",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Balcony Environmental Observation",
+  "location": "HZ-02",
+  "asset_id": "HZ-02-HTC-0001",
+  "sensor_id": "HTC-1",
+  "temperature_c": 27.5,
+  "humidity_percent": 70,
+  "cid": "bafybeiatr5xkbuhdnr76vjlwtyk5caz7yke7p3esp7tsir4h7cjl2e7bpm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

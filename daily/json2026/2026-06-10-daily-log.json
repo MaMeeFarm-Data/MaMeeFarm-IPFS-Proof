@@ -1,0 +1,85 @@
+{
+  "date": "2026-06-10",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": {
+    "start": 1225,
+    "end": 1229
+  },
+  "records": [
+    {
+      "proof_id": 1225,
+      "time": "17:48",
+      "activity_type": "Weather Observation",
+      "zone": "Farm Perimeter",
+      "observation": "Cloud cover and atmospheric conditions observed around MaMeeFarm. Low cloud formation visible near surrounding mountain range."
+    },
+    {
+      "proof_id": 1226,
+      "time": "17:48",
+      "activity_type": "Environmental Measurement",
+      "zone": "FZ-03-T1",
+      "asset_id": "HTC-2",
+      "observation": "Duck house environmental sensor recorded 26.9°C indoor temperature, 26.4°C outdoor temperature, and 79% relative humidity. No ducks present during observation."
+    },
+    {
+      "proof_id": 1227,
+      "time": "17:49",
+      "activity_type": "Infrastructure Operation",
+      "zone": "HZ-02",
+      "asset_id": "INF-GATE-0003",
+      "observation": "Farm gate closed. Access route between HZ-02 and FZ-03, FZ-04, FZ-05 secured following field activities."
+    },
+    {
+      "proof_id": 1228,
+      "time": "17:52",
+      "activity_type": "Environmental Measurement",
+      "zone": "HZ-02-T1",
+      "asset_id": "HZ-02-HTC-0001",
+      "observation": "Balcony temperature recorded at 27.5°C with relative humidity 70%."
+    },
+    {
+      "proof_id": 1229,
+      "time": "17:55",
+      "activity_type": "Environmental Measurement",
+      "zone": "HZ-02-T2",
+      "asset_id": "HZ-02-HTC-0002",
+      "observation": "Indoor house temperature recorded at 28.9°C with relative humidity 75%."
+    }
+  ],
+  "summary": {
+    "total_proofs": "1225-1229",
+    "total_records": 5,
+    "primary_activities": [
+      "Weather observation",
+      "Environmental monitoring",
+      "Infrastructure operation",
+      "Farm access control",
+      "Indoor and outdoor climate monitoring"
+    ],
+    "assets_referenced": [
+      "INF-GATE-0003",
+      "HTC-2",
+      "HZ-02-HTC-0001",
+      "HZ-02-HTC-0002"
+    ],
+    "zones_referenced": [
+      "HZ-02",
+      "HZ-02-T1",
+      "HZ-02-T2",
+      "FZ-03-T1",
+      "Farm Perimeter"
+    ],
+    "chain_continuity": "1224 → 1225 → 1226 → 1227 → 1228 → 1229",
+    "verification_status": "Verified"
+  },
+  "author": "P'Toh",
+  "role": "System Architect",
+  "license": {
+    "name": "DGCP | MMFARM-POL-2025",
+    "framework": "DGCP (Data Governance & Continuous Proof)",
+    "notice": "All content is part of the MaMeeFarm Real-Work Data & Philosophy archive. Redistribution, citation, or derivative use must preserve attribution and license reference."
+  }
+}

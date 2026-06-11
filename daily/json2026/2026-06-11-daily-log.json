@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-11",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": "1230-1234",
+  "total_records": 5,
+  "records": [
+    {
+      "proof_id": 1230,
+      "time": "18:42",
+      "activity_type": "Environmental Measurement",
+      "zone": "HZ-02-T2",
+      "asset_id": "HZ-02-HTC-0002",
+      "observation": "Indoor temperature recorded at 27.9°C with humidity 77%."
+    },
+    {
+      "proof_id": 1231,
+      "time": "18:43",
+      "activity_type": "Environmental Measurement",
+      "zone": "HZ-02-T1",
+      "asset_id": "HZ-02-HTC-0001",
+      "observation": "Balcony temperature recorded at 27.1°C with humidity 70%."
+    },
+    {
+      "proof_id": 1232,
+      "time": "18:43",
+      "activity_type": "Weather Observation",
+      "zone": "HZ-02",
+      "observation": "Rainfall observed around MaMeeFarm."
+    },
+    {
+      "proof_id": 1233,
+      "time": "20:04",
+      "activity_type": "Infrastructure Monitoring",
+      "zone": "HZ-02",
+      "asset_id": "INV-01",
+      "observation": "INV-01 observed in powered-off condition during routine infrastructure monitoring."
+    },
+    {
+      "proof_id": 1234,
+      "time": "20:05",
+      "activity_type": "Environmental Measurement",
+      "zone": "HZ-02-T1",
+      "asset_id": "HZ-02-HTC-0001",
+      "observation": "Balcony temperature recorded at 26.1°C with humidity 73%."
+    }
+  ],
+  "summary": {
+    "primary_activities": [
+      "Environmental monitoring",
+      "Weather observation",
+      "Infrastructure monitoring",
+      "Inverter status verification"
+    ],
+    "chain_continuity": "1229 → 1230 → 1231 → 1232 → 1233 → 1234"
+  },
+  "license": {
+    "name": "DGCP | MMFARM-POL-2025",
+    "framework": "Data Governance & Continuous Proof"
+  }
+}

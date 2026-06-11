@@ -1,0 +1,15 @@
+{
+  "proof_id": 1230,
+  "date": "2026-06-11",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Indoor Environmental Observation",
+  "location": "HZ-02",
+  "sub_zone": "HZ-02-T2",
+  "asset_id": "HZ-02-HTC-0002",
+  "sensor_id": "HTC-1",
+  "temperature_c": 27.9,
+  "humidity_percent": 77,
+  "cid": "bafybeidwpl5g4b27y5eb5lqlnp46fjoxalz6zsvh4vexnfjnccyxjpz2vq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,13 @@
+{
+  "proof_id": 1233,
+  "date": "2026-06-11",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Inverter Shutdown Observation",
+  "location": "HZ-02",
+  "asset_id": "INV-01",
+  "activity": "infrastructure_monitoring",
+  "observation": "INV-01 observed in powered-off condition",
+  "cid": "bafybeiasednsqfbqj3whv6zacrw3ax72kqoghm2r6asj657cjai7we2mmm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

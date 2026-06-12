@@ -1,0 +1,65 @@
+{
+"date": "2026-06-12",
+"timezone": "Asia/Bangkok",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"proof_range": {
+"start": 1235,
+"end": 1239
+},
+"total_records": 5,
+"activities": [
+{
+"proof_id": 1235,
+"time": "17:59",
+"activity_type": "Weather Observation",
+"zone": "HZ-02",
+"observation": "Rainfall observed at HZ-02."
+},
+{
+"proof_id": 1236,
+"time": "18:00",
+"activity_type": "Environmental Measurement",
+"zone": "HZ-02-T2",
+"asset_id": "HZ-02-HTC-0002",
+"observation": "Indoor temperature recorded at 29.4°C with humidity 72%."
+},
+{
+"proof_id": 1237,
+"time": "18:00",
+"activity_type": "Environmental Measurement",
+"zone": "HZ-02-T1",
+"asset_id": "HZ-02-HTC-0001",
+"observation": "Balcony temperature recorded at 29.1°C with humidity 66%."
+},
+{
+"proof_id": 1238,
+"time": "18:00",
+"activity_type": "Animal Observation",
+"zone": "HZ-02",
+"asset_id": "ANM-DOG-GROOP",
+"observation": "One dog observed within HZ-02 during rainfall conditions."
+},
+{
+"proof_id": 1239,
+"time": "18:02",
+"activity_type": "Animal Observation",
+"zone": "HZ-02",
+"observation": "Multiple ticks observed on balcony wall surface. Species not identified."
+}
+],
+"summary": {
+"primary_activities": [
+"Weather observation",
+"Environmental monitoring",
+"Animal observation",
+"Pest observation"
+],
+"chain_continuity": "1234 → 1235 → 1236 → 1237 → 1238 → 1239"
+},
+"license": {
+"name": "DGCP | MMFARM-POL-2025",
+"text": "This work is licensed under the DGCP (Data Governance & Continuous Proof) framework. All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive. Redistribution, citation, or derivative use must preserve attribution and license reference."
+}
+}

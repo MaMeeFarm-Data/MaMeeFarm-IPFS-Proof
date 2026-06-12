@@ -1,0 +1,14 @@
+{
+  "proof_id": 1236,
+  "date": "2026-06-12",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Indoor Environmental Measurement",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02-T2",
+  "asset_id": "HZ-02-HTC-0002",
+  "activity": "environmental_monitoring",
+  "observation": "Temperature 29.4C humidity 72 percent",
+  "cid": "bafybeifo5jdy2ft7wakydbpcznit5my5xcekz4ntqirgmwiv6jxagsjbfq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

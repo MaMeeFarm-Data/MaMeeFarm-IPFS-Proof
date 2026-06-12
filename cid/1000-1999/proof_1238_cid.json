@@ -1,0 +1,14 @@
+{
+  "proof_id": 1238,
+  "date": "2026-06-12",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Dog Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "animal_observation",
+  "observation": "One dog observed at HZ-02",
+  "cid": "bafybeidskridykeieawgyqe2tvg2g2ff47cpgqspgeso2ofwefnmn2ynaa",
+  "license": "DGCP | MMFARM-POL-2025"
+}

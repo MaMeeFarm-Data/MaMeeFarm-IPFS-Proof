@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-13",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": "1240-1244",
+  "total_records": 5,
+  "records": [
+    {
+      "proof_id": 1240,
+      "time": "18:24",
+      "activity_type": "Animal Care Activity",
+      "zone": "HZ-02",
+      "asset_id": "ANM-DOG-GROOP",
+      "observation": "Dog feeding activity performed for ANM-DOG-GROOP within HZ-02."
+    },
+    {
+      "proof_id": 1241,
+      "time": "18:26",
+      "activity_type": "Environmental Measurement",
+      "zone": "HZ-02-T2",
+      "asset_id": "HZ-02-HTC-0002",
+      "observation": "Indoor temperature recorded at 29.6C with humidity 73%."
+    },
+    {
+      "proof_id": 1242,
+      "time": "18:26",
+      "activity_type": "Environmental Measurement",
+      "zone": "HZ-02-T1",
+      "asset_id": "HZ-02-HTC-0001",
+      "observation": "Balcony temperature recorded at 28.6C with humidity 67%."
+    },
+    {
+      "proof_id": 1243,
+      "time": "18:31",
+      "activity_type": "Environmental Measurement",
+      "zone": "FZ-03-T1",
+      "asset_id": "HZ-02-HTC-0002",
+      "observation": "Duck House temperature recorded at 28.8C IN, 28.7C OUT, humidity 73%. No ducks present."
+    },
+    {
+      "proof_id": 1244,
+      "time": "18:31",
+      "activity_type": "Infrastructure Observation",
+      "zone": "FZ-05 / FZ-04 / FZ-03 to HZ-02",
+      "asset_id": "INF-GATE-0003",
+      "observation": "Farm gate observed in closed position between farm operational zones and HZ-02."
+    }
+  ],
+  "summary": {
+    "primary_activities": [
+      "Animal care activity",
+      "Indoor environmental monitoring",
+      "Balcony environmental monitoring",
+      "Duck House environmental monitoring",
+      "Infrastructure access control verification"
+    ],
+    "chain_continuity": "1239 -> 1240 -> 1241 -> 1242 -> 1243 -> 1244"
+  },
+  "license": {
+    "name": "DGCP | MMFARM-POL-2025",
+    "framework": "DGCP (Data Governance & Continuous Proof)"
+  }
+}

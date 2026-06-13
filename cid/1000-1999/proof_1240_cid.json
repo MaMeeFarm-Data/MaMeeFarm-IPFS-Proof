@@ -1,0 +1,14 @@
+{
+  "proof_id": 1240,
+  "date": "2026-06-13",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Dog Feeding Activity",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "animal_care",
+  "observation": "Dry dog food provided to dogs at HZ-02",
+  "cid": "bafybeieyjz2bn76rfgiaxfqecn3wxgdbynqmrmuvkfzejrbsg2ynw4d3vi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

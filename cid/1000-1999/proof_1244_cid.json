@@ -1,0 +1,14 @@
+{
+  "proof_id": 1244,
+  "date": "2026-06-13",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Farm Gate Closure Verification",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-05 / FZ-04 / FZ-03 to HZ-02",
+  "asset_id": "INF-GATE-0003",
+  "activity": "infrastructure_observation",
+  "observation": "INF-GATE-0003 observed closed between farm operational zones and HZ-02",
+  "cid": "bafybeia7dpazl5rtpyrndakebdfiz62uqjlw5o62rsb2oijg7ov2gwqy4a",
+  "license": "DGCP | MMFARM-POL-2025"
+}

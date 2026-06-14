@@ -1,0 +1,14 @@
+{
+  "proof_id": 1246,
+  "date": "2026-06-14",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Dog Observation During Rainfall Conditions",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "animal_observation",
+  "observation": "Two dogs observed within HZ-02 during rainfall conditions",
+  "cid": "bafybeiee5ukwgm2u5dln45y4xaq6hh32k46cw7e43hpzhn3xekfcgmb3t4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

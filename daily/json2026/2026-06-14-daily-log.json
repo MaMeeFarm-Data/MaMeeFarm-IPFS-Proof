@@ -1,0 +1,61 @@
+{
+"date": "2026-06-14",
+"timezone": "Asia/Bangkok",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"proof_range": "1245-1249",
+"total_records": 5,
+"activities": [
+{
+"proof_id": 1245,
+"time": "15:26",
+"activity_type": "Weather Observation",
+"zone": "HZ-02",
+"observation": "Rainfall observed within MaMeeFarm operational area."
+},
+{
+"proof_id": 1246,
+"time": "15:26",
+"activity_type": "Animal Observation",
+"zone": "HZ-02",
+"asset_id": "ANM-DOG-GROOP",
+"observation": "Dogs observed within HZ-02 during rainfall conditions."
+},
+{
+"proof_id": 1247,
+"time": "15:27",
+"activity_type": "Environmental Observation",
+"zone": "HZ-02",
+"observation": "Algae accumulation observed on concrete floor surface during rainfall conditions."
+},
+{
+"proof_id": 1248,
+"time": "15:27",
+"activity_type": "Environmental Observation",
+"zone": "HZ-02",
+"observation": "Green algae accumulation observed on wet concrete surface during rainfall conditions."
+},
+{
+"proof_id": 1249,
+"time": "15:29",
+"activity_type": "Environmental Measurement",
+"zone": "HZ-02-T1",
+"asset_id": "HZ-02-HTC-0001",
+"temperature_c": 29.2,
+"humidity_percent": 67,
+"observation": "Balcony temperature recorded at 29.2°C with humidity 67%."
+}
+],
+"daily_summary": {
+"primary_activities": [
+"Rainfall observation",
+"Animal observation",
+"Surface condition monitoring",
+"Environmental observation",
+"Balcony environmental monitoring"
+],
+"chain_continuity": "1244 -> 1245 -> 1246 -> 1247 -> 1248 -> 1249"
+},
+"license": "DGCP | MMFARM-POL-2025"
+}

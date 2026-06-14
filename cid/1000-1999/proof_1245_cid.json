@@ -1,0 +1,13 @@
+{
+  "proof_id": 1245,
+  "date": "2026-06-14",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Rainfall Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "activity": "weather_observation",
+  "observation": "Rainfall observed within HZ-02",
+  "cid": "bafybeig524xlp7kiacqfl3ifmjjicjwz24cv42nf7dulcfvviz44rezlfq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1254,
+  "date": "2026-06-15",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutting Completed in FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "post_cut_observation",
+  "observation": "Grass cutting completed and vegetation reduced in FZ-03 during rainfall conditions",
+  "cid": "bafybeib7b2ed2lgrugjkotd7uphrbltfkwaczqzcykbyeqjyvkw3c2yka4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

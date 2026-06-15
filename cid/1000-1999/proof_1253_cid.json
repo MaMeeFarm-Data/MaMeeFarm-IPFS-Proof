@@ -1,0 +1,14 @@
+{
+  "proof_id": 1253,
+  "date": "2026-06-15",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Condition Before Cutting",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "pre_cut_observation",
+  "observation": "Grass and vegetation observed before cutting operation",
+  "cid": "bafybeidpdydiyy6zjnrrvlnqjy6mnmfyue6ieojn2kucdtavl7ignfpqhq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1250,
+  "date": "2026-06-15",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutter Fuel Preparation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "equipment_preparation",
+  "observation": "Fuel and two-stroke engine oil prepared for grass cutter operation",
+  "cid": "bafybeicbgtao7mjxuxctqtua6evvcvtnztbgoy27rpp3zkpt2fc2difwvi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1252,
+  "date": "2026-06-15",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutter Blade Replacement Completed",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "maintenance_activity",
+  "observation": "Grass cutter observed after successful blade replacement",
+  "cid": "bafybeibdwuaqrfckk3xlajqbe4uktuwkeuoadftiuahqyhmvqtdx5ib7da",
+  "license": "DGCP | MMFARM-POL-2025"
+}

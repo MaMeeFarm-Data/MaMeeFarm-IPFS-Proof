@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-15",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "records": [
+    {
+      "proof_id": 1250,
+      "time": "16:28",
+      "activity_type": "Equipment Maintenance",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Fuel mixture prepared and grass cutter refueled for vegetation management operations."
+    },
+    {
+      "proof_id": 1251,
+      "time": "16:35",
+      "activity_type": "Equipment Maintenance",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Preparation completed for grass cutter blade replacement. New cutting blade and maintenance tools positioned for installation."
+    },
+    {
+      "proof_id": 1252,
+      "time": "16:38",
+      "activity_type": "Equipment Maintenance",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Grass cutter observed after blade replacement. New cutting blade installed and equipment prepared for operational use."
+    },
+    {
+      "proof_id": 1253,
+      "time": "16:40",
+      "activity_type": "Vegetation Management",
+      "zone": "FZ-03",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Grass and mixed vegetation observed in pre-cut condition prior to grass cutting operations."
+    },
+    {
+      "proof_id": 1254,
+      "time": "16:52",
+      "activity_type": "Vegetation Management",
+      "zone": "FZ-03",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Grass cutting activity completed within FZ-03. Vegetation height reduced compared to pre-cut condition. Rainfall observed during post-operation documentation."
+    }
+  ],
+  "summary": {
+    "total_proofs": "1250-1254",
+    "total_records": 5,
+    "primary_activities": [
+      "Equipment refueling",
+      "Blade replacement maintenance",
+      "Equipment readiness verification",
+      "Pre-cut vegetation observation",
+      "Post-cut vegetation management verification"
+    ],
+    "chain_continuity": "1249 → 1250 → 1251 → 1252 → 1253 → 1254"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

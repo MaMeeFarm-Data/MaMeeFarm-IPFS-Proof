@@ -1,0 +1,14 @@
+{
+  "proof_id": 1251,
+  "date": "2026-06-15",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutter Blade Replacement Preparation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "maintenance_activity",
+  "observation": "Replacement blade and tools prepared for grass cutter maintenance",
+  "cid": "bafybeicir4yefxxcjd56jg7w3lnxdyfzzovxtmyxtmg4fpmcimgi7xstd4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1258,
+  "date": "2026-06-16",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Duck House Environmental Measurement",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03-T1",
+  "asset_id": "HZ-02-HTC-0002",
+  "activity": "environmental_measurement",
+  "observation": "Duck House temperature recorded at 25.7C IN, 25.5C OUT with humidity 86 percent. No ducks present.",
+  "cid": "bafybeih34iurqqewwm33o3p74zew3amemapbt44hn4msyhttbalbf2kafy",
+  "license": "DGCP | MMFARM-POL-2025"
+}

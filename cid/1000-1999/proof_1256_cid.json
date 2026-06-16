@@ -1,0 +1,14 @@
+{
+  "proof_id": 1256,
+  "date": "2026-06-16",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Inverter Startup Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "INV-01",
+  "activity": "infrastructure_operation",
+  "observation": "INV-01 observed in active operating state following startup procedure",
+  "cid": "bafybeigwb5mvhslqvcgoriyleyiscbuxp2won7wg34bq4y5wot7ngr2uie",
+  "license": "DGCP | MMFARM-POL-2025"
+}

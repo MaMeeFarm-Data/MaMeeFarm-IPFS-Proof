@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-16",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": {
+    "start": 1255,
+    "end": 1259
+  },
+  "records": [
+    {
+      "proof_id": 1255,
+      "time": "07:23",
+      "activity_type": "Environmental Measurement",
+      "zone": "HZ-02-T1",
+      "asset_id": "HZ-02-HTC-0001",
+      "observation": "Balcony temperature recorded at 24.5C with humidity 77%."
+    },
+    {
+      "proof_id": 1256,
+      "time": "07:25",
+      "activity_type": "Infrastructure Operation",
+      "zone": "HZ-02",
+      "asset_id": "INV-01",
+      "observation": "INV-01 observed in active operating state."
+    },
+    {
+      "proof_id": 1257,
+      "time": "07:26",
+      "activity_type": "Infrastructure Observation",
+      "zone": "HZ-02 to FZ-03 / FZ-04 / FZ-05",
+      "asset_id": "INF-GATE-0003",
+      "observation": "Farm gate observed in open position providing access between HZ-02 and operational farm zones."
+    },
+    {
+      "proof_id": 1258,
+      "time": "07:27",
+      "activity_type": "Environmental Measurement",
+      "zone": "FZ-03-T1",
+      "asset_id": "HZ-02-HTC-0002",
+      "observation": "Duck House temperature recorded at 25.7C (IN), 25.5C (OUT), with humidity 86%. No ducks present."
+    },
+    {
+      "proof_id": 1259,
+      "time": "07:31",
+      "activity_type": "Vegetation Management",
+      "zone": "FZ-03",
+      "asset_id": "TOL-PRN-HOOK-0001",
+      "observation": "Banana leaf pruning activity performed within FZ-03 using TOL-PRN-HOOK-0001."
+    }
+  ],
+  "summary": {
+    "total_records": 5,
+    "primary_activities": [
+      "Balcony environmental monitoring",
+      "Solar inverter operation verification",
+      "Farm gate access control verification",
+      "Duck House environmental monitoring",
+      "Banana plant maintenance activity"
+    ],
+    "chain_continuity": "1254 -> 1255 -> 1256 -> 1257 -> 1258 -> 1259"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1259,
+  "date": "2026-06-16",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Banana Leaf Pruning Activity",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "TOL-PRN-HOOK-0001",
+  "activity": "vegetation_management",
+  "observation": "Banana leaves pruned within FZ-03 using TOL-PRN-HOOK-0001 with cut leaves observed after maintenance activity.",
+  "cid": "bafybeibid2foy73kq6bf42nxzy22ps4yhgpkmu7r4k4wwzozbkcgqmntdi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

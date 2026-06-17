@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-17",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": "1260-1264",
+  "total_records": 5,
+  "activities": [
+    {
+      "proof_id": 1260,
+      "time": "18:07",
+      "activity_type": "Environmental Measurement",
+      "zone": "FZ-03-T1",
+      "asset_id": "HTC-2",
+      "observation": "Duck House temperature recorded at 29.1°C (IN), 28.9°C (OUT), with relative humidity 68%. No ducks present during observation."
+    },
+    {
+      "proof_id": 1261,
+      "time": "18:07",
+      "activity_type": "Equipment Observation",
+      "zone": "FZ-03",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Grass cutting machine observed with fuel tank depleted after field operation within FZ-03."
+    },
+    {
+      "proof_id": 1262,
+      "time": "18:08",
+      "activity_type": "Infrastructure Observation",
+      "zone": "FZ-05 / FZ-04 / FZ-03 to HZ-02",
+      "asset_id": "INF-GATE-0003",
+      "observation": "Farm gate observed in closed position between HZ-02 and operational farm zones FZ-03, FZ-04, and FZ-05."
+    },
+    {
+      "proof_id": 1263,
+      "time": "18:09",
+      "activity_type": "Maintenance Activity",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Gasoline 95 and 2T oil mixture prepared for refueling grass cutting equipment within HZ-02."
+    },
+    {
+      "proof_id": 1264,
+      "time": "18:12",
+      "activity_type": "Equipment Operation",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Grass cutting machine observed after refueling with gasoline 95 and 2T oil mixture. Fuel tank status verified for continued field operation."
+    }
+  ],
+  "chain_continuity": "1259 -> 1260 -> 1261 -> 1262 -> 1263 -> 1264",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1261,
+  "date": "2026-06-17",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutter Fuel Status Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "equipment_observation",
+  "observation": "Grass cutting machine observed with fuel tank depleted after field operation within FZ-03.",
+  "cid": "bafybeia56h4d4v5kxxovqzghvtnvxrneorcur6j24eocgnjygq34cpurvm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

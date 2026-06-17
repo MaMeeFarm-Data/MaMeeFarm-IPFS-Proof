@@ -1,0 +1,14 @@
+{
+  "proof_id": 1264,
+  "date": "2026-06-17",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutter Refueling Verification",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "equipment_operation",
+  "observation": "Grass cutting machine observed after refueling with gasoline 95 and 2T oil mixture. Fuel tank status verified for continued field operation.",
+  "cid": "bafybeibk634qz7krzupln6shjkxkmgyso6oolssqktp5vnrimpjbgncone",
+  "license": "DGCP | MMFARM-POL-2025"
+}

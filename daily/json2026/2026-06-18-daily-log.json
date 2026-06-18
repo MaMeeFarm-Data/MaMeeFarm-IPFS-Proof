@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-18",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_start": 1265,
+  "proof_end": 1269,
+  "total_proofs": 5,
+  "activities": [
+    {
+      "proof_id": 1265,
+      "time": "18:43",
+      "activity_type": "Environmental Measurement",
+      "zone": "FZ-03-T1",
+      "asset_id": "HTC-2",
+      "observation": "Duck house temperature recorded at 29.0°C (internal), 28.9°C (external), with relative humidity measured at 71%."
+    },
+    {
+      "proof_id": 1266,
+      "time": "18:46",
+      "activity_type": "Field Observation",
+      "zone": "FZ-05",
+      "asset_id": "FZ-05",
+      "observation": "General condition of FZ-05 observed. Vegetation cover remained present across the monitored area under overcast weather conditions."
+    },
+    {
+      "proof_id": 1267,
+      "time": "18:46",
+      "activity_type": "Plant Observation",
+      "zone": "FZ-04",
+      "asset_id": "PLT-TAR-0001",
+      "observation": "Taro plants observed within FZ-04. Vegetative growth and leaf development remained visible during field inspection."
+    },
+    {
+      "proof_id": 1268,
+      "time": "18:47",
+      "activity_type": "Infrastructure Operation",
+      "zone": "HZ-02 to FZ-03 / FZ-04 / FZ-05",
+      "asset_id": "INF-GATE-0003",
+      "observation": "Farm access gate observed in closed position following field activities."
+    },
+    {
+      "proof_id": 1269,
+      "time": "18:48",
+      "activity_type": "Environmental Measurement",
+      "zone": "HZ-02",
+      "asset_id": "HZ-02-HTC-0001",
+      "observation": "Balcony temperature recorded at 28.8°C with relative humidity measured at 67%."
+    }
+  ],
+  "summary": {
+    "primary_activities": [
+      "Environmental Measurement",
+      "Field Observation",
+      "Plant Observation",
+      "Infrastructure Operation"
+    ],
+    "zones_covered": [
+      "HZ-02",
+      "FZ-03-T1",
+      "FZ-04",
+      "FZ-05",
+      "HZ-02 to FZ-03 / FZ-04 / FZ-05"
+    ],
+    "assets_referenced": [
+      "HTC-2",
+      "PLT-TAR-0001",
+      "INF-GATE-0003",
+      "HZ-02-HTC-0001"
+    ]
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

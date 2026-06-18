@@ -1,0 +1,14 @@
+{
+  "proof_id": 1267,
+  "date": "2026-06-18",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Taro Plant Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-04",
+  "asset_id": "PLT-TARO-AREA",
+  "activity": "plant_observation",
+  "observation": "Taro plants observed growing within FZ-04. Leaf structure, vegetation density, and surrounding ground cover were documented during routine field observation.",
+  "cid": "bafybeif5p7qhufdhb7jtldlkfwhqpm2ktgog7yko2yir7a7nnim43y2bj4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

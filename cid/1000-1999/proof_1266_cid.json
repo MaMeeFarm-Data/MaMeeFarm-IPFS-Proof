@@ -1,0 +1,14 @@
+{
+  "proof_id": 1266,
+  "date": "2026-06-18",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "FZ-05 Area Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-05",
+  "asset_id": "FZ-05",
+  "activity": "environmental_observation",
+  "observation": "General field condition observed within FZ-05. Vegetation cover, banana plants, and surrounding ground conditions were documented during routine site observation.",
+  "cid": "bafybeidi6zf45mybulnyxvdj6z7uabxulafcef2zurlt5mx4efwa4xykte",
+  "license": "DGCP | MMFARM-POL-2025"
+}

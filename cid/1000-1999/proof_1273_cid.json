@@ -1,0 +1,14 @@
+{
+  "proof_id": 1273,
+  "date": "2026-06-19",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Water Pump Hose Installation Verification",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "HZ-PMP-0005",
+  "activity": "equipment_installation",
+  "observation": "Existing blue water hose was connected to newly acquired water pump HZ-PMP-0005. Hose attachment and fitting assembly were observed during preparation for operational deployment.",
+  "cid": "bafybeigkhjbzzc223yeb2mrqryaibuw2jpjdi6irapfhmmx47y45ygzjri",
+  "license": "DGCP | MMFARM-POL-2025"
+}

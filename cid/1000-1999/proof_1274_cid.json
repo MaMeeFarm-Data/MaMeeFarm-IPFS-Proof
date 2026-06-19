@@ -1,0 +1,14 @@
+{
+  "proof_id": 1274,
+  "date": "2026-06-19",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Water Pump Installation Readiness Verification",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "HZ-PMP-0005",
+  "activity": "equipment_readiness_verification",
+  "observation": "Water pump HZ-PMP-0005 was observed positioned at water source infrastructure with hose connection completed. Equipment was prepared and verified as ready for operational use.",
+  "cid": "bafybeifvt2q6ygwapy7zcxh43pd4btn4psmcqua6qjwfwdol6yilwesz7u",
+  "license": "DGCP | MMFARM-POL-2025"
+}

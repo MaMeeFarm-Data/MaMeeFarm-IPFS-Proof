@@ -1,0 +1,14 @@
+{
+  "proof_id": 1272,
+  "date": "2026-06-19",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Water Pump Replacement Preparation Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "HZ-PMP-0003",
+  "activity": "maintenance_preparation",
+  "observation": "Existing water pump HZ-PMP-0003 was observed alongside newly acquired pump HZ-PMP-0005 near water infrastructure WT-UW-0001 and WT-UW-0002. Existing unit exhibited damaged electrical cable condition requiring replacement preparation.",
+  "cid": "bafybeig4eigs3rgraqtuovugvcwb2nzmx4vpakje2xz5k5zhxpcn4vffg4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

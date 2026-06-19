@@ -1,0 +1,14 @@
+{
+  "proof_id": 1270,
+  "date": "2026-06-19",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Water Pump Delivery Verification",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "HZ-PMP-0005",
+  "activity": "asset_acquisition",
+  "observation": "Package containing a 1-inch water pump was observed after delivery from an online purchase. Item value recorded at 799 THB. Asset registration remains pending under HZ-PMP-0005.",
+  "cid": "bafybeic26yhaze74varrsn4ultfgtp4gdk6yd2nniamvf7e7ibqewui4ae",
+  "license": "DGCP | MMFARM-POL-2025"
+}

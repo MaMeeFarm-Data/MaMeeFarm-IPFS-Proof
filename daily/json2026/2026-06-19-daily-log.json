@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-19",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": "1270-1274",
+  "total_proofs": 5,
+  "activities": [
+    {
+      "proof_id": 1270,
+      "time": "10:17",
+      "activity": "asset_delivery_observation",
+      "asset_id": "HZ-PMP-0005"
+    },
+    {
+      "proof_id": 1271,
+      "time": "10:18",
+      "activity": "equipment_unboxing",
+      "asset_id": "HZ-PMP-0005"
+    },
+    {
+      "proof_id": 1272,
+      "time": "10:21",
+      "activity": "maintenance_preparation",
+      "asset_id": "HZ-PMP-0003"
+    },
+    {
+      "proof_id": 1273,
+      "time": "10:29",
+      "activity": "equipment_installation",
+      "asset_id": "HZ-PMP-0005"
+    },
+    {
+      "proof_id": 1274,
+      "time": "10:31",
+      "activity": "equipment_readiness_verification",
+      "asset_id": "HZ-PMP-0005"
+    }
+  ],
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1278,
+  "date": "2026-06-20",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Water Tank Filling Operation Verification",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "WT-F-0001",
+  "activity": "water_transfer_operation",
+  "observation": "Water from the pumping system was observed flowing into storage tank WT-F-0001. Continuous inflow confirmed successful operation of the water transfer system following pump installation and connection activities.",
+  "cid": "bafybeibtxtcw2tdescuwoxkl6eyrumok4toqw6kypb7cy5owrsmi6gwyxq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

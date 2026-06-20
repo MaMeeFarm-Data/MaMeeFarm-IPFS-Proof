@@ -1,0 +1,14 @@
+{
+  "proof_id": 1277,
+  "date": "2026-06-20",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Water Tank Inlet Pipe Preparation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "WT-F-0001",
+  "activity": "infrastructure_preparation",
+  "observation": "PVC inlet pipe positioned and prepared for water transfer into storage tank WT-F-0001 as part of ongoing water system maintenance and pump replacement activities.",
+  "cid": "bafybeiex6xwwoik5oxr6oeeglv3jj7p4fnx73ha4ejzfgac26zt2grwvku",
+  "license": "DGCP | MMFARM-POL-2025"
+}

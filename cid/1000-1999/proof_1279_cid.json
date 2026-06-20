@@ -1,0 +1,14 @@
+{
+  "proof_id": 1279,
+  "date": "2026-06-20",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Water Storage Tank Full Capacity Verification",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "WT-F-0001",
+  "activity": "water_storage_verification",
+  "observation": "Water storage tank WT-F-0001 observed at full operating level following pumping activity. Water surface was visible near the upper section of the tank, confirming successful filling operation.",
+  "cid": "bafybeicwpdwhtpy7ejsg65agp7wsrzq5rizz5ck7vcaxfdqoyckyxm5l7y",
+  "license": "DGCP | MMFARM-POL-2025"
+}

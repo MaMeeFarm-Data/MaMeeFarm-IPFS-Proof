@@ -1,0 +1,14 @@
+{
+  "proof_id": 1276,
+  "date": "2026-06-20",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Water Pump Operational Verification",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "HZ-PMP-0005",
+  "activity": "equipment_operation",
+  "observation": "Water pump HZ-PMP-0005 was activated and observed delivering water flow into a basin. Continuous water discharge was verified during operation.",
+  "cid": "bafybeigwg6amvl5iia23pbjvzpqlt3vucltmeuuhykujjftssdbyo5wpuu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

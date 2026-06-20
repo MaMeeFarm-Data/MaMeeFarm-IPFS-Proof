@@ -1,0 +1,14 @@
+{
+  "proof_id": 1275,
+  "date": "2026-06-20",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Water Pump Pipe Reconfiguration Preparation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "HZ-PMP-0005",
+  "activity": "infrastructure_preparation",
+  "observation": "Water transfer piping and hose connections were observed in preparation for pipe reconfiguration and integration of water pump HZ-PMP-0005 within the existing water distribution system.",
+  "cid": "bafybeih4o7meufzdqhyuu33kmzrizpdvymmiungltf7dy332jao34ifhn4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

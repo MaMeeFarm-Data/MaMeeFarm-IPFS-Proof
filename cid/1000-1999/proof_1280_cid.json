@@ -1,0 +1,14 @@
+{
+  "proof_id": 1280,
+  "date": "2026-06-21",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutter Fuel Line Leakage Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "equipment_observation",
+  "observation": "Fuel leakage was observed at the fuel line connection area of the grass cutting machine. Moisture and fuel residue were visible around the hose and clamp assembly.",
+  "cid": "bafybeidssqzoeurlxmbpmzbckehjm6wnn7trjpnqjzo7mucnl2xaiky3ri",
+  "license": "DGCP | MMFARM-POL-2025"
+}

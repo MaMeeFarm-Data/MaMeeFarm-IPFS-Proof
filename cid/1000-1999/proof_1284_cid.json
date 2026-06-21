@@ -1,0 +1,14 @@
+{
+  "proof_id": 1284,
+  "date": "2026-06-21",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutter Operational Verification",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "equipment_operation",
+  "observation": "Grass cutting equipment observed in active operating condition following replacement of the fuel line and fuel system maintenance. Equipment functionality verified through field operation.",
+  "cid": "bafybeiaaanyg6qksz7kacsi3nurkkz4woem4in5ovpdawzmjaayzkgwqj4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1281,
+  "date": "2026-06-21",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutter Fuel Line Replacement Preparation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "maintenance_activity",
+  "observation": "Grass cutting machine was observed in a partially disassembled condition during maintenance activity. Fuel tank, fuel line, and carburetor connection components were exposed for fuel line replacement work.",
+  "cid": "bafybeihzxz7t33nz7qdovnjt7r7cy5fxswzp5zukr3w43do4pwvi5ipnde",
+  "license": "DGCP | MMFARM-POL-2025"
+}

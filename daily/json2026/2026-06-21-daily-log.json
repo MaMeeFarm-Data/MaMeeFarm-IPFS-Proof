@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-21",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "activities": [
+    {
+      "proof_id": 1280,
+      "time": "08:18",
+      "activity_type": "Equipment Inspection",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Fuel hose leakage observed on grass cutting equipment during inspection. Fuel residue visible around hose connection area."
+    },
+    {
+      "proof_id": 1281,
+      "time": "08:33",
+      "activity_type": "Maintenance Activity",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Grass cutting equipment disassembled for maintenance. Existing fuel hose removed and replacement fuel hose prepared for installation."
+    },
+    {
+      "proof_id": 1282,
+      "time": "09:46",
+      "activity_type": "Fuel Preparation",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Gasoline 95 and 2T oil mixture prepared for equipment operation following maintenance activities."
+    },
+    {
+      "proof_id": 1283,
+      "time": "09:46",
+      "activity_type": "Equipment Refueling",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Prepared gasoline 95 and 2T oil mixture transferred into grass cutting equipment fuel tank."
+    },
+    {
+      "proof_id": 1284,
+      "time": "10:12",
+      "activity_type": "Equipment Operation Verification",
+      "zone": "HZ-02",
+      "asset_id": "EQP-GRC-0001",
+      "observation": "Grass cutting equipment observed operating normally following fuel hose replacement and maintenance activities."
+    }
+  ],
+  "daily_summary": {
+    "total_observations": 5,
+    "focus": [
+      "equipment_maintenance",
+      "equipment_repair",
+      "fuel_preparation",
+      "equipment_refueling",
+      "operational_verification"
+    ],
+    "summary": "Activities focused on maintenance, repair, fuel preparation, refueling, and operational verification of grass cutting equipment within HZ-02. Fuel hose leakage was identified and corrective maintenance was performed through replacement of the affected hose. Fuel mixture preparation and refueling activities were subsequently completed. Operational verification confirmed successful restoration of equipment functionality following maintenance."
+  },
+  "dgcp_note": "Equipment maintenance records provide continuity between fault detection, corrective action, and operational verification. This sequence documents identification of a fuel system issue, maintenance intervention, fuel preparation, equipment recommissioning, and confirmation of successful operation under the DGCP framework.",
+  "license": "DGCP | MMFARM-POL-2025"
+}

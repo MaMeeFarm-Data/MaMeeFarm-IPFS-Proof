@@ -1,0 +1,51 @@
+{
+"date": "2026-06-22",
+"timezone": "Asia/Bangkok",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"entries": [
+{
+"proof_id": 1285,
+"time": "08:34",
+"activity_type": "Fuel Preparation",
+"zone": "HZ-02",
+"asset_id": "EQP-GRC-0001",
+"observation": "Fuel mixture prepared and refilled into grass cutting equipment before field maintenance operations."
+},
+{
+"proof_id": 1286,
+"time": "08:35",
+"activity_type": "Gate Operation",
+"zone": "HZ-02",
+"asset_id": "INF-GATE-0002",
+"observation": "Gate INF-GATE-0002 opened to allow access between HZ-02 and HZ-01 for scheduled maintenance activities."
+},
+{
+"proof_id": 1287,
+"time": "08:36",
+"activity_type": "Equipment Preparation",
+"zone": "HZ-01",
+"asset_id": "EQP-GRC-0001",
+"observation": "Grass cutting equipment positioned and prepared for vegetation maintenance operations within HZ-01."
+},
+{
+"proof_id": 1288,
+"time": "09:02",
+"activity_type": "Vegetation Management",
+"zone": "HZ-01",
+"asset_id": "EQP-GRC-0001",
+"observation": "Grass cutting activities completed. Vegetation condition and cleared operational area documented following maintenance work."
+},
+{
+"proof_id": 1289,
+"time": "09:04",
+"activity_type": "Gate Operation",
+"zone": "HZ-01",
+"asset_id": "INF-GATE-0002",
+"observation": "Gate INF-GATE-0002 closed and secured following completion of grass cutting and maintenance activities."
+}
+],
+"summary": "Field maintenance operations were conducted within HZ-01 using grass cutting equipment EQP-GRC-0001. Activities included fuel preparation, access gate operation, equipment preparation, vegetation management, and operational closure. Maintenance work was completed and site access controls were restored after activities concluded.",
+"license": "DGCP | MMFARM-POL-2025"
+}

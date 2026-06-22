@@ -1,0 +1,14 @@
+{
+  "proof_id": 1289,
+  "date": "2026-06-22",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Gate Closure After Field Maintenance",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-01",
+  "asset_id": "INF-GATE-0002",
+  "activity": "gate_operation",
+  "observation": "INF-GATE-0002 observed in closed and secured condition after completion of maintenance activities within HZ-01.",
+  "cid": "bafybeiduyphoehslxuyfkoctpegr6vhltljmmc4kauwuggh7y5k7oetiym",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1285,
+  "date": "2026-06-22",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutter Refueling Activity",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "equipment_refueling",
+  "observation": "Gasoline 95 and 2T oil mixture transferred into the fuel tank of grass cutting equipment in preparation for continued operation.",
+  "cid": "bafybeiaq6soa3jdlmp3uzby74fcbdpu77pyxd265wx3hmqcbr764ipea34",
+  "license": "DGCP | MMFARM-POL-2025"
+}

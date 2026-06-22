@@ -1,0 +1,14 @@
+{
+  "proof_id": 1288,
+  "date": "2026-06-22",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Post Grass Cutting Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-01",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "vegetation_management",
+  "observation": "Vegetation within HZ-01 observed after grass cutting activities. Ground surface condition and cleared operational area documented following equipment operation.",
+  "cid": "bafybeigmjpww5ms5zmn5sfo4s4xmobfbn5uxxhjtrxzi3dnsbtjcxjyevq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1292,
+  "date": "2026-06-23",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Pre-Mowing Observation in FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "pre_mowing_observation",
+  "observation": "Grass cutting equipment observed within FZ-03 before mowing activities. Vegetation remained present throughout the work corridor and operational preparation was completed prior to field maintenance.",
+  "cid": "bafybeigsvio6t5izwlpa6liwcuji6ty4ujqhbpayysupwvlzn54psncyby",
+  "license": "DGCP | MMFARM-POL-2025"
+}

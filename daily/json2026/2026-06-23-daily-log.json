@@ -1,0 +1,50 @@
+{
+"date": "2026-06-23",
+"timezone": "Asia/Bangkok",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"activities": [
+{
+"proof_id": 1290,
+"time": "14:09",
+"activity_type": "Equipment Preparation",
+"zone": "HZ-02",
+"asset_id": "EQP-GRC-0001",
+"observation": "Grass cutting equipment observed prior to refueling activities. Fuel mixture and maintenance materials prepared before field operation."
+},
+{
+"proof_id": 1291,
+"time": "14:10",
+"activity_type": "Fueling Activity",
+"zone": "HZ-02",
+"asset_id": "EQP-GRC-0001",
+"observation": "Fuel mixture added to grass cutting equipment fuel tank in preparation for vegetation management activities."
+},
+{
+"proof_id": 1292,
+"time": "14:11",
+"activity_type": "Vegetation Management Preparation",
+"zone": "FZ-03",
+"asset_id": "EQP-GRC-0001",
+"observation": "Grass cutting equipment positioned within FZ-03 before mowing activities commenced. Vegetation remained present throughout the work area."
+},
+{
+"proof_id": 1293,
+"time": "14:28",
+"activity_type": "Vegetation Management",
+"zone": "FZ-03",
+"asset_id": "EQP-GRC-0001",
+"observation": "Grass cutting equipment observed operating within FZ-03 during vegetation management activities."
+},
+{
+"proof_id": 1294,
+"time": "14:33",
+"activity_type": "Post-Maintenance Observation",
+"zone": "FZ-03",
+"observation": "FZ-03 observed following grass cutting activities. Vegetation height was reduced and maintenance activities were completed within the observed area."
+}
+],
+"daily_summary": "Vegetation management activities were conducted within FZ-03. Grass cutting equipment EQP-GRC-0001 was prepared, refueled, deployed, operated, and subsequently verified following completion of mowing activities. Observations documented operational continuity and field maintenance activities within MaMeeFarm.",
+"license": "DGCP | MMFARM-POL-2025"
+}

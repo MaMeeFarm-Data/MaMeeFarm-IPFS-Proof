@@ -1,0 +1,14 @@
+{
+  "proof_id": 1293,
+  "date": "2026-06-23",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutting Equipment Operating in FZ-03",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "equipment_operation",
+  "observation": "Grass cutting equipment observed operating within FZ-03 during vegetation management activities. Cutting blade was in active rotation while vegetation maintenance work progressed within the designated field zone.",
+  "cid": "bafybeihepa5vpwakqo6cm4hdvc742atk5sdiljbe7tvg6mtdx3ju4io5fu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

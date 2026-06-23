@@ -1,0 +1,14 @@
+{
+  "proof_id": 1290,
+  "date": "2026-06-23",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Pre-Fueling Observation for Grass Cutting Equipment",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "equipment_preparation",
+  "observation": "Grass cutting equipment observed before refueling. Fuel mixture and fuel supply prepared for operational use.",
+  "cid": "bafybeifilr5r5ybui4en5hki5qdp3rpir2t5jcydvvgryoqmfmrz3b6pdy",
+  "license": "DGCP | MMFARM-POL-2025"
+}

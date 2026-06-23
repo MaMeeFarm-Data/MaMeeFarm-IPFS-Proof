@@ -1,0 +1,14 @@
+{
+  "proof_id": 1291,
+  "date": "2026-06-23",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Post-Fueling Observation for Grass Cutting Equipment",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "post_refueling_observation",
+  "observation": "Grass cutting equipment observed after fuel tank refill. Equipment remained assembled and prepared for subsequent operational use.",
+  "cid": "bafybeig4ejiverxn3bhsr5tzr77b6nsytvikovrloycx42lfys3crkzo74",
+  "license": "DGCP | MMFARM-POL-2025"
+}

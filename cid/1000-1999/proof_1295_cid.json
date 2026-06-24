@@ -1,0 +1,14 @@
+{
+  "proof_id": 1295,
+  "date": "2026-06-24",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Canal Water Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-05",
+  "asset_id": "FZ-05-CANAL-0001",
+  "activity": "water_monitoring",
+  "observation": "Water observed within canal infrastructure FZ-05-CANAL-0001. Standing water remained present throughout the observed section of the canal during field inspection.",
+  "cid": "bafybeib7sqeodm2tl4qezthstmvzujv63y465zdhhbb4z22xfagueyobym",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1299,
+  "date": "2026-06-24",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Underground Well Water Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "WT-UW-0001-0002",
+  "activity": "water_monitoring",
+  "observation": "Water observed within underground well structure WT-UW-0001-0002 during inspection. Water surface remained visible at the time of observation.",
+  "cid": "bafybeifeeyih5r6tipmon6lb5e32irrsrnvbyrvyq57cerbgxxh2ni3aaa",
+  "license": "DGCP | MMFARM-POL-2025"
+}

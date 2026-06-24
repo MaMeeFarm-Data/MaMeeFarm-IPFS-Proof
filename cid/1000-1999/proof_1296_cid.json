@@ -1,0 +1,14 @@
+{
+  "proof_id": 1296,
+  "date": "2026-06-24",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Farm Dog Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-04",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "animal_observation",
+  "observation": "One dog observed within FZ-04 during field observation activities. Animal remained present near canal area at the time of inspection.",
+  "cid": "bafybeiarsqvtsg3addd7g5ufzs6tgosvuaz5sffnsimbcelgmah37ojv4q",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1297,
+  "date": "2026-06-24",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Duck House Environmental Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "FZ-03-T1",
+  "asset_id": "HTC-2",
+  "activity": "environmental_monitoring",
+  "observation": "HTC-2 sensor displayed indoor temperature 28.6°C, outdoor temperature 28.2°C, and relative humidity 75% at the duck house monitoring location. No ducks present during observation.",
+  "cid": "bafybeig2dr53bw5lr643didim62wk3adoa6ewbqv4u53m6qe6iahadakta",
+  "license": "DGCP | MMFARM-POL-2025"
+}

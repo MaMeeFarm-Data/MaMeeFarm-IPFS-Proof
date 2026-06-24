@@ -1,0 +1,58 @@
+{
+"date": "2026-06-24",
+"timezone": "Asia/Bangkok",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"proofs": [
+{
+"proof_id": 1295,
+"time": "17:54",
+"activity_type": "water_observation",
+"zone": "FZ-05",
+"asset_id": "FZ-05-CANAL-0001",
+"observation": "Water observed within canal section FZ-05-CANAL-0001 during field inspection. Water remained present within the canal at the time of observation."
+},
+{
+"proof_id": 1296,
+"time": "17:55",
+"activity_type": "animal_observation",
+"zone": "FZ-04",
+"asset_id": "ANM-DOG-GROOP",
+"observation": "One dog observed within FZ-04 near canal area during field inspection activities."
+},
+{
+"proof_id": 1297,
+"time": "17:56",
+"activity_type": "environmental_monitoring",
+"zone": "FZ-03-T1",
+"asset_id": "HTC-2",
+"observation": "HTC-2 sensor displayed indoor temperature 28.6°C, outdoor temperature 28.2°C, and relative humidity 75%. No ducks present during observation."
+},
+{
+"proof_id": 1298,
+"time": "17:56",
+"activity_type": "infrastructure_observation",
+"zone": "HZ-02",
+"asset_id": "INF-GATE-0003",
+"observation": "INF-GATE-0003 observed in closed position following completion of field activities. Access path secured at the time of observation."
+},
+{
+"proof_id": 1299,
+"time": "17:57",
+"activity_type": "water_observation",
+"zone": "HZ-02",
+"asset_id": "WT-UW-0001-0002",
+"observation": "Water observed within underground well structure WT-UW-0001-0002 during inspection. Water surface remained visible at the time of observation."
+}
+],
+"daily_summary": {
+"total_proofs": 5,
+"proof_range": "1295-1299",
+"operational_status": "Normal"
+},
+"license": {
+"name": "DGCP | MMFARM-POL-2025",
+"statement": "This work is licensed under the DGCP (Data Governance & Continuous Proof) framework. All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive. Redistribution, citation, or derivative use must preserve attribution and license reference."
+}
+}

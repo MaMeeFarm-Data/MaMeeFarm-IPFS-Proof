@@ -1,0 +1,14 @@
+{
+  "proof_id": 1301,
+  "date": "2026-06-25",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Farm Front Road Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "Road in front of farm",
+  "asset_id": "INF-ROAD-0001",
+  "activity": "road_monitoring",
+  "observation": "Road conditions in front of the farm observed during routine inspection. Road surface appeared clear and passable at the time of observation.",
+  "cid": "bafybeifvmlk4tl4addmouc43pvgohbrcsxkf6x2oyptdyi7n64o2g7iobi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

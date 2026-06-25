@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-25",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": {
+    "start": 1300,
+    "end": 1304
+  },
+  "total_proofs": 5,
+  "activities": [
+    {
+      "proof": 1300,
+      "time": "09:27",
+      "activity_type": "Animal Observation",
+      "zone": "Farm Entrance Road",
+      "asset_id": "ANM-DOG-GROOP",
+      "observation": "Farm dog observed on the road in front of MaMeeFarm during routine morning field observation."
+    },
+    {
+      "proof": 1301,
+      "time": "09:27",
+      "activity_type": "Infrastructure Observation",
+      "zone": "Farm Entrance Road",
+      "asset_id": "ROAD-0001",
+      "observation": "Road conditions in front of MaMeeFarm observed during routine morning inspection. Traffic lane and roadside remained in normal condition at the time of observation."
+    },
+    {
+      "proof": 1302,
+      "time": "09:28",
+      "activity_type": "Infrastructure Observation",
+      "zone": "Farm Entrance",
+      "asset_id": "ENT-ROAD-0001",
+      "observation": "Primary access road leading into MaMeeFarm observed during routine field inspection. Entrance remained accessible and unobstructed."
+    },
+    {
+      "proof": 1303,
+      "time": "09:30",
+      "activity_type": "Logistics Observation",
+      "zone": "HZ-01",
+      "asset_id": "DOG-FOOD-0001",
+      "observation": "Dog food delivery received following online purchase. Package transferred into the farm during routine logistics activity."
+    },
+    {
+      "proof": 1304,
+      "time": "13:42",
+      "activity_type": "Meal Observation",
+      "zone": "HZ-02",
+      "asset_id": "FD-MEAL-0001",
+      "observation": "Takeaway meal consisting of red pork with rice and stewed pork leg with rice observed. Purchase cost recorded as 65 THB."
+    }
+  ],
+  "summary": {
+    "primary_activities": [
+      "Animal Observation",
+      "Infrastructure Observation",
+      "Logistics Observation",
+      "Meal Observation"
+    ],
+    "operational_status": "Normal"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}
+

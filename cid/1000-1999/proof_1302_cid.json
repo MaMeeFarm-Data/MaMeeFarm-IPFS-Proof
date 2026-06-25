@@ -1,0 +1,14 @@
+{
+  "proof_id": 1302,
+  "date": "2026-06-25",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Farm Entrance Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "Farm Entrance",
+  "asset_id": "INF-ENT-0001",
+  "activity": "access_monitoring",
+  "observation": "Main entrance access route to the farm observed during routine inspection. Entrance remained accessible with no visible obstruction at the time of observation.",
+  "cid": "bafybeihezslahwj6276aemxgs6v2sccapnhbjotuo2dhrzi432f4tmnfvm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

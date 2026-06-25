@@ -1,0 +1,14 @@
+{
+  "proof_id": 1304,
+  "date": "2026-06-25",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Meal Cost Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "FD-MEAL-0001",
+  "activity": "meal_observation",
+  "observation": "Takeaway meal consisting of red pork with rice and stewed pork leg with rice observed. Purchase cost recorded as 65 THB.",
+  "cid": "bafybeiapaeqyke53x3frgs5f6f4ln4mccurhj6dwtlcubpdabhya4s7gai",
+  "license": "DGCP | MMFARM-POL-2025"
+}

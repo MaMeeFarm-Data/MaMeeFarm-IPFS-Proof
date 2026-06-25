@@ -1,0 +1,14 @@
+{
+  "proof_id": 1300,
+  "date": "2026-06-25",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Farm Dog Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "Road in front of farm",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "animal_monitoring",
+  "observation": "One farm dog observed walking along the road in front of the farm during routine observation. Animal appeared active with no visible abnormal behavior.",
+  "cid": "bafybeieo4ua6gdn4mbouxd47d5fd5qnkfb5p5xbrf7mpdcqynwqf2vdmxu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

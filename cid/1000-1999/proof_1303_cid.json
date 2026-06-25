@@ -1,0 +1,14 @@
+{
+  "proof_id": 1303,
+  "date": "2026-06-25",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Dog Food Delivery Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-01",
+  "asset_id": "SUP-DOGFOOD-0001",
+  "activity": "supply_receipt",
+  "observation": "Dog food package received from parcel delivery following an online purchase. Package observed upon arrival during routine farm operations.",
+  "cid": "bafybeiblwhqph2n3pwmmpjbg5fa7ypxvsm4v5ausmzpxd5ohnw2z2jdobm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

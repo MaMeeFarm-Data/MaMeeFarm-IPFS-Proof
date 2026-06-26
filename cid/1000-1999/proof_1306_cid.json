@@ -1,0 +1,14 @@
+{
+  "proof_id": 1306,
+  "date": "2026-06-26",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Mango Fruit Damage Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "PLT-MNG-0001",
+  "activity": "damage_observation",
+  "observation": "Mango fruit attached to PLT-MNG-0001 exhibited visible feeding or physical damage on the upper portion while remaining attached to the tree. Cause of the damage remained undetermined during inspection.",
+  "cid": "bafybeicermbgz3oxq5xtyjmck7xdbtpjly4gnvraq4spgh4faccketepjm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

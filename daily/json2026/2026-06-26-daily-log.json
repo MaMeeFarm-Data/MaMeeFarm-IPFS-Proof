@@ -1,0 +1,66 @@
+{
+  "date": "2026-06-26",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": {
+    "start": 1305,
+    "end": 1309
+  },
+  "total_proofs": 5,
+  "activities": [
+    {
+      "proof_id": 1305,
+      "time": "18:03",
+      "activity_type": "Plant Observation",
+      "zone": "HZ-02",
+      "asset_id": "PLT-MNG-0001",
+      "observation": "Mango tree PLT-MNG-0001 observed during routine field inspection. Multiple mango fruits remained attached to the tree at the time of observation."
+    },
+    {
+      "proof_id": 1306,
+      "time": "18:05",
+      "activity_type": "Crop Condition Observation",
+      "zone": "HZ-02",
+      "asset_id": "PLT-MNG-0001",
+      "observation": "One mango fruit was observed with visible feeding damage. Cause of damage was not identified during inspection."
+    },
+    {
+      "proof_id": 1307,
+      "time": "18:06",
+      "activity_type": "Harvest Observation",
+      "zone": "HZ-02",
+      "asset_id": "PLT-MNG-0001",
+      "observation": "Mango fruits harvested from PLT-MNG-0001 during routine agricultural activities."
+    },
+    {
+      "proof_id": 1308,
+      "time": "18:07",
+      "activity_type": "Biological Observation",
+      "zone": "HZ-02",
+      "asset_id": "PLT-MNG-0001",
+      "observation": "Unidentified insects observed on the trunk of mango tree PLT-MNG-0001 during routine field inspection."
+    },
+    {
+      "proof_id": 1309,
+      "time": "18:07",
+      "activity_type": "Pollinator Observation",
+      "zone": "HZ-02",
+      "asset_id": "PLT-MNG-0001",
+      "observation": "A bee colony was observed attached to a branch of PLT-MNG-0001. Bee species was not identified at the time of observation."
+    }
+  ],
+  "summary": {
+    "primary_activities": [
+      "Plant Observation",
+      "Crop Condition Observation",
+      "Harvest Observation",
+      "Biological Observation",
+      "Pollinator Observation"
+    ],
+    "operational_status": "Normal"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}
+

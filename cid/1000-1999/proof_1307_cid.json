@@ -1,0 +1,14 @@
+{
+  "proof_id": 1307,
+  "date": "2026-06-26",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Mango Harvest Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "PLT-MNG-0001",
+  "activity": "harvest_activity",
+  "observation": "Mature mango fruits were harvested from PLT-MNG-0001 during routine agricultural operations. Fruits were removed from the tree for collection following field inspection.",
+  "cid": "bafybeifqi4hr6vn257wq7cfcovpkznva37v6xjvkbrhd4jgbucsctywhny",
+  "license": "DGCP | MMFARM-POL-2025"
+}

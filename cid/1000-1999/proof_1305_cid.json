@@ -1,0 +1,14 @@
+{
+  "proof_id": 1305,
+  "date": "2026-06-26",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Mango Tree Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "PLT-MNG-0001",
+  "activity": "plant_monitoring",
+  "observation": "Mango tree PLT-MNG-0001 observed with multiple developing mango fruits remaining attached during routine inspection.",
+  "cid": "bafybeic5jjctmbeksboev4v7st4xbt7dealorprsmwdpq2b3pb3bcao55y",
+  "license": "DGCP | MMFARM-POL-2025"
+}

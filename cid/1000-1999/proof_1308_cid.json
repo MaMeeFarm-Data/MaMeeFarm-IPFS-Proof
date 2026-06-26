@@ -1,0 +1,14 @@
+{
+  "proof_id": 1308,
+  "date": "2026-06-26",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Unknown Insect Observation on Mango Tree",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "PLT-MNG-0001",
+  "activity": "insect_observation",
+  "observation": "A cluster of unidentified insects was observed attached to the trunk of PLT-MNG-0001 during routine agricultural inspection. Species could not be determined at the time of observation.",
+  "cid": "bafybeigrddr2hszb5vtxqkci57kdkrah5k32d6yfjbv2sj7sp7lamq53ca",
+  "license": "DGCP | MMFARM-POL-2025"
+}

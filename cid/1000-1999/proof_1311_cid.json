@@ -1,0 +1,14 @@
+{
+  "proof_id": 1311,
+  "date": "2026-06-27",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Veterinary Medication Size Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "veterinary_supply",
+  "observation": "Two size categories of tick and flea medication for ANM-DOG-GROOP were observed following online purchase. Product packages included formulations for dogs weighing up to 10 kg and 20–40 kg.",
+  "cid": "bafybeidv3cvrsscxsj3enej2vjyyszwrc4w5k3bws7nz2566amdxzsw3dy",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,64 @@
+{
+"date": "2026-06-27",
+"timezone": "Asia/Bangkok",
+"project": "MaMeeFarm",
+"framework": "DGCP",
+"location": "MaMeeFarm (Primary DGCP Site)",
+"proof_range": {
+"start": 1310,
+"end": 1314
+},
+"total_proofs": 5,
+"activities": [
+{
+"proof_id": 1310,
+"time": "10:23",
+"activity_type": "Animal Health Supply Observation",
+"zone": "HZ-02",
+"asset_id": "ANM-DOG-GROOP",
+"observation": "Tick and flea treatment products for farm dogs observed following online delivery. Veterinary supplies prepared for animal health management."
+},
+{
+"proof_id": 1311,
+"time": "10:23",
+"activity_type": "Veterinary Supply Observation",
+"zone": "HZ-02",
+"asset_id": "ANM-DOG-GROOP",
+"observation": "Two product sizes of tick and flea treatment observed, prepared for dogs of different body weight categories."
+},
+{
+"proof_id": 1312,
+"time": "10:24",
+"activity_type": "Inventory Observation",
+"zone": "HZ-02",
+"asset_id": "ANM-DOG-GROOP",
+"observation": "Twenty boxes of tick and flea treatment observed following online purchase. Total recorded purchase cost was 745 THB."
+},
+{
+"proof_id": 1313,
+"time": "10:25",
+"activity_type": "Animal Health Monitoring",
+"zone": "HZ-02",
+"asset_id": "ANM-DOG-GROOP",
+"observation": "Multiple ticks observed attached to the body of a farm dog during routine health inspection prior to treatment."
+},
+{
+"proof_id": 1314,
+"time": "10:26",
+"activity_type": "Animal Observation",
+"zone": "HZ-02",
+"asset_id": "ANM-DOG-GROOP",
+"observation": "A young farm dog observed sleeping indoors during routine animal monitoring. Tick treatment products remained nearby before scheduled veterinary care."
+}
+],
+"summary": {
+"primary_activities": [
+"Animal Health Monitoring",
+"Veterinary Supply Observation",
+"Inventory Observation",
+"Animal Observation"
+],
+"operational_status": "Normal"
+},
+"license": "DGCP | MMFARM-POL-2025"
+}

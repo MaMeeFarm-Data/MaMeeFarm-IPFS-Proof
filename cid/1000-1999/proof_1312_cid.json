@@ -1,0 +1,14 @@
+{
+  "proof_id": 1312,
+  "date": "2026-06-27",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Veterinary Medication Inventory Count",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "inventory_verification",
+  "observation": "A total of 20 boxes of tick and flea medication for ANM-DOG-GROOP were observed during inventory verification. Total procurement cost recorded was 745 THB.",
+  "cid": "bafybeidf65e4zbod2tlnhc27lw4tyvzvby632k7hjo6guvnvfji2fwvqvq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

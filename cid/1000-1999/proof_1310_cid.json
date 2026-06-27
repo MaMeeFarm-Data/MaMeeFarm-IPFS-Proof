@@ -1,0 +1,14 @@
+{
+  "proof_id": 1310,
+  "date": "2026-06-27",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Dog Tick and Flea Medication Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "animal_health",
+  "observation": "Tick and flea medication for ANM-DOG-GROOP was observed following online purchase. Medication packages were received and prepared for future use during routine animal care activities.",
+  "cid": "bafybeid3ckfjr3kkhqkgdbnqugbogr4azpxuk4mdm3khn2vae7vjyvcbty",
+  "license": "DGCP | MMFARM-POL-2025"
+}

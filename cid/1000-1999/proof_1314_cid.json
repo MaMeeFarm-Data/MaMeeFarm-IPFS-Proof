@@ -1,0 +1,14 @@
+{
+  "proof_id": 1314,
+  "date": "2026-06-27",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Puppy Resting Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "animal_monitoring",
+  "observation": "A young farm dog was observed sleeping indoors during routine observation activities prior to scheduled veterinary care.",
+  "cid": "bafybeie47m6kmj5m5tdo4u6jeu5nadl4kddyss2mhotdyijjvolh3kivfa",
+  "license": "DGCP | MMFARM-POL-2025"
+}

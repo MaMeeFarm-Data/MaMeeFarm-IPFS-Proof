@@ -1,0 +1,14 @@
+{
+  "proof_id": 1313,
+  "date": "2026-06-27",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Tick Infestation Observation on Farm Dog",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "animal_health_monitoring",
+  "observation": "Multiple ticks were observed attached to the body of a farm dog during routine health inspection prior to parasite treatment.",
+  "cid": "bafybeicouhuxgbcnbvy4xdpfcxkyyehfcakepjnobpsplkxoka56en75na",
+  "license": "DGCP | MMFARM-POL-2025"
+}

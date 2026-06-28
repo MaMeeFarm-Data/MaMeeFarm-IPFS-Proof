@@ -1,0 +1,14 @@
+{
+  "proof_id": 1318,
+  "date": "2026-06-28",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Cha-Om Branch Pruning Activity",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "TOL-MCH-0001; PLT-CHM-0001-0002-0003",
+  "activity": "vegetation_management",
+  "observation": "Hand cutting tool TOL-MCH-0001 was observed in use for pruning branches of Cha-Om plants PLT-CHM-0001-0002-0003 during routine vegetation management activities.",
+  "cid": "bafybeigrq4p7x5r7gwuz2u3sojrbeogvxwpbqazzs4ddivanbdg7puvxa4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

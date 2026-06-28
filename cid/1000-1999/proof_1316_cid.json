@@ -1,0 +1,14 @@
+{
+  "proof_id": 1316,
+  "date": "2026-06-28",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Grass Cutting Equipment Preparation Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001; TOL-MCH-0001",
+  "activity": "equipment_preparation",
+  "observation": "Grass cutting equipment EQP-GRC-0001 and maintenance tool TOL-MCH-0001 were observed prepared for vegetation clearing activities prior to operation.",
+  "cid": "bafybeify2hi53hdqxvzbzyiuonl3txnjw6z2s42tnazagkzfe4dlwq46im",
+  "license": "DGCP | MMFARM-POL-2025"
+}

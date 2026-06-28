@@ -1,0 +1,14 @@
+{
+  "proof_id": 1317,
+  "date": "2026-06-28",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Post Vegetation Clearing Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "PLT-CHM-0001-0002-0003; PLT-PAP-0005-0006",
+  "activity": "vegetation_management",
+  "observation": "Vegetation surrounding planted trees was observed after grass clearing activities. Ground surface around the planting area appeared cleared following maintenance.",
+  "cid": "bafybeigtkc6wvk47mfnyednxacnw7k6pygklj7qcjs634tcctchtzvwug4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

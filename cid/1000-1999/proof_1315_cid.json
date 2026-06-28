@@ -1,0 +1,14 @@
+{
+  "proof_id": 1315,
+  "date": "2026-06-28",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Pre-Clearing Vegetation Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "PLT-CHM-0001-0002-0003; PLT-PAP-0005-0006",
+  "activity": "vegetation_management",
+  "observation": "Grass and surrounding vegetation were observed around designated chamchuri and papaya plants prior to vegetation clearing and maintenance activities.",
+  "cid": "bafybeidnsiu73rsdykl7555a7tvp67npnfcjgszlwmeiwzjvezpekroq64",
+  "license": "DGCP | MMFARM-POL-2025"
+}

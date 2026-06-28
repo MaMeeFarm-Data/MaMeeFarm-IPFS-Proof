@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-28",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": {
+    "start": 1315,
+    "end": 1319
+  },
+  "total_proofs": 5,
+  "activities": [
+    {
+      "proof": 1315,
+      "time": "17:31",
+      "activity_type": "Vegetation Observation",
+      "zone": "HZ-02",
+      "asset_id": [
+        "PLT-CHM-0001-0002-0003",
+        "PLT-PAP-0005-0006"
+      ],
+      "observation": "Vegetation surrounding Cha-Om and papaya plants observed prior to grass clearing activities."
+    },
+    {
+      "proof": 1316,
+      "time": "17:32",
+      "activity_type": "Equipment Observation",
+      "zone": "HZ-02",
+      "asset_id": [
+        "TOL-MCH-0001",
+        "EQP-GRC-0001"
+      ],
+      "observation": "Grass cutting equipment and hand cutting tool observed prepared for vegetation management activities."
+    },
+    {
+      "proof": 1317,
+      "time": "17:35",
+      "activity_type": "Post Maintenance Observation",
+      "zone": "HZ-02",
+      "asset_id": [
+        "PLT-CHM-0001-0002-0003",
+        "PLT-PAP-0005-0006"
+      ],
+      "observation": "Vegetation surrounding planted trees observed after grass clearing activities."
+    },
+    {
+      "proof": 1318,
+      "time": "17:36",
+      "activity_type": "Plant Maintenance",
+      "zone": "HZ-02",
+      "asset_id": [
+        "TOL-MCH-0001",
+        "PLT-CHM-0001-0002-0003"
+      ],
+      "observation": "Hand cutting tool used for pruning Cha-Om branches during routine vegetation management."
+    },
+    {
+      "proof": 1319,
+      "time": "17:48",
+      "activity_type": "Post Maintenance Observation",
+      "zone": "HZ-02",
+      "asset_id": [
+        "PLT-CHM-0001-0002-0003",
+        "PLT-PAP-0005-0006"
+      ],
+      "observation": "Planting area observed after completion of vegetation clearing with improved accessibility."
+    }
+  ],
+  "summary": {
+    "primary_activities": [
+      "Vegetation Observation",
+      "Equipment Observation",
+      "Plant Maintenance",
+      "Post Maintenance Observation"
+    ],
+    "operational_status": "Normal"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

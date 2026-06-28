@@ -1,0 +1,14 @@
+{
+  "proof_id": 1319,
+  "date": "2026-06-28",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Post Vegetation Clearing Area Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "PLT-CHM-0001-0002-0003; PLT-PAP-0005-0006",
+  "activity": "vegetation_management",
+  "observation": "Area surrounding Cha-Om plants PLT-CHM-0001-0002-0003 and papaya plants PLT-PAP-0005-0006 was observed after vegetation clearing. Grass and surrounding vegetation had been removed during routine maintenance.",
+  "cid": "bafybeicb6we6ydlrt5b2qoxn5nie7g67jwi3k6op6iue7re7z7n6pztzlu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1323,
+  "date": "2026-06-29",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Pre Vegetation Maintenance Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "vegetation_observation",
+  "observation": "Grass and ground vegetation were observed prior to routine grass cutting activities within HZ-02.",
+  "cid": "bafybeibyoxotzpvinocebv3f2xue52hvkijdp3drdik6mt3y4hqptgb2ry",
+  "license": "DGCP | MMFARM-POL-2025"
+}

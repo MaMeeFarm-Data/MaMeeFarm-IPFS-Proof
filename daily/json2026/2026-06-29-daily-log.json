@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-29",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proofs": [
+    {
+      "proof_id": 1320,
+      "time": "16:08",
+      "activity_type": "Fuel Preparation",
+      "zone": "HZ-02",
+      "asset_id": [
+        "EQP-GRC-0001"
+      ],
+      "observation": "Gasoline 95 and 2T engine oil prepared for refueling grass cutting equipment prior to routine vegetation maintenance activities."
+    },
+    {
+      "proof_id": 1321,
+      "time": "16:09",
+      "activity_type": "Fuel Mixing",
+      "zone": "HZ-02",
+      "asset_id": [
+        "EQP-GRC-0001"
+      ],
+      "observation": "Two-stroke fuel mixture prepared using approximately 500 cc of gasoline with one cap of 2T engine oil for grass cutting equipment operation."
+    },
+    {
+      "proof_id": 1322,
+      "time": "16:11",
+      "activity_type": "Equipment Refueling",
+      "zone": "HZ-02",
+      "asset_id": [
+        "EQP-GRC-0001"
+      ],
+      "observation": "Prepared fuel mixture transferred into the fuel tank of the grass cutting equipment before vegetation maintenance activities."
+    },
+    {
+      "proof_id": 1323,
+      "time": "16:11",
+      "activity_type": "Vegetation Observation",
+      "zone": "HZ-02",
+      "asset_id": [
+        "EQP-GRC-0001"
+      ],
+      "observation": "Grass condition within HZ-02 observed prior to cutting. Vegetation remained present before routine maintenance activities commenced."
+    },
+    {
+      "proof_id": 1324,
+      "time": "16:23",
+      "activity_type": "Post Maintenance Observation",
+      "zone": "HZ-02",
+      "asset_id": [
+        "EQP-GRC-0001"
+      ],
+      "observation": "Area observed following completion of grass cutting activities. Vegetation had been reduced, improving accessibility throughout the maintained operational area."
+    }
+  ],
+  "summary": {
+    "total_proofs": 5,
+    "proof_range": "1320-1324",
+    "primary_activities": [
+      "Fuel Preparation",
+      "Fuel Mixing",
+      "Equipment Refueling",
+      "Vegetation Observation",
+      "Post Maintenance Observation"
+    ],
+    "operational_status": "Normal"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

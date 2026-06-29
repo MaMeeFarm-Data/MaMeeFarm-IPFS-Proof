@@ -1,0 +1,14 @@
+{
+  "proof_id": 1320,
+  "date": "2026-06-29",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Fuel Preparation for Grass Cutting Equipment",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "fuel_preparation",
+  "observation": "Gasoline 95 and 2T engine oil were prepared and mixed for refueling grass cutting equipment before routine vegetation maintenance activities within HZ-02.",
+  "cid": "bafybeifzbpraifcuqljztstrgwhzwm2dxzrppwnfz2u762zfwdquc3ciw4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1321,
+  "date": "2026-06-29",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Fuel Mixture Preparation Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "EQP-GRC-0001",
+  "activity": "fuel_preparation",
+  "observation": "Approximately 500 cc of Gasoline 95 was mixed with one cap of 2T engine oil prior to refueling grass cutting equipment for vegetation maintenance activities.",
+  "cid": "bafybeickak2atwcmonu677kwmuwvtnphnjoqrvhukbcoruiz3qfotkiewq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "proof_id": 1326,
+  "date": "2026-06-30",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Balcony Environmental Condition Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "HZ-02-HTC-1",
+  "activity": "environmental_monitoring",
+  "observation": "HTC-1 environmental sensor recorded a balcony temperature of 26.5°C with relative humidity of 70% during routine monitoring.",
+  "cid": "bafybeiffemaae77lbhzx5atuxezgrjiutowq5g3zqxgluzitfowz4k2sne",
+  "license": "DGCP | MMFARM-POL-2025"
+}

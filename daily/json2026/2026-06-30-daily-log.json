@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-30",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proofs": [
+    {
+      "proof_id": 1325,
+      "time": "09:18",
+      "activity_type": "Power System Operation",
+      "zone": "HZ-02",
+      "asset_id": "INV-01",
+      "observation": "Hybrid solar inverter INV-01 observed operating normally after being powered on. Battery power conversion system remained active for farm electrical supply."
+    },
+    {
+      "proof_id": 1326,
+      "time": "09:19",
+      "activity_type": "Environmental Monitoring",
+      "zone": "HZ-02",
+      "asset_id": "HZ-02-HTC-0001",
+      "observation": "Balcony environmental sensor recorded a temperature of 26.5°C and relative humidity of 70%."
+    },
+    {
+      "proof_id": 1327,
+      "time": "09:21",
+      "activity_type": "Weather Observation",
+      "zone": "Farm Area",
+      "asset_id": "N/A",
+      "observation": "Cloudy sky observed surrounding the farm with extensive cloud cover visible across the surrounding landscape."
+    },
+    {
+      "proof_id": 1328,
+      "time": "09:21",
+      "activity_type": "Access Control",
+      "zone": "HZ-02",
+      "asset_id": "INF-GATE-0003",
+      "observation": "Farm gate INF-GATE-0003 opened, providing access between HZ-02 and agricultural zones FZ-03, FZ-04, and FZ-05."
+    },
+    {
+      "proof_id": 1329,
+      "time": "09:21",
+      "activity_type": "Environmental Monitoring",
+      "zone": "FZ-03",
+      "asset_id": "FZ-03-HTC-0002",
+      "observation": "Duck house environmental sensor recorded an indoor temperature of 27.4°C, outdoor temperature of 27.4°C, and relative humidity of 77%. No ducks were present during the observation."
+    }
+  ],
+  "daily_summary": {
+    "total_proofs": 5,
+    "proof_range": "1325-1329",
+    "primary_activities": [
+      "Power System Operation",
+      "Environmental Monitoring",
+      "Weather Observation",
+      "Access Control"
+    ],
+    "operational_status": "Normal"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}

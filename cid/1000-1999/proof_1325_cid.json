@@ -1,0 +1,14 @@
+{
+  "proof_id": 1325,
+  "date": "2026-06-30",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "INV-01 Startup Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "INV-01",
+  "activity": "power_system_operation",
+  "observation": "Inverter INV-01 was observed operating in battery priority mode during routine startup of the farm electrical system.",
+  "cid": "bafybeidsxst6jk4gzs7dgonhemxlqd3tr7u7oz5p3aurparcf5qsub6mua",
+  "license": "DGCP | MMFARM-POL-2025"
+}

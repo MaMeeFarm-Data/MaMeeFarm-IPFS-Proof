@@ -1,0 +1,13 @@
+{
+  "proof_id": 1327,
+  "date": "2026-06-30",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Farm Sky Condition Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "activity": "weather_observation",
+  "observation": "Dense cloud cover was observed over the farm during routine environmental monitoring.",
+  "cid": "bafybeidtsasxgpfg7gnqphjbfcvfalzu64d74vrm2qgsspxuggchwzj3oi",
+  "license": "DGCP | MMFARM-POL-2025"
+}

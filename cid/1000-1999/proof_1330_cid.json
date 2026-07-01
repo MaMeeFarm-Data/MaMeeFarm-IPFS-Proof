@@ -1,0 +1,14 @@
+{
+  "proof_id": 1330,
+  "date": "2026-07-01",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Hybrid Solar Inverter Operation Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "INV-01",
+  "activity": "power_system_operation",
+  "observation": "Hybrid solar inverter INV-01 was observed operating normally after being powered on. Battery priority mode remained active supporting routine farm electrical supply.",
+  "cid": "bafybeie442psyi3n27c5qcokom65srtuwajb4i7bg7rwd2w3fcacqoouc4",
+  "license": "DGCP | MMFARM-POL-2025"
+}

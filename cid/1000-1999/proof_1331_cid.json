@@ -1,0 +1,14 @@
+{
+  "proof_id": 1331,
+  "date": "2026-07-01",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Papaya Fruit Development Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "PLT-PAP-0002",
+  "activity": "crop_monitoring",
+  "observation": "Papaya plant PLT-PAP-0002 was observed bearing multiple developing fruits attached to the main stem during routine agricultural monitoring.",
+  "cid": "bafybeif5akl2rwuel6r5ukndnda64os4ysmvtixspapmnxknrsvysvflkq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

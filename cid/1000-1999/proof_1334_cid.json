@@ -1,0 +1,14 @@
+{
+  "proof_id": 1334,
+  "date": "2026-07-01",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Balcony Environmental Sensor Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "HZ-02-HTC-0001",
+  "activity": "environmental_monitoring",
+  "observation": "Balcony environmental sensor HZ-02-HTC-0001 recorded an air temperature of 26.0°C and relative humidity of 71% during routine environmental monitoring.",
+  "cid": "bafybeic2ma4sxy5fqgul7d7ct6nk3hy3a6hgmk6xeudzbdzdbsbdpi6b6e",
+  "license": "DGCP | MMFARM-POL-2025"
+}

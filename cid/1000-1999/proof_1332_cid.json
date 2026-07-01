@@ -1,0 +1,14 @@
+{
+  "proof_id": 1332,
+  "date": "2026-07-01",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Bee Colony Observation on Mango Tree",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "PLT-MNG-0001",
+  "activity": "wildlife_observation",
+  "observation": "An unidentified bee colony was observed attached to a branch of mango tree PLT-MNG-0001 during routine agricultural observation. Species identification was not performed.",
+  "cid": "bafybeibflhr4b2bvifm7a457sg6esslt2ouzf5oztlaua7qtx6xfsijpkq",
+  "license": "DGCP | MMFARM-POL-2025"
+}

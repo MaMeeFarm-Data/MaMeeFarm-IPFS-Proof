@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-01",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": {
+    "start": 1330,
+    "end": 1334
+  },
+  "total_proofs": 5,
+  "activities": [
+    {
+      "proof_id": 1330,
+      "time": "09:12",
+      "activity_type": "Power System Operation",
+      "zone": "HZ-02",
+      "asset_id": "INV-01",
+      "observation": "Hybrid solar inverter INV-01 observed operating normally after being powered on. Battery priority mode remained active for farm electrical supply."
+    },
+    {
+      "proof_id": 1331,
+      "time": "09:12",
+      "activity_type": "Plant Observation",
+      "zone": "HZ-02",
+      "asset_id": "PLT-PAP-0002",
+      "observation": "Papaya tree PLT-PAP-0002 observed bearing multiple developing fruits during routine agricultural inspection."
+    },
+    {
+      "proof_id": 1332,
+      "time": "09:13",
+      "activity_type": "Wildlife Observation",
+      "zone": "HZ-02",
+      "asset_id": "PLT-MNG-0001",
+      "observation": "An unidentified bee colony was observed attached to branches of mango tree PLT-MNG-0001 during routine field observation."
+    },
+    {
+      "proof_id": 1333,
+      "time": "09:13",
+      "activity_type": "Wildlife Observation",
+      "zone": "HZ-02",
+      "asset_id": "PLT-MNG-0001",
+      "observation": "An unidentified caterpillar was observed attached to the trunk of mango tree PLT-MNG-0001 during routine agricultural inspection. Species identification was not performed."
+    },
+    {
+      "proof_id": 1334,
+      "time": "09:15",
+      "activity_type": "Environmental Monitoring",
+      "zone": "HZ-02",
+      "asset_id": "HZ-02-HTC-0001",
+      "observation": "Balcony environmental sensor HZ-02-HTC-0001 recorded a temperature of 26.0°C and relative humidity of 71% during routine environmental monitoring."
+    }
+  ],
+  "primary_activities": [
+    "Power System Operation",
+    "Plant Observation",
+    "Wildlife Observation",
+    "Environmental Monitoring"
+  ],
+  "operational_status": "Normal",
+  "license": "DGCP | MMFARM-POL-2025"
+}

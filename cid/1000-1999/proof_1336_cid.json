@@ -1,0 +1,14 @@
+{
+  "proof_id": 1336,
+  "date": "2026-07-02",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Online Delivery Parcel Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-01",
+  "asset_id": "INF-GATE-0002",
+  "activity": "delivery_observation",
+  "observation": "Online delivery parcels were observed placed within a plastic basket near the HZ-01 access area following courier delivery. The parcels remained unopened at the time of observation.",
+  "cid": "bafybeihneoi4dfltvmkszvtu7grp6nbqbxehifpceat3t27p5t2pzxjnhu",
+  "license": "DGCP | MMFARM-POL-2025"
+}

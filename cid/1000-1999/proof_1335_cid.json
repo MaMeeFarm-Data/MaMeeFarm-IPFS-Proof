@@ -1,0 +1,14 @@
+{
+  "proof_id": 1335,
+  "date": "2026-07-02",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Farm Access Gate Opening Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "INF-GATE-0002",
+  "activity": "infrastructure_operation",
+  "observation": "Farm access gate INF-GATE-0002 was observed in the open position, providing access between HZ-02 and HZ-01 during routine operational activities.",
+  "cid": "bafybeididbwkvchh7n3fhuwfofwqlvzau3oriyoy5q5qjfi5u4wiq3mp3m",
+  "license": "DGCP | MMFARM-POL-2025"
+}

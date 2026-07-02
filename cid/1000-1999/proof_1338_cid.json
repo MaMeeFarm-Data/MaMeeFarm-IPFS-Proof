@@ -1,0 +1,14 @@
+{
+  "proof_id": 1338,
+  "date": "2026-07-02",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Pet Goat Milk Powder Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "SUP-PET-0001",
+  "activity": "product_observation",
+  "observation": "Pet goat milk powder was observed after opening the product package. The powder appeared dry and uniformly stored during routine supply inspection.",
+  "cid": "bafybeifbcpkwwjifnh4vpgajg5qbjvulgmgfxdcuabgyeo57mmxseakdry",
+  "license": "DGCP | MMFARM-POL-2025"
+}

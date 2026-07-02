@@ -1,0 +1,14 @@
+{
+  "proof_id": 1337,
+  "date": "2026-07-02",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Pet Goat Milk Product Delivery Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "SUP-PET-0001",
+  "activity": "delivery_observation",
+  "observation": "A delivered package containing pet goat milk nutritional supplement products was observed unopened following routine parcel receipt and inventory observation.",
+  "cid": "bafybeiflsnwqf72huto5jnvkpqhvrw3rst5p6u4softpyd6rffwifiqb3y",
+  "license": "DGCP | MMFARM-POL-2025"
+}

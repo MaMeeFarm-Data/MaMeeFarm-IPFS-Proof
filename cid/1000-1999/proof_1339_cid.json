@@ -1,0 +1,14 @@
+{
+  "proof_id": 1339,
+  "date": "2026-07-02",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "title": "Puppies Feeding on Goat Milk Observation",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "zone": "HZ-02",
+  "asset_id": "ANM-DOG-GROOP",
+  "activity": "animal_feeding",
+  "observation": "A group of puppies was observed feeding on prepared goat milk from a shared container during routine animal care activities.",
+  "cid": "bafybeifaiofawvvhbkp6fv2kd55rkrkk4ag6bg2md2mkxtye4snpvla6mm",
+  "license": "DGCP | MMFARM-POL-2025"
+}

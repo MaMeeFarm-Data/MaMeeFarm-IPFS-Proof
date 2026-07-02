@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-02",
+  "timezone": "Asia/Bangkok",
+  "project": "MaMeeFarm",
+  "framework": "DGCP",
+  "location": "MaMeeFarm (Primary DGCP Site)",
+  "proof_range": {
+    "start": 1335,
+    "end": 1339
+  },
+  "total_proofs": 5,
+  "activities": [
+    {
+      "proof_id": 1335,
+      "time": "10:11",
+      "activity_type": "Access Control Observation",
+      "zone": "HZ-02",
+      "asset_id": "INF-GATE-0002",
+      "observation": "Access gate INF-GATE-0002 observed opened, providing passage between HZ-02 and HZ-01 during routine operational activities."
+    },
+    {
+      "proof_id": 1336,
+      "time": "10:12",
+      "activity_type": "Parcel Delivery Observation",
+      "zone": "HZ-01",
+      "asset_id": "LOG-PCL-0001",
+      "observation": "Online order parcel observed delivered and placed within HZ-01 awaiting collection during routine logistics observation."
+    },
+    {
+      "proof_id": 1337,
+      "time": "10:15",
+      "activity_type": "Supply Observation",
+      "zone": "HZ-02",
+      "asset_id": "SUP-PET-0001",
+      "observation": "Delivered pet goat milk nutritional supplement products observed following routine parcel receipt and inventory documentation."
+    },
+    {
+      "proof_id": 1338,
+      "time": "10:18",
+      "activity_type": "Product Inspection",
+      "zone": "HZ-02",
+      "asset_id": "SUP-PET-0001",
+      "observation": "Pet goat milk powder observed after opening the package. Product appeared dry and uniformly stored during routine inspection."
+    },
+    {
+      "proof_id": 1339,
+      "time": "10:27",
+      "activity_type": "Animal Feeding",
+      "zone": "HZ-02",
+      "asset_id": "ANM-DOG-GROOP",
+      "observation": "Group of puppies observed feeding on prepared goat milk during routine animal care activities."
+    }
+  ],
+  "summary": {
+    "primary_activities": [
+      "Access Control Observation",
+      "Parcel Delivery Observation",
+      "Supply Observation",
+      "Product Inspection",
+      "Animal Feeding"
+    ],
+    "operational_status": "Normal"
+  },
+  "license": "DGCP | MMFARM-POL-2025"
+}
